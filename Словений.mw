@@ -1,14 +1,14 @@
 {{эл|
 OfNm1= Словений|
 OfNm2= Republika Slovenija|
-Flag=[[Image:Flag_of_Slovenia.svg|150px]]|
-CoA=[[Image:Coat of Arms of Slovenia.svg|110px]]|
-FlagLnk=[[Словенийын тистыже|Словенийын тистыже]]|
-CoALnk=[[Словенийын ойыпшо|Словенийын ойыпшо]]|
-MapName=[[Image:EU_location_SLO.png|251px]]|
-CtrNm=[[Любляна|Любляна]]|
-IndDate=[[25 пеледыш|25 пеледыш]], [[1991|1991]]|
-EUDate=[[1 ага|1 ага]], [[2004|2004]]|
+Flag=[[Файл:Flag_of_Slovenia.svg|150px]]|
+CoA=[[Файл:Coat of Arms of Slovenia.svg|110px]]|
+FlagLnk=[[Словенийын тистыже]]|
+CoALnk=[[Словенийын ойыпшо]]|
+MapName=[[Файл:EU_location_SLO.png|251px]]|
+CtrNm=[[Любляна]]|
+IndDate=[[25 пеледыш]], [[1991]]|
+EUDate=[[1 ага]], [[2004]]|
 
 AreaRnk=150-ше|
 TotArea=20 253|
@@ -18,39 +18,39 @@ WaterPrcnt=0,6|
 
 PopRnk=145-ше|
 PopQty=2 009 245|
-PopCtDate=[[2007|2007]]|
+PopCtDate=[[2007]]|
 PopDens=99|
-Government=[[парламент республик|парламент республик]]|
+Government=[[парламент республик]]|
 
 OfLangs=[[словен йылме|словен]]|
-HoSTtl=[[Президент|Президент]]|
-HoSNm=[[Данило Тӱрк|Данило Тӱрк]]|
+HoSTtl=[[Президент]]|
+HoSNm=[[Данило Тӱрк]]|
 
-HoGTtl=[[Премьер-министр|Премьер-министр]]|
-HoGNm=[[Янез Янша|Янез Янша]]|
+HoGTtl=[[Премьер-министр]]|
+HoGNm=[[Янез Янша]]|
 
 GDP=41,19 млрд. $|
 GDPRnk=80-ше|
-GDPDate=[[2007|2007]]|
+GDPDate=[[2007]]|
 GDPCit=27 300 $|
 GDPCRnk=30-шо|
 
 
-Currency=[[евро|евро]] (EUR)|
-Time=[[UTC|UTC]] +1|
-summerTime=[[UTC|UTC]] +2|
+Currency=[[евро]] (EUR)|
+Time=[[UTC]] +1|
+summerTime=[[UTC]] +2|
 Tele=+386|
-Domain=[[.si|.si]] (+[[.eu|.eu]])|
-Anthem=[[Zdravljica|Zdravljica]]|
+Domain=[[.si]] (+[[.eu]])|
+Anthem=[[Zdravljica]]|
 }}
 
-'''Словений''' ([[словен йылме|словенла]]: ''Slovenija'') — [[Европо|Европысо]] [[эл|эл]].
+'''Словений''' ([[словен йылме|словенла]]: ''Slovenija'') — [[Европо|Европысо]] [[эл]].
 
 {{Европо Ушем}}
 {{Европа}}
 
-[[Category:!Main category|Словений]]
-[[Category:Эл|Словений]]
+[[Категория:!Main category|Словений]]
+[[Категория:Эл|Словений]]
 
 [[af:Slowenië]]
 [[als:Slowenien]]
@@ -145,7 +145,7 @@ Anthem=[[Zdravljica|Zdravljica]]|
 [[mr:स्लोव्हेनिया]]
 [[ms:Slovenia]]
 [[mt:Slovenja]]
-[[nah:Esloventlān]]
+[[nah:Eslovenia - Esloventlān]]
 [[nds:Slowenien]]
 [[nds-nl:Sloveniën]]
 [[ne:स्लोभेनिया]]
@@ -189,6 +189,7 @@ Anthem=[[Zdravljica|Zdravljica]]|
 [[th:ประเทศสโลวีเนีย]]
 [[tl:Slovenia]]
 [[tr:Slovenya]]
+[[tt:Словения]]
 [[udm:Словения]]
 [[ug:Slowéniye]]
 [[uk:Словенія]]
