@@ -1,4 +1,11 @@
-{{январь}}
+{{MonthCalendar
+|date=01/01/{{CURRENTYEAR}}
+|float=right
+|color=#ccccff
+|color2=#ccccff
+|EndNote=<small>[[{{CURRENTYEAR}} ий]]</small>
+}}
+
 '''Шорыкйол''' ([[Шорыкйол пайрем|Шорыкйол пайремын]] тылзе) - ийын икымше [[тылзе (жап)|тылзыже]]. Тугак У ий тылзе, Кырлас тылзе. [[руш йылме|Рушла]] — январь.
 
 [[af:Januarie]]
