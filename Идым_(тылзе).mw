@@ -1,6 +1,12 @@
-[[Файл:September.jpg|thumb]]
-{{сентябрь}}
+{{MonthCalendar
+|date=09/01/{{CURRENTYEAR}}
+|float=right
+|color=#ccccff
+|color2=#ccccff
+|EndNote=<small>[[{{CURRENTYEAR}} ий]]</small>
+}}
 '''Идым'''
+[[Файл:September.jpg|thumb]]
 
 [[Category:тылзе]]
 
