@@ -1,4 +1,10 @@
-{{Апрель}}
+{{MonthCalendar
+|date=04/01/{{CURRENTYEAR}}
+|float=right
+|color=#ccccff
+|color2=#ccccff
+|EndNote=<small>[[{{CURRENTYEAR}} ий]]</small>
+}}
 '''Вӱдшор'''
 
 [[Category:тылзе]]
