@@ -1,4 +1,10 @@
-{{Март}}
+{{MonthCalendar
+|date=03/01/{{CURRENTYEAR}}
+|float=right
+|color=#ccccff
+|color2=#ccccff
+|EndNote=<small>[[{{CURRENTYEAR}} ий]]</small>
+}}
 '''Ӱярня'''
 
 [[Категория:тылзе]]
