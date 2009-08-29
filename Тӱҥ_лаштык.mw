@@ -6,6 +6,8 @@
 <small>Добро пожаловать в Википедию на марийском языке!<br>
 Welcome to [[:en:Mari language|Mari]] Wikipedia!</small></center><br/>
 
+{| style="border:3px;"
+|
 Йолташ, кумылет уло гын, тыят Марий Википедийым пояндарен кертат. У теме почеш материалым савыкташ але савыктыме материалым тӧрлаташ тылат йӧн пуалтеш.
 
 Марий Википедийым вияҥдаш марий йылмым палыше-влак кӱлыт, садлан лӱдде пашаш ушно: улшо текст-влакым тӧрлo, шкеат возо. Шуко возышо-влак дене Марий Википедий поянрак лиеш.
@@ -18,6 +20,17 @@ Welcome to [[:en:Mari language|Mari]] Wikipedia!</small></center><br/>
 
 <!-- Википедийште кузе мом ышташ [[Incubator:Sandbox|Модмо верыште]] тунем кертат. -->
 <br>
+
+|style="width:300px"|
+<div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 3ex;"><!--
+--><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">Арнясе пырля-ыштыме паша</h2><!--
+-->Тиде официальный огыл арнясе пырля-ыштыме паша ужаш.
+
+[[Марий Самырыктукым Икымше Погынымаш]] статьям тӧрлатымашке ушныза.
+</div><noinclude>
+|}
+
 
 {{индекс}}
 
