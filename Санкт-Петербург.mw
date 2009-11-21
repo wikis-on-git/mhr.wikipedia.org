@@ -7,10 +7,13 @@
 |CoALnk=
 
 |Anthem=
-|FSMapName=Red poq 
 
 |CtrNm=Санкт-Петербург
 |CreateDate=[[1703]]
+
+|lat_deg = 59|lat_min    = 57|lat_sec = 
+|lon_deg = 30|lon_min    = 19|lon_sec = 
+|CoordAddon              = type:city(4600000)_region:RU
 
 |AreaRnk=
 |TotArea= 150
