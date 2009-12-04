@@ -2,13 +2,13 @@
 == Кечышот ==
 {| class="wikitable" style="margin:0.5em auto; font-size:90%;"
 |-
-|bgcolor=#00cc33| ● ||Почмаш радам шот|| bgcolor=#3399ff| ● ||Квалификация соревнований || bgcolor=#ffcc00| ● ||Финалы соревнований||bgcolor=#ee3333| ● ||Петырымаш радам шот
+|bgcolor=#00cc33| ● ||Почмаш радам шот|| bgcolor=#3399ff| ● ||Таҥасымаш|| bgcolor=#ffcc00| ● ||Таҥасымашын мучашыже||bgcolor=#ee3333| ● ||Петырымаш радам шот
 |-
 {{end box}}
 {| class="wikitable" style="margin:0.5em auto; font-size:90%; line-height:1.25em;"
 |-
 ! Вӱдшор !!width=60|6!!width=60|7!!width=60|8!!width=60|9!!width=60|10!!width=60|11!!width=60|12!!width=60|13!!width=60|14
-!width=60|15!!width=60|Медали
+!width=60|15!!width=60|'''Шӧртньӧ медаль чот'''
 |-
 | Радам шот-влак || bgcolor=#00cc33 align=center|●|| || || || || || || || ||bgcolor=#ee3333 align=center|●||
 |- align="center"
@@ -129,7 +129,7 @@
 <!-- 15 -->|
 <!--  T -->| 3
 |- align="center"
-| align="left" | '''Медали'''
+| align="left" | '''Шӧртньӧ медаль чот'''
 <!-- 06 -->| bgcolor=#ffcc00 |5
 <!-- 07 -->| bgcolor=#ffcc00 |9
 <!-- 08 -->| bgcolor=#ffcc00 |1
