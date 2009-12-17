@@ -2,27 +2,44 @@
 <center>'''Поро кече! [[Марий йылме|Марий]] эрыкан Википедийыш пагален ӱжына.'''<br>
 <small>Добро пожаловать в Википедию на [[:ru:Марийский язык|марийском языке]]!<br>
 Welcome to [[:en:Mari language|Mari]] Wikipedia!</small></center><br/>
-
-{| style="border:3px;"
-|
-Йолташ, кумылет уло гын, тыят Марий Википедийым пояндарен кертат. У теме почеш материалым савыкташ але савыктыме материалым тӧрлаташ тылат йӧн пуалтеш.
+{|
+|-
+| rowspan=2 style="width:40%; vertical-align: top;"|
+<div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;"><!--
+-->Йолташ, кумылет уло гын, тыят Марий Википедийым пояндарен кертат. У теме почеш материалым савыкташ але савыктыме материалым тӧрлаташ тылат йӧн пуалтеш.
 
 Марий Википедийым вияҥдаш марий йылмым палыше-влак кӱлыт, садлан лӱдде пашаш ушно: улшо текст-влакым тӧрлo, шкеат возо. Шуко возышо-влак дене Марий Википедий поянрак лиеш.
 
 Клавиатуро раскладкышкыда марий буква-влакым ешарен огыдал гын,  те садыгак  тӧрлатымашым ыштен кертыда. Тидлан марий буква-влакым символ панель гыч ешарыман.  Тӧрлатымаш тӧрзан ӱлныжӧ тиде панель верланен.<br>Але тый Unicode-кодым кучылт кертат. Кодым &#x дене тӱҥал да умбаке возо:
 *  ҥ-йӱкпалылан: (изи) 04A5; (кугу) 04A4;
 *  ӧ-йӱкпалылан: (изи) 04E7;  (кугу) 04E6;
-*  ӱ-йӱкпалылан: (изи) 04F1; (кугу) 04F0;
+*  ӱ-йӱкпалылан: (изи) 04EF; (кугу) 04F0;
 *  ӓ-йӱкпалылан: (изи) 04D3; (кугу) 04D2;
-
-|style="width:300px"|
+*  ӹ-йӱкпалылан: (изи) 04F9; (кугу) 04F8;
+|style="width:60%"|
 <div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
-<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 3ex;"><!--
---><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">Арнясе пырля ыштыме паша</h2><!--
--->Тиде официал огыл арнясе пырля ыштыме паша ужаш.
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 0ex;"><!--
+--><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">А тый палет мо?</h2><!--
+-->[[Image:Chavain.gif|150px|right]]
+А тый палет, [[Чавайн, Сергей Григорьевич|Сергей Чавайн]] сылнымут произведенийлаштыже калык ойпогым кучылтын? Сергей Григорьевич шкеже теве кузе воза:
+<blockquote>
+«Кастене кӱнчылам шӱдыраш але тӱрым тӱрлаш мемнан деке ӱдыр-влак толыт ыле. Кидпашам ыштат, мурат, туштым туштат, йомакым колтат. Моло ӱдыр коклаште Плагий лӱман ик ӱдыр йомак колташ путырак мастар ыле… Мый Плагийын йомакшым пеш йӧратен колыштынам, южгунам пелйӱд марте мален омыл. Тыгеракын калыкын  мутшо сылне литературым йӧраташ туныктен».
+</blockquote>
 
-[[Олимпий модыш-влак]] нерген статьям тӧрлатымашке ушныза.
-</div><noinclude>
+[[Википедий:А тый палет мо/Ончыч лийше|ончыч лийше]]
+</div>
+|-
+|style="width:60%"|
+<div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;"><!--
+--><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">Арнясе пырля ыштыме паша</h2><!--
+-->Тиде арнясе пырля ыштыме паша ужаш.
+
+[[Олимпий модмаш-влак]] нерген статьям тӧрлатымашке ушныза.
+
+[[Википедий:Арнясе пырля ыштыме паша/Ончыч лийше|ончыч лийше]]
+</div>
 |}
 
 {{индекс}}
