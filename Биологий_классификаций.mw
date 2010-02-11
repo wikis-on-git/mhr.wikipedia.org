@@ -23,21 +23,21 @@
 | align="right" |Подцарство
 | align="right" |Subkingdom
 |-
-|[[Инпракугыжаныш|Инпракугыжаныш(Укш)]]
+|[[Инпракугыжаныш|Инпракугыжаныш (Укш)]]
 | align="right" |
 | align="right" |Infrakingdom(Branch)
 |-
-|[[Кӱшылфилум]]<sup>1</sup>/[[Кӱшылпӧлка]]<sup>2</sup>
-| align="right" |Надтип/Надотдел
-| align="right" |Superphylum/Superdivision
+|[[Кӱшылпӧлка]]<sup>1</sup>
+| align="right" |Надтип<sup>2</sup>/Надотдел<sup>3</sup>
+| align="right" |Superphylum<sup>2</sup>/Superdivision<sup>3</sup>
 |-
-|[[Филум]]<sup>1</sup>/[[Пӧлка (биологий)|Пӧлка]]<sup>2</sup>
-| align="right" |Тип/Отдел
-| align="right" |Phylum/Division
-| align="right" |Phylum/Divisio
+|[[Пӧлка]]<sup>1</sup>
+| align="right" |Тип<sup>2</sup>/Отдел<sup>3</sup>
+| align="right" |Phylum<sup>2</sup>/Division<sup>3</sup>
+| align="right" |Phylum<sup>2</sup>/Divisio<sup>3</sup>
 |-
-|[[Ӱлылфилум]]<sup>1</sup>/[[Ӱлылпӧлка]]<sup>2</sup>
-| align="right" |Подтип/Подотдел
+|[[Ӱлылпӧлка]]<sup>1</sup>
+| align="right" |Подтип<sup>2</sup>/Подотдел<sup>3</sup>
 | align="right" |Subphylum
 |-
 |[[Инпрафилум]]
@@ -81,20 +81,20 @@
 | align="right" |
 | align="right" |Magnorder
 |-
-|[[Кӱшылтӱча|Кӱшылтӱча]]<sup>1</sup>/[[Кӱшылрадамшот|Кӱшылрадамшот]]<sup>2</sup>
-| align="right" |Надотряд/Надпорядок
+|[[Кӱшылтӱча]]
+| align="right" |Надотряд<sup>2</sup>/Надпорядок<sup>3</sup>
 | align="right" |Superorder
 |-
-|[[Тӱча (биологий)|Тӱча]]<sup>1</sup>/[[Радамшот (биологий)|Радамшот]]<sup>2</sup>
-| align="right" |Отряд/Порядок
+|[[Тӱча (биологий)|Тӱча (Радамшот)]]<sup>1</sup>
+| align="right" |Отряд<sup>2</sup>/Порядок<sup>3</sup>
 | align="right" |Order
 | align="right" |Ordo
 |-
-|[[Ӱлылтӱча (биологий)|Ӱлылтӱча]]<sup>1</sup>/[[Ӱлылрадамшот|Ӱлылрадамшот]]<sup>2</sup>
-| align="right" |Подотряд/Подпорядок
+|[[Ӱлылтӱча (биологий)|Ӱлылтӱча]]
+| align="right" |Подотряд<sup>2</sup>/Подпорядок<sup>3</sup>
 | align="right" |Suborder
 |-
-|[[Инпратӱча|Инпратӱча]]
+|[[Инпратӱча]]
 | align="right" |Инфраотряд
 | align="right" |Infraorder
 |-
@@ -115,7 +115,7 @@
 | align="right" |Подсемейство
 | align="right" |Subfamily
 |-
-|[[Кӱшылйыжыҥ|Кӱшылйыжыҥ]]
+|[[Кӱшылйыжыҥ]]
 | align="right" |Надтриба
 | align="right" |
 |-
@@ -152,7 +152,8 @@
 | align="right" |Подсекция
 | align="right" |
 |-
-|[[Урлык да тӱрлык коклаште ранг|Радам]]
+<!-- Урлык да тӱрлык коклаште ранг -->
+|[[Радам (биологий)|Радам]]
 | align="right" |Ряд
 | align="right" |
 |-
@@ -174,7 +175,7 @@
 | align="right" |Infraspecies
 |-
 |[[Тӱрлылык (биологий)|Тӱрлылык]]
-| align="right" |Вариетет/Разновидность
+| align="right" |Вариетет<sup>2</sup>/Разновидность<sup>3</sup>
 | align="right" |
 |-
 |[[Ӱлылтӱрлылык|Ӱлылтӱрлылык]]
@@ -185,11 +186,11 @@
 | align="right" |Форма
 | align="right" |
 |-
-|[[Ӱлылтӱс (биологий)|Ӱлылтӱс]]
+|[[Ӱлылтӱс|Ӱлылтӱс]]
 | align="right" |Подформа
 | align="right" |
 |}
-;Умылымаш: <sup>1</sup> - зоологийыште<br/><sup>2</sup> - ботаникыште
+;Умылымаш: <sup>1</sup> - марий йылмыште ик {{comment|ыҥ|понятий}} гына кучалтеш<br/><sup>2</sup> - зоологийыште<br/><sup>3</sup> - ботаникыште
 
 ==Таксономий ранг-влак==
 {{Ямдылык:Таксономий_ранг-влак}}
