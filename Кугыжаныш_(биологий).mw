@@ -1,10 +1,86 @@
-'''Кугыжаныш''' — [[биологий классификаций]]ыште ик тӱҥ ранг. Ончыч тиде эн кӱшыл ранг ыле. Карл Линней кок кугыжанышым ойыртемен: ''янлыкым'' да ''кушкылым''. Кызыт кугыжаныш-влак шурырак улыт:
+'''Кугыжаныш''' — [[биологий классификаций]]ыште ик тӱҥ ранг. Ончыч тиде эн кӱшыл ранг ыле. [[Карл Линней]] кок кугыжанышым ойыртемен: ''янлыкым'' да ''кушкылым''. Кызыт биологий классификаций чучкыдын вашталтеш. Тӱрлӧ негызыште тӱрлӧ классификаций кучалтеш. Мутлан, 2007 ийыште Фабиен Бурки шкен пашам савыктен<ref>{{Аҥгл важ}} [http://dx.plos.org/10.1371/journal.pone.0000790 PLoS ONE журнал, 2 Том, 8 номер, 790 лаштык-влак, 2007 ий. Phylogenomics reshuffles the eukaryotic supergroups. Burki F, Shalchian-Tabrizi K, Minge M, ''да весе-влак'']</ref>, кушто тудо 4 тӱҥ эукариот тӱрлык-влакым ойыртема:
+# {{lang-la|Plantae}} (Ужарге да йошкар {{comment|вӱдпорсын-влак|водоросли}} да кушкыл-влак)
+# {{lang-la|Unikonta}} (амеба-влак, понго-влак да янлык-влак)
+# {{lang-la|Excavata}} (эрыкан-илыше да паразитик протист-влак)
+# {{lang-la|SAR}} ({{lang-la|Stramenopiles}}, {{lang-la|Alveolates}}, {{lang-la|Rhizaria}} гычын - тиде кудо-иктиже тудын член-влак )
+
+Тиде ныл таксон-влаклан эше кок таксон-влакым ешараш кӱлеш:
+: Бактерий-влак
+: Архей-влак
+
+Пытартыш филогенетик шымлымаш-влак тиде классификацийым эше вашталташ кертыт, 18 гыч 30 марте кугыжаныше-влакым ыштен.
+
+Кызыт кугыжаныш-влак шурырак улыт:
 * [[Янлык]]
 * [[Кушкыл]]
 * [[Понго]]
 * [[Бактерий|Бактерий-влак]]
 * [[Протист|Протист-влак]]
 * [[Вирус|Вирус-влак]]
+
+==Чыла кугыжаныш-влак==
+{| style="margin-left: 0.5em;"
+! [[Карл Линней]]<br/>1735<br/>2 кугыжаныш-влак
+! [[Эрнст Хаекел|Хаекел]]<br/>1866<br/>3 кугыжаныш-влак
+! [[Эдуард Чатон|Чатон]]<br/>1925<br/>2 империй-влак
+! [[Херберт Копеланд|Копеланд]]<br/>1938<br/>4 кугыжаныш-влак
+! [[Роберт Витакер|Whittaker]]<br/>1969<br/>5 кугыжаныш-влак
+! [[Карл Войс|Войс]] да весе<br/>1977<br/>6 кугыжаныш-влак
+! Войс да весе.<br/>1990<br/>3 домен-влак
+|-
+| rowspan = "3" | ''(кучалтын огыл)''
+| bgcolor="khaki" rowspan="3" | Протист-влак (Protista)
+| bgcolor="lightgrey" rowspan="2" | Прокариота (Prokaryota)
+| bgcolor="lightgrey" rowspan="2" | Монера (Monera)
+| bgcolor="lightgrey" rowspan="2" | Монера (Monera)
+| bgcolor="lightgrey" | Бактерий (Eubacteria)
+| bgcolor="lightgrey" | Бактерий (Bacteria)
+|-
+<!-- not treated -->
+<!-- Protista -->
+<!-- Prokayota -->
+<!-- Monera -->
+<!-- Monera -->
+| bgcolor="darkgray" | Архей (Archaebacteria)
+| bgcolor="darkgray" | Архей (Archaea)
+|-
+<!-- not treated -->
+<!-- Protista -->
+| bgcolor="#e0d0b0" rowspan="4" | Эукариот (Eukaryota)
+| bgcolor="khaki" rowspan = "2" | Протист (Protista)
+| bgcolor="khaki" | Протист (Protista)
+| bgcolor="khaki" | Протист (Protista)
+| bgcolor="#e0d0b0" rowspan="4" | Эукариот (Eukarya)
+|-
+| bgcolor="lightgreen" rowspan="2" | [[Кушкыл]] (Vegetabilia)
+| bgcolor="lightgreen" rowspan="2" | [[Кушкыл]] (Plantae)
+<!-- Eukaryota -->
+<!-- Protoctista -->
+| bgcolor="lightblue" | [[Понго]] (Fungi)
+| bgcolor="lightblue" | [[Понго]] (Fungi)
+<!-- Eukarya -->
+|-
+<!-- Vegetabilia -->
+<!-- Plantae -->
+<!-- Eukaryota -->
+| bgcolor="lightgreen" | [[Кушкыл]] (Plantae)
+| bgcolor="lightgreen" | [[Кушкыл]] (Plantae)
+| bgcolor="lightgreen" | [[Кушкыл]] (Plantae)
+<!-- Eukarya -->
+|-
+| bgcolor="pink" | [[Янлык]] (Animalia)
+| bgcolor="pink" | [[Янлык]] (Animalia)
+<!-- Eukaryota -->
+| bgcolor="pink" | [[Янлык]] (Animalia)
+| bgcolor="pink" | [[Янлык]] (Animalia)
+| bgcolor="pink" | [[Янлык]] (Animalia)
+<!-- Eukarya -->
+|}
+
+==Важ-влак==
+<references />
+
+{{Таксономий ранг-влак}}
 
 [[Категорий:Биологий]]
 
