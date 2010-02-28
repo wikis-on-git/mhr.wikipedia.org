@@ -22,6 +22,25 @@
 |ПытИй        = 2010
 }}
 '''Алматы‘се [[метрополитен]]''' ({{lang-kk|Алматы метрополитены}}, {{lang-ru|Алматинский метрополитен}}).
+=== Линии ===
+{| class="prettytable"
+|-
+! style="text-align:center; width:3em;" | #
+! style="text-align:left; width:18em;" | Названиу
+! style="text-align:right; width:5em;" | Дата открытия
+! style="text-align:right; width:5em;" | Станции
+! style="text-align:right; width:12em;" | Км
+|-
+|style="background:red; color:white; text-align:center;" | 1
+|style="text-align:left;" | Лииния 1
+|style="text-align:right;" | 2010
+|style="text-align:right;" | 7
+|style="text-align:right;" | 8,56
+|-
+|style="text-align:left;" colspan="3" | '''Всего:'''
+|style="text-align:right;" | '''7'''
+|style="text-align:right;" | '''8,56'''
+|}
 
 [[Категорий:Метрополитен]]
 
