@@ -24,7 +24,7 @@ void diagonalize_sym(array<double,2>^ A, int n)
 				if (Math::Abs(aij)>1e-100)
 				{ 
 					discr = Math::Sqrt((aii-ajj)*(aii-ajj)+4*aij*aij); 
-					/* Шкензначенийжым шотлаш. */
+					/* Шкезначенийжым шотлаш. */
 					if (aii+ajj>0)
 					{ 
 						A[i,i] = (aii+ajj+discr)/2;
