@@ -1,0 +1,73 @@
+'''Матрице''' — прямоугольник семын шогышо <math>a_{ij}</math> тӱҥлык-влакын радамлыкше. Мутлан, ӱлнӧ матрице возымо:
+
+::<math>
+\begin{bmatrix}
+1 & 9 & 13 \\
+20 & 55 & 4
+\end{bmatrix}
+</math>
+
+Матрице-влак дене алгеброический операций-влакым ышташ лиеш. Иктӱрлӧ кугытан матрице-влакым {{comment|ушнаш|складывать}} да {{comment|кудалташ|вычитать}} лиеш. Йӧршышӧ кугытан матрице-влакым {{comment|шукемдаш|умножать}} лиеш.
+
+[[Категорий:Математике]]
+
+{{Link FA|pl}}
+{{Link FA|ur}}
+{{Link GA|en}}
+
+[[ar:مصفوفة]]
+[[az:Matris]]
+[[bg:Матрица (математика)]]
+[[bn:মেট্রিক্স]]
+[[bs:Matrica (matematika)]]
+[[ca:Matriu (matemàtiques)]]
+[[cs:Matice]]
+[[da:Matrix]]
+[[de:Matrix (Mathematik)]]
+[[el:Πίνακας (μαθηματικά)]]
+[[en:Matrix (mathematics)]]
+[[eo:Matrico]]
+[[es:Matriz (matemática)]]
+[[et:Maatriks]]
+[[eu:Matrize]]
+[[fa:ماتریس (ریاضی)]]
+[[fi:Matriisi]]
+[[fr:Matrice (mathématiques)]]
+[[gl:Matriz (matemáticas)]]
+[[he:מטריצה]]
+[[hi:व्यूह]]
+[[hr:Matrica (matematika)]]
+[[hu:Mátrix (matematika)]]
+[[id:Matriks (matematika)]]
+[[is:Fylki (stærðfræði)]]
+[[it:Matrice]]
+[[ja:行列]]
+[[ko:행렬]]
+[[lo:ມາຕຣິກ]]
+[[lt:Matrica (matematika)]]
+[[lv:Matrica]]
+[[mk:Матрица]]
+[[ml:മാട്രിക്സ്]]
+[[ms:Matriks (matematik)]]
+[[nl:Matrix (wiskunde)]]
+[[nn:Matrise]]
+[[no:Matrise]]
+[[pl:Macierz]]
+[[pnb:ماٹرکس (ریاضیات)]]
+[[pt:Matriz (matemática)]]
+[[ro:Matrice (matematică)]]
+[[ru:Матрица (математика)]]
+[[scn:Matrici (matimàtica)]]
+[[simple:Matrix (mathematics)]]
+[[sk:Matica (matematika)]]
+[[sl:Matrika]]
+[[sq:Matrica]]
+[[sr:Матрица (математика)]]
+[[sv:Matris]]
+[[ta:அணி]]
+[[th:เมทริกซ์ (คณิตศาสตร์)]]
+[[tr:Matris (matematik)]]
+[[uk:Матриця (математика)]]
+[[ur:میٹرکس]]
+[[vi:Ma trận (toán học)]]
+[[zh:矩阵]]
