@@ -1,0 +1,184 @@
+<div class="NavFrame noprint {{#if:{{{скрыть|}}}|collapsed}}" style="clear:both; margin-top:0em;">
+<div class="NavHead" style="background:#FFDEAD;font-weight:normal"><span style="font-weight:bold">[[Менделеев Дмитрий Иванович|Д. И. Менделеевын]] [[Химий тӱҥлык|химий тӱҥлык-влакын]] [[Химик тӱҥлык-влакын периодик радамлыкше|периодик радамлыкше]] </span></div>
+<div class="NavContent" style="font-size:95%;">
+{| border="0" cellpadding="0" cellspacing="1" style="background: transparent; table-layout: fixed; text-align: center; margin:0 auto;" width="500"
+ |-
+ | style="background: #a0ffa0; width: 5.5%;" | <small>[[вӱдеж|H]]</small>
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="width: 5.5%;" |
+ | style="background: #c0ffff; width: 5.5%;" | <small>[[гелий|He]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[литий|Li]]</small>
+ | style="background: #ffdead;" | <small>[[бериллий|Be]]</small>
+ | colspan="10" |
+ | style="background: #cccc99;" | <small>[[бор (тӱҥлык)|B]]</small>
+ | style="background: #a0ffa0;" | <small>[[шӱйдӱҥ|C]]</small>
+ | style="background: #a0ffa0;" | <small>[[азот|N]]</small>
+ | style="background: #a0ffa0;" | <small>[[шопештыш|O]]</small>
+ | style="background: #ffff99;" | <small>[[фтор|F]]</small>
+ | style="background: #c0ffff;" | <small>[[неон|Ne]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[натрий|Na]]</small>
+ | style="background: #ffdead;" | <small>[[магний|Mg]]</small>
+ | colspan="10" |
+ | style="background: #cccccc;" | <small>[[Алюминий|Al]]</small>
+ | style="background: #cccc99;" | <small>[[Кремний|Si]]</small>
+ | style="background: #a0ffa0;" | <small>[[Фосфор|P]]</small>
+ | style="background: #a0ffa0;" | <small>[[Чӱкчӱгиш|S]]</small>
+ | style="background: #ffff99;" | <small>[[хлор|Cl]]</small>
+ | style="background: #c0ffff;" | <small>[[аргон|Ar]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[калий|K]]</small>
+ | style="background: #ffdead;" | <small>[[кальций|Ca]]</small>
+ | style="background: #ffc0c0;" | <small>[[скандий|Sc]]</small>
+ | style="background: #ffc0c0;" | <small>[[титан (тӱҥлык)|Ti]]</small>
+ | style="background: #ffc0c0;" | <small>[[ванадий|V]]</small>
+ | style="background: #ffc0c0;" | <small>[[хром|Cr]]</small>
+ | style="background: #ffc0c0;" | <small>[[марганец|Mn]]</small>
+ | style="background: #ffc0c0;" | <small>[[кӱртньӧ|Fe]]</small>
+ | style="background: #ffc0c0;" | <small>[[кобальт|Co]]</small>
+ | style="background: #ffc0c0;" | <small>[[никель|Ni]]</small>
+ | style="background: #ffc0c0;" | <small>[[вӱргене|Cu]]</small>
+ | style="background: #ffc0c0;" | <small>[[цинк|Zn]]</small>
+ | style="background: #cccccc;" | <small>[[галлий|Ga]]</small>
+ | style="background: #cccc99;" | <small>[[германий|Ge]]</small>
+ | style="background: #cccc99;" | <small>[[наргӱмыж|As]]</small>
+ | style="background: #a0ffa0;" | <small>[[селен|Se]]</small>
+ | style="background: #ffff99;" | <small>[[бром|Br]]</small>
+ | style="background: #c0ffff;" | <small>[[криптон|Kr]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[рубидий|Rb]]</small>
+ | style="background: #ffdead;" | <small>[[стронций|Sr]]</small>
+ | style="background: #ffc0c0;" | <small>[[иттрий|Y]]</small>
+ | style="background: #ffc0c0;" | <small>[[цирконий|Zr]]</small>
+ | style="background: #ffc0c0;" | <small>[[ниобий|Nb]]</small>
+ | style="background: #ffc0c0;" | <small>[[молибден|Mo]]</small>
+ | style="background: #ffc0c0;" | <small>[[технеций|Tc]]</small>
+ | style="background: #ffc0c0;" | <small>[[рутений|Ru]]</small>
+ | style="background: #ffc0c0;" | <small>[[родий|Rh]]</small>
+ | style="background: #ffc0c0;" | <small>[[палладий|Pd]]</small>
+ | style="background: #ffc0c0;" | <small>[[ший|Ag]]</small>
+ | style="background: #ffc0c0;" | <small>[[кадмий|Cd]]</small>
+ | style="background: #cccccc;" | <small>[[индий|In]]</small>
+ | style="background: #cccccc;" | <small>[[вулно|Sn]]</small>
+ | style="background: #cccc99;" | <small>[[сурма|Sb]]</small>
+ | style="background: #cccc99;" | <small>[[теллур|Te]]</small>
+ | style="background: #ffff99;" | <small>[[Иод|I]]</small>
+ | style="background: #c0ffff;" | <small>[[ксенон|Xe]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[цезий|Cs]]</small>
+ | style="background: #ffdead;" | <small>[[барий|Ba]]</small>
+ | <small>[[Лантаноиды|*]]</small>
+ | style="background: #ffc0c0;" | <small>[[гафний|Hf]]</small>
+ | style="background: #ffc0c0;" | <small>[[тантал (элемент)|Ta]]</small>
+ | style="background: #ffc0c0;" | <small>[[вольфрам|W]]</small>
+ | style="background: #ffc0c0;" | <small>[[рений|Re]]</small>
+ | style="background: #ffc0c0;" | <small>[[осмий|Os]]</small>
+ | style="background: #ffc0c0;" | <small>[[иридий|Ir]]</small>
+ | style="background: #ffc0c0;" | <small>[[платина|Pt]]</small>
+ | style="background: #ffc0c0;" | <small>[[шӧртньӧ|Au]]</small>
+ | style="background: #ffc0c0;" | <small>[[майдар|Hg]]</small>
+ | style="background: #cccccc;" | <small>[[таллий|Tl]]</small>
+ | style="background: #cccccc;" | <small>[[вӱдвулно|Pb]]</small>
+ | style="background: #cccccc;" | <small>[[висмут|Bi]]</small>
+ | style="background: #cccc99;" | <small>[[полоний|Po]]</small>
+ | style="background: #ffff99;" | <small>[[астат|At]]</small>
+ | style="background: #c0ffff;" | <small>[[радон|Rn]]</small>
+ |- 
+ | style="background: #ff6666;" | <small>[[франций|Fr]]</small>
+ | style="background: #ffdead;" | <small>[[радий|Ra]]</small>
+ | <small>[[Актиноиды|**]]</small>
+ | style="background: #ffc0c0;" | <small>[[резерфордий|Rf]]</small>
+ | style="background: #ffc0c0;" | <small>[[дубний|Db]]</small>
+ | style="background: #ffc0c0;" | <small>[[сиборгий|Sg]]</small>
+ | style="background: #ffc0c0;" | <small>[[борий|Bh]]</small>
+ | style="background: #ffc0c0;" | <small>[[хассий|Hs]]</small>
+ | style="background: #ffc0c0;" | <small>[[мейтнерий|Mt]]</small>
+ | style="background: #ffc0c0;" | <small>[[Дармштадтий|Ds]]</small>
+ | style="background: #ffc0c0;" | <small>[[Рентгений|Rg]]</small>
+ | style="background: #ffc0c0;" | <small>[[Унунбий|Uub]]</small>
+ | style="background: #cccccc;" | <small>[[Унунтрий|Uut]]</small>
+ | style="background: #cccccc;" | <small>[[Унунквадий|Uuq]]</small>
+ | style="background: #cccccc;" | <small>[[Унунпентий|Uup]]</small>
+ | style="background: #cccccc;" | <small>[[Унунгексий|Uuh]]</small>
+ | style="background: #ffffcc;" | <small>[[Унунсептий|Uus]]</small>
+ | style="background: #d6ffff;" | <small>[[Унуноктий|Uuo]]</small>
+ |- 
+ | style="background: #ffb2b2;" | <small>[[унуненний|Uue]]</small>
+ | style="background: #ffeed6;" | <small>[[унбинилий|Ubn]]</small>
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | colspan="6" |
+ |-
+ | colspan="18" style="height: 0.5em" |
+ |- 
+ | rowspan="2" |
+ | '''<small>[[Лантаноиды|*]]</small>'''
+ | style="background: #ffbfff;" | <small>[[лантан|La]]</small>
+ | style="background: #ffbfff;" | <small>[[церий|Ce]]</small>
+ | style="background: #ffbfff;" | <small>[[празеодим|Pr]]</small>
+ | style="background: #ffbfff;" | <small>[[неодим|Nd]]</small>
+ | style="background: #ffbfff;" | <small>[[прометий|Pm]]</small>
+ | style="background: #ffbfff;" | <small>[[самарий|Sm]]</small>
+ | style="background: #ffbfff;" | <small>[[европий|Eu]]</small>
+ | style="background: #ffbfff;" | <small>[[гадолиний|Gd]]</small>
+ | style="background: #ffbfff;" | <small>[[тербий|Tb]]</small>
+ | style="background: #ffbfff;" | <small>[[диспрозий|Dy]]</small>
+ | style="background: #ffbfff;" | <small>[[гольмий|Ho]]</small>
+ | style="background: #ffbfff;" | <small>[[эрбий|Er]]</small>
+ | style="background: #ffbfff;" | <small>[[тулий|Tm]]</small>
+ | style="background: #ffbfff;" | <small>[[иттербий|Yb]]</small>
+ | style="background: #ffbfff;" | <small>[[лютеций|Lu]]</small>
+ | rowspan="2" |
+ |- 
+ | '''<small>[[Актиноиды|**]]</small>'''
+ | style="background: #ef99cc;" | <small>[[актиний|Ac]]</small>
+ | style="background: #ef99cc;" | <small>[[торий|Th]]</small>
+ | style="background: #ef99cc;" | <small>[[протактиний|Pa]]</small>
+ | style="background: #ef99cc;" | <small>[[уран (тӱҥлык)|U]]</small>
+ | style="background: #ef99cc;" | <small>[[нептуний|Np]]</small>
+ | style="background: #ef99cc;" | <small>[[плутоний|Pu]]</small>
+ | style="background: #ef99cc;" | <small>[[америций|Am]]</small>
+ | style="background: #ef99cc;" | <small>[[кюрий|Cm]]</small>
+ | style="background: #ef99cc;" | <small>[[берклий|Bk]]</small>
+ | style="background: #ef99cc;" | <small>[[калифорний|Cf]]</small>
+ | style="background: #ef99cc;" | <small>[[эйнштейний|Es]]</small>
+ | style="background: #ef99cc;" | <small>[[фермий|Fm]]</small>
+ | style="background: #ef99cc;" | <small>[[менделевий|Md]]</small>
+ | style="background: #ef99cc;" | <small>[[нобелий|No]]</small>
+ | style="background: #ef99cc;" | <small>[[лоуренсий|Lr]]</small>
+ |}</div>
+<div class="NavEnd">&nbsp;</div>
+</div><noinclude>
+[[Категорий:Навигаций ямдылык:Химий|{{PAGENAME}}]]
+[[os:Шаблон:Элементты периодон системæ]]
+[[uz:Andoza:Davriy jadval]]
+</noinclude>
