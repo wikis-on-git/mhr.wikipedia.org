@@ -1,0 +1,151 @@
+{| class="simple" border="1" style="{{float right}} width: 300px; "
+!colspan="2" align="center" style="background-color:{{Йылме/familycolor|{{{тӱс|}}}}};"| {{{лӱм|}}} 
+|-
+{{#if: {{{шке лӱм|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
+    | attributes2=style="background-color:white"|
+    | data1 = Шке лӱм: 
+    | data2 = {{{шке лӱм}}} }} }} 
+|-
+{{#if: {{{оҥарымаш|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
+    | attributes2=style="background-color:white"|
+    | data1 = [[Тӱнямбал йӱк радам|Оҥарымаш]]: 
+    | data2 = {{{оҥарымаш}}} }} }} 
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9;"|Эл-влак:
+|style="background-color:white;"|{{{эл-влак|—}}}
+|-
+{{#if: {{{вел-влак|}}}
+ | {{2 cell table row
+    | row attributes=border=1 
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Вел-влак: 
+    | data2 = {{{вел-влак}}} }} }} 
+|-
+{{#if: {{{официал йылме|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Официал статус: 
+    | data2 = {{{официал йылме}}} }} }} 
+|-
+{{#if: {{{Ончышо организаций|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Ончышо организаций: 
+    | data2 = {{{ончышо организаций}}} }} }} 
+|-
+{{#if: {{{число носителей|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Марла моштышо: 
+    | data2 = {{{мыняр еҥ тиде йылме ойлат}}} }} }} 
+|-
+{{#if: {{{рейтинг|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Йылме лӱмер, мынярлык шотышто йылмын верже |Рейтинг]]: 
+    | data2 = {{{рейтинг}}} }} }} 
+|-
+{{#if: {{{статус|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Степени сохранности языков|Статус]]: 
+    | data2 = {{{статус}}} }} }} 
+|-
+{{#if: {{{вымер|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Колышо йылме|Колен]]: 
+    | data2 = {{{колен}}} }} }} 
+|-
+!colspan="2" style="background-color:{{Язык/familycolor|{{{цвет|}}}}}"|[[Йылме тукымвож классификаций|Классификаций]]
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[Тӱнямбалсе йылме-влак|Категорий]]:
+|style="background-color:white"|{{{категорий|???}}}
+|-
+|colspan="2" style="background-color:white"|{{{классификаций|—}}}
+|-
+{{#if: {{{тиште|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Возыктыш|Возыктыш]]: 
+    | data2 = {{{тиште}}} }} }}
+|-
+!colspan="2" style="background-color:{{Язык/familycolor|{{{цвет|}}}}};"|[[Йылме код-влак|Йылме код-влак]]
+|-
+{{#if: {{{ГОСТ 7.75–97|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[ГОСТ 7.75–97]]: 
+    | data2 = {{{ ГОСТ 7.75–97}}} }} }} 
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-1]]:
+|style="background-color:white"|{{{ISO1|—}}}
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-2]]:
+|style="background-color:white"|{{{ISO2|—}}}
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-3]]:
+|style="background-color:white"|{{{ISO3|—}}}
+|-
+|colspan="2" align="center" style="background-color:{{Йылме/familycolor|{{{тӱс|}}}}};"|''См. также: [[Википедия:Проект:Лингвистика|Проект:Лингвистика]]'' 
+|}<noinclude>
+{{doc}}
+
+[[Категорий:Wikipedia:Ямдылык:Йылмышанче|{{PAGENAME}}]]
+
+[[ca:Template:Llengua]]
+[[cs:Šablona:Infobox jazyk]]
+[[cy:Nodyn:Gwybodlen Iaith]]
+[[de:Vorlage:Infobox Sprache]]
+[[dsb:Pśedłoga:Rěc]]
+[[en:Template:Infobox Language]]
+[[eo:Ŝablono:Informkesto lingvo]]
+[[es:Plantilla:Idioma]]
+[[eu:Txantiloi:Hizkuntza infotaula]]
+[[fi:Malline:Kieli]]
+[[fr:Modèle:Langue]]
+[[fy:Berjocht:Taaltabel]]
+[[hsb:Předłoha:Rěč]]
+[[hu:Sablon:Nyelv]]
+[[ilo:Template:Pagsasao]]
+[[io:Template:Linguo]]
+[[it:Template:lingua]]
+[[ja:Template:言語]]
+[[ko:Template:언어]]
+[[la:Formula:Lingua]]
+[[li:Sjabloon:Taal]]
+[[mk:Шаблон:Јазик]]
+[[os:Шаблон:Æвзаг]]
+[[pl:Szablon:Język]]
+[[pt:Predefinição:Língua]]
+[[sl:Template:Language]]
+[[sv:Mall:språk]]
+[[th:Template:กล่องข้อมูล ภาษา]]
+[[tr:Şablon:Dil]]
+[[tt:Template:Tel]]
+[[vi:Tiêu bản:Tóm tắt về ngôn ngữ]]
+[[zh:Template:Infobox Language]]
+</noinclude>
