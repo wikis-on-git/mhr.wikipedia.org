@@ -1,0 +1,143 @@
+{| border=1 align=right cellpadding=2 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+
+<font size="+1">
+{{#if:{{{OfNm1|}}}|'''{{{OfNm1}}}'''<br><br><!--Лӱмжӧ вес кугыжаныш йылмыште + <br>-->|}}
+{{#if:{{{OfNm2|}}}|'''{{{OfNm2}}}'''<!--Лӱмжӧ кумшо кугыжаныш йылмыште + <br>-->|}}
+</font>
+|-
+| align=center colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0" style="background: #f9f9f9; margin: 0.2em 0.2em 0.1em 0.1em;"
+|-
+| align="center" width=175 | {{#if:{{{Flag|}}}|'''{{Контур|{{{Flag}}}}}'''}}<!--Тисте, 150 px-->
+| align="center" width=175 | {{#if:{{{CoA|}}}|'''{{{CoA}}}'''}}<!--Ойып, 150px-->
+|-
+| align="center" width=175 | {{#if:{{{FlagLnk|}}}|{{{FlagLnk}}}|}}
+| align="center" width=175 | {{#if:{{{CoALnk|}}}|{{{CoALnk}}}|}}
+|}
+|-
+| align=center colspan=2 style="border-bottom: 1px #aaa solid; border-top: 1px #aaa solid;" | {{#if:{{{MapName|}}}|'''{{{MapName}}}'''}} <!-- Карта -->
+|- 
+| align=center colspan=2 style="border-bottom: 1px #aaa solid; border-top: 1px #aaa solid;" | 
+{{#if:{{{Motto|}}}|'''[[Калыкле девиз]]''': ''{{{Motto}}}''<br/>}}<!--National motto-->
+{{#if:{{{Anthem|}}}|'''[[Чапмуро]]''': ''{{{Anthem}}}''}}<!--National anthem-->
+|- 
+
+{{#if:{{{IndDate|}}}|
+{{!}} '''[[Эрыкан лиймаш]]'''
+{{!}} {{{IndDate}}}<!-- Independence date -->
+{{!}}-
+|}}
+|-
+
+{{#if:{{{CreateDate|}}}|
+{{!}} '''[[Негызлыме]]'''
+{{!}} {{{CreateDate}}}<!-- Creation date -->
+{{!}}-
+|}}
+|-
+
+{{#if:{{{DisbandDate|}}}|
+{{!}} '''[[Шаланен]]'''
+{{!}} {{{CreateDate}}}<!-- Disbanding date -->
+{{!}}-
+|}}
+|-
+{{#if:{{{EUDate|}}}|
+{{!}} '''[[Европо Ушем]]'''
+{{!}} {{{EUDate}}}<!-- EU ascension -->
+{{!}}-
+|}}
+|-
+{{#if:{{{OfLangs|}}}|
+{{!}} '''[[Кугыжаныш йылме]]''' {{#if:{{{RegLangs|}}}| <br/>[[Регион йылме]]|}}
+{{!}} {{{OfLangs}}} {{#if:{{{RegLangs|}}}| <br/> {{{RegLangs}}}|}}  <!--Languages-->
+{{!}}-
+|}}
+|-
+{{#if:{{{CtrNm|}}}|
+{{!}} '''[[Рӱдола]]'''
+{{!}} {{{CtrNm}}}<!-- Capital -->
+{{!}}-
+|}}
+|-
+{{#if:{{{BigCity|}}}|
+{{!}} '''[[ола|Эн кугу ола]]'''
+{{!}} {{{BigCity}}}<!-- Biggest City -->
+{{!}}-
+|}}
+|-
+{{#if:{{{Government|}}}|
+{{!}} '''[[Виктем йӧн]]'''
+{{!}} {{{Government}}}<!--Type of Government-->
+{{!}}-
+|}}
+|-
+{{#if:{{{HoSTtl|}}}|
+{{!}} '''{{{HoSTtl}}}'''<!--Head of State - tite-->
+{{!}} {{{HoSNm}}}<!--Head of State - name-->
+{{!}}-
+|}}
+|-
+{{#if:{{{HoGTtl|}}}|
+{{!}}'''{{{HoGTtl}}}'''<!--Head of Government - tite-->
+{{!}} {{{HoGNm}}}<!--Head of Government - name-->
+{{!}}-
+|}}
+|-
+{{#if:{{{Religion|}}}|
+{{!}}'''[[кугыжаныш тын]]'''<!--Head of Government - tite-->
+{{!}} {{{Religion}}}<!--Кугыжаныш тын-->
+{{!}}-
+|}}
+|-
+
+
+{{#if:{{{TotArea|}}}|
+{{!}} '''[[Кумдык]]'''<br/> <br/> вӱд ӱмбал %
+{{!}} [[эл-влак кумдыкышт почеш|{{{AreaRnk}}}  тӱняште]] <br/> {{{TotArea}}} [[тӧткылан уштыш|уш²]] <br/> {{{WaterPrcnt}}} <!--Кумдык-->
+{{!}}-
+|}}
+|-
+{{#if:{{{PopQty|}}}|
+{{!}} '''[[Калык чот]]''' <br/> <br/> чаклык
+{{!}} [[эл-влак калык чот почеш|{{{PopRnk}}} тӱняште]] <br/> {{{PopQty}}} ({{{PopCtDate}}}) <br/> {{{PopDens}}} еҥ/уш² <!--Population Data-->
+{{!}}-
+|}}
+|-
+{{#if:{{{Currency|}}}|
+{{!}}'''[[Валюта]]'''
+{{!}} {{{Currency}}}<!--Currency-->
+{{!}}-
+|}}
+|-
+
+{{#if:{{{GDP|}}}|
+{{!}} '''[[элкӧргӧ чумыр йӧрвар|ЭЧЙ]]'''<br/> <br/> ЭЧЙ/еҥ <br/>
+{{!}} [[эл-влак ЭЧЙ почеш|{{{GDPRnk}}} тӱняште]] <br/> {{{GDP}}} ({{{GDPDate}}}) 
+[[эл-влак ЭЧЙ/еҥ почеш|{{{GDPCRnk}}} тӱняште]]
+<br/> {{{GDPCit}}} <!--GDP-->
+{{!}}-
+|}}
+|-
+{{#if:{{{Domain|}}}|
+{{!}}'''[[Интернет-домен]]'''
+{{!}} {{{Domain}}}<!--Internet domain-->
+{{!}}-
+|}}
+|-
+{{#if:{{{Tele|}}}|
+{{!}}'''[[Телефон-код]]'''
+{{!}} {{{Tele}}}<!--Telephone Prefix-->
+{{!}}-
+|}}
+|-
+{{#if:{{{Time|}}}|
+{{!}}'''[[Шагат ӱштӧ]]'''   {{#if:{{{summerTime|}}}|   <br/>кеҥежым|}}
+{{!}} {{{Time}}}{{#if:{{{summerTime|}}}| <br/>  {{{summerTime}}}|}}  <!--Time Zone-->
+{{!}}-
+|}}
+|-
+
+{{#if:{{{Notes|}}}|{{1 cell table row|attributes=colspan="2" style="padding-top: 0.5em;"|data={{{Notes}}}}}}} <!--Notes-->
+|}
+<noinclude>[[Категорий:Ямдылык]]</noinclude>
