@@ -1,0 +1,76 @@
+<small style="display:block;margin-left:1.5em">← [[Шаблон:ПозКарта]]</small><includeonly>
+{| class="prettytable" style="text-align:center"
+|+ Позиций карте «{{{{PAGENAME}}|name}}»
+|-
+|colspan="2"|[[File:{{{{PAGENAME}}|image}}|444x444px|{{PAGENAME}}]]
+|-
+! Регион
+|[[{{#if:{{{{PAGENAME}}|fullname}}|{{{{PAGENAME}}|fullname}}|{{{{PAGENAME}}|name}} }} |{{{{PAGENAME}}|name}}]]
+|-
+! Проекций тӱрлык
+|{{#switch:{{{{PAGENAME}}|type}}|polar=Вик азимутан|custom=Стандартдыме|Ортографик}}
+{{#switch:{{{{PAGENAME}}|type}}
+|custom=
+{{!}}-
+! Координат-влакын формулышт
+{{!}} [[/x|x]], [[/y|y]]
+|polar=
+{{!}}-
+! Рӱдын координат-влак
+{{!}} {{{{PAGENAME}}|x}}%, {{{{PAGENAME}}|y}}%
+{{!}}-
+! Пел меридиан кугытшо
+{{!}} {{{{PAGENAME}}|length_x}}% (x), {{{{PAGENAME}}|length_y}}% (y)
+|#default=
+{{!}}-
+!Чек-влакын координатышт
+{{!}}
+ {{{!}}style="margin:0 auto; border: none"
+  {{!}}{{!}}{{!}}{{{{PAGENAME}}|top}}{{!}}{{!}}
+  {{!}}-
+  {{!}}<span>{{{{PAGENAME}}|left}}</span>{{!}}{{!}}{{!}}{{!}}{{{{PAGENAME}}|right}}
+  {{!}}-
+  {{!}}{{!}}{{!}}{{{{PAGENAME}}|bottom}}{{!}}{{!}}
+  {{!}}}
+{{!}}-
+! Рӱдын координат-влак
+{{!}} {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}
+}}
+|-
+! Сӱрет
+{{!}} <tt>[[:File:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|image}}]]</tt>
+|-
+|}
+[[Категорий:Ямдылык:Позиций карте-влак|{{{sortkey|{{{1|{{{{PAGENAME}}|name}}}}}}}} {{{sortkey2|{{#if:{{{1|}}}|{{{{PAGENAME}}|name}}}}}}}]][[Категорий:Ямдылык:{{{1|{{{{PAGENAME}}|name}}}}}|ПозКарта {{{sortkey2|{{#if:{{{1|}}}|{{{{PAGENAME}}|name}}}}}}}]]
+</includeonly><noinclude>
+[[Категорий:Википедий:Шаблон-влакын ӱлыллаштыкышт]]
+
+[[ar:قالب:Location map/Info]]
+[[bs:Šablon:Lokacijska karta/Info]]
+[[cs:Šablona:LocMap/Info]]
+[[da:Skabelon:Kortpositioner/Info]]
+[[de:Vorlage:Positionskarte/Info]]
+[[dsb:Pśedłoga:LocMap/info]]
+[[en:Template:Location map/Info]]
+[[eo:Ŝablono:Situo sur mapo/informoj]]
+[[es:Plantilla:Mapa de localización/Info]]
+[[fi:Malline:Location map/Info]]
+[[hsb:Předłoha:LocMap/info]]
+[[hu:Sablon:Pozíciós térkép/Info]]
+[[id:Templat:Location map/Info]]
+[[it:Template:Mappa di localizzazione/info]]
+[[ja:Template:Location map/Info]]
+[[ka:თარგი:პოზრუკა/Info]]
+[[lv:Veidne:Location map/Info]]
+[[nl:Sjabloon:Positiekaart/info]]
+[[nn:Mal:Kartposisjon/Info]]
+[[no:Mal:Kartposisjon/Info]]
+[[os:Шаблон:ПозКартæ/Инфо]]
+[[pt:Predefinição:Mapa de localização/info]]
+[[rm:Template:LocMap/Info]]
+[[ru:Шаблон:ПозКарта/Инфо]]
+[[sr:Шаблон:Location map/Info]]
+[[sw:Kigezo:Location map/Info]]
+[[tl:Suleras:Location map/Info]]
+[[zh:Template:Location map/Info]]
+</noinclude>
