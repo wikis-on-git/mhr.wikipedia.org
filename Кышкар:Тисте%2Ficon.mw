@@ -1,3 +1,19 @@
 <includeonly>{{#if: {{{variant|}}}|<!-- параметр variant не пуст...
   -->{{#if: {{{flag alias-{{{variant}}}|}}}|<!-- ...а параметр flag alias-variant пуст
     -->|{{color|red|Шаблон {{tl|Тисте}} не знает варианта}} '''{{{variant}}}'''.&#32;[[Категория:Википедия:Страницы с некорректным использованием шаблонов флагификации]]}}}}<!--
+
+--><span class="flagicon"><!--
+-->[[Файл:{{{flag alias-{{{variant}}}|{{{flag alias}}}}}}<!--
+-->|{{#if:{{{размер|}}}|{{{размер}}}|22x20px}}<!--
+-->|{{{border-{{{variant}}}|{{{border|border}}}}}}<!--
+-->|{{{статья|{{{alias}}}}}}<!--
+-->]]</span></includeonly><noinclude>
+{{doc-inline}}
+Данный шаблон является частью шаблона {{tl|флаг}}. См. также: [[template:флагификация/icon]].
+
+[[Категорий:Википедий:Ямдылык:Флагификаций| ]]
+
+[[en:Template:Country flagicon2]]
+[[mk:Шаблон:Country flagicon2]]
+[[os:Шаблон:Флагификаци/flagicon]]
+</noinclude>
