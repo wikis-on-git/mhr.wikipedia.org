@@ -1,0 +1,4 @@
+{{#if:{{{код|}}}|
+{{{код|}}} |{{#if:{{{вуймут|}}}|<div style="font-weight:bold; width:100%; text-align:center; clear:both; {{{вуймут_стиль|}}}">{{{вуймут|}}}</div>|{{#if:{{{тамга|}}}|{{#if:{{{текст|}}}|<dl style="clear:both;"><dt style="padding:2px; margin-right:0; float:left; width:40%; {{{тамга_стиль|}}}">{{{тамга|}}}</dt><dd {{#if:{{{класс|}}}| class="{{{класс}}}"}} style="padding:2px; margin-left:0; float:right; width:55%; {{{текст_стиль|}}}">{{{текст}}}</dd></dl>}}|{{#if:{{{текст|}}}|<div {{#if:{{{класс|}}}| class="{{{класс}}}"}} style="text-align:center; clear:both; {{{текст_стиль|}}}">{{{текст}}}</div>}} }} }} }}<noinclude>
+[[ru:Шаблон:Карточка2/строка]]
+</noinclude>
