@@ -8,7 +8,7 @@
 |-
 | colspan="2" align="center" | {{#if:{{{Сӱрет|}}}|[[Файл:{{{Сӱрет}}}|{{#if:{{{Сӱретын лопкытшо|}}}|{{#iferror:{{#expr:{{{Сӱретын лопкытшо}}}}}|{{{Сӱретын лопкытшо}}}|{{{Сӱретын лопкытшо}}}px}}|250px}}|{{{Возымаш|}}}]]{{#if:{{{Возымаш|}}}|<br /><small>{{{Возымаш|}}}</small>}}|}}
 |-
-! colspan="2" style="text-align:center; background-color:#AACCFF; color:black" | Характеристика
+! colspan="2" style="text-align:center; background-color:#AACCFF; color:black" | Характеристике
 |-
 {{!}} Кужыт
 | {{#if:{{{Кужыт|}}}|{{nobr|{{{Кужыт}}} км}}|?}}
@@ -56,7 +56,7 @@
 {{!-}}
 }}
 {{#ifexpr:{{#if:{{{s_lat_deg|}}}|0|1}} or {{#if:{{{s_lon_deg|}}}|0|1}}|{{#if:{{NAMESPACE}}||[[Категорий:Википедий:Реки без указанных географических координат истока]]}}|
-{{!}} &nbsp;·&nbsp;[[Географические координаты|Координаты]]
+{{!}} &nbsp;·&nbsp;[[Географик координат-влак|Координат-влак]]
 {{!}} {{coord|1={{{s_lat_deg|0}}}|2={{{s_lat_min|0}}}|3={{{s_lat_sec|0}}}|4={{#if:{{{s_lat_dir|}}}|{{{s_lat_dir}}}|N}}|5={{{s_lon_deg|0}}}|6={{{s_lon_min|0}}}|7={{{s_lon_sec|0}}}|8={{#if:{{{s_lon_dir|}}}|{{{s_lon_dir}}}|E}}|9={{{s_CoordAddon|}}}|scale={{#if:{{{s_CoordScale|}}}|{{{s_CoordScale}}}|100000}}|format=dms|display=inline|yandex=1|br=1}}
 {{!-}}
 }}
@@ -76,7 +76,7 @@
 {{!-}}
 }}
 {{#ifexpr:{{#if:{{{m_lat_deg|}}}|0|1}} or {{#if:{{{m_lon_deg|}}}|0|1}}|{{#if:{{NAMESPACE}}||[[Категорий:Википедий:Реки без указанных географических координат устья]]}}|
-{{!}} &nbsp;·&nbsp;[[Географические координаты|Координаты]]
+{{!}} &nbsp;·&nbsp;[[Географик координат-влак|Координат-влак]]
 {{!}} {{coord|1={{{m_lat_deg|0}}}|2={{{m_lat_min|0}}}|3={{{m_lat_sec|0}}}|4={{#if:{{{m_lat_dir|}}}|{{{m_lat_dir}}}|N}}|5={{{m_lon_deg|0}}}|6={{{m_lon_min|0}}}|7={{{m_lon_sec|0}}}|8={{#if:{{{m_lon_dir|}}}|{{{m_lon_dir}}}|E}}|9={{{m_CoordAddon|}}}|scale={{#if:{{{m_CoordScale|}}}|{{{m_CoordScale}}}|100000}}|format=dms|display=title,inline|yandex=1|br=1}}
 {{!-}}
 }}
