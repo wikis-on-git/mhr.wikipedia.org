@@ -2,7 +2,7 @@
 
 При изменении шаблона не забываете обновить документацию!
 
---><includeonly>{{картычке
+--><includeonly>{{карточка
 |лӱм = 
 |вверху            = {{{Лӱм}}}
 |стиль_вверху = font-size:larger; font-weight:bold; background:#e0e8ff; border:1px solid #4877c8;
@@ -14,7 +14,7 @@
 |стиль_заголовков =
 |стиль_меток = background:{{{Тӱс1|#e0e8ff}}}; font-weight:normal; text-align:right;
 |заголовок1 = {{#if: {{{lat_deg|}}}
- | <small>[[Географические координаты|Координаты]]: {{nobr|{{Coord|1={{{lat_deg|}}}|2={{{lat_min|}}}|3={{{lat_sec|}}}|4={{{lat_dir|N}}}|5={{{lon_deg|}}}|6={{{lon_min|}}}|7={{{lon_sec|}}}|8={{{lon_dir|E}}}|9={{#if: {{{region|}}}
+ | <small>[[Географик координат-влак|Координат-влак]]: {{nobr|{{Coord|1={{{lat_deg|}}}|2={{{lat_min|}}}|3={{{lat_sec|}}}|4={{{lat_dir|N}}}|5={{{lon_deg|}}}|6={{{lon_min|}}}|7={{{lon_sec|}}}|8={{{lon_dir|E}}}|9={{#if: {{{region|}}}
      |type:waterbody_region:{{{region}}} 
      |type:waterbody}}|scale={{#if:{{{CoordScale|}}}|{{{CoordScale}}}|100000}}}}}}</small>}}
 |метка2 = Расположение
