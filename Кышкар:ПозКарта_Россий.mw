@@ -1,11 +1,11 @@
 {{#switch:{{{1}}}
-|name = Россий
+|name = Россия
 |type = custom
 |image = {{#switch:{{{2|}}}
  |physical = Russia edcp relief location map.jpg
  |#default = Russia edcp location map.svg
 }}
-}}<noinclude>{{ПозКарта/Инфо|Россий}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
 [[Категория:Шаблоны:Позиционные карты:Россия| ]]
 
 [[az:Şablon:Yer xəritəsi Rusiya]]
