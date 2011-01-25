@@ -1,10 +1,10 @@
 {{#switch:{{{1}}}
 |name = Абхазий
-| top    = 43.8666
-| bottom = 42.2833
-| left   = 39.7666
-| right  = 42.3300
-| image  = Abkhazia Locator map.svg
+|top    = 43.8666
+|bottom = 42.2833
+|left   = 39.7666
+|right  = 42.3300
+|image  = Abkhazia Locator map.svg
 }}<noinclude>{{ПозКарта/Инфо|Абхазий}}
 [[Категорий:Ямдылык:Позиций карте:Абхазий]]
 
