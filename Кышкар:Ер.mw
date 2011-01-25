@@ -60,7 +60,7 @@
   |crosses180 = {{{crosses180|}}}
   |mark=Blue pog.svg
   |caption = 
-  |alt=physical
+  |alt=
   }} }} }}
 |вуймут18= {{#if: {{{lat_deg|}}}|{{#if:{{{Позиционный карте 2|}}}
  | {{ПозКарта
@@ -74,7 +74,7 @@
   |float=center
   |mark=Blue pog.svg
   |caption = 
-  |alt=physical
+  |alt=
   }} }} }}
 | ӱлнӧ_стиль = border-top:1px solid #DDD; background:#e0e8ff;
 | ӱлнӧ = {{#if: {{{Категорий Викиклатыште|}}}|{{nobr|1=[[Файл:Commons-logo.svg|10px]] <span class='plainlinks'>[{{localurl:Commons:Category:{{{Категорий Викиклатыште}}}|uselang=ru}} Категорий]</span> &nbsp;Викиклатыште}}}}}}<!-- 
