@@ -1,0 +1,284 @@
+<includeonly>{{СИШ|60}}</includeonly><noinclude>{{template navigation}}</noinclude>
+
+{{tl|ПозКарта}} — шаблон для вставки карт, наглядно показывающих положение объекта (или нескольких объектов) в каком-либо регионе.
+Ончо [[Special:Prefixindex/template:ПозКарта|полный список доступных стран и регионов]].
+
+==  Кучылтмаш ==
+ 
+
+=== Одна точка ===
+
+; Тыглай карте: Паг (Хорватий)
+{{ПозКарта|Хорватий|label=Паг|lat_deg=44|lat_min=26|lon_deg=15|lon_min=3|position=right|width=300|float=right}}
+{|style="background:transparent"
+|
+ <nowiki>{{ПозКарта
+ |Хорватий
+ |label=Паг
+ |lat_deg=44|lat_min=26
+ |lon_deg=15|lon_min=3
+ |position=right
+ |width=300
+ |float=right
+}}</nowiki>
+|}
+{{-}}
+; Задание координат в десятичном виде и смена положения метки: Торонто, Канаде
+{{ПозКарта|Канаде|label=Торонто|lat=43.6666|long=-79.4166|position=left|width=200}}
+{|style="background:transparent"
+|
+ <nowiki>{{ПозКарта
+ |Канаде
+ |label=Торонто
+ |lat=43.6666
+ |long=-79.4166
+ |position=left
+ |width=200
+}}</nowiki>
+|}
+{{-}}
+; Настройка надписи, подписи и маркера: Харьков, Украина
+{{ПозКарта
+ |Украина
+ |label=''Харків''
+ |lat=50
+ |long=36.25
+ |position=top
+ |width=333
+ |float=right
+ |background=#AFD6FF
+ |label_size=222
+ |marksize=17
+ |caption=Харьков, кугыт шотышто кокымшо ола Украиныште
+ }}
+{|style="background:transparent"
+|
+ <nowiki>{{ПозКарта
+ |Украина
+ |label=''Харків''
+ |lat=50
+ |long=36.25
+ |position=top
+ |width=333
+ |float=right
+ |background=#AFD6FF
+ |label_size=222
+ |marksize=17
+ |caption=Харьков, кугыт шотышто кокымшо ола Украиныште
+ }}</nowiki>
+|}
+{{-}}
+; Карте лӱм деч посна: Брчко, Босний да Герцеговине
+{{ПозКарта|Боснией да Герцеговине|label=Брчко|position=left|width=150|lat=44.87|long=18.81|float=right|caption=}}
+{|style="background:transparent"
+|
+ <nowiki>{{ПозКарта
+ |Босний да Герцеговине
+ |label=Брчко
+ |position=left
+ |width=150
+ |lat=44.87
+ |long=18.81
+ |float=right
+ |caption=
+ }}</nowiki>
+|}
+{{-}}
+; Пересечение 180°-меридиана: Уэлен, Россия
+{{ПозКарта|Россий|label=Уэлен|lat_deg=66|lat_min=09|lon_deg=169|lon_min=48|lon_dir=W|position=left|width=402|float=right}}
+{|style="background:transparent"
+|
+ <nowiki>{{ПозКарта
+ |Россий
+ |label=Уэлен
+ |lat_deg=66|lat_min=09
+ |lon_deg=169|lon_min=48|lon_dir=W
+ |position=left
+ |width=402
+ |float=right
+}}</nowiki>
+|}
+{{-}}
+
+=== Несколько точек ===
+ 
+Для нескольких точек используется связка из шаблонов {{tl|ПозКарта+}} и {{tl|ПозКарта~}}. Действие параметров точно такое же, как и при использовании одной точки.
+
+{{  ПозКарта+|Россий|width=666|float=center|caption=южо Российысе ола-влак|places=
+  {{ПозКарта~|Россий|lat_deg=59|lat_min=57|lon_deg= 30|lon_min=19|background=#FCF5E3|label=Санкт-Петербург}}
+  {{ПозКарта~|Россий|lat_deg=55|lat_min=45|lon_deg= 37|lon_min=37|label=Моско}}
+  {{ПозКарта~|Россий|lat_deg=53|lat_min=11|lon_deg= 50|lon_min=07|label=Самара}}
+  {{ПозКарта~|Россий|lat_deg=55|lat_min=02|lon_deg= 82|lon_min=55|position=bottom|background=#FCF5E3|label=Новосибирск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=30|lon_deg= 84|lon_min=58|position=top|label=Томск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=00|lon_deg= 92|lon_min=56|label=Красноярск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=40|lon_deg=124|lon_min=42|label=Нерюнгри}}
+  {{ПозКарта~|Россий|lat_deg=43|lat_min=07|lon_deg=131|lon_min=54|label=Владивосток}}
+  {{ПозКарта~|Россий|lat_deg=48|lat_min=29|lon_deg=135|lon_min=04|background=#FCF5E3|label=Хабаровск}}
+  {{ПозКарта~|Россий|lat_deg=64|lat_min=44|lon_deg=177|lon_min=31|background=#FCF5E3|label=Анадырь}}
+}}
+<pre style="font-size:82%">
+{{  ПозКарта+|Россий|width=666|float=center|caption=Южо Российысе ола-влак|places=
+  {{ПозКарта~|Россий|lat_deg=59|lat_min=57|lon_deg= 30|lon_min=19|background=#FCF5E3|label=Санкт-Петербург}}
+  {{ПозКарта~|Россий|lat_deg=55|lat_min=45|lon_deg= 37|lon_min=37|label=Моско}}
+  {{ПозКарта~|Россий|lat_deg=53|lat_min=11|lon_deg= 50|lon_min=07|label=Самара}}
+  {{ПозКарта~|Россий|lat_deg=55|lat_min=02|lon_deg= 82|lon_min=55|position=bottom|background=#FCF5E3|label=Новосибирск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=30|lon_deg= 84|lon_min=58|position=top|label=Томск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=00|lon_deg= 92|lon_min=56|label=Красноярск}}
+  {{ПозКарта~|Россий|lat_deg=56|lat_min=40|lon_deg=124|lon_min=42|label=Нерюнгри}}
+  {{ПозКарта~|Россий|lat_deg=43|lat_min=07|lon_deg=131|lon_min=54|label=Владивосток}}
+  {{ПозКарта~|Россий|lat_deg=48|lat_min=29|lon_deg=135|lon_min=04|background=#FCF5E3|label=Хабаровск}}
+  {{ПозКарта~|Россий|lat_deg=64|lat_min=44|lon_deg=177|lon_min=31|background=#FCF5E3|label=Анадырь}}
+}}</pre>
+
+=== Полный список параметров ===
+
+
+<small>''Обозначения:'' <span style="border-left:3px solid red">&nbsp;параметр шаблонов {{tl|ПозКарта}} и {{tl|ПозКарта+}}</span>; <span style="border-left:3px solid #7EBF33">&nbsp;{{tl|ПозКарта}} и {{tl|ПозКарта~}}</span></small>
+* <span style="border-left:3px solid #7EBF33"><span style="border-left:3px solid red">&nbsp;'''1'''</span></span> — название карты (можно указывать без номера, см. примеры);
+* <span style="border-left:3px solid red">&nbsp;'''float'''</span> — размещение карты:
+** left, right<sub>по умолчанию</sub> — обтекание по левому или правому краю;
+** center — выравнивание по центру;
+** none — без обтекания;
+* <span style="border-left:3px solid red">&nbsp;'''caption'''</span> — подпись:
+** Если задана, изображение попадает в толстую серую рамку, как вставленная картинка;
+** Если не задана, серой рамки нет, а под картой появляется подпись ''имя страницы, имя карты'';
+** Если задана пустой — и рамка, и какая-либо подпись отсутствуют;
+* <span style="border-left:3px solid #7EBF33"><span style="border-left:3px solid red">&nbsp;'''label'''</span></span> — надпись рядом с точкой. {{tl|ПозКарта+}} использует его только для автоматической подписи;
+* <span style="border-left:3px solid red">&nbsp;'''width'''</span> — ширина карты в пикселях (по умолчанию 240);
+* <span style="border-left:3px solid red">&nbsp;'''alt'''</span> — альтернативная карта — имя файла, которым будет заменена карта. Формулы расчёта координат не меняются, поэтому изображения при наложении должны соответствовать;
+* <span style="border-left:3px solid red">&nbsp;'''border'''</span> — цвет границы.
+
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''lat''' <small>('''lat_dir''', '''lat_deg''', '''lat_min''', '''lat_sec''')</small></span> — широта (лоптык), может быть задана как в десятичных координатах (для южного полушария — отрицательная), так и в градусах, минутах и секундах (lat_dir — N для северного полушария, S для южного);
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''lon''' <small>('''lon_dir''', '''lon_deg''', '''lon_min''', '''lon_sec''')</small></span> — долгота (кутык), также допускает два формата. Десятичное значение отрицательно для западного полушария; lon_dir — W для западного полушария, E для восточного;
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''label'''</span> — надпись рядом с точкой;
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''position'''</span> — положение надписи относительно точки:
+** left, right<sub>по умолчанию</sub> — слева или справа;
+** top, bottom — сверху (может некорректно работать на больших шрифтах) или снизу;
+** none — скрыть надпись;
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''label_size'''</span> — размер текста надписи в процентах от нормального;
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''background'''</span> — цвет фона надписи, рекомендуется использовать только при необходимости и делать равным цвету фона карты;
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''mark'''</span> — имя файла с точкой, по умолчанию {{cn|[[:Image:Red pog.svg|Red pog.svg]]}};
+* <span style="border-left:3px solid #7EBF33">&nbsp;'''marksize'''</span> — размер точки, по умолчанию 9.
+
+* '''places''' — параметр шаблона {{tl|ПозКарта+}} — список точек, составленный шаблонами {{tl|ПозКарта~}}.
+ 
+
+== Кузе картым ышташ ==
+[[Special:Prefixindex/template:ПозКарта|Лӱмерыште]] карте уке гын, тудым ышташ лиеш.
+
+=== Сӱрет===
+Сгодится любое свободное изображение карты, где нужный регион выделен на фоне других и изображён либо в ортографической проекции, либо в прямой азимутальной (можно взять любую другую проекцию, но выводить и записывать формулы расчёта координат придётся самостоятельно).
+Изображения рекомендуется переводить в векторный формат и раскрашивать в соответствии с легендой.
+[[File:Positionskartenerstellung - Signaturvorlage ru.svg|555px|center|Рекомендации по раскрашиванию карт]]
+
+=== Шаблон ===
+
+Когда изображение создано и загружено на Викисклад, можно приступить к созданию шаблона. Шаблон состоит из некоторых служебных частей и параметров:
+ 
+<nowiki>{{#switch:{{{1}}}</nowiki>
+ {{!}}'''параметр''' = '''значение'''
+ {{!}}'''параметр''' = '''значение'''
+ ...
+ <nowiki>}}<noinclude>{{ПозКарта/Инфо|</nowiki>'''название карты'''<nowiki>}}</noinclude></nowiki>
+ 
+Параметры ''name'' и ''image'' общие для всех карт: '''name''' содержит название административной единицы (мутлан, {{cn|Индий}}), а '''image''' — имя файла с картинкой ({{cn|India-locator-map-blank.svg}}).
+ 
+
+==== Именование ====
+ 
+Если на карте изображена внутренняя территориальная единица (мутлан, [[провинций]] или [[федерал мланде]]), в название следует включать полную иерархию ({{tl|ПозКарта Немыч Эл Тӱрингий}}), чтобы карты автоматически подставлял шаблон {{tl|ИВ}}. В остальных случаях нужно лишь называть единицу — {{tl|ПозКарта Антарктиде}}.
+ 
+
+==== Ортографическая проекция ====
+
+[[File:Algeria.svg|250px|thumb|right|Алжир]]
+Необходимо вычислить долготу крайнего левого и крайнего правого меридиана, а также широту крайней верхней и крайней нижней параллели на изображении. Получившиеся значения в десятичном виде будут значениями параметров '''left''' и '''right''', '''top''' и '''bottom''' соответственно. Значения для южного и западного полушарий указываются с минусом.
+ 
+[[Ямдылык:ПозКарта Алжир|Алжир]]лан:
+ 
+<pre>
+|name = Алжир
+|top = 38.5
+|bottom = 19
+|left = -8.7
+|right = 12
+|image = Algeria.svg
+</pre>
+
+Если карта пересекает 180°-меридиан, точки западного полушария будут корректно отображаться с параметром '''crosses180'''=1.
+ 
+
+==== Прямая азимутальная проекция ====
+ 
+[[File:Blank map of Russia-geoloc.svg|250px|thumb|right|РФ]]
+Чтобы всё заработало, нужно указать тип проекции параметром '''type'''='''polar'''.
+ 
+Потребуется узнать координаты полюса, а также длину половины меридиана (от полюса до экватора) на данном изображении. Это параметры '''x''' и '''y''', '''length_x''' и '''length_y''' соответственно (записываются в процентах от ширины/высоты карты). Пригодится угол в градусах между нулевым меридианом и прямой, направленной вправо из северного полюса (влево из южного) — параметр '''alpha''', а также параметр '''mult''' — если карта сплющена по горизонтали, как, например, карта России, на этот параметр будут умножаться углы. Если карта строго круглая, как, например, карта Антарктиды, его значение равно 1.
+ 
+Два полушария одновременно задействовать нельзя.
+ 
+[[Ямдылык:ПозКарта Россий|Россий]]лан:
+ 
+<pre>
+|type = polar
+|x = 49.842
+|y = 1.227
+|alpha = 181
+|mult = 0.9372819895
+|length_x = 111.047693
+|length_y = 216.678436
+|image = Blank map of Russia-geoloc.svg
+</pre>
+ 
+[[Ямдылык:ПозКарта Антарктиде|Антарктиды]]лан:
+ 
+<pre>
+|type = polar
+|x = 50
+|y = 50
+|alpha = -90
+|mult = 1
+|length_x = -150
+|length_y = -150
+|image = Antarctica blank.svg
+</pre>
+ 
+
+==== Нестандартная проекция ====
+ 
+Чтобы всё заработало, нужно указать тип проекции параметром '''type'''='''custom'''.
+ 
+Для расчёта координат используются произвольные формулы, которые надо вставить в подстраницы /x и /y ({{cn|ПозКарта .../x}}). Подстраницы вызываются с тремя параметрами: {{{1}}} — название карты, {{{2}}} — долгота (&minus;180…180), {{{3}}} — широта (&minus;90…90). Результатом вычислений должно стать значение координаты точки в процентах (для /x — от ширины изображения, для /y — от высоты).
+ 
+<!-- Категории и интервики -->
+<includeonly>[[Категорий:Ямдылык-влак:Позиционный карте-влак| ]]
+
+[[bg:Шаблон:ПК]]
+[[bs:Šablon:Lokacijska karta]]
+[[da:Skabelon:Kortpositioner]]
+[[de:Vorlage:Positionskarte]]
+[[dsb:Pśedłoga:LocMap]]
+[[es:Plantilla:Location map]]
+[[en:Template:Location map]]
+[[eo:Ŝablono:Situo sur mapo]]
+[[fi:Malline:Location map]]
+[[fr:Modèle:Location map]]
+[[hr:Predložak:Lokacijska karta]]
+[[hsb:Předłoha:LocMap]]
+[[it:Template:Mappa di localizzazione]]
+[[nl:Sjabloon:Positiekaart]]
+[[nn:Mal:Kartposisjon]]
+[[no:Mal:Kartposisjon]]
+[[os:Шаблон:ПозКартæ]]
+[[pl:Szablon:Mapa lokalizacyjna]]
+[[pt:Predefinição:Posição mapa]]
+[[ru:Шаблон:ПозКарта/doc]]
+[[simple:Template:Location map]]
+[[sl:Predloga:Lokacijska karta]]
+[[sq:Stampa:Harta e pozicionit]]
+[[sv:Mall:Kartposition]]
+[[tg:Шаблон:Ҷо рӯи харита]]
+[[zh:Template:Location map]]
+</includeonly><noinclude>
+[[Категорий:Ямдылык-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
