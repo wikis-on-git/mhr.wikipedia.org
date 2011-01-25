@@ -2,7 +2,7 @@
 
 При изменении шаблона не забываете обновить документацию!
 
---><includeonly>{{Аҥа
+--><includeonly>{{карточка
 |лӱм = 
 |вверху            = {{{Лӱм}}}
 |стиль_вверху = font-size:larger; font-weight:bold; background:#e0e8ff; border:1px solid #4877c8;
