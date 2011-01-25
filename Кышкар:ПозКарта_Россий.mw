@@ -1,23 +1,26 @@
 {{#switch:{{{1}}}
-|name = Россий
-|type = polar
-|x = 49.842
-|y = 1.227
-|alpha = 181
-|mult = 0.9372819895
-|length_x = 111.047693
-|length_y = 216.678436
-|image = Blank map of Russia-geoloc.svg
-}}<noinclude>{{ПозКарта/Инфо|Россий}}
-[[be-x-old:Шаблён:Лякалізацыйная мапа Расеі]]
+|name = Россия
+|type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Russia edcp relief location map.jpg
+ |#default = Russia edcp location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+[[Категория:Шаблоны:Позиционные карты:Россия| ]]
+
+[[az:Şablon:Yer xəritəsi Rusiya]]
 [[bar:Vorlage:Positionskarte Russland]]
+[[be-x-old:Шаблён:Лякалізацыйная мапа Расеі]]
 [[de:Vorlage:Positionskarte Russland]]
 [[en:Template:Location map Russia]]
 [[fr:Modèle:Géolocalisation/Russie]]
-[[hy:Կաղապար:Տեղորոշման քարտեզ Ռուսաստան]]
 [[he:תבנית:מפת מיקום/רוסיה]]
 [[hu:Sablon:Pozíciós térkép Oroszország]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ Ռուսաստան]]
+[[id:Templat:Location map Russia]]
 [[lb:Schabloun:Kaartpositioun Russland]]
+[[mhr:Ямдылык:ПозКарта Россий]]
 [[oc:Modèl:Geolocalizacion/Russia]]
-[[ru:Шаблон:ПозКарта Россия]]
+[[sq:Stampa:Harta e vendndodhjes Rusia]]
+[[uk:Шаблон:Карта розташування Росія/]]
 </noinclude>
