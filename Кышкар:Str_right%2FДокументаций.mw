@@ -1,0 +1,31 @@
+<noinclude>{{docpage}}</noinclude>
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Использование ===
+
+: <code>{{Tlx|Str right|<string>|<offset>}}</code>
+
+Возвращает символы от <offset> и до конца строки.
+
+=== Limitations === 
+* Не более 100 символов в входной строке. If possible, first check length of input string using {{Tl|Str len|<string>}}. Using strings longer than 100 characters may result in the error '''''"<font color=#CC1100>max index is 100 for str_sub</font>"'''''.
+* Limited set of characters.
+* Expensive.
+
+=== Examples ===
+
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 10 }}</nowiki></tt> → {{Str right| lorem ipsum dolor sit amet | 10 }}
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 1 }}</nowiki></tt> → {{Str right| lorem ipsum dolor sit amet | 1 }}
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 0 }}</nowiki></tt> → {{Str right| lorem ipsum dolor sit amet | 0 }}
+*<tt><nowiki>{{Str right |123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.1 | 99}}</nowiki></tt> → {{Str rightc |nocategory=true |123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.1 | 99}}
+
+=== Тыгак ончо ===
+* {{Tl|Trunc|<string>|<count>}} - truncate right-side of string
+* {{Tl|Str left|<string>|<count>}} - extract left-side substring
+* {{Tl|Str rightc|<string>|<count>}} - extract right-side of string
+* {{Tl|Str len|<string>}} - get numeric length of string (can be over 300 long)
+* {{Tl|Title disambig text|<string>}} - Extract ''disambig'' from page titles of the form ''Title (disambig)''
+
+<noinclude>
+[[Категорий:Ямдылык-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
