@@ -1,0 +1,49 @@
+<noinclude>{{docpage}}</noinclude>Шаблон помещает текст в заданное место на картинке:
+
+<pre><nowiki>
+{{image label|color=red|x=0.23 |y=0.565|scale=300|text=[[Моско]]}}
+</nowiki></pre>
+
+== Параметры ==
+'''color''' — задаёт цвет текста (не действует на [[Википедия:Ссылка|ссылки]] в тексте)
+'''scale''' — ширина изображения
+
+== См. также ==
+[[Википедия:Иллюстрирование#Ссылки и надписи поверх изображений]]
+
+<includeonly>[[Категория:Шаблоны:Иллюстрирование]]
+[[ab:Ашаблон:Image label]]
+[[af:Sjabloon:Beeldetiket]]
+[[am:መለጠፊያ:Image label]]
+[[ar:قالب:علامة صورة]]
+[[arz:قالب:Image label]]
+[[be-x-old:Шаблён:Метка выявы]]
+[[bg:Шаблон:Image label]]
+[[ca:Plantilla:Image label]]
+[[cs:Šablona:Image label]]
+[[da:Skabelon:Billedmærke]]
+[[de:Vorlage:Image label]]
+[[dsb:Pśedłoga:Image label]]
+[[en:Template:Image label]]
+[[eo:Ŝablono:Marko sur bildo]]
+[[es:Plantilla:Image label]]
+[[fa:الگو:برچسب نگاره]]
+[[fr:Modèle:Image label]]
+[[gl:Modelo:Image label]]
+[[he:תבנית:תווית צפה]]
+[[hr:Predložak:Image label]]
+[[hsb:Předłoha:Image label]]
+[[id:Templat:Image label]]
+[[it:Template:Image label]]
+[[ja:Template:Image label]]
+[[ka:თარგი:სურათის წარწერა]]
+[[ko:틀:그림 꼬리표]]
+[[ksh:Schablon:Image label]]
+[[lo:ແມ່ແບບ:Image label]]
+[[nl:Sjabloon:Afbeelding label]]
+[[nn:Mal:Image label]]
+[[pl:Szablon:Image label]]
+[[sr:Шаблон:Image label]]
+[[su:Citakan:Image label]]
+[[vi:Bản mẫu:Image label]]
+[[zh:Template:Image label]]</includeonly>
