@@ -1,6 +1,68 @@
-<includeonly>{{#ifexist:Ямдылык:тӱс/{{{1}}}|{{тӱс/{{{1}}}}}|<nowiki>#</nowiki>ECECEC}}</includeonly><noinclude>
+<includeonly>{{#switch: {{{1}}}
+|Австрия =                                   <nowiki>#</nowiki>ff9999
+|Азербайджан =                               <nowiki>#</nowiki>c6ca2e
+|Албания =                                   <nowiki>#</nowiki>ff9999
+|Андорра =                                   <nowiki>#</nowiki>d1bf91
+|Алжир =                                     darksalmon
+|Армения =                                   <nowiki>#</nowiki>ffcfaf
+|Белоруссия|Беларусь|Республика Беларусь =   <nowiki>#</nowiki>cfff9f
+|Бельгия =                                   <nowiki>#</nowiki>c6cede
+|Болгария =                                  <nowiki>#</nowiki>ccddff
+|Бразилия =                                  <nowiki>#</nowiki>57ed56 
+|Великобритания =                            pink
+|Венгрия =                                   lightcyan
+|Вьетнам =                                   <nowiki>#</nowiki>fbec5d
+|Гагаузия =                                  <nowiki>#</nowiki>f7d900
+|Германия =                                  <nowiki>#</nowiki>e3e3e3
+|Греция =                                    <nowiki>#</nowiki>7fbfff
+|Грузия =                                    <nowiki>#</nowiki>e7e7f1
+|Дания =                                     <nowiki>#</nowiki>eee685
+|Египет =                                    <nowiki>#</nowiki>ffdead
+|Иран =                                      <nowiki>#</nowiki>D0F0C0
+|Испания =                                   <nowiki>#</nowiki>ffee99
+|Ирландия =                                  <nowiki>#</nowiki>57ed56
+|Италия =                                    <nowiki>#</nowiki>ffdd88
+|Израиль =                                   <nowiki>#</nowiki>ccccff
+|Канада =                                    <nowiki>#</nowiki>CC8899
+|Казахстан =                                 <nowiki>#</nowiki>ffffca
+|Киргизия =                                  <nowiki>#</nowiki>fe96a3
+|Китай=                                      <nowiki>#</nowiki>ffdb58
+|Мексика=                                    <nowiki>#</nowiki>FFFFDD 
+|Молдавия =                                  <nowiki>#</nowiki>f7d900
+|Нидерланды =                                <nowiki>#</nowiki>ffcf6f
+|Польша =                                    <nowiki>#</nowiki>ffcbdb
+|Португалия =                                <nowiki>#</nowiki>FFDEAD 
+|Приднестровская Молдавская Республика =     <nowiki>#</nowiki>f7d900
+|Россия =                                    <nowiki>#</nowiki>a3eea3
+|Румыния =                                   <nowiki>#</nowiki>ffd060
+|Сан-Томе и Принсипи =                       <nowiki>#</nowiki>66ff88
+|США =                                       <nowiki>#</nowiki>ace1af
+|Соединённые Штаты Америки =                 <nowiki>#</nowiki>ace1af
+|СССР =                                      <nowiki>#</nowiki>ffaeb9
+|Союз Советских Социалистических Республик = <nowiki>#</nowiki>ffaeb9
+|Таджикистан =                               <nowiki>#</nowiki>ff9966
+|Туркменистан|Туркмения =                    <nowiki>#</nowiki>a6ffeb
+|Турция =                                    <nowiki>#</nowiki>e0b0ff 
+|Узбекистан =                                <nowiki>#</nowiki>8defff
+|Украина =                                   <nowiki>#</nowiki>afd6ff
+|Финляндия =                                 <nowiki>#</nowiki>7dffcd
+|Франция =                                   <nowiki>#</nowiki>f3cc99
+|Швейцария =                                 <nowiki>#</nowiki>ff9999
+|Швеция =                                    <nowiki>#</nowiki>c0ff3e
+|Эстония =                                   <nowiki>#</nowiki>6699ff
+|Южная Корея =                               <nowiki>#</nowiki>fb98da
+|Япония =                                    <nowiki>#</nowiki>ffe5ed
+<!-- темы -->
+|История =                                   <nowiki>#</nowiki>deb887
+|Кино =                                      <nowiki>#</nowiki>e6e6fa
+|Футбол =                                    <nowiki>#</nowiki>bfd7ff
+|Хоккей =                                    <nowiki>#</nowiki>f2ecdf
+<!-- по умолчанию -->
+|<nowiki>#</nowiki>ececec
+}}
 {{doc}}
-<!-- Поро лийза, категорий да интервики-влакым документаций лаштыкыш ешарыза! --></noinclude>
+</includeonly><noinclude>
+<!-- Поро лийза, категорий да интервики-влакым документаций лаштыкыш ешарыза! -->
 [[crh:Şablon:Renk]]
 [[hsb:Předłoha:Barba]]
 [[ka:თარგი:ფერი]]
