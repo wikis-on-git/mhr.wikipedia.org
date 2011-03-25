@@ -1,0 +1,26 @@
+<div style="width: 465px; font-size: 90%; line-height: 14px;">{{ambox
+| type  = notice
+| small = left
+| image = [[Image:Wiki letter w.svg|25px|Ужашын ямдылтышыже]]
+| text  = '''Тиде ужашым [[Википедий:Статья ямдылтыш|мучашлыме огыл]].''' <br />Тудым [[Википедий:Виктарчык|тӧрлатен да иктаж мом ешарен]] проектлан полшен кертыда{{
+  #if:{{{1|}}}
+  | <nowiki> </nowiki>  {{{1}}}
+  }}.
+
+}}</div><includeonly>{{Категорий статья-влакыште веле|Википедий:Пытарыме огыл ужашан статья-влак}}</includeonly><noinclude>
+
+[[Категорий:Ямдылык]]
+
+[[ar:قالب:...]]
+[[bg:Шаблон:Раздел-мъниче]]
+[[en:Template:Expand-section]]
+[[fi:Malline:Tynkä/osa]]
+[[ko:틀:부분 토막글]]
+[[no:Mal:Seksjonstubb]]
+[[os:Шаблон:Section-stub]]
+[[pl:Szablon:Sekcja stub]]
+[[ro:Format:Sect-ciot]]
+[[sv:Mall:Stubavsnitt]]
+[[tr:Şablon:Başlık genişlet]]
+[[vi:Tiêu bản:Phần sơ khai]]
+</noinclude>
