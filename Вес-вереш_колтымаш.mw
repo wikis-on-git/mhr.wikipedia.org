@@ -50,6 +50,7 @@ echo -e "пайдаланыше\nшолыпмут" | ftp localhost
 
 [[Категорий: Компучырлаш]]
 
+[[cs:Přesměrování vstupů a výstupů]]
 [[en:Redirection (computing)]]
 [[it:Redirezione]]
 [[ja:リダイレクト (CLI)]]
