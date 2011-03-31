@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|флагификация/флаг</noinclude>}}}
+| alias = Китайысе Калык Республик
+| shortname alias = КНР
+| flag alias = Flag of the People's Republic of China.svg
+| flag alias-1928 = Flag of the Republic of China.svg
+| flag alias-1916 = YuanFlag1.svg
+| flag alias-1912 = Flag of the Republic of China 1912-1928.svg
+| flag alias-1890 = China Qing Dynasty Flag 1889.svg
+| flag alias-1862 = China Qing Dynasty Flag 1862.png
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1928
+| var2 = 1916
+| var3 = 1912
+| var4 = 1890
+| var5 = 1862
+</noinclude>
+| размер = {{{размер|}}}
+}}<noinclude>
+[[bg:Шаблон:Флагификация/Китайска народна република]]
+</noinclude>
