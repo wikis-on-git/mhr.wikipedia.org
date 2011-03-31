@@ -1,0 +1,22 @@
+{{ {{{1<noinclude>|флагификация/флаг</noinclude>}}}
+| alias = Вьетнам
+| flag alias = Flag of Vietnam.svg
+| flag alias-1945 = Old Flag Of Vietnam.svg
+| flag alias-1890 = Flag of South Vietnam.svg
+| flag alias-1920 = Second flag of the Nguyen Dynasty.svg
+| flag alias-юг = Flag of South Vietnam.svg
+| flag alias-НФОЮВ = FNL Flag.svg
+| flag alias-Индокитай = Flag of Colonial Vietnam.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1890
+| var2 = 1920
+| var3 = 1945
+| var4 = юг
+| var5 = НФОЮВ
+| var6 = Индокитай
+</noinclude>
+| размер = {{{размер|}}}
+}}<noinclude>
+[[bg:Шаблон:Флагификация/Виетнам]]
+</noinclude>
