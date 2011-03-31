@@ -1,6 +1,28 @@
 {{ {{{1<noinclude>|флагификация/флаг</noinclude>}}}
 | alias = Немыч Эл
 | flag alias = Flag of Germany.svg
-| размер = {{{размер|}}}
+| flag alias-империй = Flag of the German Empire.svg
+| flag alias-1871 = Flag of the German Empire.svg
+| flag alias-1919 = Flag of Germany (2-3).svg
+| flag alias-1933-1 = National flag of Germany 1933-1935.svg
+| flag alias-1933 = Flag of Germany 1933.svg
+| flag alias-1946 = Flag of Germany (1946-1949).svg
+| flag alias-Берлин = Flag of Berlin.svg
+| flag alias-ГДР = Flag of East Germany.svg
+| flag alias-1938 = War Ensign of Germany 1938-1945.svg
+| flag alias-ВМФ = Naval Ensign of Germany.svg
+| flag alias-1892 = Kaiserliche Kriegsflagge (1892).png
+| var1 = империй
+| var2 = 1871
+| var3 = 1919
+| var4 = 1933-1
+| var5 = 1933
+| var6 = 1946
+| var7 = Берлин
+| var8 = ГДР
+| var9 = 1938 
+| var10 = ВМФ 
+| var11 = 1892 
 | variant = {{{variant|}}}
+| размер = {{{размер|}}}
 }}
