@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|флагификация/флаг</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Совет Ушем
+| shortname alias = ССРУ
+| flag alias = Flag of the Soviet Union.svg
+| flag alias-1923 = Flag of the Soviet Union 1923.svg
+| flag alias-1955 = Flag of the Soviet Union 1955.svg
+| flag alias-ВМС = Naval Ensign of the Soviet Union.svg
+| flag alias-ВМС-1924 = Naval Ensign of the Soviet Union 1924.svg
+| flag alias-ВМС-1935 = Naval Ensign of the Soviet Union 1935.svg
+| flag alias-армий = Red Army flag.svg
+| flag alias-ВВС = Flag of the Soviet Air Force.svg
+| var1 = 1923
+| var2 = 1955
+| var3 = ВМС
+| var4 = ВМС-1924
+| var5 = ВМС-1935
+| var6 = армий
+| var7 = ВВС
+| variant = {{{variant|}}}
+}}
