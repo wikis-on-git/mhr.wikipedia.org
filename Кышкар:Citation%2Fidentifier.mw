@@ -1,0 +1,121 @@
+{{#switch:{{{identifier}}}
+ |arxiv={{hide in print
+         |[[arXiv]]:[http://arxiv.org/abs/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+        }}<!--
+     -->{{only in print
+         |arXiv:{{{input1|}}}
+        }}
+ |asin={{hide in print
+        |[[Amazon Standard Identification Number|ASIN]]&nbsp;[http://www.amazon.com/dp/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |ASIN&nbsp;{{{input1|}}}
+       }}
+ |bibcode={{hide in print
+           |[[Bibcode]] [http://adsabs.harvard.edu/abs/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+          }}<!--
+       -->{{only in print
+           |Bibcode&nbsp;{{{input1|}}}
+          }}
+ |doi={{hide in print
+       |{{#if:{{{input2|}}}
+         |[[Digital object identifier|doi]]:{{{input1|}}} (inactive {{{input2|}}}) {{#ifeq: {{NAMESPACE}} | {{ns:0}}
+                   |[[Category:Pages with DOIs inactive since {{#time: Y | {{{input2|}}} }}]]
+                   |
+                  }}
+         |[[Digital object identifier|doi]]:[http://dx.doi.org/{{urlencode:{{{input1|}}}}} {{#tag:nowiki|{{{input1|}}}}}]
+        }}
+      }}<!--
+   -->{{only in print
+       |{{#if:{{{input2|}}}
+         |doi:{{{input1|}}} (inactive {{{input2|}}})
+         |doi:{{{input1|}}}
+        }}
+      }}
+ |isbn={{hide in print
+        |[[International Standard Book Number|ISBN]]&nbsp;[[Special:BookSources/{{{input1|}}}|{{{input1|}}}]]
+       }}<!--
+    -->{{only in print
+        |ISBN&nbsp;{{{input1|}}}
+       }}
+ |issn={{hide in print
+        |[[International Standard Serial Number|ISSN]]&nbsp;[http://www.worldcat.org/issn/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |ISSN&nbsp;{{{input1|}}}
+       }}
+ |jfm={{hide in print
+       |[[Jahrbuch über die Fortschritte der Mathematik|JFM]]&nbsp;[http://www.zentralblatt-math.org/zmath/en/search/?q{{=}}an:{{{input1|}}}&format{{=}}complete {{#tag:nowiki|{{{input1|}}}}}]
+      }}<!--
+   -->{{only in print
+       |JFM&nbsp;{{{input1|}}}
+      }}
+ |jstor={{hide in print
+         |[[JSTOR]]&nbsp;[http://www.jstor.org/stable/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+        }}<!--
+     -->{{only in print
+         |JSTOR&nbsp;{{{input1|}}}
+         }}
+ |lccn={{hide in print
+         |[[Library of Congress Control Number|LCCN]]&nbsp;[http://lccn.loc.gov/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+        }}<!--
+     -->{{only in print
+         |LCCN&nbsp;{{{input1|}}}
+         }}
+ |mr={{hide in print
+      |[[Mathematical Reviews|MR]][http://www.ams.org/mathscinet-getitem?mr{{=}}{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+     }}<!--
+  -->{{only in print
+      |MR{{{input1|}}}
+     }}
+ |oclc={{hide in print
+        |[[Online Computer Library Center|OCLC]]&nbsp;[http://www.worldcat.org/oclc/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |OCLC&nbsp;{{{input1|}}}
+       }}
+ |ol={{hide in print
+        |[[Open Library|OL]][http://openlibrary.org/b/OL{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |OL{{{input1|}}}
+       }}
+ |osti={{hide in print
+        |[[Office of Scientific and Technical Information|OSTI]]&nbsp;[http://www.osti.gov/energycitations/product.biblio.jsp?osti_id{{=}}{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |OSTI&nbsp;{{{input1|}}}
+       }}
+ |pmc={{hide in print
+       |[[PubMed Central|PMC]]&nbsp;[http://www.pubmedcentral.gov/articlerender.fcgi?tool{{=}}pmcentrez&artid{{=}}{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+      }}<!--
+   -->{{only in print
+       |PMC&nbsp;{{{input1|}}}
+      }}
+ |pmid={{hide in print
+        |[[PubMed Identifier|PMID]]&nbsp;[http://www.ncbi.nlm.nih.gov/pubmed/{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |PMID&nbsp;{{{input1|}}}
+       }}
+ |rfc={{hide in print
+        |[[Request for Comments|RFC]]&nbsp;[http://tools.ietf.org/html/rfc{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |RFC&nbsp;{{{input1|}}}
+       }}
+ |ssrn={{hide in print
+        |[[Social Science Research Network|SSRN]]&nbsp;[http://ssrn.com/abstract{{=}}{{{input1|}}} {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |SSRN&nbsp;{{{input1|}}}
+       }}
+ |zbl={{hide in print
+        |[[Zentralblatt MATH|Zbl]]&nbsp;[http://www.zentralblatt-math.org/zmath/en/search/?q{{=}}an:{{{input1|}}}&format{{=}}complete {{#tag:nowiki|{{{input1|}}}}}]
+       }}<!--
+    -->{{only in print
+        |Zbl&nbsp;{{{input1|}}}
+       }}
+}}<noinclude>
+{{documentation}}
+</noinclude>
