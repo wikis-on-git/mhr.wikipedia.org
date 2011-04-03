@@ -2,6 +2,166 @@
 
 Кириллице тиште-влакым [[кодлымаш]] тӱҥалтыш стандарт кокла гыч иктыже.
 
+== KOI8-R кодировко (руш) ==
+
+{| {{chset-tableformat}}
+|-
+| width="4%" |
+! width="6%" | .0 || width="6%" | .1
+! width="6%" | .2 || width="6%" | .3
+! width="6%" | .4 || width="6%" | .5
+! width="6%" | .6 || width="6%" | .7
+! width="6%" | .8 || width="6%" | .9
+! width="6%" | .A || width="6%" | .B
+! width="6%" | .C || width="6%" | .D
+! width="6%" | .E || width="6%" | .F
+|-
+!{{chset-left|8}}
+|{{chset-cell|2500}}
+|{{chset-cell|2502}}
+|{{chset-cell|250C}}
+|{{chset-cell|2510}}
+|{{chset-cell|2514}}
+|{{chset-cell|2518}}
+|{{chset-cell|251C}}
+|{{chset-cell|2524}}
+|{{chset-cell|252C}}
+|{{chset-cell|2534}}
+|{{chset-cell|253C}}
+|{{chset-cell|2580}}
+|{{chset-cell|2584}}
+|{{chset-cell|2588}}
+|{{chset-cell|258C}}
+|{{chset-cell|2590}}
+|-
+!{{chset-left|9}}
+|{{chset-cell|2591}}
+|{{chset-cell|2592}}
+|{{chset-cell|2593}}
+|{{chset-cell|2320}}
+|{{chset-cell|25A0}}
+|{{chset-cell|2219}}
+|{{chset-cell|221A}}
+|{{chset-cell|2248}}
+|{{chset-cell|2264}}
+|{{chset-cell|2265}}
+|{{chset-cell|A0}}
+|{{chset-cell|2321}}
+|{{chset-cell|B0}}
+|{{chset-cell|B2}}
+|{{chset-cell|B7}}
+|{{chset-cell|F7}}
+|-
+!{{chset-left|A}}
+|{{chset-cell|2550}}
+|{{chset-cell|2551}}
+|{{chset-cell|2552}}
+|{{chset-cell|451}}
+|{{chset-cell|2553}}
+|{{chset-cell|2554}}
+|{{chset-cell|2555}}
+|{{chset-cell|2556}}
+|{{chset-cell|2557}}
+|{{chset-cell|2558}}
+|{{chset-cell|2559}}
+|{{chset-cell|255A}}
+|{{chset-cell|255B}}
+|{{chset-cell|255C}}
+|{{chset-cell|255D}}
+|{{chset-cell|255E}}
+|-
+!{{chset-left|B}}
+|{{chset-cell|255F}}
+|{{chset-cell|2560}}
+|{{chset-cell|2561}}
+|{{chset-cell|401}}
+|{{chset-cell|2562}}
+|{{chset-cell|2563}}
+|{{chset-cell|2564}}
+|{{chset-cell|2565}}
+|{{chset-cell|2566}}
+|{{chset-cell|2567}}
+|{{chset-cell|2568}}
+|{{chset-cell|2569}}
+|{{chset-cell|256A}}
+|{{chset-cell|256B}}
+|{{chset-cell|256C}}
+|{{chset-cell|A9}}
+|-
+!{{chset-left|C}}
+|{{chset-cell|44E}}
+|{{chset-cell|430}}
+|{{chset-cell|431}}
+|{{chset-cell|446}}
+|{{chset-cell|434}}
+|{{chset-cell|435}}
+|{{chset-cell|444}}
+|{{chset-cell|433}}
+|{{chset-cell|445}}
+|{{chset-cell|438}}
+|{{chset-cell|439}}
+|{{chset-cell|43A}}
+|{{chset-cell|43B}}
+|{{chset-cell|43C}}
+|{{chset-cell|43D}}
+|{{chset-cell|43E}}
+|-
+!{{chset-left|D}}
+|{{chset-cell|43F}}
+|{{chset-cell|44F}}
+|{{chset-cell|440}}
+|{{chset-cell|441}}
+|{{chset-cell|442}}
+|{{chset-cell|443}}
+|{{chset-cell|436}}
+|{{chset-cell|432}}
+|{{chset-cell|44C}}
+|{{chset-cell|44B}}
+|{{chset-cell|437}}
+|{{chset-cell|448}}
+|{{chset-cell|44D}}
+|{{chset-cell|449}}
+|{{chset-cell|447}}
+|{{chset-cell|44A}}
+|-
+!{{chset-left|E}}
+|{{chset-cell|42E}}
+|{{chset-cell|410}}
+|{{chset-cell|411}}
+|{{chset-cell|426}}
+|{{chset-cell|414}}
+|{{chset-cell|415}}
+|{{chset-cell|424}}
+|{{chset-cell|413}}
+|{{chset-cell|425}}
+|{{chset-cell|418}}
+|{{chset-cell|419}}
+|{{chset-cell|41A}}
+|{{chset-cell|41B}}
+|{{chset-cell|41C}}
+|{{chset-cell|41D}}
+|{{chset-cell|41E}}
+|-
+!{{chset-left|F}}
+|{{chset-cell|41F}}
+|{{chset-cell|42F}}
+|{{chset-cell|420}}
+|{{chset-cell|421}}
+|{{chset-cell|422}}
+|{{chset-cell|423}}
+|{{chset-cell|416}}
+|{{chset-cell|412}}
+|{{chset-cell|42C}}
+|{{chset-cell|42B}}
+|{{chset-cell|417}}
+|{{chset-cell|428}}
+|{{chset-cell|42D}}
+|{{chset-cell|429}}
+|{{chset-cell|427}}
+|{{chset-cell|42A}}
+|}
+
+
 [[Категорий:Информатике]]
 
 [[ru:КОИ-8]]
