@@ -1,5 +1,232 @@
-[[Монитор]] экранын кугытшым (лопкыт ден кӱкшытшым) [[пиксель]] дене висымаш.
+'''Экран авалтыш''' ({{lang-ru|Разрешение}}) — [[Монитор]] экранын кугытшым (лопкыт ден кӱкшытшым) [[пиксель]] дене висымаш.
+== Дисплей авалтыш ==
+Эн чӱчкыдын вашлиялтше экран-авалтышан монитор, панел, дисплей-влаклан йӱкпале дене кӱемалтше тамга-влак улыт:
+[[Файл:Vector Video Standards2.svg|thumb|550px|]]
+* '''[[QVGA]]''' — 320&times;240 — 76,8 кПикс,
+* '''SIF''' [MPEG1 SIF] — 352&times;240 |22:15| — 84,48 kPix,
+* '''WQVGA''' — 400&times;240 — 96 кпикс,
+* '''CIF''' [MPEG1 VideoCD] — 352&times;288 |11:9| — 101,37 кпикс,
+* '''HVGA''' — 640&times;240 (|32:12| ≈ 8÷3) или 320&times;480 (15:10) — 153,6 кПикс,
+* '''nHD''' — 640&times;360 — 230,4 кПикс,
+* '''[MPEG2 SV-CD]''' — 480&times;576 |12:10| — 276,48 кПикс,
+* '''[[VGA]]''' — 640&times;480 |12:9| — 307,2 кПикс,
+* '''WVGA''' — 800&times;480 — 384 кПикс,
+* '''FWVGA''' — 854&times;480 — 409,92 кПикс,
+* '''[[SVGA]]''' — 800&times;600 — 480 кПикс,
+* '''WSVGA''' — 1024&times;600 (|15,36:9| ≈ 15÷9) — 614,4 кПикс,
+* '''XGA''' — 1024&times;768 |12:9| — 786,432 кПикс,
+* '''WXVGA''' — 1200&times;600 — 720 кПикс,
+* '''[[WXGA]]''' — 1280&times;768 — 983,04 кПикс,
+* '''XGA+''' — 1152&times;864 — 995,3 кПикс,
+* '''WXGA+''' — 1440&times;900 — 1,296 МПикс,
+* '''SXGA''' — 1280&times;1024 — 1,31 MPix,
+* '''WXGA++''' — 1600&times;900 — 1,44 МПикс,
+* '''SXGA+''' — 1400&times;1050 — 1,47 МПикс,
+* '''XJXGA''' — 1536&times;960 — 1,475 МПикс,
+* '''WSXGA''' (?) — 1536&times;1024 — 1,57 МПикс,
+* '''WSXGA''' — 1600&times;1024 |25:16| — 1,64 МПикс,
+* '''WSXGA+''' — 1680&times;1050 — 1,76 МПикс,
+* '''[[UXGA]]''' — 1600&times;1200 — 1,92 МПикс,
+* '''[[Full HD]]''' — 1920&times;1080 — 2,07 МПикс,
+* '''[[WUXGA]]''' — 1920&times;1200 — 2,3 МПикс,
+* '''QXGA''' — 2048&times;1536 — 3,15 МПикс,
+* '''QWXGA''' — 2048&times;1152 — 2,36 МПикс,
+* '''WQXGA''' — 2560&times;1440 — 3,68 МПикс,
+* '''WQXGA''' — 2560&times;1600 — 4,09 МПикс,
+* '''QSXGA''' — 2560&times;2048 — 5,24 МПикс,
+* '''WQSXGA''' — 3200&times;2048 |25:16| — 6,55 МПикс,
+* '''QUXGA''' — 3200&times;2400 — 7,68 МПикс,
+* '''WQUXGA''' — 3840&times;2400 — 9,2 МПикс,
+* '''HSXGA''' — 5120&times;4096 — 20,97 МПикс,
+* '''WHSXGA''' — 6400&times;4096 |25:16| — 26,2 МПикс,
+* '''HUXGA''' — 6400&times;4800 — 30,72 МПикс,
+* '''Super Hi-Vision''' — 7680&times;4320 — 33,17 МПикс,
+* '''WHUXGA''' — 7680&times;4800 — 36,86 МПикс.
 
+{| class="wikitable sortable"
+!Компьютер стандарт / Явала лӱм!!Разрешений!!Экранын кужут ден лопкытшо!!Пиксел-влак, пырля
+|-
+|[[MOS Technology VIC-II|VIC-II]] multicolor, [[IBM PCjr]] 16-color||160&times;200||4÷5||32 000
+|-
+|[[TMS9918]], [[ZX Spectrum]]||256&times;192||4÷3 {1,333:1}||49 152
+|-
+|[[Color Graphics Adapter|CGA]] 4-color[04/05h] available from a palette of 16 (was introduced along with the IBM PC in 1981), [[Atari ST]] 16 color, [[MOS Technology VIC-II|VIC-II]] HiRes, [[Original Amiga chipset|Amiga OCS]] NTSC LowRes||320&times;200||16÷10 {1,60:1}||64 000
+|-
+|[[QVGA]]||320&times;240||4÷3||76,800
+|-
+|[[BBC Micro|Acorn BBC]] 40 column modes, [[Original Amiga chipset|Amiga OCS]] PAL LowRes||320&times;256||5÷4 {1,25:1}||81 920
+|-
+|[[WQVGA]]||400&times;240||15÷9 {1,667:1}||96 000
+|-
+|[[Диалоговый вычислительный комплекс|КГД (контроллер графического дисплея) ДВК]]||400&times;286 (288)||12,5÷9 (approx. [[ISO 216|14/10]] {≈[[Константа Пифагора|√2]]:1})||114 400
+|-
+| ||466&times;288||≈ 16÷10 ({14,5623:9}, ≈ [[Золотое сечение|Золотому Сечению]])||134 208
+|-
+|WQVGA (?) Sony PSP Go||480&times;270||16÷9||129 600
+|-
+|[[HVGA]]||480&times;320||15÷10 {1,50:1}||153 600
+|-
+|[[Вектор-06Ц]], [[БК|Электроника БК]]||512&times;256||2÷1||131 072
+|-
+|[[Apple Macintosh|Black & white Macintosh (9")]]||512&times;342||(approx. 15÷10)||175 104
+|-
+|[[Macintosh LC]] (12")/[[Macintosh Color Classic|Color Classic]]||512&times;384||4÷3||196 608
+|-
+|[[Atari ST]] 4 color, [[Color Graphics Adapter|CGA]] mono[06h], [[Original Amiga chipset|Amiga OCS]] NTSC HiRes||640&times;200||16÷5||128 000
+|-
+|[[BBC Micro|Acorn BBC]] 80 column modes||640&times;256||5÷2 {22,5:9}||163 840
+|-
+|[[Original Amiga chipset|Amiga OCS]] PAL HiRes||640&times;256||5÷2 {22,5:9}||163 840
+|-
+|Контейнер [[AVI]]([[MPEG-4]] / MP3), Соотв.профиль: Advanced Simple Profile Level 5||640&times;272||127÷54 (21,1667:9 {≈ 2,35:1})||174 080
+|-
+|[[УКНЦ|Электроника МС 0511]]||640&times;288||20÷9 (or 33/15)||184 320
+|-
+|[[Enhanced Graphics Adapter|EGA]][10h BIOS Mode] (in 1984)||640&times;350||64÷35 (approx. 11:6 {16,5:9})||224 000
+|-
+|[[Atari ST]] mono, Toshiba T3100/T3200, [[Original Amiga chipset|Amiga OCS]] NTSC interlaced||640&times;400||16÷10 {14,4:9}||256 000
+|-
+|[[VGA]] 4 bits per sample/16 colors[12h] (on April 2, 1987) and [[Multicolor Graphics Adapter|MCGA]]||640&times;480||4÷3||307 200
+|-
+|[[Original Amiga chipset|Amiga OCS]] PAL interlaced||640&times;512||5÷4||327 680
+|-
+|[[Hercules Graphics Card|HGC]]||720&times;348||60:29 (approx. 31÷15 {18,6:9})||250 560
+|-
+|[[Monochrome Display Adapter|MDA]] (in 1981)||720&times;350||72:35 (approx. 31÷15)||252 000
+|-
+|[[Apple Lisa]]||720&times;360||2÷1||259 200
+|-
+|[[Apple Lisa]]+||784(or 800)&times;640||24,5÷20 {or ≈5÷4}, 11:9||501 760
+|-
+|[[WGA or WVGA]]||800&times;480||15÷9||384 000
+|-
+|[[SVGA]]||800&times;600||4÷3||480 000
+|-
+| ||800&times;640||5÷4 {11,25:9}||512 000
+|-
+|TouchScreen, вместо TrackPad, в нетбуках Sharp линейки Mebius||854&times;466||11÷6 (16½:9)||397 964
+|-
+|WVGA+||854 (853,333)&times;480||прибл. 16÷9||409 920
+|-
+|SONY XEL-1||960&times;540||16÷9||518 400
+|-
+|Apple iPhone 4||960&times;640||15÷10 {13,5:9}||614 400
+|-
+|Dell Latitude 2100||1024&times;576||16÷9 (true)||589 824
+|-
+|WSVGA||1024&times;600||прибл. 15÷9 {=15,36:9}||614 400
+|-
+|[[XGA]] (on October 30, 1990), including support 1056×400 [14h] Text Mode||1024&times;768||4÷3 {12:9}||786 432
+|-
+|[[NeXT]]cube||1120&times;832||35÷26 (approx. 4:3)||931 840
+|-
+| ||1152&times;648||16÷9||746 496
+|-
+| ||1152&times;720||16÷10 {14,4:9}||829 440
+|-
+| ||1152&times;768||15÷10||884 736
+|-
+|[[XGA+]]||1152&times;864||4÷3||995 328
+|-
+|[[Sun Microsystems|Sun]]||1152&times;900||32÷25 (approx. 5:4 {11½:9})||1 036 800
+|-
+| ||1200&times;720||15÷9||864 000
+|-
+|[[WXGA]]<sup>1</sup> ([[HD Ready]])||1280&times;720||16÷9 {1,778:1}||921 600
+|-
+|wXGA+||1280&times;768||15÷9||983 040
+|-
+|[[WXGA]]<sup>1</sup>||1280&times;800||16÷10||1 024 000
+|-
+|wXGA++||1280&times;854 (853,333)||прибл. 15÷10||1 093 120
+|-
+|[[SXGA]] ([[Электронно-лучевая трубка|ЭЛТ]]) {UVGA?}||1280&times;960||4÷3||1 228 800
+|-
+|[[SXGA]]||1280&times;1024||5÷4 {11¼:9}||1 310 720
+|-
+|[[WXGA]]<sup>1</sup> ([[HD Ready]])* [High Definition (Basic)]||1366(1365,333)&times;768||approx. 16÷9||1 048 576
+|-
+|[[SXGA+]]||1400&times;1050||4÷3||1 470 000
+|-
+|[[WSXGA Wide XGA+|WSXGA or WXGA+]] (?)||1440&times;900||16÷10||1 296 000
+|-
+| ||1440&times;960||15÷10||1 382 400
+|-
+|AVCHD/ «HDV 1080i» (anamorphic widescreen HD), + разрешения мониторов||1440&times;1080||4÷3 {1⅓:1}||1 555 200
+|-
+| ||1536&times;864||16÷9||1 327 104
+|-
+|UWXGA||1600&times;768 (750)||прибл. 31÷15 {18,6…18,75/9} или 32÷15 {19,2:9}||1 228 800
+|-
+|wXGA++ (?) [High Definition (Plus)]||1600&times;900||16÷9||1 440 000
+|-
+|[[WSXGA]]||1600&times;1024||25÷16 {1,5625:1}||1 638 400
+|-
+|[[UXGA]]||1600&times;1200||4÷3||1 920 000
+|-
+|[[WSXGA+]]||1680&times;1050||16÷10||1 764 000
+|-
+|[[Full HD]] (HD Ready 1080P)||1920&times;1080||16÷9||2 073 600
+|-
+|[[WUXGA]]||1920&times;1200||16÷10||2 304 000
+|-
+| ||1920&times;1280||15÷10||2 457 600
+|-
+| ||1920&times;1440||4÷3||2 764 800
+|-
+| ||2048 (2040)&times;1080||прибл. 17÷9 {1,889:1}||2 211 840
+|-
+|[[QWXGA]]||2048&times;1152||16÷9||2 359 296
+|-
+|[[QXGA]]||2048&times;1536||4÷3||3 145 728
+|-
+|[[WQXGA]]||2560&times;1440||16÷9||3 686 400
+|-
+|[[WQXGA]] (?)||2560&times;1600||16÷10||4 096 000
+|-
+|[[QSXGA]]||2560&times;2048||5÷4 {15:12}||5 242 880
+|-
+|[[WQSXGA]]||3200&times;2048||25÷16 {≈14:9}||6 553 600
+|-
+|[[QUXGA]]||3200&times;2400||4÷3||7 680 000
+|-
+|WQSXGA (?)||3280 (3277)&times;2048||14,5÷9 (≈ 16:10 {≈соотв. [[Золотое сечение|Золотому Сечению]]})||6 717 440
+|-
+|Quad HD/ UHD||3840&times;2160||16÷9||8 294 400
+|-
+|[[WQUXGA]] (QSXGA-W)||3840&times;2400||16÷10||9 216 000
+|-
+|[[HSXGA]]||5120&times;4096||5÷4||20 971 520
+|-
+|[[WHSXGA]]||6400&times;4096||25÷16 {≈14:9}||26 214 400
+|-
+|[[HUXGA]]||6400&times;4800||4÷3||30 720 000
+|-
+|[[Super Hi-Vision]] (UHDTV)||7680&times;4320||16÷9||33 177 600
+|-
+|[[WHUXGA]]||7680&times;4800||16÷10||36 864 000
+|-
+|}
 [[Категорий:Информатике]]
 
 [[ru:Разрешение (компьютерная графика)]]
+[[ar:دقة شاشة]]
+[[ca:Resolució de pantalla]]
+[[cs:Rozlišení]]
+[[da:Opløsning (billede)]]
+[[en:Display resolution]]
+[[es:Resolución de pantalla]]
+[[eu:Pantaila-bereizmen]]
+[[fr:Définition d'écran]]
+[[he:רזולוציה]]
+[[it:Risoluzione del display]]
+[[ja:解像度]]
+[[ko:해상도]]
+[[lv:Ekrāna izšķirtspēja]]
+[[ms:Peleraian paparan]]
+[[nl:Resolutie (digitale beeldverwerking)]]
+[[pl:Rozdzielczość ekranu]]
+[[simple:Display resolution]]
+[[sv:Skärmupplösning]]
+[[uk:Роздільність дисплею]]
+[[zh:显示分辨率]]
