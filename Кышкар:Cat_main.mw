@@ -1,0 +1,3 @@
+{{rellink|extraclasses=relarticle mainarticle|Тиде [[Википедий:Категорийлымаш|категорийлан]] тӱҥ {{#ifeq:{{{article|}}}|no|page|статья}}{{#if:{{{2|}}}|-влак}} {{#if:{{{2|}}}|улыт|улеш}} '''[[{{{1<includeonly>|{{PAGENAME}}</includeonly>}}}]]'''{{#if:{{{2|}}}|{{#if:{{{3|}}}|, |&nbsp;and }} '''[[{{{2}}}]]'''{{#if:{{{3|}}}|{{#if:{{{4|}}}|, |&nbsp;and }} '''[[{{{3}}}]]'''{{#if:{{{4|}}}|{{#if:{{{5|}}}|, |&nbsp;and }} '''[[{{{4}}}]]'''{{#if:{{{5|}}}|&nbsp;and '''[[{{{5}}}]]'''}}}}}}}}.{{#if:{{{6|}}}|<br/>&mdash; '''Error: [[Template:cat main|Too many links specified (maximum is 5)]]'''}}}}<noinclude>
+{{Documentation}}
+</noinclude>
