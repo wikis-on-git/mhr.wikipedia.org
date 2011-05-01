@@ -1,0 +1,59 @@
+{{#switch:{{{1}}}
+|name = Узбекистан
+|top    = 45.9
+|bottom = 36.8
+|left   = 55.6
+|right  = 73.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Uzbekistan.png
+ |#default = Uzbekistan location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Узбекистан}}
+[[Категорий:Ямдылык:Позиций карте:Узбекистан]]
+
+[[ar:قالب:خريطة مواقع أوزبكستان]]
+[[bar:Vorlage:Positionskarte Usbekistan]]
+[[bg:Шаблон:ПК Узбекистан]]
+[[bn:টেমপ্লেট:Location map Uzbekistan]]
+[[ca:Plantilla:Location map Uzbekistan]]
+[[crh:Şablon:Location map Özbekistan]]
+[[cs:Šablona:LocMap Uzbekistán]]
+[[de:Vorlage:Positionskarte Usbekistan]]
+[[en:Template:Location map Uzbekistan]]
+[[eo:Ŝablono:Situo sur mapo Uzbekio]]
+[[es:Plantilla:Mapa de localización de Uzbekistán]]
+[[eu:Txantiloi:Kokapen mapa/UZB]]
+[[fi:Malline:Location map Uzbekistan]]
+[[fr:Modèle:Géolocalisation/Ouzbékistan]]
+[[he:תבנית:מפת מיקום/אוזבקיסטן]]
+[[hsb:Předłoha:LocMap Uzbekistan]]
+[[hu:Sablon:Pozíciós térkép Üzbegisztán]]
+[[id:Templat:Location map Uzbekistan]]
+[[it:Template:Mappa di localizzazione/UZB]]
+[[ja:Template:Location map Uzbekistan]]
+[[ka:თარგი:პოზრუკა უზბეკეთი]]
+[[kaa:Shablon:Location map Uzbekistan]]
+[[kk:Үлгі:Location map Uzbekistan]]
+[[ko:틀:위치 지도 우즈베키스탄]]
+[[la:Formula:Charta locatrix Uzbeciae]]
+[[lt:Šablonas:Location map Uzbekija]]
+[[ml:ഫലകം:Location map Uzbekistan]]
+[[mr:साचा:Location map उझबेकिस्तान]]
+[[nl:Sjabloon:Positiekaart Oezbekistan]]
+[[no:Mal:Kartposisjon Usbekistan]]
+[[os:Шаблон:ПозКартæ Узбекистан]]
+[[pl:Szablon:Mapa lokalizacyjna/UZB]]
+[[pt:Predefinição:Mapa de localização/Uzbequistão]]
+[[ro:Format:Harta de localizare Uzbekistan]]
+[[sah:Халыып:Location map Uzbekistan]]
+[[sh:Šablon:Location map Uzbekistan]]
+[[sr:Шаблон:Location map Uzbekistan]]
+[[szl:Szablon:Mapa lokalizacyjno/UZB]]
+[[ta:வார்ப்புரு:Location map Uzbekistan]]
+[[tr:Şablon:Location map Uzbekistan]]
+[[uk:Шаблон:Карта розташування Узбекистан]]
+[[ur:سانچہ:Location map Uzbekistan]]
+[[vi:Bản mẫu:Bản đồ định vị Uzbekistan]]
+[[zh:Template:Location map Uzbekistan]]
+[[zh-min-nan:Template:Location map Uzbekistan]]
+</noinclude>
