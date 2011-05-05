@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|флагификаций/тисте</noinclude>}}}
+| alias = Австрий
+| flag alias = Flag of Austria.svg
+| flag alias-Габсбург = Flag of the Habsburg Monarchy.svg
+| flag alias-габсбург = Flag of the Habsburg Monarchy.svg
+| variant = {{{variant|}}}
+| flag alias-торговый = Flag of Austria (state).svg
+<noinclude>
+| var1 = Габсбург
+| var2 = габсбург
+| var3 = торговый
+</noinclude>
+| размер = {{{размер|}}}
+}}<noinclude>
+[[bg:Шаблон:Флагификация/Австрия]]
+</noinclude>
