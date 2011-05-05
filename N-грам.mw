@@ -1,0 +1,39 @@
+'''n-грам''' але '''n-gram''' — n тӱҥлык гыч шогышо [[почелалык]] гыч кӧргӧпочелалык. Тӱҥлык шотеш [[фонем]], [[слог]], йӱкпале, мут але base pair, программылан кӱлешлык семеш. 1 кугыт дене n-грам ''ӱниграм'' (unigram) маналтеш, 2 кугыт дене - ''биграм'' (bigram) (але эше южгунам - ''диграм'' (digram)); 3 кугыт дене - ''кумграм'' (trigram), 4 кугыт дене да туд деч кугырак - ''n-грам'' (n-gram) маналтеш. Южо n-грам негызлыме [[йылме модель|йылме модель-влак]] - тиде (n-1) [[Марков модель]] улыт.
+
+N-грам - тиде тыгай почелалык-влакыште могай шушышо тӱҥлык лиеш тогыдаяшлан вероятностян модель. n-грам тӱрлӧ {{comment|иктешлымашан|статистический}} [[илыше йылмым процесслымаш|илыше йылмым процесслыме]] модель-влакыште кучалталтеш.
+
+==Мутлан==
+Ӱлнӧ, мутлан, аҥгличан йылмелан Google n-грам корпус гычын мут йыжыҥан 3-грамм да 4-грамм-влак (логалше чот дене)<ref>http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html</ref>:
+
+*ceramics collectables collectibles (55)
+*ceramics collectables fine (130)
+*ceramics collected by (52)
+*ceramics collectible pottery (50)
+*ceramics collectibles cooking (45)
+
+4-грам-влак
+
+*serve as the incoming (92)
+*serve as the incubator (99)
+*serve as the independent (794)
+*serve as the index (223)
+*serve as the indication (72)
+*serve as the indicator (120)
+
+==Важ-влак==
+<references />
+
+[[Категорий:Илыше йылмым процесслымаш]]
+[[Категорий:Корпус йылмешанче]]
+[[Категорий:Вероятностне модель]]
+
+[[ca:N-grama]]
+[[cs:N-gram]]
+[[de:N-Gramm]]
+[[en:N-gram]]
+[[es:N-grama]]
+[[eu:N-grama]]
+[[fr:N-gramme]]
+[[it:N-gramma]]
+[[sk:N-gram]]
+[[fi:N-grammi]]
