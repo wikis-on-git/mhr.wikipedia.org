@@ -1,3 +1,42 @@
-Аналог-цифр вестӱрлемдыше.
+[[Файл:WM WM8775SEDS-AB.jpg|thumb|200px|Ныл каналан АЦВ]]
+'''Аналог-цифр вестӱрлемдыше''' {{lang-ru|''Аналого-цифровой преобразователь''}} — Аналогсигналым цифрсигналышке (дискреткодышко) вестӱрлемдыше [[явала]].
 
-Аналогсигналым цифрсигналышке (дискреткодышко) вестӱрлемдыше [[явала]].
+== Кылвер-влак ==
+* Вольфганг Райс. [http://www.efo.ru/doc/Silabs/Silabs.pl?2089 Устройство и принципы действия аналого-цифровых преобразователей различных типов] WBC GmbH Журнал «Компоненты и технологии» № 3 2005
+* [http://www.gaw.ru/html.cgi/txt/doc/adc/index.htm Аналого-цифровые преобразователи, теория и принципы работы] с сайта Рынок Микроэлектроники
+* [http://www.vias.org/simulations/simusoft_adconversion.html Learning by Simulations] A simulation showing the effects of sampling frequency and ADC resolution.
+* [http://www.embedded.com/showArticle.jhtml?articleID=60403334 «Understanding analog to digital converter specifications»] article by Len Staller 2005-02-24.
+* [http://www.maxim-ic.com/appnotes.cfm?appnote_number=810&CMP=WP-2 Understanding Flash ADCs] Tutorial on how flash analog-to-digital converters (ADCs) work.
+
+[[Категорий:Вестӱрлемдыше]]
+[[Категория:Информатике]]
+
+[[ru:Аналого-цифровой преобразователь]]
+[[ar:المبدل التشابهي الرقمي]]
+[[bg:Аналогово-цифров преобразувател]]
+[[ca:Convertidor analògic-digital]]
+[[cs:A/D převodník]]
+[[da:Analog-til-digital-konverter]]
+[[de:Analog-Digital-Umsetzer]]
+[[en:Analog-to-digital converter]]
+[[es:Conversión analógica-digital]]
+[[et:Analoog-digitaalmuundur]]
+[[fa:مبدل سیگنال‌های آنالوگ به دیجیتال]]
+[[fi:A/D-muunnin]]
+[[fr:Convertisseur analogique-numérique]]
+[[hu:Analóg-digitális átalakító]]
+[[id:Pengubah analog-ke-digital]]
+[[it:Convertitore analogico-digitale]]
+[[ja:アナログ-デジタル変換回路]]
+[[ko:아날로그-디지털 변환회로]]
+[[lv:Analogciparu pārveidotājs]]
+[[ms:Penukar analog ke digital]]
+[[nl:Analoog-digitaalomzetter]]
+[[pl:Przetwornik analogowo-cyfrowy]]
+[[pt:Conversor analógico-digital]]
+[[ro:Convertor analogic-numeric]]
+[[simple:Analog to digital converter]]
+[[sk:Analógovo-digitálny prevodník]]
+[[sv:A/D-omvandlare]]
+[[uk:АЦП]]
+[[zh:類比數位轉換器]]
