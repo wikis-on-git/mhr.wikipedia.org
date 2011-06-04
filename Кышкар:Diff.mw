@@ -1,0 +1,4 @@
+<span class="plainlinks">[{{SERVER}}{{SCRIPTPATH}}/index.php?{{#if:{{{diff|}}}|diff={{{diff}}}&}}{{#if:{{{oldid|}}}|oldid={{{oldid}}}}} {{{text|дифф}}}]</span><noinclude>{{doc}}<!--
+[Rus]: Добавляйте категории и интервики на подстраницу /doc, не сюда!
+[Eng]: Add categories and interwikis to the /doc subpage, not here!
+--></noinclude>
