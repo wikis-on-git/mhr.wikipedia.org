@@ -1,0 +1,23 @@
+{{Пайдаланыше-*-N
+|sr|Овом кориснику '''[[:Category:User sr|српски]]''' језик је '''[[:Category:User sr-N|матерњи]]'''.|
+
+|float={{{float|left}}}
+|border-width={{{border-width|{{{border-s|1}}}}}}
+|logo-width={{{logo-width|{{{id-w|45}}}}}}
+|logo-height={{{logo-height|{{{id-h|45}}}}}}
+|logo-size={{{font-size|{{{logo-size|{{{id-s|14}}}}}}}}}
+|logo-color={{{logo-color|{{{id-fc|black}}}}}}
+|logo-padding={{{logo-padding|{{{id-p|1px}}}}}}
+|logo-line-height={{{logo-line-height|{{{id-lh|1.25em}}}}}}
+|logo-other-param={{{logo-other-param|{{{id-op|}}}}}}
+|info-size={{{info-size|{{{info-s|8}}}}}}
+|info-padding={{{info-padding|{{{info-p|4px}}}}}}
+|info-line-height={{{info-line-height|{{{info-lh|1.25em}}}}}}
+|info-color={{{info-color|{{{info-fc|black}}}}}}
+|info-other-param={{{info-other-param|{{{info-op|}}}}}}
+}}<includeonly>{{#if:{{{Категорий деч посна|}}}||
+{{Пайдаланыше-Категорий|en|3}}
+}}</includeonly>
+<noinclude>
+
+</noinclude>
