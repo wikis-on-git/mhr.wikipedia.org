@@ -1,0 +1,21 @@
+<noinclude>{{docpage}}</noinclude>== Кучылтмаш ==
+<pre>{{Вики-каныш|Дата}}</pre>
+{{Вики-каныш|Дата}}
+<pre>{{Вики-каныш|Дата|, Post scriptum.}}</pre>
+{{Вики-каныш|Дата|, Post scriptum.}}
+<pre>{{Вики-каныш|Марла дата|, Марла Post scriptum.|Английская дата|, Английский Post scriptum.}}</pre>
+{{Вики-каныш|Марла дата|, Марла Post scriptum.|Английская дата|, Английский Post scriptum.}}
+<pre>
+{{Вики-отпуск
+ |date = Марла дата
+ |ps = , Марла Post scriptum.
+ |date-en = Английская дата
+ |ps-en = , Английский Post scriptum.
+}}
+</pre>
+{{Вики-каныш
+ |date = Марла дата
+ |ps = , Марла Post scriptum.
+ |date-en = Английская дата
+ |ps-en = , Английский Post scriptum.
+}}
