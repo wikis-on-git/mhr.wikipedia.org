@@ -2,7 +2,7 @@
 '''DNS''' ({{lang-en|Domain Name System}}) — [[Домен]] лӱм системе.
 
 [[Интервот]] деке ушымо шкешотан (уникал) компьютерлӱм-влакын иерархиян системышт.
-== RFC документ-влак  ==
+== RFC документ-влак ==
 * RFC 1034 — Domain Names — Concepts and Facilities
 * RFC 1035 — Domain Names — Implementation and Specification
 * RFC 1537 — Common DNS Data File Configuration Errors
@@ -39,7 +39,7 @@
 [[hi:डोमेन नाम प्रणाली]]
 [[hr:DNS]]
 [[hu:Domain Name System]]
-[[id:Sistem Penamaan Domain]]
+[[id:Sistem Nama Ranah]]
 [[it:Domain Name System]]
 [[ja:Domain Name System]]
 [[ko:DNS]]
