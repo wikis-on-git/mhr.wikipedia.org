@@ -1,0 +1,8 @@
+<includeonly>{{#switch: {{{1|}}}
+ | 1 = <div style="background:#B4B9C3;padding:5px;-moz-border-radius: 0.3em;"><span style="font-size: 125%;font-weight: bold; color: Black;">{{{2}}}</span></div>
+ | 2 = <div style="background:#B4B9C3;padding:2px;-moz-border-radius: 0.2em; margin-top: 8px; margin-bottom: 0px;"><span style="font-size: 100%;font-weight: bold; color: Black;">{{{2}}}</span></div>
+ | 3 = <div style="background:#D4D9E3;padding:0px;-moz-border-radius: 0.2em; margin-top: 0px; margin-bottom: 0px; margin-right: 2px; margin-left: 2px;"><span style="font-size: 100%;font-weight: bold; color: Black;">{{{2}}}</span></div>
+}}</includeonly><noinclude>
+{{doc}}
+[[Категория:Википедия:Подстраницы шаблона Автомобиль]]
+</noinclude>
