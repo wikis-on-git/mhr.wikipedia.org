@@ -1,0 +1,13 @@
+<includeonly><div style="border-top:    2px solid SlateGray;
+            border-bottom: 2px solid SlateGray;
+            margin-top:    8px;
+            margin-bottom: 0px;
+            margin-right:  0px;
+            margin-left:   0px;
+            padding-top:   0px;
+            padding-bottom:0px;
+            padding-right: 0px;
+            padding-left:  0px;
+            width:         300px;">{{ #if: {{{фото|{{{1|}}}}}} |[[Файл:{{{фото|{{{1|}}}}}}|300px|{{{название|{{{3|}}}}}}]]|{{ #ifexpr: {{#if:{{{изображение|}}}|1|0}} or {{#if:{{{4|}}}|1|0}} |{{{4|{{{изображение}}}}}} }} }}{{ #if: {{{викисклад|{{{2|}}}}}}|<div style="background:Black;text-align: right;padding-right: 5px;">[[commons:{{{викисклад|{{{2|}}}}}}|<span style="font-size: 80%;font-style: italic;color:LightBlue;">{{{название|{{{3|}}}}}} на викискладе</span>]]<div style="float: right; padding-top: 5px">[[Файл:Gnome-go-next.svg|10px|link=commons:{{{викисклад|{{{2|}}}}}}|{{{название|{{{3|}}}}}} на викискладе]]</div></div>}}</div></includeonly><noinclude>
+[[Категория:Википедия:Подстраницы шаблона Автомобиль]]
+</noinclude>
