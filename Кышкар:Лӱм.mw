@@ -51,7 +51,7 @@
 }}{{#ifeq:{{{Пӧле|}}}|пӧр.|<nowiki/>
 {{#if:{{{Ачалӱм_пӧр|<noinclude>-</noinclude>}}}|<nowiki/>
 {{!}}-
-{{!}}align="right" background="#eee"{{!}} '''Отчество:'''
+{{!}}align="right" background="#eee"{{!}} '''Ачалӱм:'''
 {{!}} {{{Ачалӱм_пӧр|}}}<br />{{{Ачалӱм_ӱдыр|}}}
 }}{{#if:{{{Ӱдырамаш мужыр лӱм|}}}|<nowiki/>
 {{!}}-
@@ -108,7 +108,7 @@
 {{!}}-class="selfreference"
 {{!}}align="right" background="#eee"{{!}} '''Кылдыме статья-влак:'''
 {{!}}style="font-size:smaller"{{!}} [[Special:PrefixIndex/{{{Лӱм марла|{{PAGENAME}}}}}| «{{{Лӱм марла|{{PAGENAME}}}}}» дене тӱҥалше]] <br />
-<span class="plainlinks">[http://mhr.wikipedia.org/wiki/Special:Search?search={{urlencode:{{{Лӱм марла|{{PAGENAME}}}}}}}&fulltext=Search чыла статья-влак «{{{Лӱм марла|{{PAGENAME}}}}} дене»]</span>
+<span class="plainlinks">[http://mhr.wikipedia.org/wiki/Special:Search?search={{urlencode:{{{Лӱм марла|{{PAGENAME}}}}}}}&fulltext=Search чыла статья-влак «{{{Лӱм марла|{{PAGENAME}}}}}» дене]</span>
 {{#if:{{{Палемдымаш|<noinclude>-</noinclude>}}}|<nowiki/>
 {{!}}-
 {{!}}colspan="2" style="font-size:smaller"{{!}} {{{Палемдымаш}}}
