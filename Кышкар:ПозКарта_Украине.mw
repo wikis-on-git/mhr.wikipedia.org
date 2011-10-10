@@ -1,16 +1,16 @@
 {{#switch:{{{1}}}
-|name = Украина
-|type = polar
-|x = 49.842
-|y = 1.227
-|alpha = 181
-|mult = 0.9372819895
-|length_x = 111.047693
-|length_y = 216.678436
+| name   = Украина
+| top    = 52.7
+| bottom = 44.1
+| left   = 21.5
+| right  = 40.7
 |image = {{#switch:{{{2|}}}
  |physical = Ukraine relief location map.jpg
  |#default = Ukraine location map.svg
+}}
 }}<noinclude>{{ПозКарта/Инфо|Украина}}
+[[Категорий:Шаблоны:Позиционные карты:Украина| ]]
+
 [[az:Şablon:Yer xəritəsi Ukrayna]]
 [[bar:Vorlage:Positionskarte Ukraine]]
 [[be:Шаблон:На карце/Украіна]]
