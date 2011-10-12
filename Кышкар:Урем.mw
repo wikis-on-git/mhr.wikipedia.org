@@ -52,7 +52,7 @@
      | {{coord|1={{{lat_deg|0}}}|2={{{lat_min|0}}}|3={{{lat_sec|0}}}|4={{#if:{{{lat_dir|}}}|{{{lat_dir}}}|N}}|5={{{lon_deg|0}}}|6={{{lon_min|0}}}|7={{{lon_sec|0}}}|8={{#if:{{{lon_dir|}}}|{{{lon_dir}}}|E}}|9=type:{{#if: {{{region|}}}
      |landmark_region:{{{region}}} 
      |landmark}}|scale={{#if:{{{CoordScale|}}}|{{{CoordScale}}}|100000}}|format=dms|display=title}}
-     |{{#if: {{{nocat|}}}||[[Категорий:Википедий:Улицы без указанных географических координат]]}}
+     |{{#if: {{{nocat|}}}||[[Категорий:Википедий:Географик координат-влак деч посна уремла]]}}
      }}{{категория только в статьях|Тиштер почеш уремла}}<noinclude>
 {{doc}}
 </noinclude>
