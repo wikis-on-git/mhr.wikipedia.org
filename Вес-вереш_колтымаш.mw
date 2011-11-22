@@ -54,5 +54,5 @@ echo -e "пайдаланыше\nшолыпмут" | ftp localhost
 [[en:Redirection (computing)]]
 [[it:Redirezione]]
 [[ja:リダイレクト (CLI)]]
-[[ru:Перенаправление (UNIX)]]
+[[ru:Перенаправление (программное обеспечение)]]
 [[zh:重定向 (计算机)]]
