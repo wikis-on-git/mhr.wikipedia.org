@@ -1,4 +1,4 @@
-<includeonly>: <div class="boilerplate" id="catmore">''{{#ifexist:{{{1|{{PAGENAME}}}}}|Тӱҥ лаштык: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>|Тиде категорийын тӱҥ лаштыкше уке — '''[[{{{1|{{PAGENAME}}}}}]]'''. Тудым возеда гын, проектлан полшеда''.</div>{{#if:{{{nocat|}}}||{{#ifeq:{{NAMESPACE}}|{{ns:14}}|[[Категорий:Википедий:Кышкар-влак тӱҥ лаштык деч посна]]}}}}}}</includeonly><noinclude>
+<includeonly>: <div class="boilerplate" id="catmore">''{{#ifexist:{{{1|{{PAGENAME}}}}}|Тӱҥ статья: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>|Тиде категорийын тӱҥ статьяже уке — '''[[{{{1|{{PAGENAME}}}}}]]'''. Тудым возеда гын, проектлан полшеда''.</div>{{#if:{{{nocat|}}}||{{#ifeq:{{NAMESPACE}}|{{ns:14}}|[[Категорий:Википедий:Кышкар-влак тӱҥ статья деч посна]]}}}}}}</includeonly><noinclude>
 {{doc}}
 {{DEFAULTSORT:{{PAGENAME}}}}
 [[Категорий:Ямдылык-влак:Категорий-влаклан]]
