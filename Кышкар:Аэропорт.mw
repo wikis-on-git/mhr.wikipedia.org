@@ -142,11 +142,11 @@
 }}}} }}
 |-
 {{#if: {{{r1-number<includeonly>|</includeonly>}}} {{{r1-length-f|}}} {{{r1-length-m|}}} {{{r1-surface|}}}|
-! colspan=3 style="background-color: #69c; color: white" {{!}} Взлётно-посадочные полосы ([[Взлётно-посадочная полоса|ВПП]])
+! colspan=3 style="background-color: #69c; color: white" {{!}} Нӧлтмӧ-шичме аҥа-влак ([[Нӧлтмӧ-шичме аҥа|НША]])
 {{!}}- style="background-color: #ddd"
 ! style="width: 35%" {{!}} Номер
-! style="width: 25%" {{!}} Размеры
-! style="width: 40%" {{!}} Покрытие
+! style="width: 25%" {{!}} Кугыт
+! style="width: 40%" {{!}} Леведмаш
 {{!}}- style="text-align: center"
 {{!}} {{{r1-number<includeonly>|</includeonly>}}}
 {{!}} {{{r1-length-m<includeonly>|</includeonly>}}}
@@ -196,11 +196,11 @@
 }}
 |- style="background-color: #69c; color: white"
 {{#if: {{{h1-number<includeonly>|</includeonly>}}} {{{h1-length-f|}}} {{{h1-length-m|}}} {{{h1-surface|}}}|
-! colspan=3 {{!}} Вертолётные площадки
+! colspan=3 {{!}} Вертолёт верла
 {{!}}- style="background-color: #ddd"
 ! {{!}} Номер
-! {{!}} Размер
-! colspan=3 {{!}} Покрытие
+! {{!}} Кугыт
+! colspan=3 {{!}} Леведмаш
 {{!}}- style="text-align: center"
 {{!}} {{{h1-number<includeonly>|</includeonly>}}}
 {{!}} {{{h1-length-m<includeonly>|</includeonly>}}}
