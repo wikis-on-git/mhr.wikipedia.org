@@ -23,12 +23,12 @@
 |- style="text-align: left"
 {{#if: {{{namestate<includeonly>|</includeonly>|}}}|
 ! {{!}} Эл
-{{!}} colspan=2 {{!}} <span class="label">{{#if: {{{namestate2|}}} | {{{namestate2}}} | {{В 2 кв. скобках|{{{namestate}}}}}}}</span>
+{{!}} colspan=2 {{!}} <span class="label">{{#if: {{{namestate2|}}} | {{{namestate2}}} | {{{namestate}}}}}</span>
 }}
 |- style="text-align: left"
 {{#if: {{{nameregion<includeonly>|</includeonly>|}}}|
 ! {{!}} Регион
-{{!}} colspan=2 {{!}} <span class="label">{{В 2 кв. скобках|{{{nameregion}}}}}</span>
+{{!}} colspan=2 {{!}} <span class="label">{{{nameregion}}}</span>
 }}
 |- class="note" style="text-align: left"
 {{#if: {{{type<includeonly>|{{{тӱрлык|}}}</includeonly>|}}}|
