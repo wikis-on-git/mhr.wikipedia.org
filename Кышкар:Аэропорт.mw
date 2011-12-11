@@ -2,10 +2,10 @@
 ! colspan=3  style="background-color: #69c; color: white; font-size: 125%" | <span class="fn org">{{{name<includeonly>|{{{марий лӱм|}}}</includeonly>}}}</span>{{#if:{{{nativename<includeonly>|{{{оригинал лӱм|}}}</includeonly>}}}|<br /><span class="nickname">{{{nativename<includeonly>|{{{оригинал лӱм|}}}</includeonly>}}}</span>}}{{#if:{{{nativename-a<includeonly>|</includeonly>}}}|<br /><span class="nickname">{{{nativename-a}}}</span> }}{{#if:{{{nativename-r<includeonly>|</includeonly>}}}|<br /><span class="nickname">{{{nativename-r}}}</span>}}
 |-
 {{#if: {{{image<includeonly>|{{{сӱрет|}}}</includeonly>}}}|
-{{!}} colspan=3 style="text-align: center" {{!}} [[Файл:{{{image<includeonly>|{{{сӱрет|}}}</includeonly>}}}|{{#if:{{{image-width|{{{размер фото|}}}}}}|{{{image-width|{{{размер фото|}}}}}}|220}}px]]
+{{!}} colspan=3 style="text-align: center" {{!}} [[Файл:{{{image<includeonly>|{{{сӱрет|}}}</includeonly>}}}|{{#if:{{{image-width|{{{сӱретын лопкытшо|}}}}}}|{{{image-width|{{{сӱретын лопкытшо|}}}}}}|220}}px]]
 {{!}}-
-{{#if: {{{caption<includeonly>|{{{подпись|}}}</includeonly>}}}|
-{{!}} colspan=3 style="text-align: center" {{!}} {{{caption|{{{подпись|}}}}}}
+{{#if: {{{caption<includeonly>|{{{возымаш|}}}</includeonly>}}}|
+{{!}} colspan=3 style="text-align: center" {{!}} {{{caption|{{{возымаш|}}}}}}
 {{!}}-
 }}
 }}
@@ -19,10 +19,10 @@
 }}
 ! colspan=3 style="white-space: nowrap" | [[Код аэропорта ИАТА|IATA код]]: {{#if:{{{IATA<includeonly>|</includeonly>}}}|<span class="nickname">{{{IATA}}}</span>|''нет''}} — [[Код аэропорта ИКАО|ICAO код]]: {{#if:{{{ICAO<includeonly>|</includeonly>}}}|<span class="nickname">{{{ICAO}}}</span>|''нет''}} {{#if:{{{FAA|}}}| - [[Federal Aviation Administration|FAA]] [[Location identifier#FAA identifier|LID]]: <span class="nickname">{{{FAA}}}</span>|}} {{#if:{{{TC|}}}| — [[указатель местоположения#указатель местоположения Министерства транспорта Канады|Код]] [[Министерство транспорта Канады|МТК]]: <span class="nickname">{{{TC}}}</span>|}} {{#if:{{{LID|}}}| - [[Location identifier|LID]]: <span class="nickname">{{{LID}}}</span>|}} {{#if:{{{GPS|}}}{{{WMO|}}}|<br />}} {{#if:{{{GPS|}}}| - [[Global Positioning System|GPS]]: <span class="nickname">{{{GPS}}}</span>|}} {{#if:{{{WMO|}}}| — [[Указатель местоположения#Указатели станций ВМО|ВМО]]: <span class="nickname">{{{WMO}}}</span>|}}
 |-
-! colspan=3 style="background-color: #69c; color: white" | Информация
+! colspan=3 style="background-color: #69c; color: white" | Информаций
 |- style="text-align: left"
 {{#if: {{{namestate<includeonly>|</includeonly>|}}}|
-! {{!}} Страна
+! {{!}} Эл
 {{!}} colspan=2 {{!}} <span class="label">{{#if: {{{namestate2|}}} | {{{namestate2}}} | {{В 2 кв. скобках|{{{namestate}}}}}}}</span>
 }}
 |- style="text-align: left"
@@ -31,9 +31,9 @@
 {{!}} colspan=2 {{!}} <span class="label">{{В 2 кв. скобках|{{{nameregion}}}}}</span>
 }}
 |- class="note" style="text-align: left"
-{{#if: {{{type<includeonly>|{{{тип|}}}</includeonly>|}}}|
-! {{!}} Тип
-{{!}} colspan=2 {{!}} {{{type|{{{тип|}}}}}}
+{{#if: {{{type<includeonly>|{{{тӱрлык|}}}</includeonly>|}}}|
+! {{!}} Тӱрлык
+{{!}} colspan=2 {{!}} {{{type|{{{тӱрлык|}}}}}}
 }}
 |- class="note" style="text-align: left"
 {{#if: {{{owner-oper|}}}|
@@ -93,17 +93,17 @@
 }}
 |- style="text-align: left"
 {{#if: {{{coordinates<includeonly>|</includeonly>}}}|
-! {{!}} [[Географик координаты|Координаты]]
+! {{!}} [[Географик координат-влак|Координат-влак]]
 {{!}} colspan=2 {{!}} {{{coordinates|}}}
 |{{#if: {{{lat_deg|}}} |
-! {{!}} [[Географик координаты|Координаты]]
+! {{!}} [[Географик координат-влак|Координат-влак]]
 {{!}} colspan=2 {{!}} {{coord|{{{lat_deg}}}|{{{lat_min|0}}}|{{{lat_sec|0}}}|{{{lat_dir|}}}|{{{lon_deg}}}|{{{lon_min|0}}}|{{{lon_sec|0}}}|{{{lon_dir|}}}|type:{{#if: {{{region|}}}|airport_region:{{{region}}} |airport}}|scale={{#if:{{{CoordScale|}}}|{{{CoordScale}}}|100000}}|format=dms long}}
  }}
 }}
 |- style="text-align: left"
-{{#if: {{{площадь<includeonly>|</includeonly>|}}}|
-! {{!}} Площадь
-{{!}} colspan=2 {{!}} {{{площадь}}}
+{{#if: {{{кумдык<includeonly>|</includeonly>|}}}|
+! {{!}} Кумдык
+{{!}} colspan=2 {{!}} {{{кумдык}}}
 }}
 |- style="text-align: left"
 {{#if: {{{terminals<includeonly>|</includeonly>|}}}|
@@ -112,12 +112,12 @@
 }}
 |- style="text-align: left"
 {{#if: {{{time<includeonly>|</includeonly>|}}}|
-! {{!}} Местное время
+! {{!}} Верысе жап
 {{!}} colspan=2 {{!}} UTC {{{time|?}}}
 }}
 |- style="text-align: left"
 {{#if: {{{worktime<includeonly>|</includeonly>|}}}|
-! {{!}} Время работы
+! {{!}} Паша жап
 {{!}} colspan=2 {{!}} {{{worktime}}}
 }}
 |- style="text-align: left"
@@ -314,7 +314,7 @@
 | 1 =
 | 2 =
 | 12 =
-| [[Категорий:Википедий:Аэропорты без указанных географических координат]]
+| [[Категорий:Википедий:Географик координат-влак деч посна аэропорт-влак]]
 }}</includeonly>
 |}<noinclude>
 {{doc}}
