@@ -145,7 +145,7 @@
 | ICAO                    = 
 | тӱрлык                     = <!-- Публичный, частный или военный-->
 | верланымаш            = 
-| высота над уровнем моря = 
+| теҥыз ӱмбалне кӱкшыт = 
 |lat_dir = |lat_deg = |lat_min = |lat_sec = 
   |lon_dir = |lon_deg = |lon_min = |lon_sec = 
   |region     =   
@@ -170,7 +170,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
 | ICAO                    = код LFOB
 | тӱрлык                     = Публичный
 | верланымаш            = В 70 км. на север от центра Парижа
-| высота над уровнем моря = 109 м.
+| теҥыз ӱмбалне кӱкшыт = 109 м.
 |lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
   |lon_dir = E|lon_deg = 02|lon_min = 06|lon_sec = 8
   |region     =   
@@ -191,7 +191,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
 | ICAO                    = LFOB код
 | тӱрлык                     = Публичный
 | верланымаш            = В 70 км. на север от центра Парижа
-| высота над уровнем моря = 109 м.
+| теҥыз ӱмбалне кӱкшыт = 109 м.
 |lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
   |lon_dir = E|lon_deg = 02|lon_min = 06|lon_sec = 8
   |region     =   
