@@ -1,0 +1,236 @@
+<noinclude>{{docpage}}</noinclude>
+{{внимание|Идёт объединение данного шаблона с {{tl|Аэропорт заголовок}}, {{tl|Аэропорт фотография}}, {{tl|Аэропорт данные}}, {{tl|Аэропорт конец}}}}
+== Суть нового шаблона ==
+Новый шаблон в настоящее время поддерживает все поля из {{tl|Аэропорт}}, {{tl|Аэропорт данные}} (кроме 3х-4х, которые войдут в секцию «статистики») и [[:en:Template:Infobox airport]]. В качестве основы был использован английский вариант аэродромного шаблона [[:en:Template:Infobox airport]]. Шаблон можно сейчас использовать как со старыми названиями полей, так и с названиями полей из {{tl|Аэропорт данные}} и [[:en:Template:Infobox airport]] (то есть возможно скопировать любой заполненный аэродромный шаблон-карточку из англовики, перевести текстовку внутри на русский язык — и получится работающий шаблон-карточка для новой статьи или заполненные поля для существующей).
+
+В случае использования нового варианта с полями из {{tl|Аэропорт данные}}, [[:en:Template:Infobox airport]] — просьба использовать в качестве образца (до создания полной документации по новому шаблону) примеры из {{tl|Аэропорт/temp}}.
+
+{{Аэропорт
+|name = Международный аэропорт Лос-Анджелес
+|nativename = Los Angeles International Airport
+|nativename-a = 
+|nativename-r = 
+|image = LAX_LA.jpg
+|image-width = 200px
+|caption = аэропорт Лос-Анджелес
+|image2 = 
+|image2-width = 
+|caption2 = 
+|IATA = LAX
+|ICAO = KLAX
+|FAA = 
+|TC = 
+|LID = LAX
+|GPS = 
+|WMO = 
+|namestate = США
+|namestate2 = 
+|nameregion = 
+|тип = международный
+|owner-oper = 
+|owner = Лос-Анджелес
+|operator = Los Angeles World Airports
+|city-served = Greater Los Angeles metropolitan area
+|location = Los Angeles, California, United States
+|hub = Alaska Airlines, American Airlines, Horizon Air, United Airlines
+|built = 1928
+|used = 
+|commander = 
+|occupants = 
+|altitude = 38
+|coordinates = 
+|lat_deg = 33|lat_min = 56|lat_sec = 33|lat_dir =N
+|lon_deg =118 |lon_min = 24|lon_sec = 29|lon_dir =W
+|region =
+|CoordScale = 
+|площадь = 
+|terminals = 
+|time = 
+|worktime = 
+|site = [http://www.lawa.org/welcomeLAX.aspx www.lawa.org]
+|r1-number = 6L/24R
+|r1-length-m = 2,720
+|r1-surface = асфальт
+|r2-number = 6R/24L
+|r2-length-m = 3,135
+|r2-surface = асфальт
+|r3-number    = 7L/25R
+|r3-length-m  = 3,685
+|r3-surface   = Concrete
+|r4-number    = 7R/25L
+|r4-length-m  = 3,382
+|r4-surface   = Concrete
+|h1-number    = H3
+|h1-length-m  = 19
+|h1-surface   = Concrete
+|footnotes = 
+}}
+== Новый шаблон ==
+После англоязычного написан русский эквивалент параметра, если он есть в шаблоне.
+<pre>{{Aэропорт
+|name = русское название
+|nativename = оригинальное название
+|nativename-a = 
+|nativename-r =
+|image = фото
+|image-width = размер фото
+|caption = подпись
+|image2 =
+|image2-width =
+|caption2 =
+|IATA = 
+|ICAO =
+|FAA = 
+|TC =
+|LID =
+|GPS =
+|WMO =
+|namestate =
+|namestate2 =
+|nameregion =
+|тип =
+|owner-oper =
+|owner =
+|operator =
+|city-served =
+|location =
+|hub =
+|built =
+|used =
+|commander =
+|occupants =
+|altitude =
+|coordinates =
+       |lat_deg = |lat_min = |lat_sec = |lat_dir = 
+       |lon_deg = |lon_min = |lon_sec = |lon_dir =
+       |CoordScale = 
+|площадь =
+|terminals =
+|time =
+|worktime =
+|site = веб-сайт
+|r1-number =
+|r1-length-m =
+|r1-surface =
+...
+|r8-number =
+|r8-length-m =
+|r8-surface =
+|h1-number =
+|h1-length-m =
+|h1-surface =
+... 
+|h12-number =
+|h12-length-m =
+|h12-surface =
+|stat1-header =
+|stat1-data =
+|stat-year =
+... 
+|stat6-header =
+|stat6-data =
+|footnotes = 
+}}</pre>
+
+== Заготовка для копирования ==
+{|style="background:transparent;"
+|<pre>
+{{Аэропорт
+| русское название        = 
+| оригинальное название   = 
+| фото                    = 
+| размер фото             = <!-- ширина изображения в пикселах (по умолчанию 200px)-->
+| подпись                 = <!-- текст под изображением-->
+| IATA                    = 
+| ICAO                    = 
+| тип                     = <!-- Публичный, частный или военный-->
+| расположение            = 
+| высота над уровнем моря = 
+|lat_dir = |lat_deg = |lat_min = |lat_sec = 
+  |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+  |region     =   
+  |CoordScale =  
+| площадь                 = 
+| построен                = <!-- дата основания аэропорта-->
+| веб-сайт                = 
+}}
+</pre>
+|}
+<!-- 
+== Пример заполнения ==
+BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
+
+{{Аэропорт
+| русское название        = Бовэ
+| оригинальное название   = BEAUVAIS THE LOW COST AIRPORT
+| фото                    = 
+| размер фото             = ширина изображения в пикселах (по умолчанию 200px)
+| подпись                 = Airport de Beauvais
+| IATA                    = код BVA
+| ICAO                    = код LFOB
+| тип                     = Публичный
+| расположение            = В 70 км. на север от центра Парижа
+| высота над уровнем моря = 109 м.
+|lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
+  |lon_dir = E|lon_deg = 02|lon_min = 06|lon_sec = 8
+  |region     =   
+  |CoordScale = 
+| площадь                 = площадь аэропорта, предпочтительнее в м²
+| построен                = дата основания аэропорта
+| веб-сайт                = [http://www.aeroportbeauvais.com Официальный сайт]
+}}
+{|style="background:transparent;"
+|<pre>
+{{Аэропорт
+| марий лӱм        = Бовэ
+| оригинал лӱм   = BEAUVAIS THE LOW COST AIRPORT
+| сӱрет                    = 
+| размер фото             = ширина изображения в пикселах (по умолчанию 200px)
+| подпись                 = Airport de Beauvais
+| IATA                    = код BVA
+| ICAO                    = код LFOB
+| тип                     = Публичный
+| верланымаш            = В 70 км. на север от центра Парижа
+| высота над уровнем моря = 109 м.
+|lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
+  |lon_dir = E|lon_deg = 02|lon_min = 06|lon_sec = 8
+  |region     =   
+  |CoordScale = 
+| площадь                 = площадь аэропорта, предпочтительнее в м²
+| построен                = дата основания аэропорта
+| веб-сайт                = [http://www.aeroportbeauvais.com Официальный сайт]
+}}
+</pre>
+|}
+даёт --> 
+<includeonly>
+[[af:Sjabloon:Infobox airport]]
+[[ar:قالب:معلومات مطار]]
+[[bn:টেমপ্লেট:Infobox Airport]]
+[[cs:Šablona:Infobox Letiště]]
+[[da:Skabelon:Infoboks lufthavn]]
+[[de:Vorlage:Infobox Flughafen]]
+[[en:Template:Infobox airport]]
+[[es:Plantilla:Ficha de aeropuerto]]
+[[et:Mall:Lennujaam]]
+[[eo:Ŝablono:Informkesto flughaveno]]
+[[fr:Modèle:Infobox Aéroport]]
+[[hr:Predložak:Infookvir aerodrom]]
+[[he:תבנית:שדה תעופה]]
+[[id:Templat:Infobox Bandara]]
+[[it:Template:Infobox aeroporto]]
+[[ja:Template:Infobox 空港]]
+[[nl:Sjabloon:Infobox luchthaven]]
+[[no:Mal:Infoboks flyplass]]
+[[ka:თარგი:ინფოდაფა აეროპორტი]]
+[[ku:Şablon:Balafirgeh]]
+[[pl:Szablon:Lotnisko infobox]]
+[[pt:Predefinição:Info/Aeroporto2]]
+[[ro:Format:Aeroport]]
+[[ru:Шаблон:Аэропорт]]
+[[fi:Malline:Lentoasema]]
+[[sv:Mall:Flygplats]]
+[[vi:Bản mẫu:Tóm tắt về sân bay]]
+[[zh:Template:Airport infobox]]
+[[zh-yue:Template:Infobox Airport]]
+</includeonly>
