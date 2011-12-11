@@ -87,9 +87,9 @@
 {{!}} colspan=2 {{!}} {{{occupants}}}
 }}
 |- style="text-align: left"
-{{#if: {{{altitude<includeonly>|{{{elevation-m|{{{высота над уровнем моря|}}}}}}</includeonly>}}}|
-! {{!}} [[Высота над уровнем моря]]
-{{!}} colspan=2 {{!}} {{{altitude|{{{elevation-m|{{{высота над уровнем моря|}}}}}}}}}
+{{#if: {{{altitude<includeonly>|{{{elevation-m|{{{теҥыз ӱмбалне кӱкшыт|}}}}}}</includeonly>}}}|
+! {{!}} [[Теҥыз ӱмбалне кӱкшыт]]
+{{!}} colspan=2 {{!}} {{{altitude|{{{elevation-m|{{{теҥыз ӱмбалне кӱкшыт|}}}}}}}}}
 }}
 |- style="text-align: left"
 {{#if: {{{coordinates<includeonly>|</includeonly>}}}|
