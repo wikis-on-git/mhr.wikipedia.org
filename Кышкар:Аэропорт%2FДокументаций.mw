@@ -6,13 +6,13 @@
 В случае использования нового варианта с полями из {{tl|Аэропорт данные}}, [[:en:Template:Infobox airport]] — просьба использовать в качестве образца (до создания полной документации по новому шаблону) примеры из {{tl|Аэропорт/temp}}.
 
 {{Аэропорт
-|name = Международный аэропорт Лос-Анджелес
+|name = Лос-Анджелес калык-влак кокласе аэропорт
 |nativename = Los Angeles International Airport
 |nativename-a = 
 |nativename-r = 
 |image = LAX_LA.jpg
 |image-width = 200px
-|caption = аэропорт Лос-Анджелес
+|caption = Лос-Анджелес аэропорт
 |image2 = 
 |image2-width = 
 |caption2 = 
@@ -23,10 +23,10 @@
 |LID = LAX
 |GPS = 
 |WMO = 
-|namestate = США
+|namestate = АУШ
 |namestate2 = 
 |nameregion = 
-|тӱрлык = международный
+|тӱрлык = калык-влак кокласе 
 |owner-oper = 
 |owner = Лос-Анджелес
 |operator = Los Angeles World Airports
@@ -158,7 +158,7 @@
 |}
 <!-- 
 == Пример заполнения ==
-BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
+BEAUVAIS THE LOW COST AIRPORT (Бовэ Аэропорт)
 
 {{Аэропорт
 | марий лӱм        = Бовэ
@@ -168,7 +168,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
 | возымаш                 = Airport de Beauvais
 | IATA                    = код BVA
 | ICAO                    = код LFOB
-| тӱрлык                     = Публичный
+| тӱрлык                     = Публик
 | верланымаш            = В 70 км. на север от центра Парижа
 | теҥыз ӱмбалне кӱкшыт = 109 м.
 |lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
@@ -177,7 +177,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
   |CoordScale = 
 | кумдык                 = площадь аэропорта, предпочтительнее в м²
 | построен                = дата основания аэропорта
-| веб-сайт                = [http://www.aeroportbeauvais.com Официальный сайт]
+| веб-сайт                = [http://www.aeroportbeauvais.com Официал сайт]
 }}
 {|style="background:transparent;"
 |<pre>
@@ -189,7 +189,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
 | возымаш                 = Airport de Beauvais
 | IATA                    = BVA код
 | ICAO                    = LFOB код
-| тӱрлык                     = Публичный
+| тӱрлык                     = Публик
 | верланымаш            = В 70 км. на север от центра Парижа
 | теҥыз ӱмбалне кӱкшыт = 109 м.
 |lat_dir = N|lat_deg = 49|lat_min = 27 |lat_sec = 3 
@@ -198,7 +198,7 @@ BEAUVAIS THE LOW COST AIRPORT (Аэропорт Бовэ)
   |CoordScale = 
 | кумдык                 = площадь аэропорта, предпочтительнее в м²
 | построен                = дата основания аэропорта
-| веб-сайт                = [http://www.aeroportbeauvais.com Официальный сайт]
+| веб-сайт                = [http://www.aeroportbeauvais.com Официал сайт]
 }}
 </pre>
 |}
