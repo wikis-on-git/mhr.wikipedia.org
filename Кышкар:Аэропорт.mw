@@ -19,7 +19,7 @@
 }}
 ! colspan=3 style="white-space: nowrap" | [[Код аэропорта ИАТА|IATA код]]: {{#if:{{{IATA<includeonly>|</includeonly>}}}|<span class="nickname">{{{IATA}}}</span>|''нет''}} — [[Код аэропорта ИКАО|ICAO код]]: {{#if:{{{ICAO<includeonly>|</includeonly>}}}|<span class="nickname">{{{ICAO}}}</span>|''нет''}} {{#if:{{{FAA|}}}| - [[Federal Aviation Administration|FAA]] [[Location identifier#FAA identifier|LID]]: <span class="nickname">{{{FAA}}}</span>|}} {{#if:{{{TC|}}}| — [[указатель местоположения#указатель местоположения Министерства транспорта Канады|Код]] [[Министерство транспорта Канады|МТК]]: <span class="nickname">{{{TC}}}</span>|}} {{#if:{{{LID|}}}| - [[Location identifier|LID]]: <span class="nickname">{{{LID}}}</span>|}} {{#if:{{{GPS|}}}{{{WMO|}}}|<br />}} {{#if:{{{GPS|}}}| - [[Global Positioning System|GPS]]: <span class="nickname">{{{GPS}}}</span>|}} {{#if:{{{WMO|}}}| — [[Указатель местоположения#Указатели станций ВМО|ВМО]]: <span class="nickname">{{{WMO}}}</span>|}}
 |-
-! colspan=3 style="background-color: #69c; color: white" | Информаций
+! colspan=3 style="background-color: #69c; color: white" | Увераҥар
 |- style="text-align: left"
 {{#if: {{{namestate<includeonly>|</includeonly>|}}}|
 ! {{!}} Эл
