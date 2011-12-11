@@ -1,6 +1,6 @@
 {{Аэропорт
 |name = Сочи калык-влак кокласе аэропорт
-|nativename = Los Angeles International Airport
+|nativename = Международный аэропорт Сочи
 |nativename-a = 
 |nativename-r = 
 |image = LAX_LA.jpg
@@ -9,53 +9,49 @@
 |image2 = 
 |image2-width = 
 |caption2 = 
-|IATA = LAX
-|ICAO = KLAX
+|IATA = AER
+|ICAO = УРСС (URSS)
 |FAA = 
 |TC = 
-|LID = LAX
+|LID = 
 |GPS = 
 |WMO = 
 |namestate = Россий
 |namestate2 = 
-|nameregion = 
+|nameregion = Краснодар мланде
 |тӱрлык = калык-влак кокласе 
 |owner-oper = 
 |owner = Лос-Анджелес
-|operator = Los Angeles World Airports
-|city-served = Greater Los Angeles metropolitan area
-|location = Los Angeles, California, United States
-|hub = Alaska Airlines, American Airlines, Horizon Air, United Airlines
+|operator = КУЫ «Аэропорт Сочи»
+|city-served = Кугу Сочи, Туапсе, Абхазий
+|location = 28 км к юго-востоку от центра Сочи, в микрорайоне Адлер
+|stat1-header = Пассажиро-<br />оборот (год)
+|stat1-data = {{}} 1,921 млн ([[2010]])<ref>[http://www.basel.ru/structure/avia/avk_sochi/ Аэропорт Сочи. БазЭл]</ref>
+|hub = 
 |built = 1928
 |used = 
 |commander = 
 |occupants = 
-|altitude = 38
+|altitude = 27
 |coordinates = 
-|lat_deg = 33|lat_min = 56|lat_sec = 33|lat_dir =N
-|lon_deg =118 |lon_min = 24|lon_sec = 29|lon_dir =W
+|lat_deg = 43|lat_min = 27|lat_sec = 0|lat_dir =N
+|lon_deg =39 |lon_min = 57|lon_sec = 24|lon_dir =E
 |region =
 |CoordScale = 
 |кумдык = 
 |terminals = 
-|time = 
-|worktime = 
-|site = [http://www.lawa.org/welcomeLAX.aspx www.lawa.org]
-|r1-number = 6L/24R
-|r1-length-m = 2,720
-|r1-surface = асфальт
-|r2-number = 6R/24L
-|r2-length-m = 3,135
-|r2-surface = асфальт
-|r3-number    = 7L/25R
-|r3-length-m  = 3,685
-|r3-surface   = Concrete
-|r4-number    = 7R/25L
-|r4-length-m  = 3,382
-|r4-surface   = Concrete
-|h1-number    = H3
-|h1-length-m  = 19
-|h1-surface   = Concrete
+|time = +4
+|worktime = круглосуточно
+|site = [www.basel.aero/]
+|r1-number = 06/24
+|r1-length-m = 2850x50
+|r1-surface = цементобетон
+|r2-number = 02/20
+|r2-length-m = 2500x49
+|r2-surface = цементобетон
+|h1-number    = ?
+|h1-length-m  = ?
+|h1-surface   = ?
 |footnotes = 
 }}
 
