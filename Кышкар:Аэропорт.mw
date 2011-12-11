@@ -1,0 +1,324 @@
+{| class="infobox vcard" style="width: {{{box-width|22em}}}; font-size: 0.86em;<!--font-size: 88%;--> line-height: 1.5em"
+! colspan=3  style="background-color: #69c; color: white; font-size: 125%" | <span class="fn org">{{{name<includeonly>|{{{марий лӱм|}}}</includeonly>}}}</span>{{#if:{{{nativename<includeonly>|{{{оригинал лӱм|}}}</includeonly>}}}|<br /><span class="nickname">{{{nativename<includeonly>|{{{оригинал лӱм|}}}</includeonly>}}}</span>}}{{#if:{{{nativename-a<includeonly>|</includeonly>}}}|<br /><span class="nickname">{{{nativename-a}}}</span> }}{{#if:{{{nativename-r<includeonly>|</includeonly>}}}|<br /><span class="nickname">{{{nativename-r}}}</span>}}
+|-
+{{#if: {{{image<includeonly>|{{{сӱрет|}}}</includeonly>}}}|
+{{!}} colspan=3 style="text-align: center" {{!}} [[Файл:{{{image<includeonly>|{{{сӱрет|}}}</includeonly>}}}|{{#if:{{{image-width|{{{размер фото|}}}}}}|{{{image-width|{{{размер фото|}}}}}}|220}}px]]
+{{!}}-
+{{#if: {{{caption<includeonly>|{{{подпись|}}}</includeonly>}}}|
+{{!}} colspan=3 style="text-align: center" {{!}} {{{caption|{{{подпись|}}}}}}
+{{!}}-
+}}
+}}
+{{#if: {{{image2|}}}|
+{{!}} colspan=3 style="text-align: center" {{!}} [[Файл:{{{image2}}}|{{#if:{{{image2-width|}}}|{{{image2-width}}}|220}}px]]
+{{!}}-
+{{#if: {{{caption2|}}}|
+{{!}} colspan=3 style="text-align: center" {{!}} {{{caption2}}}
+{{!}}-
+}}
+}}
+! colspan=3 style="white-space: nowrap" | [[Код аэропорта ИАТА|IATA код]]: {{#if:{{{IATA<includeonly>|</includeonly>}}}|<span class="nickname">{{{IATA}}}</span>|''нет''}} — [[Код аэропорта ИКАО|ICAO код]]: {{#if:{{{ICAO<includeonly>|</includeonly>}}}|<span class="nickname">{{{ICAO}}}</span>|''нет''}} {{#if:{{{FAA|}}}| - [[Federal Aviation Administration|FAA]] [[Location identifier#FAA identifier|LID]]: <span class="nickname">{{{FAA}}}</span>|}} {{#if:{{{TC|}}}| — [[указатель местоположения#указатель местоположения Министерства транспорта Канады|Код]] [[Министерство транспорта Канады|МТК]]: <span class="nickname">{{{TC}}}</span>|}} {{#if:{{{LID|}}}| - [[Location identifier|LID]]: <span class="nickname">{{{LID}}}</span>|}} {{#if:{{{GPS|}}}{{{WMO|}}}|<br />}} {{#if:{{{GPS|}}}| - [[Global Positioning System|GPS]]: <span class="nickname">{{{GPS}}}</span>|}} {{#if:{{{WMO|}}}| — [[Указатель местоположения#Указатели станций ВМО|ВМО]]: <span class="nickname">{{{WMO}}}</span>|}}
+|-
+! colspan=3 style="background-color: #69c; color: white" | Информация
+|- style="text-align: left"
+{{#if: {{{namestate<includeonly>|</includeonly>|}}}|
+! {{!}} Страна
+{{!}} colspan=2 {{!}} <span class="label">{{#if: {{{namestate2|}}} | {{{namestate2}}} | {{В 2 кв. скобках|{{{namestate}}}}}}}</span>
+}}
+|- style="text-align: left"
+{{#if: {{{nameregion<includeonly>|</includeonly>|}}}|
+! {{!}} Регион
+{{!}} colspan=2 {{!}} <span class="label">{{В 2 кв. скобках|{{{nameregion}}}}}</span>
+}}
+|- class="note" style="text-align: left"
+{{#if: {{{type<includeonly>|{{{тип|}}}</includeonly>|}}}|
+! {{!}} Тип
+{{!}} colspan=2 {{!}} {{{type|{{{тип|}}}}}}
+}}
+|- class="note" style="text-align: left"
+{{#if: {{{owner-oper|}}}|
+! {{!}} Владелец/Эксплуатант
+{{!}} colspan=2 {{!}} {{{owner-oper}}}
+|
+{{!}}- class="note" style="text-align: left"
+{{#if: {{{owner<includeonly>|</includeonly>|}}}|
+! {{!}} Владелец
+{{!}} colspan=2 {{!}} {{{owner}}}
+}}
+{{!}}- class="note" style="text-align: left"
+{{#if: {{{operator<includeonly>|{{{оператор|}}}</includeonly>|}}}|
+! {{!}} Эксплуатант
+{{!}} colspan=2 {{!}} {{{operator|{{{оператор|}}}}}}
+}}
+}}
+|- style="text-align: left"
+{{#if: {{{city-served<includeonly>|</includeonly>|}}}|
+! {{!}} Обслуживает
+{{!}} colspan=2 {{!}} {{{city-served}}}
+}}
+|- style="text-align: left"
+{{#if: {{{location<includeonly>|{{{position|{{{верланымаш|}}}}}}</includeonly>|}}}|
+! {{!}} Верланымаш
+{{!}} colspan=2 {{!}} <span class="label">{{{location|{{{position|{{{верланымаш|}}}}}}}}}</span>
+}}
+|- style="text-align: left"
+{{#if: {{{hub<includeonly>|</includeonly>|}}}|
+! {{!}} Базирующиеся авиакомпании
+{{!}} colspan=2 {{!}} {{{hub}}}
+}}
+|- style="text-align: left"
+{{#if: {{{built|{{{построен|}}}}}}|
+! {{!}} Построен
+{{!}} colspan=2 {{!}} {{{built|{{{построен|}}}}}}
+}}
+|- style="text-align: left"
+{{#if: {{{used|}}}|
+! {{!}} Используется
+{{!}} colspan=2 {{!}} {{{used}}}
+}}
+|- style="text-align: left"
+{{#if: {{{commander|}}}|
+! {{!}} Командующий
+{{!}} colspan=2 {{!}} {{{commander}}}
+}}
+|- style="text-align: left"
+{{#if: {{{occupants|}}}|
+! {{!}} Гарнизон
+{{!}} colspan=2 {{!}} {{{occupants}}}
+}}
+|- style="text-align: left"
+{{#if: {{{altitude<includeonly>|{{{elevation-m|{{{высота над уровнем моря|}}}}}}</includeonly>}}}|
+! {{!}} [[Высота над уровнем моря]]
+{{!}} colspan=2 {{!}} {{{altitude|{{{elevation-m|{{{высота над уровнем моря|}}}}}}}}}
+}}
+|- style="text-align: left"
+{{#if: {{{coordinates<includeonly>|</includeonly>}}}|
+! {{!}} [[Географик координаты|Координаты]]
+{{!}} colspan=2 {{!}} {{{coordinates|}}}
+|{{#if: {{{lat_deg|}}} |
+! {{!}} [[Географик координаты|Координаты]]
+{{!}} colspan=2 {{!}} {{coord|{{{lat_deg}}}|{{{lat_min|0}}}|{{{lat_sec|0}}}|{{{lat_dir|}}}|{{{lon_deg}}}|{{{lon_min|0}}}|{{{lon_sec|0}}}|{{{lon_dir|}}}|type:{{#if: {{{region|}}}|airport_region:{{{region}}} |airport}}|scale={{#if:{{{CoordScale|}}}|{{{CoordScale}}}|100000}}|format=dms long}}
+ }}
+}}
+|- style="text-align: left"
+{{#if: {{{площадь<includeonly>|</includeonly>|}}}|
+! {{!}} Площадь
+{{!}} colspan=2 {{!}} {{{площадь}}}
+}}
+|- style="text-align: left"
+{{#if: {{{terminals<includeonly>|</includeonly>|}}}|
+! {{!}} Терминал-влак
+{{!}} colspan=2 {{!}} {{{terminals}}}
+}}
+|- style="text-align: left"
+{{#if: {{{time<includeonly>|</includeonly>|}}}|
+! {{!}} Местное время
+{{!}} colspan=2 {{!}} UTC {{{time|?}}}
+}}
+|- style="text-align: left"
+{{#if: {{{worktime<includeonly>|</includeonly>|}}}|
+! {{!}} Время работы
+{{!}} colspan=2 {{!}} {{{worktime}}}
+}}
+|- style="text-align: left"
+{{#if: {{{site<includeonly>|{{{website|{{{веб-сайт|}}}}}}</includeonly>|}}}|
+! {{!}} Веб-сайт
+{{!}} colspan=2 {{!}} <span class="plainlinksneverexpand">{{#ifeq:{{padleft:|1|{{{site|{{{website|{{{веб-сайт|}}}}}}}}}}}|[|{{{site|{{{website|{{{веб-сайт|}}}}}}}}}|[http://{{{site|{{{website|}}}}}} {{{site|{{{website|{{{веб-сайт|}}}}}}}}}]}}</span>
+}}
+|-
+{{#if: {{{lat_deg|}}}{{{lon_deg|}}}|
+{{#if: {{{регион для позкарты|}}}{{{pushpin_map|}}}|
+! colspan=3 style="background-color: #69c; color: white" {{!}} Карта
+{{!-}}
+{{!}} colspan="3" align="center" {{!}}
+{{ПозКарта
+ |{{{pushpin_map|{{{регион для позкарты}}}}}}
+ |border=none|mark=Airplane silhouette.svg|marksize=10
+ |lat_deg={{{lat_deg|0}}}|lat_min={{{lat_min|0}}}|lat_sec={{{lat_sec|0}}}|lat_dir={{{lat_dir|0}}}
+ |lon_deg={{{lon_deg|0}}}|lon_min={{{lon_min|0}}}|lon_sec={{{lon_sec|0}}}|lon_dir={{{lon_dir|0}}}
+ |float=center
+ |caption=
+ |width=220
+}}}} }}
+|-
+{{#if: {{{r1-number<includeonly>|</includeonly>}}} {{{r1-length-f|}}} {{{r1-length-m|}}} {{{r1-surface|}}}|
+! colspan=3 style="background-color: #69c; color: white" {{!}} Взлётно-посадочные полосы ([[Взлётно-посадочная полоса|ВПП]])
+{{!}}- style="background-color: #ddd"
+! style="width: 35%" {{!}} Номер
+! style="width: 25%" {{!}} Размеры
+! style="width: 40%" {{!}} Покрытие
+{{!}}- style="text-align: center"
+{{!}} {{{r1-number<includeonly>|</includeonly>}}}
+{{!}} {{{r1-length-m<includeonly>|</includeonly>}}}
+{{!}} {{{r1-surface<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r2-number<includeonly>|</includeonly>}}} {{{r2-length-f|}}} {{{r2-length-m|}}} {{{r2-surface|}}}|
+{{!}} {{{r2-number<includeonly>|</includeonly>}}}
+{{!}} {{{r2-length-m<includeonly>|</includeonly>}}}
+{{!}} {{{r2-surface<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r3-number|}}} {{{r3-length-f|}}} {{{r3-length-m|}}} {{{r3-surface|}}}|
+{{!}} {{{r3-number|}}}
+{{!}} {{{r3-length-m|}}}
+{{!}} {{{r3-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r4-number|}}} {{{r4-length-f|}}} {{{r4-length-m|}}} {{{r4-surface|}}}|
+{{!}} {{{r4-number|}}}
+{{!}} {{{r4-length-m|}}}
+{{!}} {{{r4-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r5-number|}}} {{{r5-length-f|}}} {{{r5-length-m|}}} {{{r5-surface|}}}|
+{{!}} {{{r5-number|}}}
+{{!}} {{{r5-length-m|}}}
+{{!}} {{{r5-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r6-number|}}} {{{r6-length-f|}}} {{{r6-length-m|}}} {{{r6-surface|}}}|
+{{!}} {{{r6-number|}}}
+{{!}} {{{r6-length-m|}}}
+{{!}} {{{r6-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r7-number|}}} {{{r7-length-f|}}} {{{r7-length-m|}}} {{{r7-surface|}}}|
+{{!}} {{{r7-number|}}}
+{{!}} {{{r7-length-m|}}}
+{{!}} {{{r7-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{r8-number|}}} {{{r8-length-f|}}} {{{r8-length-m|}}} {{{r8-surface|}}}|
+{{!}} {{{r8-number|}}}
+{{!}} {{{r8-length-m|}}}
+{{!}} {{{r8-surface|}}}
+}}
+|- style="background-color: #69c; color: white"
+{{#if: {{{h1-number<includeonly>|</includeonly>}}} {{{h1-length-f|}}} {{{h1-length-m|}}} {{{h1-surface|}}}|
+! colspan=3 {{!}} Вертолётные площадки
+{{!}}- style="background-color: #ddd"
+! {{!}} Номер
+! {{!}} Размер
+! colspan=3 {{!}} Покрытие
+{{!}}- style="text-align: center"
+{{!}} {{{h1-number<includeonly>|</includeonly>}}}
+{{!}} {{{h1-length-m<includeonly>|</includeonly>}}}
+{{!}} {{{h1-surface<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h2-number<includeonly>|</includeonly>}}} {{{h2-length-f|}}} {{{h2-length-m|}}} {{{h2-surface|}}}|
+{{!}} {{{h2-number<includeonly>|</includeonly>}}}
+{{!}} {{{h2-length-m<includeonly>|</includeonly>}}}
+{{!}} {{{h2-surface<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h3-number|}}} {{{h3-length-f|}}} {{{h3-length-m|}}} {{{h3-surface|}}}|
+{{!}} {{{h3-number|}}}
+{{!}} {{{h3-length-m|}}}
+{{!}} {{{h3-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h4-number|}}} {{{h4-length-f|}}} {{{h4-length-m|}}} {{{h4-surface|}}}|
+{{!}} {{{h4-number|}}}
+{{!}} {{{h4-length-m|}}}
+{{!}} {{{h4-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h5-number|}}} {{{h5-length-f|}}} {{{h5-length-m|}}} {{{h5-surface|}}}|
+{{!}} {{{h5-number|}}}
+{{!}} {{{h5-length-m|}}}
+{{!}} {{{h5-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h6-number|}}} {{{h6-length-f|}}} {{{h6-length-m|}}} {{{h6-surface|}}}|
+{{!}} {{{h6-number|}}}
+{{!}} {{{h6-length-m|}}}
+{{!}} {{{h6-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h7-number|}}} {{{h7-length-f|}}} {{{h7-length-m|}}} {{{h7-surface|}}}|
+{{!}} {{{h7-number|}}}
+{{!}} {{{h7-length-m|}}}
+{{!}} {{{h7-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h8-number|}}} {{{h8-length-f|}}} {{{h8-length-m|}}} {{{h8-surface|}}}|
+{{!}} {{{h8-number|}}}
+{{!}} {{{h8-length-m|}}}
+{{!}} {{{h8-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h9-number|}}} {{{h9-length-f|}}} {{{h9-length-m|}}} {{{h9-surface|}}}|
+{{!}} {{{h9-number|}}}
+{{!}} {{{h9-length-m|}}}
+{{!}} {{{h9-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h10-number|}}} {{{h10-length-f|}}} {{{h10-length-m|}}} {{{h10-surface|}}}|
+{{!}} {{{h10-number|}}}
+{{!}} {{{h10-length-m|}}}
+{{!}} {{{h10-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h11-number|}}} {{{h11-length-f|}}} {{{h11-length-m|}}} {{{h11-surface|}}}|
+{{!}} {{{h11-number|}}}
+{{!}} {{{h11-length-m|}}}
+{{!}} {{{h11-surface|}}}
+}}
+|- style="text-align: center"
+{{#if: {{{h12-number|}}} {{{h12-length-f|}}} {{{h12-length-m|}}} {{{h12-surface|}}}|
+{{!}} {{{h12-number|}}}
+{{!}} {{{h12-length-m|}}}
+{{!}} {{{h12-surface|}}}
+}}
+|- style="background-color: #69c; color: white"
+{{#if: {{{stat1-header<includeonly>|</includeonly>}}} {{{stat1-data|}}}|
+! colspan=3 {{!}} Статистика {{#if:{{{stat-year<includeonly>|</includeonly>}}}|({{{stat-year}}})}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat1-header<includeonly>|</includeonly>}}} {{{stat1-data|}}}|
+! {{!}} {{{stat1-header<includeonly>|</includeonly>}}}
+{{!}} colspan=2 {{!}} {{{stat1-data<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat2-header<includeonly>|</includeonly>}}} {{{stat2-data|}}}|
+! {{!}} {{{stat2-header<includeonly>|</includeonly>}}}
+{{!}} colspan=2 {{!}} {{{stat2-data<includeonly>|</includeonly>}}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat3-header|}}} {{{stat3-data|}}}|
+! {{!}} {{{stat3-header|}}}
+{{!}} colspan=2 {{!}} {{{stat3-data|}}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat4-header|}}} {{{stat4-data|}}}|
+! {{!}} {{{stat4-header|}}}
+{{!}} colspan=2 {{!}} {{{stat4-data|}}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat5-header|}}} {{{stat5-data|}}}|
+! {{!}} {{{stat5-header|}}}
+{{!}} colspan=2 {{!}} {{{stat5-data|}}}
+}}
+|- style="text-align: left"
+{{#if: {{{stat6-header|}}} {{{stat6-data|}}}|
+! {{!}} {{{stat6-header|}}}
+{{!}} colspan=2 {{!}} {{{stat6-data|}}}
+}}
+|-
+{{#if: {{{footnotes<includeonly>|</includeonly>}}}|
+{{!}} colspan=3 style="text-align: left; background-color: #eee" {{!}} {{{footnotes}}}
+}}
+<includeonly>{{#switch: {{ #if: {{{lat_deg|}}} | 1 }}{{ #if: {{{coordinates|}}} | 2 }}
+| 1 =
+| 2 =
+| 12 =
+| [[Категорий:Википедий:Аэропорты без указанных географических координат]]
+}}</includeonly>
+|}<noinclude>
+{{doc}}
+
+[[Категорий:Кышкар-влак:Аэропорт-влак|{{PAGENAME}}]]
+[[Категорий:Википедий:Шаблоны-карточки:Авиаций да космонавтика|{{PAGENAME}}]]
+</noinclude>
