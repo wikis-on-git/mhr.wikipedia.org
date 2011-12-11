@@ -1,0 +1,58 @@
+<noinclude>{{template navigation}}</noinclude>Шаблон <b><nowiki>{{Ийгот|Кече|Тылзе|Ий}}</nowiki></b> кызытсе жапыште мыняр ий ончыкта. Параметр-влак — шочмо кече, тылзе да ий.
+
+{| class="standard"
+! Код !! Лектыш
+|-
+| <nowiki>{{Ийгот|1|2|1950}}</nowiki> || {{Ийгот|1|2|1950}}
+|-
+| <nowiki>{{Ийгот|1|2|1951}}</nowiki> || {{Ийгот|1|2|1951}}
+|-
+| <nowiki>{{Ийгот|1|2|1952}}</nowiki> || {{Ийгот|1|2|1952}}
+|-
+| <nowiki>{{Ийгот|1|2|1953}}</nowiki> || {{Ийгот|1|2|1953}}
+|-
+| <nowiki>{{Ийгот|1|2|1954}}</nowiki> || {{Ийгот|1|2|1954}}
+|-
+| <nowiki>{{Ийгот|1|2|1955}}</nowiki> || {{Ийгот|1|2|1955}}
+|-
+| <nowiki>{{Ийгот|1|2|1956}}</nowiki> || {{Ийгот|1|2|1956}}
+|-
+| <nowiki>{{Ийгот|1|2|1957}}</nowiki> || {{Ийгот|1|2|1957}}
+|-
+| <nowiki>{{Ийгот|1|2|1958}}</nowiki> || {{Ийгот|1|2|1958}}
+|-
+| <nowiki>{{Ийгот|1|2|1959}}</nowiki> || {{Ийгот|1|2|1959}}
+|}
+
+== Лондем ==
+Шотлымо чотпал 100 ий деч шукырак лиеш гын, статья лӱмын ыштеме категорийыш «[[:Category:Википедий:Кугу ийготан айдеме нерген статья-влак]]» шындыме лиеш.
+
+== Тыгак ончо ==
+* {{tl|ШочмоКече}}
+* {{tl|Шочын}}
+* {{tl|Ий эртен}}
+
+<includeonly>
+[[Category:Википедий:Шаблон-влак:Дате да жап|{{PAGENAME}}]]
+
+[[ca:Plantilla:Edat]]
+[[da:Skabelon:Alder]]
+[[de:Vorlage:Alter]]
+[[dsb:Pśedłoga:Starstwo]]
+[[en:Template:Age]]
+[[eo:Ŝablono:Aĝo]]
+[[es:Plantilla:Edad]]
+[[fr:Modèle:Âge]]
+[[gl:Modelo:Idade]]
+[[hsb:Předłoha:Staroba]]
+[[ko:틀:나이]]
+[[no:Mal:Alder]]
+[[os:Шаблон:Кар]]
+[[simple:Template:Age]]
+[[sl:Predloga:Starost]]
+[[sq:Stampa:Mosha]]
+[[uk:Шаблон:Age]]
+[[vi:Tiêu bản:Tuổi]]
+</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
