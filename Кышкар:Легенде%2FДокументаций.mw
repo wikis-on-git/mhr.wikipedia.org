@@ -1,0 +1,77 @@
+<noinclude>{{docpage}}</noinclude>Этот шаблон предназначен для демонстрации [[Легенде (ыҥ-влак)|легенды]] условных обозначений, снабжённой цветными квадратиками. Одно употребление шаблона соответствует одному квадратику и&nbsp;его&nbsp;подписи.
+
+== Кучылтмаш ==
+ <nowiki>{{</nowiki>легенде|''фонын&nbsp;тӱсшӧ''|''текст''<nowiki>}}</nowiki>
+
+Параметр ''фонын&nbsp;тӱсшӧ'' передаётся [[Стиль-влакын каскад четлыкше|CSS]]-свойству ''color'' квадратика.
+
+Дополнительный параметр ''inline'' убирает автоматический переход на новую строчку.
+
+== Шынамат ==
+{| class="wikitable" border="1"
+|-
+! colspan="2" |С переходом
+|-
+|<pre>
+{{легенде|#ff8800|Азий}}
+{{легенде|green|Америка}}
+{{легенде|black|Африка}}
+{{легенде|#ff0|Европо}}
+{{легенда|blue|Океаний}}
+{{легенда|red|Россий}}
+</pre>
+|{{легенде|#ff8800|Азий}}{{легенде|green|Америка}}{{легенде|black|Африка}}{{легенде|#ff0|Европо}}{{легенде|blue|Океаний}}{{легенде|red|Россий}}
+|-
+! colspan="2" | Без перехода
+|-
+|<pre>
+{{легенде|#ff8800|Азий|inline}}
+{{легенде|green|Америка|inline}}
+{{легенде|black|Африка|inline}}
+{{легенде|#ff0|Европо|inline}}
+{{легенде|blue|Океаний|inline}}
+{{легенде|red|Россий|inline}}
+</pre>
+|{{nobr|{{легенде|#ff8800|Азий|inline}} {{легенде|green|Америка|inline}} {{легенде|black|Африка|inline}} {{легенде|#ff0|Европо|inline}} {{легенде|blue|Океаний|inline}} {{легенде|red|Россий|inline}}}}
+|}
+
+== Тыгак ончо ==
+* [[Ямдылык:Legend-line]]
+
+<!-- Категорий да интервики -->
+<includeonly>[[Категорий:Ямдылык:Сӱретлымаш|{{PAGENAME}}]]
+
+[[bg:Шаблон:Легенда]]
+[[ca:Template:Llegenda]]
+[[cs:Šablona:Legenda]]
+[[cy:Nodyn:Legend]]
+[[de:Vorlage:Farblegende]]
+[[en:Template:Legend]]
+[[eo:Ŝablono:Legendo]]
+[[es:Plantilla:Leyenda]]
+[[et:Mall:Legend]]
+[[fr:Modèle:Légende]]
+[[he:תבנית:מקרא]]
+[[hi:Template:Legend]]
+[[hsb:Předłoha:Legenda]]
+[[it:Template:Legenda]]
+[[ja:Template:Legend]]
+[[ka:თარგი:ლეგენდა]]
+[[ko:Template:범례]]
+[[hu:Sablon:Jelmagyarázat]]
+[[mk:Шаблон:Легенда]]
+[[nl:Sjabloon:Legenda]]
+[[nn:Mal:Legend]]
+[[no:Mal:Legend]]
+[[os:Шаблон:Легендæ]]
+[[pl:Szablon:Legenda]]
+[[pt:Predefinição:Legenda]]
+[[ro:Format:Legendă]]
+[[ru:Шаблон:Легенда/doc]]
+[[sk:Šablóna:Legenda]]
+[[sl:Predloga:Legenda]]
+[[sr:Шаблон:Легенда]]
+[[fi:Malline:Seloste]]
+[[sv:Mall:Legend]]
+[[vi:Tiêu bản:Legend]]
+[[zh:Template:Legend]]</includeonly>
