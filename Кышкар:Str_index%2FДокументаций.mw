@@ -1,0 +1,42 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+<nowiki>{{str index|</nowiki>''text''|''number''<nowiki>}}</nowiki> = Returns the ''number'' character of ''text''.
+
+Only supports a limited character set.  Returns an error on unknown characters.
+
+=== Examples ===
+* {{tlp|str index|0123456789ABCDEF|15}} → {{str index|0123456789ABCDEF|15}}
+
+=== See also ===
+*[[Template:Str sub]]
+*[[Template:Str sub long]]
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+{{pp-template}}
+[[Category:String manipulation templates]]
+
+[[be:Шаблон:Str index]]
+[[bg:Шаблон:Str index]]
+[[ca:Plantilla:Str index]]
+[[de:Vorlage:Str index]]
+[[el:Πρότυπο:Str index]]
+[[en:Template:Str index]]
+[[es:Plantilla:Str index]]
+[[id:Templat:Str index]]
+[[it:Template:Str index]]
+[[ja:Template:Str index]]
+[[ko:틀:Str index]]
+[[la:Formula:Str index]]
+[[ne:ढाँचा:Str index]]
+[[pt:Predefinição:Str index]]
+[[ru:Шаблон:Str index]]
+[[sco:Template:Str index]]
+[[sk:Šablóna:Str index]]
+[[sl:Predloga:Str index]]
+[[tl:Suleras:Str index]]
+[[tr:Şablon:Dizgi indeks]]
+[[uk:Шаблон:Str index]]
+[[yo:Àdàkọ:Str index]]
+</includeonly>
