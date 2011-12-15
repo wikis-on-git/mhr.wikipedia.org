@@ -1,17 +1,17 @@
-{{Вес ыҥ-влак|Сочи (ыҥ-влак)}}
+{{Вес ыҥ-влак|Домодедово (ыҥ-влак)}}
 {{Аэропорт
-|name = Сочи калык-влак кокласе аэропорт
-|nativename = Международный аэропорт Сочи
+|name = Домодедово калык-влак кокласе аэропорт
+|nativename = Международный аэропорт Домодедово
 |nativename-a = 
 |nativename-r = 
-|image = Airport Sochi Logo.gif
+|image = Dlogo.gif
 |image-width = 200px
-|caption = Сочи аэропортын логотипше
-|image2 = 
-|image2-width = 
-|caption2 = 
-|IATA = AER
-|ICAO = УРСС (URSS)
+|caption = Домодедово аэропортын логотипше
+|image2 = DME.jpg
+|image2-width =250 
+|caption2 = Аэродромно-диспетчерский пункт аэропорта
+|IATA = DME
+|ICAO = УУДД (UUDD)
 |FAA = 
 |TC = 
 |LID = 
@@ -19,48 +19,95 @@
 |WMO = 
 |namestate = [[Россий]]
 |namestate2 = 
-|nameregion = [[Краснодар мланде]]
+|nameregion = [[Моско вел]]
 |тӱрлык = калык-влак кокласе 
 |owner-oper = 
-|owner = Базэл Аэро
-|operator = КУЫ «Аэропорт Сочи»
-|city-served = [[Кугу Сочи]], [[Туапсе]], [[Абхазий]]
-|location = кечывалвел-эрвелышке 28 уштыш Сочисе рӱдӧ гыч, [[Адлер]] микрокундемыште
+|owner = [[Ист Лайн]]
+|operator = 
+|city-served = [[Моско]], [[Моско вел]]
+|location = кечывалвел-эрвелышке 45 уштыш Москосо рӱдӧ гыч
 |stat1-header = Толшо-кайыше-влак (ий)
-|stat1-data = {{Шукеммаш}} 1,921 млн ([[2010]])<ref>[http://www.basel.ru/structure/avia/avk_sochi/ Сочи Аэропорт. БазЭл]</ref>
+|stat1-data = {{Шукеммаш}} 22,25 млн ([[2010]])
 |hub = 
-|built = 1945
+<div>
+* [[S7 Airlines]]
+* [[ВИМ-Авиа]]
+* [[Глобус (авиакомпаний)|Глобус]]
+* [[Московий (авиакомпаний)|Московий]]
+* [[РусЛайн]]
+* [[Трансаэро]]
+</div>
+|built = 1954
 |used = 
 |commander = 
 |occupants = 
-|altitude = 27
+|altitude = 167
 |coordinates = 
-|lat_deg = 43|lat_min = 27|lat_sec = 0|lat_dir =N
-|lon_deg =39 |lon_min = 57|lon_sec = 24|lon_dir =E
+|lat_deg = 55|lat_min = 24|lat_sec = 31.63|lat_dir =N
+|lon_deg =37 |lon_min = 54|lon_sec = 22.73|lon_dir =E
 |region =
 |CoordScale = 
 |кумдык = 
 |terminals = 
 |time = +4
 |worktime = суткамучкысо
-|site = [www.basel.aero/]
-|r1-number = 06/24
-|r1-length-m = 2850x50
-|r1-surface = цементобетон
-|r2-number = 02/20
-|r2-length-m = 2500x49
-|r2-surface = цементобетон
-|h1-number    = ?
-|h1-length-m  = ?
-|h1-surface   = ?
+|site = www.domodedovo.ru
+|r1-number = 14Л/32П
+|r1-length-m = 3794х53
+|r1-surface = армобетон
+|r2-number = 14П/32Л
+|r2-length-m = 3500x60
+|r2-surface = армобетон
+|r3-number = 14C/32C
+|r3-length-m = 2600x45
+|r3-surface = бетон
 |footnotes = 
 }}
 
-'''Домодедово''' ({{lang-ru|Международный аэропорт Домодедово}}) — [[Моско]]н калык-влак кокласе [[аэропорт]]ше, эн rue аэропорт [[Россий]]ыште.
+'''Домодедово''' ({{lang-ru|Международный аэропорт Домодедово}}) — [[Моско]]н калык-влак кокласе [[аэропорт]]ше, эн кугу аэропорт [[Россий]]ыште.
 
 == Палемдымаш ==
 {{reflist}}
 
 {{Аэропорт-миллионерла Российыште}}
 
-[[Категорий:Транспорт Сочиште]]
+[[Категорий:Транспорт Моско велыште]]
+
+[[ak:Domodedovo]]
+[[ar:مطار دوموديدوفو الدولي]]
+[[bg:Домодедово (летище)]]
+[[ca:Aeroport Internacional de Moscou-Domodèdovo]]
+[[cs:Letiště Moskva-Domodědovo]]
+[[cv:Домодедово аэропорчĕ]]
+[[de:Flughafen Moskau-Domodedowo]]
+[[en:Domodedovo International Airport]]
+[[eo:Internacia flughaveno Domodedovo]]
+[[es:Aeropuerto Internacional de Moscú-Domodédovo]]
+[[fi:Domodedovon kansainvälinen lentoasema]]
+[[fr:Aéroport international Domodedovo]]
+[[he:נמל התעופה דומודדובו]]
+[[hr:Zračna luka Domodedovo]]
+[[hu:Domogyedovói nemzetközi repülőtér]]
+[[id:Bandar Udara Internasional Domodedovo]]
+[[it:Aeroporto di Mosca-Domodedovo]]
+[[ja:ドモジェドヴォ空港]]
+[[ka:დომოდედოვოს საერთაშორისო აეროპორტი]]
+[[ko:도모데도보 국제공항]]
+[[lt:Domodedovo oro uostas]]
+[[ms:Lapangan Terbang Domodedovo]]
+[[na:Domodedovo]]
+[[nl:Luchthaven Domodedovo]]
+[[no:Domodedovo internasjonale lufthavn]]
+[[pl:Port lotniczy Moskwa-Domodiedowo]]
+[[pt:Aeroporto Internacional Domodedovo]]
+[[ro:Aeroportul Internațional Domodedovo]]
+[[ru:Домодедово (аэропорт)]]
+[[sh:Aerodrom Domodedovo]]
+[[sk:Letisko Moskva-Domodedovo]]
+[[sv:Domodedovos internationella flygplats]]
+[[ta:தமதேதவோ வானூர்தி நிலையம்]]
+[[th:ท่าอากาศยานนานาชาติโดโมเดโดโว]]
+[[tl:Paliparang Pandaigdig ng Domodedovo]]
+[[tt:Домодедово һава аланы]]
+[[vi:Sân bay Quốc tế Domodedovo]]
+[[zh:多莫杰多沃国际机场]]
