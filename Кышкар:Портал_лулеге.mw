@@ -1,0 +1,92 @@
+{{Портал-влак}}
+{{/box-header|<big>{{<includeonly>subst:</includeonly>PAGENAME}}</big>|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ончылмут}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ончылмут|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ончылмут}} }}
+{{box-footer}}
+<div style="float:left; width:64%;">
+{{/box-header|Ойырымо статья|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо статья}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо статья|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо статья}} }}
+{{box-footer|[[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо статья/Архив|Архив]]}}
+
+{{/box-header|Ойырымо сӱрет|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо сӱрет}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо сӱрет|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо сӱрет}} }}
+{{box-footer|<includeonly><!</includeonly>-- [[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо сӱрет/Архив|Архив]] -->}}
+
+{{/box-header|Тидым паледа мо?|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тидым паледа мо?}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тидым паледа мо?|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тидым паледа мо?}} }}
+{{box-footer|[[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тидым паледа мо?/Архив|Архив]]}}
+
+{{/box-header|У статья-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/У статья-влак}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/У статья-влак|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/У статья-влак}} }}
+{{box-footer}}
+
+{{/box-header|Кузе мый полшен кертам|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Кузе мый полшен кертам}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Как я могу помочь|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Кузе мый полшен кертам}} }}
+{{box-footer}}
+</div>
+<div style="float:right; width:35%">
+<includeonly><!</includeonly>--
+{{/box-header|Новости|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}}} }}
+{{box-footer|[[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Новости/Архив|Архив]]}}
+
+{{/box-header|Увер-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде кечын/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде кечын/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде кечын/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}}} }}
+{{box-footer|[[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Увер-влак/Архив|Архив]]}}
+
+{{/box-header|Увер-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде арняште/{{CURRENTWEEK}}}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде арняште/{{CURRENTWEEK}}-арня|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Тиде арняште/{{CURRENTWEEK}}-арня}} }}
+{{box-footer|[[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Увер-влак/Архив|Архив]]}}
+-->
+{{/box-header|Ойырымо айдеме|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо айдеме}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо айдеме|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо айдеме}} }}
+{{box-footer|<includeonly><!</includeonly>-- [[{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Ойырымо айдеме/Архив|Архив]] -->}}
+
+{{/box-header|Категорий-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Категорий-влак}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Категорий-влак|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Категорий-влак}} }}
+{{box-footer|[[:Категорий:{{<includeonly>subst:</includeonly>PAGENAME}}|Весе категорий-влак…]]}}
+
+{{/box-header|Статья-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Статья-влак}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Статья-влак|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Статья-влак}} }}
+{{box-footer}}
+
+{{/box-header|Проект-влак|{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Проект-влак}}
+{{#ifexist:{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Проекты|{{{{<includeonly>subst:</includeonly>FULLPAGENAME}}/Проект-влак}} }}
+{{box-footer}}
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+<includeonly>
+[[Категорий:{{subst:</includeonly><includeonly>PAGENAME}}|*{{subst:</includeonly><includeonly>FULLPAGENAME}}]]
+[[Категорий:Ямдылыме портал-влак|{{subst:</includeonly><includeonly>PAGENAME}}]]<!-- Уберите эту категорию после того как доделаете портал. -->
+</includeonly><noinclude>
+
+[[Категорий:Википедий:Шаблон-влак:Портал-влак|{{PAGENAME}}]]
+[[Категорий:Шаблон-влак:Лӱмын ыштыме шындымаш дене кучылтмо|{{PAGENAME}}]]
+
+[[ar:قالب:هيكلية البوابة]]
+[[as:সাঁচ:Box portal skeleton]]
+[[bg:Шаблон:Скелет на портал]]
+[[bn:টেমপ্লেট:Box portal skeleton]]
+[[ce:Куцкеп:Ковна чалх]]
+[[ceb:Plantilya:Box portal skeleton]]
+[[ckb:داڕێژە:ئێسکەپەیکەری دەروازە]]
+[[crh:Şablon:Portal]]
+[[cy:Nodyn:Templed porth]]
+[[diq:Template:Box portal skeleton]]
+[[en:Template:Box portal skeleton]]
+[[eo:Ŝablono:Portala skeleto]]
+[[es:Plantilla:Estructura Wikiportal]]
+[[fa:الگو:جعبه استخوانبندی درگاه]]
+[[he:פורטל:בסיס]]
+[[hy:Կաղապար:Պորտալի հիմնակմախք]]
+[[it:Template:Struttura portale]]
+[[kbd:Template:Box portal skeleton]]
+[[no:Mal:Standardportal]]
+[[pt:Predefinição:Caixa esqueleto portal]]
+[[ro:Format:Schelet portal]]
+[[ru:Шаблон:Скелет портала]]
+[[ta:வார்ப்புரு:Box portal skeleton]]
+[[uk:Шаблон:Скелет порталу]]
+[[zh-yue:Template:Box portal skeleton]]
+</noinclude>
