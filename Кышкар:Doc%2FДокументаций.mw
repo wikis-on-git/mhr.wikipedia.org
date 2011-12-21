@@ -1,0 +1,53 @@
+<noinclude>{{template navigation}}</noinclude>
+Включает подстраницу с документаций для текущего шаблона. Точнее, включает шаблон <code style="white-space:nowrap"><span style="opacity:0.5">название страницы</span>/doc</code>. Работает также и в обсуждении шаблона, то есть включает одну и ту же страницу как из шаблона, так и из его обсуждения. И всё же включение документации в обсуждение является нежелательным.
+
+Проще всего вставить вызов этого шаблона, а потом перейти по появившейся ссылке и создать или скопировать туда документацию. Достаточно добавить код <code style="white-space:nowrap"><nowiki>&lt;noinclude&gt;{{doc}}&lt;/noinclude&gt;</nowiki></code>.
+
+Документация шаблона {{tl|doc}} сформирована по тому же принципу, так что можно посмотреть код.
+
+Основная цель выноса документации на отдельную страницу — избежать перегенерации HTML для всех страниц, использующих шаблон, при редактировании его документации. Также это сокращает страницу самого шаблона, что делает редактирование проще.
+
+Шаблон поддерживает необязательный параметр. При вводе {{tlp|doc|Полное название страницы}} вместо страницы <code>/doc</code> будет включена любая необходимая. Это удобно для создания общей документации для однотипных шаблонов.
+
+Тыгак ончо [[Википедий:Проект:Шаблон-влакым документирований|Шаблон-влакым документирований шотышто проект]].
+
+<includeonly>
+[[Категорий:Википедий:Шаблон-влакым документированийлан шаблон-влак|{{PAGENAME}}]]
+
+[[ar:قالب:توثيق]]
+[[bg:Шаблон:Документация]]
+[[ca:Plantilla:Ús de la plantilla]]
+[[cs:Šablona:Dokumentace]]
+[[da:Skabelon:Dokumentation]]
+[[de:Vorlage:Dokumentation]]
+[[dsb:Pśedłoga:Dokumentacija]]
+[[en:Template:Documentation]]
+[[eo:Ŝablono:Dok]]
+[[fa:الگو:توضیحات]]
+[[fr:Modèle:Documentation modèle]]
+[[hsb:Předłoha:Dokumentacija]]
+[[hu:Sablon:Sablondokumentáció]]
+[[ia:Patrono:Docpatrono]]
+[[id:Templat:Dokumentasi]]
+[[it:Template:Man]]
+[[ja:Template:Documentation]]
+[[ko:틀:틀 설명문서]]
+[[no:mal:Dokumentasjon]]
+[[nl:Sjabloon:Sjabdoc]]
+[[pl:Szablon:Dokumentacja]]
+[[pt:Predefinição:Instruções da predefinição]]
+[[ro:Format:Documentaţie]]
+[[sk:Šablóna:Dokumentácia]]
+[[sl:Predloga:Dokumentacija]]
+[[sr:Шаблон:Документација]]
+[[sq:Stampa:Dokumentacion]]
+[[stq:Foarloage:Dokumentation]]
+[[sv:Mall:Dokumentation]]
+[[tpi:Template:Template doc]]
+[[uk:Шаблон:Документація]]
+[[war:Template:Documentation]]
+[[zh:Template:Documentation]]
+
+</includeonly><noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
