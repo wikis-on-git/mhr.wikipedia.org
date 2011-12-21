@@ -1,0 +1,91 @@
+<includeonly>{{СИШ|40}}</includeonly><noinclude>{{template navigation}}</noinclude>
+== Кучылтмаш ==
+Кылвер-влакым ешараш манын шаблон кӧргыш '''<nowiki>{{</nowiki>'''Tnavbar|Шаблонын лӱмжӧ'''<nowiki>}}</nowiki>''' шындыза, Шаблон: '''Ончымаш''' • '''Каҥашымаш''' • '''Тӧрлаташ'''.
+&middot;
+== Ешартыш параметр-влак ==
+{| class="wikitable"
+! Ешартыш параметр !! colspan=2 | Лектыш
+|-
+|Навигаций панельын иземдыме версий:<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|mini=1}}</nowiki></code> || → || {{Tnavbar|Tnavbar|mini=1}} 
+|-
+|Тыглай версий чакныш-влак дене:<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|nodiv=1}}</nowiki></code> || → || {{Tnavbar|Tnavbar|nodiv=1}}
+|-
+|Иземдеме версий чакныш-влак дене (тыгай версийым вуймут-влакыште кучылташ темлыме):<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|mini=1|nodiv=1}}</nowiki></code>|| → || {{Tnavbar|Tnavbar|mini=1|nodiv=1}}
+|-
+|Тыглай версий кӱчыкын ӱмбалан возен шындыме текст деч посна ''Шаблон:''<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|plain=1}}</nowiki></code> || → || {{Tnavbar|Tnavbar|plain=1}}
+|-
+|Тыглай версий чакныш-влак дене кӱчыкын ӱмбалан возен шындыме текст деч посна ''Шаблон:''<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|plain=1|nodiv=1}}</nowiki></code> || → ||{{Tnavbar|Tnavbar|plain=1|nodiv=1}}
+|-
+|}<noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
+<includeonly>[[Category:Шаблон-влак:Шаблон-влаклан|{{PAGENAME}}]]
+
+[[ang:Template:Tnavbar-mini-nodiv]]
+[[ar:قالب:Tnavbar]]
+[[be:Шаблон:Tnavbar]]
+[[bn:Template:তথ্যছক-Tnavbar]]
+[[bpy:মডেল:Tnavbar]]
+[[ca:Plantilla:Tnavbar]]
+[[ceb:Template:Tnavbar-plain]]
+[[cv:Шаблон:Tnavbar]]
+[[da:Skabelon:Tnavbar]]
+[[dsb:Pśedłoga:Tnavbar]]
+[[en:Template:Tnavbar]]
+[[eo:Ŝablono:Tnavbar]]
+[[es:Plantilla:Barnavp]]
+[[fa:الگو:نوارپیونددان]]
+[[fr:Modèle:Tnavbar]]
+[[fi:Malline:Tnavbar]]
+[[ga:Teimpléad:Tnavbar]]
+[[hi:Template:Tnavbar]]
+[[hr:Predložak:Tnavbar]]
+[[hsb:Předłoha:Tnavbar]]
+[[hu:Sablon:Tnavbar]]
+[[id:Templat:Tnavbar]]
+[[ilo:Template:Tnavbar]]
+[[is:Snið:Tl]]
+[[ja:Template:Tnavbar]]
+[[ka:თარგი:Tnavbar]]
+[[kk:Үлгі:Tnavbar]]
+[[ko:틀:안내 참조]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Tnavbar]]
+[[ku:Şablon:Tnavbar]]
+[[lo:Template:Tnavbar]]
+[[lt:Šablonas:Tnavbar]]
+[[lv:Veidne:Tnavbar]]
+[[it:Template:Tnavbar]]
+[[mi:Template:Tnavbar]]
+[[mk:Шаблон:Tnavbar]]
+[[ml:Template:Tnavbar]]
+[[mn:Template:Tnavbar]]
+[[ms:Templat:Tnavbar]]
+[[mt:Template:Tnavbar]]
+[[mr:साचा:Tnavbar]]
+[[ne:Template:Tnavbar]]
+[[new:Template:Tnavbar]]
+[[nl:Sjabloon:Tnavbar]]
+[[no:Mal:Tnavbar]]
+[[nov:Template:Tnavbar]]
+[[oc:Modèl:Tnavbar]]
+[[os:Шаблон:Tnavbar]]
+[[pam:Template:Tnavbar]]
+[[ps:Template:Tnavbar]]
+[[pt:Predefinição:Tnavbar-mini-nodiv]]
+[[ro:Format:Tnavbar]]
+[[si:Template:Tnavbar]]
+[[simple:Template:Tnavbar]]
+[[sk:Šablóna:Tnavbar]]
+[[sl:Predloga:Prednavmeni]]
+[[sr:Шаблон:Tnavbar]]
+[[su:Citakan:Tnavbar]]
+[[sv:Mall:Tnavbar]]
+[[ta:வார்ப்புரு:Tnavbar]]
+[[tg:Шаблон:Tnavbar]]
+[[th:แม่แบบ:Tnavbar]]
+[[tr:Şablon:Dçubuğu]]
+[[uk:Шаблон:Tnavbar]]
+[[vi:Tiêu bản:Tnavbar]]
+[[yi:מוסטער:Tnavbar]]
+[[zh:Template:Tnavbar]]
+[[zh-yue:Template:Tnavbar]]</includeonly>
