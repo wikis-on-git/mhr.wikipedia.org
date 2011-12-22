@@ -1,0 +1,105 @@
+{|class="infobox bordered" style="width: 25em; font-size: 95%; background:#fff6d9; text-align: left;" cellpadding="1"
+! colspan="2" style="text-align: center; font-size: larger; background-color: #b08261; color: #fee8ab;" | {{{group}}}
+|-
+| colspan="2" style="text-align:center;padding:0px;border:none;" | {{{image|}}}
+|-
+| colspan="2" style="text-align:center;font-size:75%;padding:0px;border:none;" | {{{caption|}}}
+|-
+{{#if: {{{Шке лӱм|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Шке лӱм:''' 
+    | data2 = {{{Шке лӱм}}} }} }}
+|-
+! style="background-color: #fee8ab;" | Калыкчот:
+| style="background-color: #fff6d9;" | {{{poptime}}}
+|-
+! style="background-color: #fee8ab;" | Кушто ила:
+| style="background-color: #fff6d9;" | {{{popplace}}}
+|-
+{{#if: {{{колен|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Колен:''' 
+    | data2 = {{{колен}}} }} }}
+|-
+{{#if: {{{арх|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Археологик тӱвыра:''' 
+    | data2 = {{{арх}}} }} }}
+|-
+{{#if: {{{langs|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Йылме:''' 
+    | data2 = {{{langs}}} }} }}
+|-
+{{#if: {{{йылме|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Йылме:''' 
+    | data2 = {{{йылме}}} }} }}
+|-
+! style="background-color: #fee8ab;" | Тын:
+| style="background-color: #fff6d9;" | {{{rels}}}
+|-
+{{#if: {{{расе|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Расе тип:''' 
+    | data2 = {{{расе}}} }} }}
+|-
+{{#if: {{{пура|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Пура:''' 
+    | data2 = {{{пура}}} }} }}
+|-
+{{#if: {{{related|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Родо калык-влак:''' 
+    | data2 = {{{related}}} }} }}
+|-
+{{#if: {{{включает|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Калык тӱшкем-влак:''' 
+    | data2 = {{{тидын деч шога}}} }} }}
+|-
+{{#if: {{{origin|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=style="background-color:#fee8ab;"
+    | attributes2=style="background-color:#fff6d9;"
+    | data1 = '''Лектын:''' 
+    | data2 = {{{origin}}} }} }}
+|}<noinclude>
+[[Категория:Википедия:Шаблоны-карточки|{{PAGENAME}}]]
+
+[[en:Template:Infobox_Ethnic_group]]
+[[es:Plantilla:Grupo étnico]]
+[[fr:Modèle:Boite Groupe ethnique]]
+[[kv:Шаблон:Войтыр]]
+[[pl:Szablon:Naród infobox]]
+[[uk:Шаблон:Етнічна група]]
+</noinclude>
