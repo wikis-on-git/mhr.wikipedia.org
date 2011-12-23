@@ -1,0 +1,11 @@
+<includeonly>
+|-
+| {{ #ifexpr: {{{day}}} > 0 | {{ #ifexpr: {{{day}}} <= {{{monthdays}}} | [[{{{day}}} {{#time: xg| {{{date}}} }}|{{{day}}}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 1 > 0 | {{ #ifexpr: {{{day}}} + 1 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 1 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 1 }}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 2 > 0 | {{ #ifexpr: {{{day}}} + 2 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 2 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 2 }}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 3 > 0 | {{ #ifexpr: {{{day}}} + 3 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 3 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 3 }}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 4 > 0 | {{ #ifexpr: {{{day}}} + 4 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 4 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 4 }}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 5 > 0 | {{ #ifexpr: {{{day}}} + 5 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 5 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 5 }}]] | &nbsp; }} | &nbsp; }}
+| {{ #ifexpr: {{{day}}} + 6 > 0 | {{ #ifexpr: {{{day}}} + 6 <= {{{monthdays}}} | [[{{ #expr: {{{day}}} + 6 }} {{#time: xg| {{{date}}} }}|{{ #expr: {{{day}}} + 6 }}]] | &nbsp; }} | &nbsp; }}</includeonly><noinclude>
+{{doc}}
+</noinclude>
