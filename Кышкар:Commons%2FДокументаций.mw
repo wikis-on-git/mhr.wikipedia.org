@@ -1,0 +1,97 @@
+<noinclude>{{template navigation}}</noinclude>Тиде темылан [[Викиклат]]ыште (Wiki Commons) сӱрет-влак уло манын тиде шаблон кӱлеш. Тыгак шаблоным {{tl|викиклат}} кучылташ лиеш.
+
+== Кучылтмаш ==
+Шаблон кок параметрым куча:
+# обязательный — категорийын лӱмжӧ Викиклатыште (''Category'' префикс деч посна);
+# необязательный — теме, лаштыкын тӱҥ лӱмжым ончыктымо.
+<pre>{{commons|Moscow}}</pre>
+{{commons|Moscow}}
+<br clear="all" />
+<pre>{{commons|Moscow|Теме}}</pre>
+{{commons|Moscow|Теме}}
+
+== Тыгак ончо ==
+* {{tl|Навигаций}}
+* {{tl|Commons-inline}}
+* {{tl|Commonscat}}
+* {{tl|Commonscat-inline}}
+
+<includeonly>[[Category:Шаблон-влак:Викимдия проект-влаклан кылвер|{{PAGENAME}}]]
+
+[[af:Sjabloon:Commons]]
+[[als:Vorlage:Commons]]
+[[ar:قالب:كومنز]]
+[[ast:Plantilla:Commons]]
+[[az:Şablon:Commons]]
+[[bar:Vorlage:Commons]]
+[[bg:Шаблон:Общомедия]]
+[[bs:Šablon:Commons]]
+[[ca:Template:Commons]]
+[[cs:Šablona:Commons]]
+[[cy:Nodyn:Comin]]
+[[da:Skabelon:Commons]]
+[[de:Vorlage:Commons]]
+[[dsb:Pśedłoga:Commons]]
+[[el:Πρότυπο:Commons]]
+[[en:Template:Commons]]
+[[eo:Ŝablono:Commons]]
+[[es:Plantilla:Commons]]
+[[et:Mall:Commons]]
+[[eu:Txantiloi:Commons]]
+[[fa:الگو:انبار]]
+[[fi:Malline:Commons]]
+[[fr:Modèle:Commons]]
+[[fy:Berjocht:Commons]]
+[[ga:Teimpléad:Cómhaoin]]
+[[gl:Template:Commons]]
+[[he:תבנית:ויקישיתוף]]
+[[hr:Predložak:Commons]]
+[[hsb:Předłoha:Commons]]
+[[hu:Sablon:Commons]]
+[[ia:Patrono:Commons]]
+[[id:Templat:Commons]]
+[[ik:Template:Commons]]
+[[ilo:Template:Commons]]
+[[io:Template:Commons]]
+[[is:Snið:Commons]]
+[[it:Template:Commons]]
+[[iu:Template:Commons]]
+[[ja:Template:Commons]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Commons]]
+[[ko:틀:Commons]]
+[[ku:Şablon:Commons]]
+[[la:Formula:Communia2]]
+[[lb:Template:Commons]]
+[[li:Sjabloon:Commons]]
+[[lt:Šablonas:Commons]]
+[[lv:Veidne:Commons]]
+[[mk:Шаблон:Commons]]
+[[ms:Templat:Commons]]
+[[nds:Vörlaag:Commons]]
+[[nl:Sjabloon:Commons]]
+[[nn:Mal:Commons]]
+[[no:Mal:Commons]]
+[[oc:Modèl:Commons]]
+[[pl:Szablon:Commons]]
+[[pt:Predefinição:Commons]]
+[[ro:Format:Commons]]
+[[scn:Template:Commons]]
+[[sh:Template:Commons]]
+[[simple:Template:Commons]]
+[[sk:Šablóna:Commons]]
+[[sl:Predloga:Zbirka]]
+[[sq:Stampa:Commons]]
+[[sr:Шаблон:Commons]]
+[[su:Citakan:Commons]]
+[[sv:Mall:Commons]]
+[[tl:Template:Commons]]
+[[tr:Şablon:Commons]]
+[[tt:Ürnäk:Commons]]
+[[uk:Шаблон:Commons]]
+[[ur:سانچہ:Commons]]
+[[vi:Tiêu bản:Commons]]
+[[wa:Modele:Commons]]
+[[zh:Template:Commons]]
+</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
