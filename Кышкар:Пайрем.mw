@@ -1,5 +1,5 @@
 {| class="infobox" style="width: 23em; font-size: 0.9em;"  
-! colspan="2" ; style="background: {{#switch:{{lc:{{{тип(тӱс)|}}}}}
+! colspan="2" ; style="background: {{#switch:{{lc:{{{тӱрлык(тӱс)|}}}}}
 |христиан|христ|христианлык = Lavender
 |танле|черке = LightCyan
 |ислам|исл|исламский|мусульманский=LightGreen
@@ -94,9 +94,9 @@
 <!-- -->{{!}} {{{дата{{#time:Y|next year}}}}}
 }}
 |-valign="top" 
-{{#if:{{{празднование|<noinclude>x</noinclude>}}}|
-<!-- -->{{!}} '''Празднование'''
-<!-- -->{{!}} {{{празднование}}}
+{{#if:{{{пайремлымаш|<noinclude>x</noinclude>}}}|
+<!-- -->{{!}} '''Пайремлымаш'''
+<!-- -->{{!}} {{{пайремлымаш}}}
 }}
 |-valign="top" 
 {{#if:{{{традиции|<noinclude>x</noinclude>}}}|
