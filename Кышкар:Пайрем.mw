@@ -1,7 +1,7 @@
 {| class="infobox" style="width: 23em; font-size: 0.9em;"  
 ! colspan="2" ; style="background: {{#switch:{{lc:{{{тип(тӱс)|}}}}}
-|христианский|христ|христианство = Lavender
-|православный|православ|церковный|церков = LightCyan
+|христиан|христ|христианлык = Lavender
+|танле|черке = LightCyan
 |ислам|исл|исламский|мусульманский=LightGreen
 |иудаизм|иуд|иудей|иудейский|еврейский=LightSkyBlue
 |германизм|г|= Amber
@@ -18,20 +18,20 @@
 |коммунистический|коммунизм|советский|совет|революционный|революция|социалистический|соц = Red
 |демократический|либеральный|правозащитный = Orange
 |LightSteelBlue <!-- backward compat for the time beeing -->
-}}; font-size: larger; padding:3px; text-align: center;" | {{{название праздника}}}
+}}; font-size: larger; padding:3px; text-align: center;" | {{{пайремын лӱмжӧ}}}
 |-
 {{#if:{{{сӱрет|<noinclude>x</noinclude>}}}|
-<!-- -->{{!}} colspan="2" style="text-align: center;" {{!}} [[Сӱрет:{{{сӱрет<noinclude>|Example.jpg</noinclude>}}}|220px|{{{название праздника}}}]]</td>
-<!-- -->{{#if:{{{подпись|<noinclude>x</noinclude>}}}|
+<!-- -->{{!}} colspan="2" style="text-align: center;" {{!}} [[Сӱрет:{{{сӱрет<noinclude>|Example.jpg</noinclude>}}}|220px|{{{пайремын лӱмжӧ}}}]]</td>
+<!-- -->{{#if:{{{возымаш|<noinclude>x</noinclude>}}}|
 <!--   -->{{!-}}
-<!--   -->{{!}} colspan="2" style="text-align: center; font-size: 98%;" {{!}} {{{подпись}}}
+<!--   -->{{!}} colspan="2" style="text-align: center; font-size: 98%;" {{!}} {{{возымаш}}}
 <!-- -->}}
 <!-- -->
 }}
 |-valign="top" 
-{{#if:{{{тип(тӱс)|<noinclude>x</noinclude>}}}|
-<!-- -->{{!}} '''Тип'''
-<!-- -->{{!}} {{{расширенный тип|{{ucfirst:{{{тип}}}}}}}}
+{{#if:{{{тӱрлык(тӱс)|<noinclude>x</noinclude>}}}|
+<!-- -->{{!}} '''Тӱрлык'''
+<!-- -->{{!}} {{{расширенный тип|{{ucfirst:{{{тӱрлык}}}}}}}}
 }}
 |-valign="top" 
 {{#if:{{{официально|<noinclude>x</noinclude>}}}| 
