@@ -1,0 +1,13 @@
+<div class="NavFrame" style="border:none;"></div><div class="NavFrame" style="border:none;"></div><div class="NavFrame" style="border:{{{Рамка|none}}};"><div class="NavHead" style="{{#ifeq:{{{Ссылка|}}}|left|width:4.5em; position:absolute;|}} font-weight:{{{Вуймутын шрифтше|bold}}}; font-style:{{{Вуймутын_шӧрын_лиймашыже|normal}}}; background-color:{{{Вуймутын_фонжо|transparent}}}; text-align:{{{Вуймутым_тӧремден_шындымаш|center}}}; {{{Вуймутын_стильже|}}}">{{#ifeq:{{{Ссылка|}}}|left|</div><div style="height:1.6em; padding-left:4.5em; font-weight:{{{Вуймутын_шрифтше|bold}}}; font-style:{{{Вуймутын_шӧрын_лиймашыже|normal}}}; background-color:{{{Фон_заголовка|transparent}}}; text-align:{{{Вуймутым_тӧремден_шындымаш|center}}}; {{{Вуймутын_стильже|}}}">|}}{{{Вуймут|{{{1}}}}}}</div><div class="NavContent" style="font-weight:{{{Текстын_шрифтше|normal}}}; font-style:{{{Текстын_шӧрын_лиймашыже|normal}}}; background-color:{{{Текстын_фонжо|transparent}}}; text-align:{{{Текстым_тӧремден_шындымаш|left}}}; display:none; {{{Текстын стильже|}}}">
+{{{Вуйлымаш|{{{2}}}}}}
+</div></div><noinclude>
+{{-}}
+{{doc}}
+
+[[Category:Википедий:Шаблон-влак:Форматирований|{{PAGENAME}}]]
+
+[[bg:Шаблон:Скриване]]
+[[en:Template:Hidden]]
+[[pt:Predefinição:Oculto]]
+[[sl:Predloga:Skrito]]
+</noinclude>
