@@ -1,0 +1,44 @@
+<noinclude>{{template navigation}}</noinclude>Тиде шаблон кок·симбыл деч шога — [[ойыраш лийдыме яравер]] да «точко» (·) — да, {{tl|!}} шаблон семын, навигайций шаблон-влакыште кылвер-влак коклаште ойырышо семын палемдыме.
+
+; Кузе кучылташ
+<pre>[[КЫЛВЕР1]]{{·}}[[КЫЛВЕР2]]</pre>
+
+'''Тӱткыныза:''' не следует использовать этот шаблон в качестве начального (перед всеми ссылками) и завершающего (после всех ссылок) символа, так как это — именно <u>разделитель</u>, то есть он предназначен для <u>разделения</u> ссылок между собой, а не для их «обрамления».
+
+== Тыгак ончо ==
+* {{tl|•}}
+<includeonly>
+{{СИШ|14}}
+[[Category:Википедий:Шаблон-влак:Форматирований|·]]
+[[ca:Plantilla:·]]
+[[cy:Nodyn:·]]
+[[da:Skabelon:·]]
+[[en:Template:·]]
+[[eo:Ŝablono:·]]
+[[es:Plantilla:·]]
+[[fr:Modèle:·]]
+[[hi:साँचा:·]]
+[[hsb:Předłoha:·]]
+[[hu:Sablon:·]]
+[[id:Templat:·]]
+[[it:Template:·]]
+[[he:תבנית:·]]
+[[ja:Template:·]]
+[[ku:Şablon:·]]
+<!-- [[lt:Šablonas:·]] doesn't include the &nbsp; -->
+[[lv:Veidne:·]]
+[[ms:Templat:·]]
+[[nn:Mal:·]]
+<!-- [[no:Mal:·]] doesn't include the &nbsp; -->
+[[pt:Predefinição:·]]
+[[ro:Format:·]]
+[[simple:Template:·]]
+[[sl:Predloga:·]]
+[[sq:Stampa:·]]
+[[su:Citakan:·]]
+[[sv:Mall:·]]
+[[tr:Şablon:·]]
+[[uk:Шаблон:·]]
+</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
