@@ -1,0 +1,35 @@
+<div style="clear: both;"></div> 
+<div style="border:1px solid {{{border|#699}}}; background:{{{titlebackground|#ecf3f3}}}; text-align:center; padding:.1em; margin-bottom:0px; border-bottom:none;"><!--
+-->{{#if: {{{editpage|}}}|<span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;">[{{fullurl:{{{editpage}}}|action=edit}} <span style="color:{{{titleforeground|black}}}">править</span>]&nbsp;</span>}}<!--
+--><h2 style="margin:0; padding:0; color:{{{titleforeground|black}}}; font-size:100%; font-weight:bold; border:0;">{{{title}}}</h2><!--
+--></div>
+<div style="display:block; border:1px solid {{{border|#699}}}; vertical-align:top; background:{{{background|white}}}; color:{{{foreground|black}}}; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0em;"><noinclude>
+{{box-footer}}
+{{doc}}
+
+[[Категорий:Википедий:Шаблон-влак:Портал-влак|{{PAGENAME}}]]
+
+[[an:Portal:Box-header]]
+[[ar:بوابة:Box-header]]
+[[az:Şablon:Portal:Box-header]]
+[[bs:Portal:Box-header]]
+[[ca:Portal:Box-header]]
+[[cs:Portál:Box-header]]
+[[da:Portal:Box-header]]
+[[de:Portal:Box-header]]
+[[en:Portal:Box-header]]
+[[es:Portal:Box-header]]
+[[hr:Portal:Box-header]]
+[[id:Portal:Box-header]]
+[[ja:Portal:Box-header]]
+[[ms:Portal:Box-header]]
+[[nn:Mal:Box-header]]
+[[pl:Portal:Nagłówek]]
+[[pt:Portal:Box-header]]
+[[ru:Шаблон:Box-header]]
+[[sl:Portal:Polje-glava]]
+[[sv:Portal:Box-header]]
+[[th:แม่แบบ:หัวกล่อง]]
+[[zh:Portal:Box-header]]
+[[zh-yue:Portal:Box-header]]
+</noinclude>
