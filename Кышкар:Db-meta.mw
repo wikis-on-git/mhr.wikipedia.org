@@ -1,0 +1,32 @@
+{{ambox
+| type  = serious 
+| image = [[Image:Mail-mark-junk red.svg|48px|Быстро удалить]] 
+| style = background:#FEE;
+| text  ='''Эта страница предлагается для [[Википедия:Критерии быстрого удаления|быстрого удаления]].'''
+| text-small ={{#if:{{{1|}}}|Указана следующая причина: {{{1}}}.|<span style="color:#E30;">Причина не указана. Следует проверить соответствие статьи [[Википедия:Критерии быстрого удаления|критериям быстрого удаления]].</span>}}
+{{{2|}}}
+* Если данная страница не соответствует [[Википедия:Критерии быстрого удаления|критериям быстрого удаления]], удалите это сообщение (если только страница не создана вами).
+* Если вы создали эту страницу и не согласны с необходимостью быстрого удаления, {{editthis|поставьте}} шаблон <tt>'''{{tl|hangon}}'''</tt> ''прямо под этим сообщением'' и '''сразу же объясните''' на {{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}|странице |[[{{TALKSPACE}}:{{PAGENAME}}|странице обсуждения]]}}, почему {{#switch: -{{SUBJECTSPACE}}- | -- = эту статью | -Категория- = эту категорию | -Шаблон- = этот шаблон | -Изображение- = это изображение | #default = эту страницу}} нужно оставить.
+----
+{{#ifexpr:({{#time:U|{{REVISIONTIMESTAMP}}}}-{{#time:U|{{LOCALTIMESTAMP}}}}) / -60 round 0|<div>''Страница сохранена {{#expr:({{#time:U|{{REVISIONTIMESTAMP}}}}-{{#time:U|{{LOCALTIMESTAMP}}}}) / -60 round 0}} {{plural:{{#expr:({{#time:U|{{REVISIONTIMESTAMP}}}}-{{#time:U|{{LOCALTIMESTAMP}}}}) / -60 round 0}}|минуту|минуты|минут}} назад.''</div>}}''{{Виктарыше-влаклан|{{{1|Быстрое удаление}}}}}''
+| imageright = {{{imageright|}}}
+}}<noinclude>
+{{doc}}
+
+[[Категорий:Ямдылык]]
+
+[[de:Vorlage:Löschen]]
+[[simple:Template:Delete]]
+[[zh:Template:Delete]]
+[[pl:Szablon:Ekspresowe kasowanko]]
+[[ar:Template:للحذف]]
+[[el:Πρότυπο:Delete]]
+[[en:Template:Db-meta]]
+[[es:Plantilla:Destruir]]
+[[fa:Template:کاندید حذف]]
+[[hi:Template:जल्द हटायें]]
+[[it:Template:Cancella]]
+[[pt:Predefinição:Eliminação rápida]]
+[[sv:Mall:Radera]]
+[[tr:Şablon:Sil]]
+</noinclude>
