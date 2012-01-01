@@ -1,0 +1,81 @@
+<noinclude>{{template navigation}}</noinclude>
+== Кучылтмаш ==
+Шаблон иктешлыме статьян ужашыже-влак гыч кумдарак статьялан кылверым ончыкташ кучылталтеш.
+<pre>
+{{main
+  |Статья 1
+}}
+</pre>
+
+Икмыняр кылвер (вич деч шукырак огыл):
+
+<pre>
+{{main
+  |Статья 1
+  |Статья 2
+  |Статья 3
+}}
+</pre>
+
+Кажне кылверлан кузе тудо коеш ончыкташ лиеш (цыпр деч ончыч — изи ‘''L''’):
+<pre>
+{{main
+  |Статья 1
+  |Статья 2
+  |l1=1 кылверын ончыктымо текстше
+  |l2=2 кылверын ончыктымо текстше
+}}
+</pre>
+
+== Шынамат-влак ==
+{| class="wikitable" width="100%"
+! Code
+! Result
+|- style="vertical-align:top;"
+| <pre>{{Main|Статья}}</pre>
+| {{Main|Статья}}
+|- style="vertical-align:top;"
+| <pre>{{Main|Икыт|Кокыт|Кумыт}}</pre>
+| {{Main|Икыт|Кокыт|Кумыт}}
+|- style="vertical-align:top;"
+| <pre>{{Main|Икыт|Кокыт|Кумыт|l1=II|l2=III|l3=III}}</pre>
+| {{Main|Икыт|Кокыт|Кумыт|l1=II|l2=III|l3=III}}
+|}
+
+== Тыгак ончо ==
+* {{tl|CatMain}}
+
+<!-- Категорий-влак да интервики -->
+<includeonly>[[Категорий:Википедий:Шаблон-влак:Кӧргысо кылвер-влак|{{PAGENAME}}]]
+
+[[bn:Template:মূল নিবন্ধ]]
+[[ca:Plantilla:Principal]]
+[[de:Vorlage:Hauptartikel]]
+[[en:Template:Main]]
+[[es:Plantilla:AP]]
+[[eo:Ŝablono:Ĉefa]]
+[[fi:Malline:Pääartikkeli]]
+[[fr:Modèle:Détails]]
+[[gl:Template:Ver artigo principal]]
+[[he:תבנית:הפניה לערך מורחב]]
+[[id:Templat:Main]]
+[[it:Template:Vedi anche]]
+[[ko:틀:본문]]
+[[mg:Template:Antsipirihany]]
+[[nl:Sjabloon:Zieook]]
+[[pl:Szablon:Main]]
+[[pt:Predefinição:Principal]]
+[[ro:Format:Articol principal]]
+[[simple:Template:Main]]
+[[sk:Šablóna:Hlavný článok]]
+[[sl:Predloga:Glavno]]
+[[sq:Stampa:Kryesor]]
+[[sr:Шаблон:Посебан чланак]]
+[[sv:Mall:Huvudartikel]]
+[[ta:வார்ப்புரு:Main]]
+[[tl:Template:Main]]
+[[uk:Шаблон:Main]]
+[[vi:Tiêu bản:Chính]]
+[[zh:Template:Main]]</includeonly><noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
