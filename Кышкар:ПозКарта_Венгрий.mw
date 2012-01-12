@@ -6,7 +6,6 @@
 | right  = 23.2
 |image = {{#switch:{{{2|}}}
  |physical = Hungary physical map.svg
- |default = Hungary location map.svg
+ |#default = Hungary location map.svg
 }}
-}}<noinclude>{{ПозКарта/Инфо|Венгрий}}
-</noinclude>
+}}
