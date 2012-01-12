@@ -1,0 +1,25 @@
+{{#switch:{{{1}}}
+|name = Одо Эл
+| top    = 58.5608
+| bottom = 55.8666
+| left   = 51.1151
+| right  = 54.4444
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Udmurtia.png
+ |#default = Outline Map of Udmurtia.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+
+[[cs:Šablona:LocMap Udmurtsko]]
+[[de:Vorlage:Positionskarte Russland Republik Udmurtien]]
+[[en:Template:Location map Russia Udmurtia]]
+[[fa:الگو:Location map Russia Udmurtia]]
+[[fr:Modèle:Géolocalisation/Oudmourtie]]
+[[id:Templat:Location map Rusia Udmurtia]]
+[[lt:Šablonas:Location map Udmurtija]]
+[[nl:Sjabloon:Positiekaart Rusland Oedmoertië]]
+[[nn:Mal:Kartposisjon Udmurtia]]
+[[os:Шаблон:ПозКартæ Уæрæсе Удмурти]]
+[[ru:Шаблон:ПозКарта Россия Удмуртия]]
+[[uk:Шаблон:Карта розташування Росія Удмуртія]]
+</noinclude>
