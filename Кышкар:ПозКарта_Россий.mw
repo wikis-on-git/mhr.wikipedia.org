@@ -1,13 +1,10 @@
 {{#switch:{{{1}}}
-|name = Россий
-|type = polar
-|x = 49.842
-|y = 1.227
-|alpha = 181
-|mult = 0.9372819895
-|length_x = 111.047693
-|length_y = 216.678436
-|image =Russia edcp location map.svg
+|name = Россия
+|type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Russia edcp relief location map.jpg
+ |#default = Russia edcp location map.svg
+}}
 }}<noinclude>{{ПозКарта/Инфо|Россий}}
 [[az:Şablon:Yer xəritəsi Rusiya]]
 [[bar:Vorlage:Positionskarte Russland]]
