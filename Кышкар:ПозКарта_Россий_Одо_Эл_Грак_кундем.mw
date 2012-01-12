@@ -1,0 +1,11 @@
+{{#switch:{{{1}}}
+|name = Грак кундем
+| top    = 56.30
+| bottom = 55.85
+| left   = 51.50
+| right  = 52.30
+| image  = Outline Map of Grakhovsky District (Udmurtia).svg
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+
+[[ru:Шаблон:ПозКарта_Россия_Удмуртия_Граховский_район]]
+</noinclude>
