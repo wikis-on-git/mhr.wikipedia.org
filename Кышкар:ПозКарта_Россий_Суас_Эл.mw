@@ -1,0 +1,34 @@
+{{#switch:{{{1}}}
+|name = Суас Эл
+|top = 56.8
+|bottom = 53.9
+|left = 47.0
+|right = 54.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Tatarstan.png
+ |#default = Outline Map of Tatarstan.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+
+[[ba:Ҡалып:ПозКарта Рәсәй Татарстан Республикаһы]]
+[[be:Шаблон:На карце/Расія Татарстан]]
+[[bg:Шаблон:ПК Русия Татарстан]]
+[[cs:Šablona:LocMap Tatarstán]]
+[[de:Vorlage:Positionskarte Russland Republik Tatarstan]]
+[[en:Template:Location map Russia Tatarstan]]
+[[fa:الگو:Location map Russia Tatarstan]]
+[[fr:Modèle:Géolocalisation/Tatarstan]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ Ռուսաստան Թաթարստան]]
+[[id:Templat:Location map Rusia Tatarstan]]
+[[lt:Šablonas:Location map Tatarstanas]]
+[[mk:Шаблон:Location map Russia Tatarstan]]
+[[nl:Sjabloon:Positiekaart Rusland Tatarije]]
+[[nn:Mal:Kartposisjon Tatarstan]]
+[[os:Шаблон:ПозКартæ Уæрæсе Тæтæрстан]]
+[[pl:Szablon:Mapa lokalizacyjna/RUS Tatarstan]]
+[[pt:Predefinição:Mapa de localização/Tartaristão]]
+[[ru:Шаблон:ПозКарта_Россия_Татарстан]]
+[[tr:Şablon:Location map Russia Tatarstan]]
+[[tt:Калып:ПозХарита Русия Татарстан]]
+[[uk:Шаблон:Карта розташування Росія Татарстан]]
+</noinclude>
