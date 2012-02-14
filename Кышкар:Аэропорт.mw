@@ -310,7 +310,7 @@
 {{#if: {{{footnotes<includeonly>|</includeonly>}}}|
 {{!}} colspan=3 style="text-align: left; background-color: #eee" {{!}} {{{footnotes}}}
 }}
--->{{Категория только в статьях|Тиштер почеш аэропортла}}<!-- 
+{{Категория только в статьях|Тиштер почеш аэропортла}} 
 <includeonly>{{#switch: {{ #if: {{{lat_deg|}}} | 1 }}{{ #if: {{{coordinates|}}} | 2 }}
 | 1 =
 | 2 =
