@@ -258,6 +258,211 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | From the ancient Greek [[Koppa (letter)|Ϙ]]
 |- style="background:#eee;"
 ! colspan="7" |
+===Extended Cyrillic===
+|-
+| 048A || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҋ]]}} || CYRILLIC CAPITAL LETTER SHORT I WITH TAIL
+| 048B || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҋ}} || CYRILLIC SMALL LETTER SHORT I WITH TAIL
+| * [[Kildin Sami]]
+|-
+| 048C || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҍ]]}} || CYRILLIC CAPITAL LETTER SEMISOFT SIGN
+| 048D || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҍ}} || CYRILLIC SMALL LETTER SEMISOFT SIGN
+| * Kildin Sami
+|-
+| 048E || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҏ]]}} || CYRILLIC CAPITAL LETTER ER WITH TICK
+| 048F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҏ}} || CYRILLIC SMALL LETTER ER WITH TICK
+| * Kildin Sami
+|-
+| 0490 || class="Unicode" style="font:x-large sans-serif;" | [[Ґ]] || CYRILLIC CAPITAL LETTER GHE WITH UPTURN
+| 0491 || class="Unicode" style="font:x-large sans-serif;" | ґ || CYRILLIC SMALL LETTER GHE WITH UPTURN
+| * Belarusian, Rusyn, Ukrainian
+|-
+| 0492 || class="Unicode" style="font:x-large sans-serif;" | [[Ғ]] || CYRILLIC CAPITAL LETTER GHE WITH STROKE
+| 0493 || class="Unicode" style="font:x-large sans-serif;" | ғ || CYRILLIC SMALL LETTER GHE WITH STROKE
+| * [[Azerbaijani language|Azerbaijani]], [[Bashkir language|Bashkir]]; full bar form preferred over half-barred "F"-type
+|-
+| 0494 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҕ]]}} || CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK
+| 0495 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҕ}} || CYRILLIC SMALL LETTER GHE WITH MIDDLE HOOK
+| * [[Yakut language|Yakut]], older orthographies for [[Abkhaz language|Abkhaz]]
+|-
+| 0496 || class="Unicode" style="font:x-large sans-serif;" | [[Җ]] || CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER
+| 0497 || class="Unicode" style="font:x-large sans-serif;" | җ || CYRILLIC SMALL LETTER ZHE WITH DESCENDER
+| * [[Tatar language|Tatar]], ...
+|-
+| 0498 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҙ]]}} || CYRILLIC CAPITAL LETTER ZE WITH DESCENDER
+| 0499 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҙ}} || CYRILLIC SMALL LETTER ZE WITH DESCENDER
+| * Bashkir; letterforms with right hooks are preferred, although occasional variants with left hooks occur
+|-
+| 049A || class="Unicode" style="font:x-large sans-serif;" | [[Қ]] || CYRILLIC CAPITAL LETTER KA WITH DESCENDER
+| 049B || class="Unicode" style="font:x-large sans-serif;" | қ || CYRILLIC SMALL LETTER KA WITH DESCENDER
+| * Abkhaz, [[Tajik language|Tajik]], ...
+|-
+| 049C || class="Unicode" style="font:x-large sans-serif;" | [[Ҝ]] || CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE
+| 049D || class="Unicode" style="font:x-large sans-serif;" | ҝ || CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE
+| * Azerbaijani
+|-
+| 049E || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҟ]]}} || CYRILLIC CAPITAL LETTER KA WITH STROKE
+| 049F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҟ}} || CYRILLIC SMALL LETTER KA WITH STROKE
+| * Abkhaz
+|-
+| 04A0 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҡ]]}} || CYRILLIC CAPITAL LETTER BASHKIR KA
+| 04A1 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҡ}} || CYRILLIC SMALL LETTER BASHKIR KA
+|-
+| 04A2 || class="Unicode" style="font:x-large sans-serif;" | [[Ң]] || CYRILLIC CAPITAL LETTER EN WITH DESCENDER
+| 04A3 || class="Unicode" style="font:x-large sans-serif;" | ң || CYRILLIC SMALL LETTER EN WITH DESCENDER
+| * Bashkir, ...
+|-
+| 04A4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҥ]]}} || CYRILLIC CAPITAL LIGATURE EN GHE
+| 04A5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҥ}} || CYRILLIC SMALL LIGATURE EN GHE
+| * Altay, [[Mari language|Mari]], Yakut; this is not a decomposable ligature
+|-
+| 04A6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҧ]]}} || CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK
+| 04A7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҧ}} || CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK
+| * older orthographies for Abkhasian
+|-
+| 04A8 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҩ]]}} || CYRILLIC CAPITAL LETTER ABKHASIAN HA
+| 04A9 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҩ}} || CYRILLIC SMALL LETTER ABKHASIAN HA
+|-
+| 04AA || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҫ]]}} || CYRILLIC CAPITAL LETTER ES WITH DESCENDER
+| 04AB || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҫ}} || CYRILLIC SMALL LETTER ES WITH DESCENDER
+| * Bashkir, [[Chuvash language|Chuvash]]; letterforms with right hooks are preferred, although occasional variants with left hooks occur; in Chuvashia, letterforms identical to or similar in form to 00E7 regularly occur
+|-
+| 04AC || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҭ]]}} || CYRILLIC CAPITAL LETTER TE WITH DESCENDER
+| 04AD || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҭ}} || CYRILLIC SMALL LETTER TE WITH DESCENDER
+| * Abkhaz
+|-
+| 04AE || class="Unicode" style="font:x-large sans-serif;" | [[Ү]] || CYRILLIC CAPITAL LETTER STRAIGHT U
+| 04AF || class="Unicode" style="font:x-large sans-serif;" | ү || CYRILLIC SMALL LETTER STRAIGHT U
+| * Azerbaijani, Bashkir, ...; stem is straight, unlike letter U
+|-
+| 04B0 || class="Unicode" style="font:x-large sans-serif;" | [[Ұ]] || CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE
+| 04B1 || class="Unicode" style="font:x-large sans-serif;" | ұ || CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE
+| * [[Kazakh language|Kazakh]]
+|-
+| 04B2 || class="Unicode" style="font:x-large sans-serif;" | [[Ҳ]] || CYRILLIC CAPITAL LETTER HA WITH DESCENDER
+| 04B3 || class="Unicode" style="font:x-large sans-serif;" | ҳ || CYRILLIC SMALL LETTER HA WITH DESCENDER
+| * Abkhaz, Tajik, Uzbek
+|-
+| 04B4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҵ]]}} || CYRILLIC CAPITAL LIGATURE TE TSE
+| 04B5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҵ}} || CYRILLIC SMALL LIGATURE TE TSE
+| * Abkhaz; this is not a decomposable ligature
+|-
+| 04B6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҷ]]}} || CYRILLIC CAPITAL LETTER CHE WITH DESCENDER
+| 04B7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҷ}} || CYRILLIC SMALL LETTER CHE WITH DESCENDER
+| * Abkhaz, Tajik
+|-
+| 04B8 || class="Unicode" style="font:x-large sans-serif;" | [[Ҹ]] || CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE
+| 04B9 || class="Unicode" style="font:x-large sans-serif;" | ҹ || CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE
+| * Azerbaijani
+|-
+| 04BA || class="Unicode" style="font:x-large sans-serif;" | [[Һ]] || CYRILLIC CAPITAL LETTER SHHA
+| 04BB || class="Unicode" style="font:x-large sans-serif;" | һ || CYRILLIC SMALL LETTER SHHA
+| * Azerbaijani, Bashkir, ...; originally derived from Latin "h", but uppercase form 04BA is closer to an inverted che (0427)
+|-
+| 04BC || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҽ]]}} || CYRILLIC CAPITAL LETTER ABKHASIAN CHE
+| 04BD || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҽ}} || CYRILLIC SMALL LETTER ABKHASIAN CHE
+|-
+| 04BE || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҿ]]}} || CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER
+| 04BF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҿ}} || CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER
+| * some older Abkhaz fonts show a descender shaped like a right hook (ogonek or reversed comma shape)
+|-
+| 04C0 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӏ]]}} || CYRILLIC LETTER PALOCHKA
+| 04CF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[ӏ]]}} || CYRILLIC SMALL LETTER PALOCHKA
+| * aspiration sign in many Caucasian languages; is usually not cased, but the formal lowercase is 04CF
+|-
+| 04C1 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӂ]]}} || CYRILLIC CAPITAL LETTER ZHE WITH BREVE<br /><small>0416 0306</small>
+| 04C2 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӂ}} || CYRILLIC SMALL LETTER ZHE WITH BREVE<br /><small>0436 0306</small>
+| * [[Moldavian language|Moldavian]]
+|-
+| 04C3 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӄ]]}} || CYRILLIC CAPITAL LETTER KA WITH HOOK
+| 04C4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӄ}} || CYRILLIC SMALL LETTER KA WITH HOOK
+| * [[Khanty language|Khanty]], [[Chukchi language|Chukchi]]
+|-
+| 04C5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӆ]]}} || CYRILLIC CAPITAL LETTER EL WITH TAIL
+| 04C6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӆ}} || CYRILLIC SMALL LETTER EL WITH TAIL
+| * Kildin Sami
+|-
+| 04C7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӈ]]}} || CYRILLIC CAPITAL LETTER EN WITH HOOK
+| 04C8 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӈ}} || CYRILLIC SMALL LETTER EN WITH HOOK
+| * Khanty, Chukchi, [[Nenets languages|Nenets]]
+|-
+| 04C9 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӊ]]}} || CYRILLIC CAPITAL LETTER EN WITH TAIL
+| 04CA || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӊ}} || CYRILLIC SMALL LETTER EN WITH TAIL
+| * Kildin Sami
+|-
+| 04CB || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӌ]]}} || CYRILLIC CAPITAL LETTER KHAKASSIAN CHE
+| 04CC || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӌ}} || CYRILLIC SMALL LETTER KHAKASSIAN CHE
+|-
+| 04CD || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӎ]]}} || CYRILLIC CAPITAL LETTER EM WITH TAIL
+| 04CE || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӎ}} || CYRILLIC SMALL LETTER EM WITH TAIL
+| * Kildin Sami
+|-
+| 04D0 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӑ]]}} || CYRILLIC CAPITAL LETTER A WITH BREVE<br /><small>0410 0306</small>
+| 04D1 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӑ}} || CYRILLIC SMALL LETTER A WITH BREVE<br /><small>0430 0306</small>
+|-
+| 04D2 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӓ]]}} || CYRILLIC CAPITAL LETTER A WITH DIAERESIS<br /><small>0410 0308</small>
+| 04D3 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӓ}} || CYRILLIC SMALL LETTER A WITH DIAERESIS<br /><small>0430 0308</small>
+|-
+| 04D4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӕ]]}} || CYRILLIC CAPITAL LIGATURE A IE
+| 04D5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӕ}} || CYRILLIC SMALL LIGATURE A IE
+| * this is not a decomposable ligature
+|-
+| 04D6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӗ]]}} || CYRILLIC CAPITAL LETTER IE WITH BREVE<br /><small>0415 0306</small>
+| 04D7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӗ}} || CYRILLIC SMALL LETTER IE WITH BREVE<br /><small>435 0306</small>
+|-
+| 04D8 || class="Unicode" style="font:x-large sans-serif;" | [[Ә]] || CYRILLIC CAPITAL LETTER SCHWA
+| 04D9 || class="Unicode" style="font:x-large sans-serif;" | ә || CYRILLIC SMALL LETTER SCHWA
+|-
+| 04DA || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӛ]]}} || CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS<br /><small>04D8 0308</small>
+| 04DB || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӛ}} || CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS<br /><small>04D9 0308</small>
+|-
+| 04DC || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[ӝ]]}} || CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS<br /><small>0416 0308</small>
+| 04DD || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӝ}} || CYRILLIC SMALL LETTER ZHE WITH DIAERESIS<br /><small>0436 0308</small>
+|-
+| 04DE || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӟ]]}} || CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS<br /><small>0417 0308</small>
+| 04DF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӟ}} || CYRILLIC SMALL LETTER ZE WITH DIAERESIS<br /><small>0437 0308</small>
+|-
+| 04E0 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӡ]]}} || CYRILLIC CAPITAL LETTER ABKHASIAN DZE
+| 04E1 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӡ}} || CYRILLIC SMALL LETTER ABKHASIAN DZE
+|-
+| 04E2 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӣ]]}} || CYRILLIC CAPITAL LETTER I WITH MACRON<br /><small>0418 0304</small>
+| 04E3 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӣ}} || CYRILLIC SMALL LETTER I WITH MACRON<br /><small>0438 0304</small>
+|-
+| 04E4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӥ]]}} || CYRILLIC CAPITAL LETTER I WITH DIAERESIS<br /><small>0418 0308</small>
+| 04E5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӥ}} || CYRILLIC SMALL LETTER I WITH DIAERESIS<br /><small>0438 0308</small>
+|-
+| 04E6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӧ]]}} || CYRILLIC CAPITAL LETTER O WITH DIAERESIS<br /><small>041E 0308</small>
+| 04E7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӧ}} || CYRILLIC SMALL LETTER O WITH DIAERESIS<br /><small>043E 0308</small>
+|-
+| 04E8 || class="Unicode" style="font:x-large sans-serif;" | [[Ө]] || CYRILLIC CAPITAL LETTER BARRED O
+| 04E9 || class="Unicode" style="font:x-large sans-serif;" | [[ө]] || CYRILLIC SMALL LETTER BARRED O
+|-
+| 04EA || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӫ]]}} || CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS<br /><small>04E8 0308</small>
+| 04EB || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӫ}} || CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS<br /><small>04E9 0308</small>
+|-
+| 04EC || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӭ]]}} || CYRILLIC CAPITAL LETTER E WITH DIAERESIS<br /><small>042D 0308</small>
+| 04ED || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӭ}} || CYRILLIC SMALL LETTER E WITH DIAERESIS<br /><small>044D 0308</small>
+| * Kildin Sami
+|-
+| 04EE || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӯ]]}} || CYRILLIC CAPITAL LETTER U WITH MACRON<br /><small>0423 0304</small>
+| 04EF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӯ}} || CYRILLIC SMALL LETTER U WITH MACRON<br /><small>0443 0304</small>
+|-
+| 04F0 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӱ]]}} || CYRILLIC CAPITAL LETTER U WITH DIAERESIS<br /><small>0423 0308</small>
+| 04F1 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӱ}} || CYRILLIC SMALL LETTER U WITH DIAERESIS<br /><small>0443 0308</small>
+|-
+| 04F2 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӳ]]}} || CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE<br /><small>0423 030B</small>
+| 04F3 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӳ}} || CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE<br /><small>0443 030B</small>
+|-
+| 04F4 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӵ]]}} || CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS<br /><small>0427 0308</small>
+| 04F5 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӵ}} || CYRILLIC SMALL LETTER CHE WITH DIAERESIS<br /><small>0447 0308</small>
+|-
+| 04F6 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӷ]]}} || CYRILLIC CAPITAL LETTER GHE WITH DESCENDER
+| 04F7 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӷ}} || CYRILLIC SMALL LETTER GHE WITH DESCENDER
+| * [[Yupik language|Yupik]]
+|-
+| 04F8 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӹ]]}} || CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS<br /><small>042B 0308</small>
+| 04F9 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӹ}} || CYRILLIC SMALL LETTER YERU WITH DIAERESIS<br /><small>044B 0308</small>
+|- style="background:#eee;"
+! colspan="7" |
 
 
 [[en:Cyrillic characters in Unicode]]
