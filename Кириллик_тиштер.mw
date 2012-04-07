@@ -192,5 +192,72 @@ Not considered a separate letter, but merely the letter И with a [[grave accent
 * In Abkhaz, it acts like the Serbian/Macedonian Ђ, placed near the end of the [[Abkhaz alphabet]].
 |- style="background:#eee;"
 ! colspan="7" |
+===Historic letters===
+|-
+| 0460 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѡ]]}} || CYRILLIC CAPITAL LETTER OMEGA
+| 0461 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѡ}} || CYRILLIC SMALL LETTER OMEGA
+| From the [[Greek language|Greek]] letter [[Omega|Ω ω]]
+|-
+| 0462 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѣ]]}} || CYRILLIC CAPITAL LETTER YAT
+| 0463 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѣ}} || CYRILLIC SMALL LETTER YAT
+|-
+| 0464 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѥ]]}} || CYRILLIC CAPITAL LETTER IOTIFIED E
+| 0465 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѥ}} || CYRILLIC SMALL LETTER IOTIFIED E
+|-
+| 0466 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѧ]]}} || CYRILLIC CAPITAL LETTER LITTLE YUS
+| 0467 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѧ}} || CYRILLIC SMALL LETTER LITTLE YUS
+| rowspan="4" | Used in the [[early Cyrillic alphabet|early Cyrillic]] and [[Glagolitic alphabet]]s.
+|-
+| 0468 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѩ]]}} || CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS
+| 0469 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѩ}} || CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS
+|-
+| 046A || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѫ]]}} || CYRILLIC CAPITAL LETTER BIG YUS
+| 046B || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѫ}} || CYRILLIC SMALL LETTER BIG YUS
+|-
+| 046C || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѭ]]}} || CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS
+| 046D || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѭ}} || CYRILLIC SMALL LETTER IOTIFIED BIG YUS
+|-
+| 046E || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѯ]]}} || CYRILLIC CAPITAL LETTER KSI
+| 046F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѯ}} || CYRILLIC SMALL LETTER KSI
+| From the Greek letter [[Xi (letter)|Ξ ξ]].
+|-
+| 0470 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѱ]]}} || CYRILLIC CAPITAL LETTER PSI
+| 0471 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѱ}} || CYRILLIC SMALL LETTER PSI
+| From the Greek letter [[Psi (letter)|Ψ ψ]]. 
+|-
+| 0472 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѳ]]}} || CYRILLIC CAPITAL LETTER FITA
+| 0473 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѳ}} || CYRILLIC SMALL LETTER FITA
+| From the Greek letter [[Theta|Θ θ]].
+|-
+| 0474 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѵ]]}} || CYRILLIC CAPITAL LETTER IZHITSA
+| 0475 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѵ}} || CYRILLIC SMALL LETTER IZHITSA
+| From the Glagolitic Ⱛ ⱛ.
+|-
+| 0476 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѷ]]}} || CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT<br /><small>0474 030F</small>
+| 0477 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѷ}} || CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT<br /><small>0475 030F</small>
+|-
+| 0478 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѹ]]}} || CYRILLIC CAPITAL LETTER UK
+| 0479 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѹ}} || CYRILLIC SMALL LETTER UK
+| May be rendered as either monograph or digraph form:
+* For the monograph form, the preferred characters are A64A and A64B (Ꙋ and ꙋ)
+* For the digraph form, the preferred character sequences are 041E 0443 and 043E 0443 (Оу and оу)
+|-
+| 047A || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѻ]]}} || CYRILLIC CAPITAL LETTER ROUND OMEGA
+| 047B || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѻ}} || CYRILLIC SMALL LETTER ROUND OMEGA
+|-
+| 047C || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѽ]]}} || CYRILLIC CAPITAL LETTER OMEGA WITH TITLO
+| 047D || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѽ}} || CYRILLIC SMALL LETTER OMEGA WITH TITLO
+| Cyrillic "beautiful omega"
+Despite its character name, this letter does not have a [[titlo]], nor is it composed of an omega plus a diacritic
+|-
+| 047E || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѿ]]}} || CYRILLIC CAPITAL LETTER OT
+| 047F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѿ}} || CYRILLIC SMALL LETTER OT
+|-
+| 0480 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҁ]]}} || CYRILLIC CAPITAL LETTER KOPPA
+| 0481 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҁ}} || CYRILLIC SMALL LETTER KOPPA
+| From the ancient Greek [[Koppa (letter)|Ϙ]]
+|- style="background:#eee;"
+! colspan="7" |
+
 
 [[en:Cyrillic characters in Unicode]]
