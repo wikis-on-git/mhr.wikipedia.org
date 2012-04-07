@@ -1,6 +1,6 @@
 {{Кириллик тиштер}}
 
-==Table of symbols==
+== Table of symbols ==
 {| border="1" cellpadding="5" class="nounderlines" style="text-align:center; border:1px solid #999; border-collapse:collapse; text-align:left; font-size:smaller;"
 |-
 ! colspan=7 style="font-size:150%; background:#ddd;" |Кириллик тиште-влак
@@ -8,9 +8,9 @@
 ! Code !! Char !! Name <br /><small>Canonical decomposition</small> !! Code !! Char !! Name <br /><small>Canonical decomposition</small> !! Comment
 |- style="background:#eee;"
 ! colspan="7" |
-===[[Руш йылме|Руш]] тиштер===
+=== [[Руш йылме|Руш]] тиштер ===
 |-
-| 0410 || style="font:x-large sans-serif;" | [[А_(кириллик_тиште)|А]] || CYRILLIC CAPITAL LETTER A
+| 0410 || style="font:x-large sans-serif;" | [[А (кириллик тиште)|А]] || CYRILLIC CAPITAL LETTER A
 | 0430 || style="font:x-large sans-serif;" | а || CYRILLIC SMALL LETTER A || &nbsp;
 |-
 | 0411 || style="font:x-large sans-serif;" | [[Б]] || CYRILLIC CAPITAL LETTER BE
@@ -107,7 +107,7 @@
 | 044F || style="font:x-large sans-serif;" | я || CYRILLIC SMALL LETTER YA || &nbsp;
 |- style="background:#eee;"
 ! colspan="7" |
-===Cyrillic extensions===
+=== Cyrillic extensions ===
 |-
 | 0400 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѐ]]}} || CYRILLIC CAPITAL LETTER IE WITH GRAVE<br /><small>0415 0300</small>
 | 0450 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѐ}} || CYRILLIC SMALL LETTER IE WITH GRAVE<br /><small>0435 0300</small>
@@ -190,7 +190,7 @@ Not considered a separate letter, but merely the letter И with a [[grave accent
 * In Abkhaz, it acts like the Serbian/Macedonian Ђ, placed near the end of the [[Abkhaz alphabet]].
 |- style="background:#eee;"
 ! colspan="7" |
-===Historic letters===
+=== Historic letters ===
 |-
 | 0460 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѡ]]}} || CYRILLIC CAPITAL LETTER OMEGA
 | 0461 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѡ}} || CYRILLIC SMALL LETTER OMEGA
@@ -256,7 +256,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | From the ancient Greek [[Koppa (letter)|Ϙ]]
 |- style="background:#eee;"
 ! colspan="7" |
-===Extended Cyrillic===
+=== Extended Cyrillic ===
 |-
 | 048A || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ҋ]]}} || CYRILLIC CAPITAL LETTER SHORT I WITH TAIL
 | 048B || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ҋ}} || CYRILLIC SMALL LETTER SHORT I WITH TAIL
@@ -461,7 +461,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 04F9 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӹ}} || CYRILLIC SMALL LETTER YERU WITH DIAERESIS<br /><small>044B 0308</small>
 |- style="background:#eee;"
 ! colspan="7" |
-===Additions for Nivkh===
+=== Additions for Nivkh ===
 |-
 | 04FA || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ӻ]]}} || CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK
 | 04FB || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӻ}} || CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK
@@ -473,7 +473,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 04FF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӿ}} || CYRILLIC SMALL LETTER HA WITH STROKE
 |- style="background:#eee;"
 ! colspan="7" |
-===Komi letters===
+=== Komi letters ===
 |-
 | 0500 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ԁ]]}} || CYRILLIC CAPITAL LETTER KOMI DE
 | 0501 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԁ}} || CYRILLIC SMALL LETTER KOMI DE
@@ -500,7 +500,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 050F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԏ}} || CYRILLIC SMALL LETTER KOMI TJE
 |- style="background:#eee;"
 ! colspan="7" |
-===Khanty letters===
+=== Khanty letters ===
 |-
 | 0510 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ԑ]]}} || CYRILLIC CAPITAL LETTER REVERSED ZE
 | 0511 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԑ}} || CYRILLIC SMALL LETTER REVERSED ZE
@@ -511,7 +511,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | * also used for Chukchi and [[Itelmen language|Itelmen]]
 |-style="background:#eee;"
 ! colspan="7" |
-===Mordvin letters===
+=== Mordvin letters ===
 |-
 | 0514 || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԕ]]}} || CYRILLIC CAPITAL LETTER LHA
 | 0515 || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԕ}} || CYRILLIC SMALL LETTER LHA
@@ -526,7 +526,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | Digraphs of Я and Е; я and е
 |-style="background:#eee;"
 ! colspan="7" |
-===Kurdish letters===
+=== Kurdish letters ===
 |-
 | 051A || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԛ]]}} || CYRILLIC CAPITAL LETTER QA
 | 051B || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԛ}} || CYRILLIC SMALL LETTER QA
@@ -537,14 +537,14 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | Based on the Latin letter W w
 |-style="background:#eee;"
 ! colspan="7" |
-===Aleut letters===
+=== Aleut letters ===
 |-
 | 051E || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԟ]]}} || CYRILLIC CAPITAL LETTER ALEUT KA
 | 051F || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԟ}} || CYRILLIC SMALL LETTER ALEUT KA
 | * used for [q] in Aleut
 |-style="background:#eee;"
 ! colspan="7" |
-===Chuvash letters===
+=== Chuvash letters ===
 |-
 | 0520 || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԡ]]}} || CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
 | 0521 || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԡ}} || CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
@@ -555,7 +555,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | = palatalized n
 |-style="background:#eee;"
 ! colspan="7" |
-===Abkhaz letters===
+=== Abkhaz letters ===
 |-
 | 0524 || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԥ]]}} || CYRILLIC CAPITAL LETTER PE WITH DESCENDER
 | 0525 || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԥ}} || CYRILLIC SMALL LETTER PE WITH DESCENDER
@@ -563,13 +563,13 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 |-
 |-style="background:#eee;"
 ! colspan="7" |
-===Azerbaijani letters===
+=== Azerbaijani letters ===
 |-
 | 0526 || class="Unicode" style="font:x-large sans serif;" | {{unicode|[[Ԧ]]}} || CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER
 | 0527 || class="Unicode" style="font:x-large sans serif;" | {{unicode|ԧ}} || CYRILLIC SMALL LETTER SHHA WITH DESCENDER
 |-style="background:#eee;"
 ! colspan="7" |
-===Miscellaneous characters===
+=== Miscellaneous characters ===
 |-
 | 1D2B || class="Unicode" style="font:x-large sans serif;" | {{unicode|ᴫ}} || CYRILLIC LETTER SMALL CAPITAL EL
 | rowspan="2" colspan="3" | Phonetic transcription
@@ -582,4 +582,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 |-style="background:#eee;"
 ! colspan="7" |
 
+[[de:Unicode-Block Kyrillisch, Ergänzung]]
 [[en:Cyrillic characters in Unicode]]
+[[kk:Кирил таңбалары (Юникод)]]
+[[ru:Кириллица в Юникоде]]
