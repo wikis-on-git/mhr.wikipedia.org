@@ -109,5 +109,88 @@
 | 044F || style="font:x-large sans-serif;" | я || CYRILLIC SMALL LETTER YA || &nbsp;
 |- style="background:#eee;"
 ! colspan="7" |
+===Cyrillic extensions===
+|-
+| 0400 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѐ]]}} || CYRILLIC CAPITAL LETTER IE WITH GRAVE<br /><small>0415 0300</small>
+| 0450 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѐ}} || CYRILLIC SMALL LETTER IE WITH GRAVE<br /><small>0435 0300</small>
+| Used in [[Macedonian language|Macedonian]] to represent a [[Stress (linguistics)|stressed]] Е.
+Not considered a separate letter, but merely the letter Е with a [[grave accent]].
+|-
+| 0401 || style="font:x-large sans-serif;" | [[Ё]] || CYRILLIC CAPITAL LETTER IO<br /><small>0415 0308</small>
+| 0451 || style="font:x-large sans-serif;" | ё || CYRILLIC SMALL LETTER IO<br /><small>0435 0308</small>
+| Used in [[Russian language|Russian]], [[Belarusian language|Belarusian]], [[Rusyn language|Rusyn]], [[Mongolian language|Mongolian]], and others.
+Considered a separate letter, after the letter Е, but not collated separately from Е in Russian.
+|-
+| 0402 || style="font:x-large sans-serif;" | [[Ђ]] || CYRILLIC CAPITAL LETTER DJE
+| 0452 || style="font:x-large sans-serif;" | ђ || CYRILLIC SMALL LETTER DJE
+| Used in [[Serbian language|Serbian]].
+Invented as a new letter, placed between Д and Е.
+|-
+| 0403 || style="font:x-large sans-serif;" | [[Ѓ]] || CYRILLIC CAPITAL LETTER GJE<br /><small>0413 0301</small>
+| 0453 || style="font:x-large sans-serif;" | ѓ || CYRILLIC SMALL LETTER GJE<br /><small>0433 0301</small>
+| Used in Macedonian.
+Considered as a new letter, placed between Д and Е.
+|-
+| 0404 || style="font:x-large sans-serif;" | [[Є]] || CYRILLIC CAPITAL LETTER UKRAINIAN IE
+| 0454 || style="font:x-large sans-serif;" | є || CYRILLIC SMALL LETTER UKRAINIAN IE
+| Used in Ukrainian, based on the Old Cyrillic yest.
+Considered a separate letter, placed after Е.
+|-
+| 0405 || style="font:x-large sans-serif;" | [[Ѕ]] || CYRILLIC CAPITAL LETTER DZE
+| 0455 || style="font:x-large sans-serif;" | ѕ || CYRILLIC SMALL LETTER DZE
+| Used in Macedonian and [[Montenegrin language|Montenegrin]].
+Placed between З and И.
+|-
+| 0406 || style="font:x-large sans-serif;" | [[І]] || CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I
+| 0456 || style="font:x-large sans-serif;" | і || CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
+| Used in Belarusian, [[Kazakh language|Kazakh]], [[Khakas language|Khakas]], [[Komi language|Komi]], Rusyn, and Ukrainian.
+Replaces И in those alphabets. Known as "Dotted I" or "Decimal I" («и десятеричное»).
+|-
+| 0407 || style="font:x-large sans-serif;" | [[Ї]] || CYRILLIC CAPITAL LETTER YI<br /><small>0406 0308</small>
+| 0457 || style="font:x-large sans-serif;" | ї || CYRILLIC SMALL LETTER YI<br /><small>0456 0308</small>
+| Used in Church Slavonic, Rusyn, and Ukrainian.
+Considered a separate letter, placed after І. 
+|-
+| 0408 || style="font:x-large sans-serif;" | [[Ј]] || CYRILLIC CAPITAL LETTER JE
+| 0458 || style="font:x-large sans-serif;" | ј || CYRILLIC SMALL LETTER JE
+| Used in Serbian, Macedonian, [[Azerbaijani language|Azerbaijani]], [[Altay language|Altay]], and [[Kildin Sami language|Kildin Sami]].
+Borrowed from Latin to replace the many [[iotated]] letters in Cyrillic. Placed before К.
+|-
+| 0409 || style="font:x-large sans-serif;" | [[Љ]] || CYRILLIC CAPITAL LETTER LJE
+| 0459 || style="font:x-large sans-serif;" | љ || CYRILLIC SMALL LETTER LJE
+| Used in Serbian and Macedonian. Ligature of Л and the Russian ь.
+Considered a separate letter, placed after Л.
+|-
+| 040A || style="font:x-large sans-serif;" | [[Њ]] || CYRILLIC CAPITAL LETTER NJE
+| 045A || style="font:x-large sans-serif;" | њ || CYRILLIC SMALL LETTER NJE
+| Used in Serbian and Macedonian. Ligature of Н and the Russian ь.
+Considered a separate letter, placed after Н.
+|-
+| 040B || style="font:x-large sans-serif;" | [[Ћ]] || CYRILLIC CAPITAL LETTER TSHE
+| 045B || style="font:x-large sans-serif;" | ћ || CYRILLIC SMALL LETTER TSHE
+| Used in Serbian.
+Invented as a new letter, placed between Т and У.
+|-
+| 040C || style="font:x-large sans-serif;" | [[Ќ]] || CYRILLIC CAPITAL LETTER KJE<br /><small>041A 0301</small>
+| 045C || style="font:x-large sans-serif;" | ќ || CYRILLIC SMALL LETTER KJE<br /><small>043A 0301</small>
+| Used in Macedonian.
+Considered as a new letter, placed between Т and У.
+|-
+| 040D || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ѝ]]}} || CYRILLIC CAPITAL LETTER I WITH GRAVE<br /><small>0418 0300</small>
+| 045D || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ѝ}} || CYRILLIC SMALL LETTER I WITH GRAVE<br /><small>0438 0300</small>
+| Used mostly in Bulgarian and Macedonian.
+Not considered a separate letter, but merely the letter И with a [[grave accent]].
+|-
+| 040E || style="font:x-large sans-serif;" | [[Ў]] || CYRILLIC CAPITAL LETTER SHORT U<br /><small>0423 0306</small>
+| 045E || style="font:x-large sans-serif;" | ў || CYRILLIC SMALL LETTER SHORT U<br /><small>0443 0306</small>
+| Used in Belarusian, [[Dungan language|Dungan]], [[Uzbek language|Uzbek]], and [[Siberian Yupik language|Siberian Yupik]]. 
+|-
+| 040F || style="font:x-large sans-serif;" | [[Џ]] || CYRILLIC CAPITAL LETTER DZHE
+| 045F || style="font:x-large sans-serif;" | џ || CYRILLIC SMALL LETTER DZHE
+| Used in Serbian, Macedonian, and [[Abkhaz language|Abkhaz]].
+* In Serbian and Macedonian, it is considered a separate letter, placed between Ч and Ш.
+* In Abkhaz, it acts like the Serbian/Macedonian Ђ, placed near the end of the [[Abkhaz alphabet]].
+|- style="background:#eee;"
+! colspan="7" |
 
 [[en:Cyrillic characters in Unicode]]
