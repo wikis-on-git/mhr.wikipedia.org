@@ -2,7 +2,15 @@
 |Кириллик тиштер
 }}
 
-===Basic [[Руш йылме|Руш]] тиштер===
+==Table of symbols==
+{| border="1" cellpadding="5" class="nounderlines" style="text-align:center; border:1px solid #999; border-collapse:collapse; text-align:left; font-size:smaller;"
+|-
+! colspan=7 style="font-size:150%; background:#ddd;" |Кириллик тиште-влак
+|- style="vertical-align:bottom; text-align:left;"
+! Code !! Char !! Name <br /><small>Canonical decomposition</small> !! Code !! Char !! Name <br /><small>Canonical decomposition</small> !! Comment
+|- style="background:#eee;"
+! colspan="7" |
+===[[Руш йылме|Руш]] тиштер===
 |-
 | 0410 || style="font:x-large sans-serif;" | [[А]] || CYRILLIC CAPITAL LETTER A
 | 0430 || style="font:x-large sans-serif;" | а || CYRILLIC SMALL LETTER A || &nbsp;
