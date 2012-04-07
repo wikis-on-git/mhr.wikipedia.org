@@ -1,3 +1,105 @@
 {{Кириллик тиштер
 |Кириллик тиштер
 }}
+
+===Basic [[Руш йылме|Руш]] тиштер===
+|-
+| 0410 || style="font:x-large sans-serif;" | [[А]] || CYRILLIC CAPITAL LETTER A
+| 0430 || style="font:x-large sans-serif;" | а || CYRILLIC SMALL LETTER A || &nbsp;
+|-
+| 0411 || style="font:x-large sans-serif;" | [[Б]] || CYRILLIC CAPITAL LETTER BE
+| 0431 || style="font:x-large sans-serif;" | б || CYRILLIC SMALL LETTER BE || &nbsp;
+|-
+| 0412 || style="font:x-large sans-serif;" | [[В]] || CYRILLIC CAPITAL LETTER VE
+| 0432 || style="font:x-large sans-serif;" | в || CYRILLIC SMALL LETTER VE || &nbsp;
+|-
+| 0413 || style="font:x-large sans-serif;" | [[Г]] || CYRILLIC CAPITAL LETTER GHE
+| 0433 || style="font:x-large sans-serif;" | г || CYRILLIC SMALL LETTER GHE || &nbsp;
+|-
+| 0414 || style="font:x-large sans-serif;" | [[Д]] || CYRILLIC CAPITAL LETTER DE
+| 0434 || style="font:x-large sans-serif;" | д || CYRILLIC SMALL LETTER DE || &nbsp;
+|-
+| 0415 || style="font:x-large sans-serif;" | [[Е]] || CYRILLIC CAPITAL LETTER IE
+| 0435 || style="font:x-large sans-serif;" | е || CYRILLIC SMALL LETTER IE || &nbsp;
+|-
+| 0416 || style="font:x-large sans-serif;" | [[Ж]] || CYRILLIC CAPITAL LETTER ZHE
+| 0436 || style="font:x-large sans-serif;" | ж || CYRILLIC SMALL LETTER ZHE || &nbsp;
+|-
+| 0417 || style="font:x-large sans-serif;" | [[З]] || CYRILLIC CAPITAL LETTER ZE
+| 0437 || style="font:x-large sans-serif;" | з || CYRILLIC SMALL LETTER ZE || &nbsp;
+|-
+| 0418 || style="font:x-large sans-serif;" | [[И]] || CYRILLIC CAPITAL LETTER I
+| 0438 || style="font:x-large sans-serif;" | и || CYRILLIC SMALL LETTER I || &nbsp;
+|-
+| 0419 || style="font:x-large sans-serif;" | [[Й]] || CYRILLIC CAPITAL LETTER SHORT I<br /><small>0418 0306</small>
+| 0439 || style="font:x-large sans-serif;" | й || CYRILLIC SMALL LETTER SHORT I<br /><small>0438 0306</small> || &nbsp;
+|-
+| 041A || style="font:x-large sans-serif;" | [[К]] || CYRILLIC CAPITAL LETTER KA
+| 043A || style="font:x-large sans-serif;" | к || CYRILLIC SMALL LETTER KA || &nbsp;
+|-
+| 041B || style="font:x-large sans-serif;" | [[Л]] || CYRILLIC CAPITAL LETTER EL
+| 043B || style="font:x-large sans-serif;" | л || CYRILLIC SMALL LETTER EL || &nbsp;
+|-
+| 041C || style="font:x-large sans-serif;" | [[М]] || CYRILLIC CAPITAL LETTER EM
+| 043C || style="font:x-large sans-serif;" | м || CYRILLIC SMALL LETTER EM || &nbsp;
+|-
+| 041D || style="font:x-large sans-serif;" | [[Н]] || CYRILLIC CAPITAL LETTER EN
+| 043D || style="font:x-large sans-serif;" | н || CYRILLIC SMALL LETTER EN || &nbsp;
+|-
+| 041E || style="font:x-large sans-serif;" | [[О]] || CYRILLIC CAPITAL LETTER O
+| 043E || style="font:x-large sans-serif;" | о || CYRILLIC SMALL LETTER O || &nbsp;
+|-
+| 041F || style="font:x-large sans-serif;" | [[П]] || CYRILLIC CAPITAL LETTER PE
+| 043F || style="font:x-large sans-serif;" | п || CYRILLIC SMALL LETTER PE || &nbsp;
+|-
+| 0420 || style="font:x-large sans-serif;" | [[Р]] || CYRILLIC CAPITAL LETTER ER
+| 0440 || style="font:x-large sans-serif;" | р || CYRILLIC SMALL LETTER ER || &nbsp;
+|-
+| 0421 || style="font:x-large sans-serif;" | [[С]] || CYRILLIC CAPITAL LETTER ES
+| 0441 || style="font:x-large sans-serif;" | с || CYRILLIC SMALL LETTER ES || &nbsp;
+|-
+| 0422 || style="font:x-large sans-serif;" | [[Т]] || CYRILLIC CAPITAL LETTER TE
+| 0442 || style="font:x-large sans-serif;" | т || CYRILLIC SMALL LETTER TE || &nbsp;
+|-
+| 0423 || style="font:x-large sans-serif;" | [[У]] || CYRILLIC CAPITAL LETTER U
+| 0443 || style="font:x-large sans-serif;" | у || CYRILLIC SMALL LETTER U || &nbsp;
+|-
+| 0424 || style="font:x-large sans-serif;" | [[Ф]] || CYRILLIC CAPITAL LETTER EF
+| 0444 || style="font:x-large sans-serif;" | ф || CYRILLIC SMALL LETTER EF || &nbsp;
+|-
+| 0425 || style="font:x-large sans-serif;" | [[Х]] || CYRILLIC CAPITAL LETTER HA
+| 0445 || style="font:x-large sans-serif;" | х || CYRILLIC SMALL LETTER HA || &nbsp;
+|-
+| 0426 || style="font:x-large sans-serif;" | [[Ц]] || CYRILLIC CAPITAL LETTER TSE
+| 0446 || style="font:x-large sans-serif;" | ц || CYRILLIC SMALL LETTER TSE || &nbsp;
+|-
+| 0427 || style="font:x-large sans-serif;" | [[Ч]] || CYRILLIC CAPITAL LETTER CHE
+| 0447 || style="font:x-large sans-serif;" | ч || CYRILLIC SMALL LETTER CHE || &nbsp;
+|-
+| 0428 || style="font:x-large sans-serif;" | [[Ш]] || CYRILLIC CAPITAL LETTER SHA
+| 0448 || style="font:x-large sans-serif;" | ш || CYRILLIC SMALL LETTER SHA || &nbsp;
+|-
+| 0429 || style="font:x-large sans-serif;" | [[Щ]] || CYRILLIC CAPITAL LETTER SHCHA
+| 0449 || style="font:x-large sans-serif;" | щ || CYRILLIC SMALL LETTER SHCHA || &nbsp;
+|-
+| 042A || style="font:x-large sans-serif;" | [[Ъ]] || CYRILLIC CAPITAL LETTER HARD SIGN
+| 044A || style="font:x-large sans-serif;" | ъ || CYRILLIC SMALL LETTER HARD SIGN || &nbsp;
+|-
+| 042B || style="font:x-large sans-serif;" | [[Ы]] || CYRILLIC CAPITAL LETTER YERU
+| 044B || style="font:x-large sans-serif;" | ы || CYRILLIC SMALL LETTER YERU || &nbsp;
+|-
+| 042C || style="font:x-large sans-serif;" | [[Ь]] || CYRILLIC CAPITAL LETTER SOFT SIGN
+| 044C || style="font:x-large sans-serif;" | ь || CYRILLIC SMALL LETTER SOFT SIGN || &nbsp;
+|-
+| 042D || style="font:x-large sans-serif;" | [[Э]] || CYRILLIC CAPITAL LETTER E
+| 044D || style="font:x-large sans-serif;" | э || CYRILLIC SMALL LETTER E || &nbsp;
+|-
+| 042E || style="font:x-large sans-serif;" | [[Ю]] || CYRILLIC CAPITAL LETTER YU
+| 044E || style="font:x-large sans-serif;" | ю || CYRILLIC SMALL LETTER YU || &nbsp;
+|-
+| 042F || style="font:x-large sans-serif;" | [[Я]] || CYRILLIC CAPITAL LETTER YA
+| 044F || style="font:x-large sans-serif;" | я || CYRILLIC SMALL LETTER YA || &nbsp;
+|- style="background:#eee;"
+! colspan="7" |
+
+[[en:Cyrillic characters in Unicode]]
