@@ -473,7 +473,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 04FF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӿ}} || CYRILLIC SMALL LETTER HA WITH STROKE
 |- style="background:#eee;"
 ! colspan="7" |
-=== Коми Тиште-влак (молодцов тиштер) ===
+=== Коми тиште-влак (Молодцов тиштер) ===
 |-
 | 0500 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ԁ]]}} || CYRILLIC CAPITAL LETTER KOMI DE
 | 0501 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԁ}} || CYRILLIC SMALL LETTER KOMI DE
@@ -500,6 +500,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 050F || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԏ}} || CYRILLIC SMALL LETTER KOMI TJE
 |- style="background:#eee;"
 ! colspan="7" |
+
 === Khanty letters ===
 |-
 | 0510 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ԑ]]}} || CYRILLIC CAPITAL LETTER REVERSED ZE
