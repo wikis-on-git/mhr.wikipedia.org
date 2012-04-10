@@ -5,7 +5,7 @@
 |-
 ! colspan=7 style="font-size:150%; background:#ddd;" |Кириллик тиште-влак
 |- style="vertical-align:bottom; text-align:left;"
-! Код !! Тиште !! Тиште лӱм !! Код !! Тиште !! Тиште лӱм !! Коммент
+! Код !! Тиште !! Тиште лӱм !! Код !! Тиште !! Тиште лӱм !! Комментарий
 |- style="background:#eee;"
 ! colspan="7" |
 === [[Руш йылме|Руш]] тиштер ===
@@ -473,7 +473,7 @@ Despite its character name, this letter does not have a [[titlo]], nor is it com
 | 04FF || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ӿ}} || CYRILLIC SMALL LETTER HA WITH STROKE
 |- style="background:#eee;"
 ! colspan="7" |
-=== Komi letters ===
+=== Коми Тиште-влак (молодцов тиштер) ===
 |-
 | 0500 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|[[Ԁ]]}} || CYRILLIC CAPITAL LETTER KOMI DE
 | 0501 || class="Unicode" style="font:x-large sans-serif;" | {{unicode|ԁ}} || CYRILLIC SMALL LETTER KOMI DE
