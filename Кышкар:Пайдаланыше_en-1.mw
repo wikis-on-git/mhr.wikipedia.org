@@ -1,7 +1,10 @@
-{{Пайдаланыше 1|en|This user is able to contribute with a|basic|level of|English}}
-<noinclude>[[Категорий:Ямдылык:Babel|en-1]]
-</noinclude>
-
+{{User lang
+| lang = en
+| name = Аҥгличан йылме
+| level = 1
+| size = 
+| info = This user is able to contribute with a '''[[:Категорий:Пайдаланыше en-1|basic]]''' level of '''[[:Категорий:Пайдаланыше en|English]]'''
+}}
 <noinclude>
 [[af:Sjabloon:Gebruiker en-1]]
 [[ak:Template:User en-1]]
