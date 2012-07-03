@@ -1,0 +1,62 @@
+<noinclude>{{Doc}}</noinclude><includeonly><div class="toccolours" style="margin-bottom: 1em; text-align: center;">
+[[Ий кече лӱмер]] | [[Портал:Кызытсе лиймаш-влак]] <br />[[{{#ifexpr: {{PAGENAME}}-1-({{PAGENAME}}-1)mod100<200 |{{Курым|{{#expr:(({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100-1)}}|plain}}| {{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100-1}}|plain}}}}|◄]] |
+{{#ifexpr: {{PAGENAME}}-1-({{PAGENAME}}-1)mod100<100 |{{Курым|{{#expr:(({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100)}} }}|{{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100}} }}}} |
+'''{{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+1}} }}'''
+{{#ifexpr: {{PAGENAME}}<2001 |{{!}} {{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+2}} }} |&nbsp; }}
+{{#ifexpr: {{PAGENAME}}<1901 |{{!}} [[{{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+3}}|plain}}|►]] |&nbsp; }}<!--
+--><br />
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<40 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-30)*(-1)+0}} ийла м.э.д.о.|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-40}} ийла}}|◄]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<30 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-20)*(-1)+0}} ийла м.э.д.о.|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-30}} ийла}}]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<20 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-10)*(-1)+0}} ийла м.э.д.о. |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-20}} ийла}}]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<10 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10)*(-1)+0}} ийла м.э.д.о.|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-10}} ийла}}]] |
+'''[[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10}} ийла]]'''
+{{#ifexpr: {{PAGENAME}}<2010 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+10}} ийла]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}}<2000 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+20}} ийла]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}}<1990 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+30}} ийла]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}}<1980 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+40}} ийла|►]] |&nbsp; }}<!--
+--><br />
+[[{{#ifexpr: {{PAGENAME}}<11 |{{#expr:({{PAGENAME}}-11)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-10}} }}|◄◄]] |
+[[{{#ifexpr: {{PAGENAME}}<6 |{{#expr:({{PAGENAME}}-6)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-5}} }}|◄]] |
+[[{{#ifexpr: {{PAGENAME}}<5 |{{#expr:({{PAGENAME}}-5)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-4}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<4 |{{#expr:({{PAGENAME}}-4)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-3}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<3 |{{#expr:({{PAGENAME}}-3)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-2}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<2 |{{#expr:({{PAGENAME}}-2)*(-1)}} м.э.д.о. |{{#expr:{{PAGENAME}}-1}} }}]] |
+'''{{PAGENAME}}'''
+{{#ifexpr: {{PAGENAME}} <= 2061 |{{!}} [[{{#expr:{{PAGENAME}}+1}}]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}} <= 2060 |{{!}} [[{{#expr:{{PAGENAME}}+2}}]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}} <= 2059 |{{!}} [[{{#expr:{{PAGENAME}}+3}}]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}} <= 2058 |{{!}} [[{{#expr:{{PAGENAME}}+4}}]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}} <= 2057 |{{!}} [[{{#expr:{{PAGENAME}}+5}}|►]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}} <= 2052 |{{!}} [[{{#expr:{{PAGENAME}}+10}}|►►]] |&nbsp; }}
+{{#ifexpr: {{PAGENAME}}>1999 and {{PAGENAME}}<={{LOCALYEAR}} |<!--
+--><br />
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>1) or {{CURRENTYEAR}}>{{PAGENAME}} | [[Шорыкйол (тылзе)|Шорыкйол]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>1) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Пургыж]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>2) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Ӱярня]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>3) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Вӱдшор]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>4) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Ага]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>5) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Пеледыш (тылзе)|Пеледыш]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>6) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Сӱрем]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>7) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Сорла]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>8) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Идым]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>9) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Шыжа]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}>10) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Кылме]] }}
+{{#ifexpr: ({{CURRENTYEAR}}={{PAGENAME}} and {{CURRENTMONTH}}=12) or {{CURRENTYEAR}}>{{PAGENAME}} |{{!}} [[Теле (тылзе)|Теле]] }} }}
+</div>
+<!--
+[[Категорий:({{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+1}}. курым) |{{#expr:(({{PAGENAME}}-1)mod100-({{PAGENAME}}-1)mod10)/10}}{{#expr:({{PAGENAME}}-1)mod10}}]]
+[[Категорий:Декаде {{#expr:{{PAGENAME}}-{{PAGENAME}}mod10}}|{{PAGENAME}}]]
+-->{{#ifexist: Category:{{PAGENAME}} |[[Категорий:{{PAGENAME}}]]}}</includeonly><noinclude>
+[[Категорий:Ямдылык]]
+
+[[bar:Vorlage:Artikel Jahr]]
+[[cs:Šablona:Rok]]
+[[de:Vorlage:Artikel Jahr]]
+[[dsb:Pśedłoga:Lěta]]
+[[eo:Ŝablono:Jaroj]]
+[[et:Mall:Aasta artikkel]]
+[[hsb:Předłoha:Lěta]]
+[[nds:Vörlaag:Navigatschoonsliest Johr]]
+[[sh:Šablon:Godina]]
+[[sr:Шаблон:Година]]
+</noinclude>
