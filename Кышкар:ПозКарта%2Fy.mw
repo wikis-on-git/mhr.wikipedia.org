@@ -1,0 +1,27 @@
+{{#expr:{{#switch:{{ПозКарта {{{1}}}|type}}
+|custom={{ПозКарта {{{1}}}/y|{{{2}}}|{{{3}}}}}
+|polar={{ПозКарта {{{1}}}|y}}-sin(0.0174532925*({{ПозКарта {{{1}}}|alpha}}{{#ifexpr:{{ПозКарта {{{1}}}|length_x}}<0|-|+}}({{#ifexpr:{{{2}}}<0|360+}}{{{2}}})*{{ПозКарта {{{1}}}|mult}}))*{{ПозКарта {{{1}}}|length_y}}*(1-abs({{{3}}})/90)
+|100*({{ПозКарта {{{1}}}|top}}-{{{3}}})/({{ПозКарта {{{1}}}|top}}-{{ПозКарта {{{1}}}|bottom}})}}}}<noinclude>
+[[Category:Википедий:Шаблон-влакын ӱлыллаштыкышт]]
+[[az:Şablon:Yer xəritəsi/y]]
+[[be-x-old:Шаблён:Лякалізацыйная мапа/y]]
+[[ce:Куцкеп:ПозКарта/y]]
+[[en:Template:Location map-line/y]]
+[[fa:الگو:Location map/y]]
+[[hi:साँचा:Location map/y]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ/y]]
+[[ja:Template:Location map-line/y]]
+[[ka:თარგი:პოზრუკა/y]]
+[[kk:Үлгі:ПозКарта/y]]
+[[krc:Шаблон:ПозКарта/y]]
+[[ky:Калып:АймакКартасы/y]]
+[[mk:Шаблон:ПозКарта-линија/y]]
+[[nl:Sjabloon:Positiekaart/y]]
+[[or:ଛାଞ୍ଚ:Location map/y]]
+[[os:Шаблон:ПозКартæ/y]]
+[[pt:Predefinição:Location map/y]]
+[[ro:Format:Location map-line/y]]
+[[ru:Шаблон:ПозКарта/y]]
+[[tt:Калып:ПозХарита/y]]
+[[zh:Template:Location map-line/y]]
+</noinclude>
