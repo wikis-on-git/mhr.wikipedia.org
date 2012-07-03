@@ -1,0 +1,119 @@
+<includeonly>{{СИШ|170}}</includeonly><noinclude>{{template navigation}}</noinclude>
+
+== Кучылтмаш ==
+=== Тыглай шаблон ===
+<pre>
+{{Stub-meta
+|article   = 
+|category  = 
+|image     = 
+|size      = 
+|alt       = 
+}}
+</pre>
+
+=== Рашемдымашым кӱлшӧ тематик шаблон ===
+<pre>
+{{Stub-meta
+|article   = 
+|category  = 
+|image     = 
+|size      = 
+|alt       = 
+|specification = 
+}}
+</pre>
+
+=== Текстан изойып дене шаблон ===
+<pre>
+{{Stub-meta
+|article   = 
+|category  = 
+|texticon  = 
+}}
+</pre>
+
+== Кузе кучылташ шынамат (пример) ==
+
+=== Тыглай шаблон ===
+{{Stub-meta
+|article   = [[ял озанлык]] нерген
+|category  = ял озанлык нерген
+|image     = Watermelon.svg
+|size      = 32
+|alt       = Арбуз
+}}
+<pre>
+{{Stub-meta
+|article   = [[ял озанлык]] нерген
+|category  = ял озанлык нерген
+|image     = Watermelon.svg
+|size      = 32
+|alt       = Арбуз
+}}
+</pre>
+
+=== Рашемдымашым кӱлшӧ тематик шаблон ===
+{{Stub-meta
+|article   = [[Географий]] нерген
+|category  = географий нерген
+|image     = Globe_template.gif
+|size      = 
+|alt       = Мланде чамыра
+|specification = :Category:Шаблон-влак:Географий нерген ыштен пытарыдыме статья-влак
+}}
+<pre>
+{{Stub-meta
+|article   = [[Географий]] нерген
+|category  = географий нерген
+|image     = Globe_template.gif
+|size      = 
+|alt       = Мланде чамыра
+|specification = :Category:Шаблон-влак:Географий нерген ыштен пытарыдыме статья-влак
+}}
+</pre>
+'''Тӱткӧ лийза!''' Лийын кертше рашемдымаш лӱмер семын категорий кучылталтеш гын, «''':'''» шындаш ида мондо.
+
+=== Текстан изойып дене шаблон ===
+{{Stub-meta
+|article   = «[[Вавилон-5]]» сериал нерген
+|category  = «Вавилон-5» нерген
+|texticon  = <span style="font: bold 28px Arial; color:orange">B5</span>
+}}
+<pre>
+{{Stub-meta
+|article   = «[[Вавилон-5]]» сериал нерген
+|category  = «Вавилон-5» нерген
+|texticon  = <span style="font: bold 28px Arial; color:orange">B5</span>
+}}
+</pre>
+
+<includeonly>
+[[Category:Шаблон-влак:Ыштен пытарыдыме статья-влак| ]]
+[[ar:قالب:صندوق رسالة بذرة]]
+[[ba:Ҡалып:Stub-meta]]
+[[be:Шаблон:Stub-meta]]
+[[dsb:Pśedłoga:ZarodkowyTyp]]
+[[en:Template:Asbox]]
+[[fa:الگو:Asbox]]
+[[hsb:Předłoha:Zarodk po předmjeće]]
+[[hy:Կաղապար:MetaPicstub]]
+[[ja:Template:Asbox]]
+[[ka:თარგი:MetaPicstub]]
+[[km:ទំព័រគំរូ:Asbox]]
+[[krc:Шаблон:Тамамланмагъан статья]]
+[[mk:Шаблон:Asbox]]
+[[ne:ढाँचा:Asbox]]
+[[or:ଛାଞ୍ଚ:Asbox]]
+[[pa:ਨਮੂਨਾ:Asbox]]
+[[pt:Predefinição:Asbox]]
+[[ru:Шаблон:Stub-meta]]
+[[sah:Халыып:Stub-meta]]
+[[si:සැකිල්ල:Asbox]]
+[[simple:Template:Stub-template]]
+[[sv:Mall:Stubbmall]]
+[[uk:Шаблон:MetaPicstub]]
+[[zh:Template:Asbox]]
+</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
