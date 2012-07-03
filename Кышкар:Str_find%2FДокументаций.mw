@@ -1,0 +1,36 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+<nowiki>{{str find|</nowiki>''text''|''sub_string''<nowiki>}}</nowiki> = Position of first appearance of ''sub_string'' in ''text''.
+
+* Only searches first 50 characters of ''text''.  Returns -1 if ''sub_string'' not found in first 80 characters.
+* Character position is 1 based (not 0 based as usual in calculations).
+
+=== See also ===
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+
+[[Category:String manipulation templates]]
+[[ar:قالب:Str find]]
+[[az:Şablon:Str find]]
+[[bn:টেমপ্লেট:Str find]]
+[[de:Vorlage:Str find]]
+[[dsb:Pśedłoga:Str find]]
+[[en:Template:Str find]]
+[[eo:Ŝablono:Lin serĉi]]
+[[es:Plantilla:Str find]]
+[[hi:साँचा:Str find]]
+[[hsb:Předłoha:Str find]]
+[[id:Templat:Str find]]
+[[it:Template:Str find]]
+[[ja:Template:Str find]]
+[[jv:Cithakan:Str find]]
+[[lv:Veidne:Str find]]
+[[pt:Predefinição:Str find]]
+[[ru:Шаблон:Str find]]
+[[tr:Şablon:Str find]]
+[[ur:سانچہ:Str find]]
+[[zh:Template:Str find]]
+</includeonly>
