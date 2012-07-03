@@ -1,0 +1,135 @@
+{{documentation subpage}}
+{{used in system}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This is the {{tl|str len/core}} sub-template.
+
+Do not use this template directly, use {{tl|str len}} instead.
+
+This template is called from {{tl|str len}}, see user documentation there.
+
+The rest of the sections here are only for those that want to understand the internal workings of this template.
+
+=== Technical details ===
+
+MediaWiki has no parser function or magic word to measure string lengths. And measuring string length using template code is very heavy on the servers. Thus this template is as optimised as possible.
+
+This sub-template holds most of the search function for {{tlf|str len}}. That is, it does a search for the string length. This sub-template can search from 000 to 499. The reason for the length limitation is that the magic word {{tlc|padleft:|}} only can pad up to 500 characters.
+
+The basic comparison function used here is this:
+<pre>
+{{#ifeq: xABCD | x{{padleft:ABCD| 9 }}
+| Equal or longer.
+| Shorter.
+}}
+</pre>
+
+Which means: "''Is the string ABCD >= 9 characters long?''"
+
+Switch-cases and ifeq are too smart, they understand numbers. So they think that "0" and "00" are equal. That is why this code adds an "x" in front of the parameters, to make them into strings like "x0123" so the string comparisons work properly. 
+
+==== About ((str len)) ====
+
+Some of these operations are whitespace sensitive, so we must strip away any whitespace around the string parameter. That's why the string parameter is surrounded by <code><nowiki>{{#if:x| {{{1|}}} }}</nowiki></code> in some places.
+
+{{tlf|str len}} first checks if the string is 500 characters or longer, since the search function in /core would otherwise return 499 for any string of 500 characters or more. (The older version of /core returned 999.) This also means that checking the really long strings is fairly efficient, it only takes one padleft operation and no parsing of the /core sub-template.
+
+The three calls to /core is actually a loop, or recursion if you will.
+
+The parameters to /core are whitespace sensitive. That is why we indent the parameters to /core so strangely. See more about this in the next section. If you change any of the indentation in {{tlf|str len}} you are likely to break this template. We could of course add a lot of whitespace stripping in /core, but that would cause hideous code in /core and would be very inefficient.
+
+==== About ((str len/core)) ====
+
+Note: The x's used in the explanation from here on just mean "any value from 0 to 9".
+
+This template first searches 0xx to 4xx and then returns 0 to 4, as in 000 to 400. Then it searches x0x to x9x and returns x0 to x9, as in x00 to x90. Then it searches xx0 to xx9 and returns xx0 to xx9. 
+
+This template takes three unnamed (numbered) parameters:
+
+1: The string that we want to know the length of.
+
+2: The number returned by the previous rounds of searching. Thus at first search this parameter should be empty, at second search this parameter should hold a value between 0 and 4, and at third search it should hold a value between 00 and 49. 
+
+3: A string with the number of zeros to pad behind 0-9 when doing the search. (The current version of this code doesn't actually pad the zeros behind 0-9, but instead uses it to choose which search function to use.) Thus at first search this parameter should be "00" so it can search 000 to 400. At second search it should be "0", so it can search x00 to x90. And at third search the string should be empty, so it can search xx0 to xx9.
+
+The parameters to this template are whitespace sensitive: Parameters 1 and 3 must not have any whitespace before them. And parameter 2 must not have any whitespace after it.
+
+This code is heavily optimised in many ways. If we only go after what the [[Template talk:Str len#Merge the str len templates|NewPP limit reports]] tell, then it might seem we could optimise further by splitting this /core template up into three different /core templates, one for each search round. Since then we don't need the switch-case, and that gives lower values in the NewPP limit reports. However we know it is very costly for the Wikipedia servers to fetch more sub-templates, so we are pretty sure that would be much more costly.
+
+==== Search trees used ====
+
+The search trees used in the loops are optimised based on the assumption that shorter strings are much more common. Note that finding 0 requires to do the "string >= 1" comparison, thus takes at least one operation. And finding for instance 1 means also checking the "string >= 2" comparison, thus takes at least two operations.
+
+The numbers shown in the trees below are not the value searched for, but the value compared with. Thus <code>--4--</code> means the comparison "string >= 4".
+
+0xx-4xx, using linear search since most strings will probably be less than 100 bytes:
+
+<pre>
+1--2--3--4
+
+0 1 2 3 4 = Values to find.
+1+2+3+4+4 = 14 comparisons to find all values once.
+</pre>
+
+x0x-x9x, using linear search for 0x-3x, binary search for 4x-9x, 
+since most strings will probably be less than 40 bytes:
+
+<pre>
+1--2--3--4--6--8--9
+            |  |
+            5  7
+
+0 1 2 3 4 5 6 7 8 9 = Values to find.
+1+2+3+4+6+6+7+7+7+7 = 50 comparisons to find all values once.
+</pre>
+
+xx0-xx9, using binary search:
+
+<pre>
+4-----6--8--9
+|     |  |
+2--3  5  7
+|
+1
+
+0 1 2 3 4 5 6 7 8 9 = Values to find.
+3+3+3+3+3+3+4+4+4+4 = 34 comparisons to find all values once.
+</pre>
+
+For comparison, here is the data for a full linear search:
+
+<pre>
+1--2--3--4--5--6--7--8--9
+
+0 1 2 3 4 5 6 7 8 9 = Values to find.
+1+2+3+4+5+6+7+8+9+9 = 54 comparisons to find all values once.
+</pre>
+
+=== See also ===
+
+* [[mw:Help:Magic words]] – About <code><nowiki>{{padleft:|}}</nowiki></code>.
+* [[mw:Help:Extension:ParserFunctions]] – About <code><nowiki>{{#ifeq:|||}}</nowiki></code> etc.
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:String manipulation templates|{{PAGENAME}}]]
+
+[[ar:قالب:Str len/core]]
+[[az:Şablon:Str len/core]]
+[[bs:Šablon:Niz dužina/srž]]
+[[ca:Plantilla:Str len/core]]
+[[diq:Şablon:Str len/core]]
+[[en:Template:Str len/core]]
+[[es:Plantilla:Str len/core]]
+[[gag:Şablon:Str len/core]]
+[[id:Templat:Str len/core]]
+[[ja:Template:Str len/core]]
+[[ko:틀:Str len/core]]
+[[la:Formula:Str len/core]]
+[[lv:Veidne:Str len/core]]
+[[ne:ढाँचा:Str len/core]]
+[[or:ଛାଞ୍ଚ:Str len/core]]
+[[ru:Шаблон:Str len/core]]
+[[sl:Predloga:Str len/core]]
+[[sv:Mall:Str len/core]]
+</includeonly>
