@@ -1,0 +1,101 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This is the {{tl|str ≥ len}} meta-template.
+
+It helps other templates check if a string is "longer or equally long" vs. "shorter" than a given length.
+
+=== Usage ===
+
+This template takes 3 to 4 unnamed parameters.
+
+Here is how to check if the string "abcde" is 4 characters or more:
+
+<pre>
+{{str ≥ len | abcde | 4
+| Equal or longer.
+| Shorter.
+}}
+</pre>
+
+Which returns this:
+
+:{{str ≥ len | abcde | 4
+| Equal or longer.
+| Shorter.
+}}
+
+Templates have a problem to handle parameter data that contains equal signs "<code>=</code>". But that is easily solved by using numbered parameters. Here we check if the string "ab=cde" is 100 characters or more:
+
+<pre>
+{{str ≥ len 
+| 1 = ab=cde 
+| 2 = 100
+| 3 = Equal "=" or longer.
+| 4 = Shorter, not "=".
+}}
+</pre>
+
+Which returns this:
+
+:{{str ≥ len 
+| 1 = ab=cde 
+| 2 = 100
+| 3 = Equal "=" or longer.
+| 4 = Shorter, not "=".
+}}
+
+It probably is a good habit to always use the numbered parameters, since you might not know beforehand exactly how the data will look that your template will feed to this meta-template.
+
+=== Parameters ===
+
+Detailed parameter explanation:
+
+<pre>
+{{str ≥ len 
+| 1 = A string, 0-500 characters long.
+| 2 = 0 - 500
+| 3 = Data to return/render when "longer than or equally long".
+| 4 = Data to return/render when "shorter than".
+}}
+</pre>
+
+Empty or undefined strings are considered to be of 0 length. Strings longer than 500 are not truncated to 500.
+
+Length values below 0 are considered to be 0. Length values above 500 are considered to be 500.
+
+Thus a string of 500 length or more are always considered to be "longer than or equally long", no matter what length value it is compared with.
+
+=== Technical details ===
+
+This template would be equivalent to templates named <nowiki>{{str >= len}} or {{str < len}}</nowiki>, but we can't use those template names since they don't work in MediaWiki.
+
+Even though this is a string handling template it uses very efficient code. (While some of the other string handling templates are probably so heavy on the servers that we perhaps should not use them.)
+
+[[Help:Template|Templates]] have problems to handle parameter data that contains pipes "<code>|</code>", unless the pipe is inside another template <code><nowiki>{{name|param1}}</nowiki></code> or inside a piped link <code><nowiki>[[Help:Template|help]]</nowiki></code>. Thus templates can not handle [[Help:Table|wikitables]] as input unless you escape them by using the {{tn|!}} template. This makes it hard to use wikitables as parameters to templates. Instead the usual solution is to use "[[Help:HTML in wikitext|HTML wikimarkup]]" for the table code, which is more robust.
+
+=== See also ===
+
+{{string templates see also}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:String manipulation templates|{{PAGENAME}}]]
+
+[[be:Шаблон:Str ≥ len]]
+[[cv:Шаблон:Str ≥ len]]
+[[de:Vorlage:Str ≥ len]]
+[[en:Template:Str ≥ len]]
+[[es:Plantilla:Str ≥ len]]
+[[id:Templat:Str ≥ len]]
+[[ja:Template:Str ≧ len]]
+[[ka:თარგი:Str ≥ len]]
+[[ko:틀:Str ≥ len]]
+[[pt:Predefinição:Str ≥ len]]
+[[ru:Шаблон:Str ≥ len]]
+[[simple:Template:Str ≤ len]]
+[[sl:Predloga:Str ≥ len]]
+[[sv:Mall:Str ≥ len]]
+[[uk:Шаблон:Str ≥ len]]
+[[ur:سانچہ:Str ≥ len]]
+</includeonly>
