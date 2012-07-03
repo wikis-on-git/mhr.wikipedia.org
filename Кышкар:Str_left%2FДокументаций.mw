@@ -1,0 +1,63 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+
+: <code>{{Tlx|Str left|<string>|<count>}}</code>
+
+Gives the <count> substring of characters from the start of the string (the substring has length <count>).
+
+If <count> is invalid or empty, an empty string is returned. If undefined, it defaults to 1.
+
+=== Limitations ===
+* Length to 500: The maximum substring stops at 500 long, yet gives no error message. Only 500 characters can be extracted even if the <string> is longer.
+* Inexpensive (uses no other templates).
+
+=== Examples ===
+
+*<tt><nowiki>{{Str left| lorem ipsum dolor sit amet | 10 }}</nowiki></tt> &rarr; {{Str left| lorem ipsum dolor sit amet | 10 }}
+*<tt><nowiki>{{Str left| lorem ipsum dolor sit amet | 1 }}</nowiki></tt> &rarr; {{Str left| lorem ipsum dolor sit amet | 1 }}
+*<tt><nowiki>{{Str left| lorem ipsum dolor sit amet | 0 }}</nowiki></tt> &rarr; {{Str left| lorem ipsum dolor sit amet | 0 }}
+*<tt><nowiki>{{Str left| lorem ipsum dolor sit amet | }}</nowiki></tt> &rarr; {{Str left| lorem ipsum dolor sit amet | }}
+*<tt><nowiki>{{Str left| lorem ipsum dolor sit amet }}</nowiki></tt> &rarr; {{Str left| lorem ipsum dolor sit amet }}
+
+=== See also ===
+* {{Tl|Trunc|<string>|<count>}} - truncate right-side of string
+* {{Tl|Str right|<string>|<count>}} - extract remainder of string
+* {{Tl|Str rightc|<string>|<count>}} - extract right-side of string
+* {{Tl|Str len|<string>}} - get numeric length of string (can be over 300 long)
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category: String manipulation templates]]
+
+[[as:সাঁচ:Str left]]
+[[be:Шаблон:Str left]]
+[[bg:Шаблон:Str left]]
+[[bn:টেমপ্লেট:Str left]]
+[[bs:Šablon:Niz lijevo]]
+[[de:Vorlage:Str left]]
+[[es:Plantilla:Str left]]
+[[dsb:Pśedłoga:Str left]]
+[[en:Template:Str left]]
+[[eo:Ŝablono:Lin mald]]
+[[hsb:Předłoha:Str left]]
+[[ia:Patrono:Str left]]
+[[id:Templat:Str left]]
+[[jv:Cithakan:Str left]]
+[[ko:틀:Str left]]
+[[lv:Veidne:Str left]]
+[[it:Template:Str left]]
+[[ja:Template:Str left]]
+[[map-bms:Cithakan:Str left]]
+[[ml:ഫലകം:Str left]]
+[[os:Шаблон:Str left]]
+[[pt:Predefinição:Str left]]
+[[ru:Шаблон:Str left]]
+[[sk:Šablóna:Str left]]
+[[sl:Predloga:Str left]]
+[[sv:Mall:Str left]]
+[[th:แม่แบบ:Str left]]
+[[uk:Шаблон:Str left]]
+[[ur:سانچہ:Str left]]
+</includeonly>
