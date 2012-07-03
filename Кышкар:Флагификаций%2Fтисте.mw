@@ -1,0 +1,146 @@
+<includeonly>__NOEDITSECTION__
+{{Template doc begin|{{{1|Ямдылык:Флагификаций/тисте}}}|notoc={{{notoc|}}}}}
+''Это документация для шаблона '''{{PAGENAME}}'''. Она была автоматически сгенерирована через [[Ямдылык:Флагификаций/тисте]]''
+
+<tt>Шаблон:{{PAGENAME}}</tt> содержит информацию о флаге страны и не служит для непосредственного включения. Он используется косвенно через такие шаблоны, как {{tl|флагификаций}}, {{tl|тисте}} и другие. Для обсуждения системы флагов, пожалуйста, используйте страницу [[Ямдылыкым каҥашымаш:Флагификаций|обсуждения шаблона Флагификация]].
+
+'''''Используйте <span class="plainlinks">[{{fullurl:{{FULLPAGENAMEE}}|action=purge}} функцию очистки кеша]</span> после изменения этого шаблона.'''''
+
+[[Файл:{{{flag alias|Sin bandera.svg}}}|thumb|{{#ifexist: {{{статья}}} | Тыгак ончо: [[{{{статья}}}]] |{{#ifexist: Тисте {{{alias}}} | Тыгак ончо: [[{{{alias}}}]] | }} }}]]
+
+== Стандарт параметр-влак ==
+{| class="wikitable"
+! Параметрын лӱмжӧ !! Ончыктымаш !! Умылтарымаш
+|-
+| <tt>alias</tt>
+| {{#if: {{{alias|}}} | <tt>{{{alias}}}</tt> | <span style="color:red">'''не указано!'''</span> }}
+| Тӱҥ статьян лӱмжӧ ([[{{{alias}}}]])
+{{#if: {{{shortname alias|}}} |
+<tr>
+<td><tt>кӱчыкемдыме лӱм</tt></td>
+<td><tt>{{{shortname alias}}}</tt></td>
+<td>''(опциональне)'' Отображаемое имя будет использовано для ссылки, если <tt>alias</tt>, например, является многозначной страницей</td>
+</tr>
+}}
+|-
+| <tt>flag alias</tt>
+| {{#if: {{{flag alias|}}} | <tt>{{{flag alias}}}</tt> | <span style="color:red">'''палемдыме огыл!'''</span> }}
+| Сӱретын лӱмжӧ ([[:Файл:{{{flag alias}}}]] пурлаште ончыктымо)
+{{#if: {{{статья|}}} |
+<tr>
+<td><tt>статья</tt></td>
+<td><tt>{{{статья}}}</tt></td>
+<td>''(опциональне)'' тистым вашталташ манын</td>
+</tr>
+}}
+|}
+{{#if: {{{var1|{{{flag alias-naval|}}}}}} |
+
+== Тисте вариант-влак ==
+{{#ifexist: {{{статья}}} | {{details|{{{статья}}}}} | {{#ifexist: Flag of {{{alias}}} | {{details|Flag of {{{alias}}}}} | }} }}
+<table class="wikitable">
+<tr><th>Тамга</th><th>Тистын сӱретше (40px)</th><th>Сӱретын лӱмжӧ</th></tr>
+{{#if: {{{var1|}}} | <tr><td><tt>{{{var1}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var1}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var1}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var2|}}} | <tr><td><tt>{{{var2}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var2}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var2}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var3|}}} | <tr><td><tt>{{{var3}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var3}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var3}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var4|}}} | <tr><td><tt>{{{var4}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var4}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var4}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var5|}}} | <tr><td><tt>{{{var5}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var5}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var5}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var6|}}} | <tr><td><tt>{{{var6}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var6}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var6}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var7|}}} | <tr><td><tt>{{{var7}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var7}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var7}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var8|}}} | <tr><td><tt>{{{var8}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var8}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var8}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var9|}}} | <tr><td><tt>{{{var9}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var9}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var9}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var10|}}} | <tr><td><tt>{{{var10}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var10}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var10}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var11|}}} | <tr><td><tt>{{{var11}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var11}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var11}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var12|}}} | <tr><td><tt>{{{var12}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var12}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var12}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var13|}}} | <tr><td><tt>{{{var13}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var13}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var13}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var14|}}} | <tr><td><tt>{{{var14}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var14}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var14}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var15|}}} | <tr><td><tt>{{{var15}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var15}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var15}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var16|}}} | <tr><td><tt>{{{var16}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var16}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var16}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var17|}}} | <tr><td><tt>{{{var17}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var17}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var17}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var18|}}} | <tr><td><tt>{{{var18}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var18}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var18}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var19|}}} | <tr><td><tt>{{{var19}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var19}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var19}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var20|}}} | <tr><td><tt>{{{var20}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var20}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var20}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var21|}}} | <tr><td><tt>{{{var21}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var21}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var21}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var22|}}} | <tr><td><tt>{{{var22}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var22}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var22}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var23|}}} | <tr><td><tt>{{{var23}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var23}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var23}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var24|}}} | <tr><td><tt>{{{var24}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var24}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var24}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var25|}}} | <tr><td><tt>{{{var25}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var25}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var25}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var26|}}} | <tr><td><tt>{{{var26}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var26}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var26}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var27|}}} | <tr><td><tt>{{{var27}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var27}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var27}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var28|}}} | <tr><td><tt>{{{var28}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var28}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var28}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var29|}}} | <tr><td><tt>{{{var29}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var29}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var29}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var30|}}} | <tr><td><tt>{{{var30}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var30}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var30}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var31|}}} | <tr><td><tt>{{{var31}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var31}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var31}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var32|}}} | <tr><td><tt>{{{var32}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var32}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var32}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var33|}}} | <tr><td><tt>{{{var33}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var33}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var33}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var34|}}} | <tr><td><tt>{{{var34}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var34}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var34}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var35|}}} | <tr><td><tt>{{{var35}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var35}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var35}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var36|}}} | <tr><td><tt>{{{var36}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var36}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var36}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var37|}}} | <tr><td><tt>{{{var37}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var37}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var37}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var38|}}} | <tr><td><tt>{{{var38}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var38}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var38}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var39|}}} | <tr><td><tt>{{{var39}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var39}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var39}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{var40|}}} | <tr><td><tt>{{{var40}}}</tt></td><td align=center>[[Файл:{{{flag alias-{{{var40}}}}}}|40px|border]]</td><td><tt>{{{flag alias-{{{var40}}}}}}</tt></td></tr> }}<!--
+-->{{#if: {{{flag alias-naval|}}} | <tr><td><tt>naval</tt></td><td align=center>[[Файл:{{{flag alias-naval}}}|40px|border]]</td><td><tt>{{{flag alias-naval}}}</tt></td></tr> }}<!--
+-->{{#if: {{{flag alias-air force|}}} | <tr><td><tt>air force</tt></td><td align=center>[[Файл:{{{flag alias-air force}}}|40px|border]]</td><td><tt>{{{flag alias-air force}}}</tt></td></tr> }}<!--
+--></table>
+}}
+{{#if: {{{redir1|}}} |
+
+== Перенаправления ==
+Этот шаблон может быть также использован через перенаправления:<!--
+--><table class="wikitable"><!--
+--><tr><th>Параметрын лӱмжӧ</th><th>{{tlx|Тисте|''эл''}}</th><th>{{tlx|Флагификаций|''эл''}}</th></tr>
+{{#if: {{{redir1|}}} | <tr><td><tt>[[{{{redir1}}}]]</tt></td><td>{{Тисте|{{{redir1}}}}}</td><td>{{Флагификаций|{{{redir1}}}}}</td></tr> }}<!--
+-->{{#if: {{{redir2|}}} | <tr><td><tt>[[{{{redir2}}}]]</tt></td><td>{{Тисте|{{{redir2}}}}}</td><td>{{Флагификаций|{{{redir2}}}}}</td></tr> }}<!--
+-->{{#if: {{{redir3|}}} | <tr><td><tt>[[{{{redir3}}}]]</tt></td><td>{{Тисте|{{{redir3}}}}}</td><td>{{Флагификаций|{{{redir3}}}}}</td></tr> }}<!--
+-->{{#if: {{{redir4|}}} | <tr><td><tt>[[{{{redir4}}}]]</tt></td><td>{{Тисте|{{{redir4}}}}}</td><td>{{Флагификаций|{{{redir4}}}}}</td></tr> }}<!--
+-->{{#if: {{{redir5|}}} | <tr><td><tt>[[{{{redir5}}}]]</tt></td><td>{{Тисте|{{{redir5}}}}}</td><td>{{Флагификаций|{{{redir5}}}}}</td></tr> }}<!--
+--></table>
+}}
+
+{{#if: {{{related1|}}} |
+== Родо ямдылык-влак ==
+Те тиде родо ямдылык-влакым кучылтен кертыда:<!--
+--><table class="wikitable"><!--
+--><tr><th>Параметрын лӱмжӧ</th><th>{{tlx|Тисте|''эл''}}</th><th>{{tlx|Флагификаций|''эл''}}</th></tr>
+{{#if: {{{related1|}}} | <tr><td><tt>{{{related1}}} (</tt><span class="plainlinks">[{{fullurl:Ямдылык:Флагификаций/{{{related1}}}|redirect=no}} ончылгоч ончымаш]</span><tt>)</tt></td><td>{{Флаг|{{{related1}}}}}</td><td>{{Флагификаций|{{{related1}}}}}</td></tr> }}<!--
+-->{{#if: {{{related2|}}} | <tr><td><tt>{{{related2}}} (</tt><span class="plainlinks">[{{fullurl:Ямдылык:Флагификаций/{{{related2}}}|redirect=no}} ончылгоч ончымаш]</span><tt>)</tt></td><td>{{Тисте|{{{related2}}}}}</td><td>{{Флагификаций|{{{related2}}}}}</td></tr> }}<!--
+-->{{#if: {{{related3|}}} | <tr><td><tt>{{{related3}}} (</tt><span class="plainlinks">[{{fullurl:Ямдылык:Флагификаций/{{{related3}}}|redirect=no}} ончылгоч ончымаш]</span><tt>)</tt></td><td>{{Тисте|{{{related3}}}}}</td><td>{{Флагификаций|{{{related3}}}}}</td></tr> }}<!--
+-->{{#if: {{{related4|}}} | <tr><td><tt>{{{related4}}} (</tt><span class="plainlinks">[{{fullurl:Ямдылык:Флагификаций/{{{related4}}}|redirect=no}} ончылгоч ончымаш]</span><tt>)</tt></td><td>{{Тисте|{{{related4}}}}}</td><td>{{Флагификаций|{{{related4}}}}}</td></tr> }}<!--
+-->{{#if: {{{related5|}}} | <tr><td><tt>{{{related5}}} (</tt><span class="plainlinks">[{{fullurl:Ямдылык:Флагификаций/{{{related5}}}|redirect=no}} ончылгоч ончымаш]</span><tt>)</tt></td><td>{{Тисте|{{{related5}}}}}</td><td>{{Флагификаций|{{{related5}}}}}</td></tr> }}<!--
+--></table>
+}}
+
+== Кучылтмаш ==
+* <tt><nowiki>{{тисте|</nowiki>{{{ямдылыклӱм|{{{alias}}}}}}<nowiki>}}</nowiki></tt> > {{тисте|{{{ямдылыклӱм|{{{alias}}}}}}}}
+* <tt><nowiki>{{флагификаций|</nowiki>{{{ямдылыклӱм|{{{alias}}}}}}<nowiki>}}</nowiki></tt> > {{флагификаций|{{{ямдылыклӱм|{{{alias}}}}}}}}<!--
+-->{{#if: {{{var1|}}} |
+;Использования варианта флага
+* <tt><nowiki>{{тисте|</nowiki>{{{ямдылыклӱм|{{{alias}}}}}}<nowiki>|</nowiki>{{{var1}}}<nowiki>}}</nowiki></tt> > {{тисте|{{{ямдылыклӱм|{{{alias}}}}}}|{{{var1}}}}}
+}}<!--
+-->{{#if: {{{redir1|}}} |
+;Использование перенаправлений
+* <tt><nowiki>{{тисте|</nowiki>{{{redir1}}}<nowiki>}}</nowiki></tt> > {{тисте|{{{redir1}}}}}
+* <tt><nowiki>{{флагификаций|</nowiki>{{{redir1}}}<nowiki>}}</nowiki></tt> > {{Флагификаций|{{{redir1}}}}}
+}}
+
+{{#ifexist: Ямдылык:{{PAGENAME}}/doc |
+
+== Моло информаций ==
+{{Ямдылык:{{PAGENAME}}/doc}}
+}}
+{{Template doc end}}
+[[Категорий:Википедий:Ямдылык-влак:Флагификаций|{{{ямдылыклӱм|{{{alias}}}}}}]]</includeonly><noinclude>{{Эзотерик}}
+[[ab:Ашаблон:Абыраҟдырга/абыраҟ]]
+[[ba:Ҡалып:Флагификация/флаг]]
+[[be:Шаблон:Сцягафікацыя/сцяг]]
+[[bg:Шаблон:Флагификация/флаг]]
+[[cv:Шаблон:Ялавлани/ялав]]
+[[hy:Կաղապար:Դրոշավորում/դրոշ]]
+[[kk:Үлгі:Ту/ту]]
+[[krc:Шаблон:Байракъландырыу/байракъ]]
+[[ky:Калып:Өлкө желеги/желек]]
+[[os:Шаблон:Флагификаци/тырыса]]
+[[ru:Шаблон:Флагификация/флаг]]
+[[sah:Халыып:Флагификация/флаг]]
+</noinclude>
