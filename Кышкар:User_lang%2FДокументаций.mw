@@ -1,0 +1,62 @@
+<noinclude>{{template navigation}}</noinclude>
+== Заготовка для копирования ==
+<pre>{{User lang
+| lang = 
+| name = 
+| level = 
+| size = 
+| info = 
+}}</pre>
+
+== Параметры шаблона ==
+{| class="standard"
+! Параметр
+! Описание
+! Пример
+|-
+| lang
+| Краткое (обычно 2-буквенное) обозначение языка
+| en
+|-
+| name
+| Полное название языка (название статьи)
+| Английский язык
+|-
+| level
+| Уровень знания языка. Возможные значения: 0, 1, 2, 3, 4, N, 5
+| 3
+|-
+| size
+| Размер шрифта левой части. Задаётся числом, измерется в pt, по умолчанию 14. Желательно оставлять поле пустым
+| 14
+|-
+| info
+| Текст в правой части
+| This user is able to contribute with an '''[[:Категория:User en-3|advanced]]''' level of '''[[:Категория:User en|English]]'''
+|-
+| nocat
+| Позволяет не включать страницу в категории. По умолчанию опускается
+| 1
+|}
+
+<includeonly>
+[[Категорий:Википедий:Шаблон-влак:Йылме почеш пайдаланыше-влак| ]]
+[[Категорий:Шаблон-влак:Шаблон-влаклан|User lang]]
+[[az:Şablon:İstifadəçi dili]]
+[[be:Шаблон:User lang]]
+[[bg:Шаблон:User lang]]
+[[bo:Template:User lang]]
+[[dz:Template:User lang]]
+[[en:Template:User lang]]
+[[hy:Կաղապար:User lang]]
+[[ka:თარგი:User lang]]
+[[kv:Шаблон:User lang]]
+[[ru:Шаблон:User lang]]
+[[sah:Халыып:User lang]]
+[[tt:Калып:User lang]]
+[[udm:Шаблон:User lang]]
+[[uk:Шаблон:User lang]]
+[[uz:Andoza:User lang]]
+</includeonly><noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
