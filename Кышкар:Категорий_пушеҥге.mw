@@ -1,0 +1,39 @@
+{| style="border: 1px solid #808080; padding: 5px;"
+|'''''Категорий пушеҥге:'''''
+{{#tag: categorytree| {{#if:{{{1}}}|{{{1}}}|{{PAGENAME}}}}
+|mode={{#if:{{{2}}}|"{{#ifeq:{{{2}}}|всё|all|{{#ifeq:{{{2}}}|лаштык|pages|{{#ifeq:{{{2}}}|категорий|categories}}}}}}"}}
+|depth={{#if:{{{3}}}|{{{3}}}}} 
+}}
+|}<noinclude>
+{{doc}}
+[[Категорий:Википедий:Категоризаций|{{PAGENAME}}]]
+[[az:Şablon:Kateqoriya ağacı]]
+[[be:Шаблон:Дрэва катэгорый]]
+[[bjn:Citakan:Puhun tumbung]]
+[[bn:টেমপ্লেট:Category tree]]
+[[ca:Plantilla:Arbre de categoria]]
+[[en:Template:Category tree]]
+[[eo:Ŝablono:Kategoriarbo]]
+[[ext:Prantilla:Despriegaeru categorias]]
+[[fa:الگو:درخت رده]]
+[[fi:Malline:Luokkapuu]]
+[[fr:Modèle:Category tree]]
+[[gv:Clowan:Billey ronnaghyn]]
+[[hi:साँचा:Categorytree]]
+[[id:Templat:Pohon kategori]]
+[[it:Template:Albero categorie]]
+[[ja:Template:Categorytree]]
+[[km:ទំព័រគំរូ:Category tree]]
+[[lv:Veidne:Kategoriju koks]]
+[[map-bms:Cithakan:Uwit kategori]]
+[[mk:Шаблон:Стебло на категории]]
+[[pl:Szablon:Drzewo kategorii]]
+[[pt:Predefinição:Árvore categoria]]
+[[ru:Шаблон:Дерево категорий]]
+[[si:සැකිල්ල:Category tree]]
+[[simple:Template:Category tree]]
+[[tr:Şablon:Kategori ağacı]]
+[[tt:Калып:Төркемнәр агачы]]
+[[uk:Шаблон:Дерево категорій]]
+[[ur:سانچہ:Category tree]]
+</noinclude>
