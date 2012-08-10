@@ -17,6 +17,7 @@ Only supports a limited character set.  Returns an error on unknown characters.
 {{pp-template}}
 [[Category:String manipulation templates]]
 
+[[as:সাঁচ:Str index]]
 [[az:Şablon:Str index]]
 [[be:Шаблон:Str index]]
 [[bg:Шаблон:Str index]]
