@@ -1,10 +1,10 @@
 {| class="messagebox plainlinks"
-|align="center"|[[Image:Crystal Clear action run.png|50px]]
-|align="left" width="100%"|'''This user account is a [[Project:Bot policy|bot]] operated by [[:{{{site|en}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|en}}}:User talk:{{{1}}}|talk]]).'''
-It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
-<br>
+|align="center"|[[Файл:Crystal Clear action run.png|50px]]
+|align="left" width="100%"|'''This user account is a [[Википедий:Bot policy|bot]] operated by [[:{{{site|en}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|en}}}:User talk:{{{1}}}|talk]]).'''
+It is not a [[Википедий:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
+<br />
 <small>''Administrators: if this bot is malfunctioning or causing harm, please [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it].''</small>
-|}{{{category|[[Category:Wikipedia bots|<includeonly>{{PAGENAME}}</includeonly> ]]}}}
+|}{{{category|[[Категорий:Wikipedia bots|<includeonly>{{PAGENAME}}</includeonly> ]]}}}
 
 <noinclude>
 [[ab:Ашаблон:Bot]]
@@ -56,7 +56,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[cy:Nodyn:Bot]]
 [[da:Skabelon:Bot]]
 [[de:Vorlage:Bot]]
-[[diq:Template:Bot]]
+[[diq:Şablon:Bot]]
 [[dsb:Pśedłoga:Bot]]
 [[dz:Template:Bot]]
 [[ee:Template:Bot]]
@@ -88,7 +88,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[hsb:Předłoha:Bot]]
 [[ht:Modèl:Bot]]
 [[hu:Sablon:Regisztrált bot]]
-[[hy:Կաղապար:Bot]]
+[[hy:Կաղապար:Բոտ]]
 [[ia:Patrono:Bot]]
 [[id:Templat:Bot]]
 [[ie:Avise:Bot]]
@@ -96,7 +96,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[ik:Template:Bot]]
 [[io:Shablono:Bot]]
 [[is:Snið:Vélmenni]]
-[[it:Template:AccountBot]]
+[[it:Template:Bot]]
 [[iu:Template:Bot]]
 [[ja:Template:Bot]]
 [[jv:Cithakan:Bot]]
@@ -111,7 +111,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[ksh:Schablon:Bot]]
 [[ku:Şablon:Bot]]
 [[kv:Шаблон:Bot]]
-[[ky:Template:Bot]]
+[[ky:Калып:Bot]]
 [[la:Formula:Bot]]
 [[lad:Xablón:Bot]]
 [[lb:Schabloun:Bot]]
@@ -149,7 +149,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[ny:Template:Bot]]
 [[oc:Modèl:Bòt]]
 [[om:Template:Bot]]
-[[or:ଟେମ୍ପଲେଟ:Bot]]
+[[or:ଛାଞ୍ଚ:Bot]]
 [[os:Шаблон:Bot]]
 [[pa:ਨਮੂਨਾ:ਰੋਬੋਟ]]
 [[pam:Template:Bot]]
@@ -190,7 +190,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[su:Citakan:Bot]]
 [[sv:Mall:Bot]]
 [[sw:Kigezo:Bot]]
-[[szl:Szablon:Bot]]
+[[szl:Muster:Bot]]
 [[ta:வார்ப்புரு:தானியங்கி]]
 [[te:మూస:Bot]]
 [[tet:Template:Bot]]
@@ -216,7 +216,7 @@ It is not a [[Project:Sock puppetry|sock puppet]], but rather an automated or se
 [[vi:Bản mẫu:Bot]]
 [[vls:Patrôon:Bot]]
 [[vo:Samafomot:Bot]]
-[[war:Template:Bot]]
+[[war:Batakan:Bot]]
 [[wo:Royuwaay:Bot]]
 [[wuu:模板:Bot]]
 [[xal:Кевләр:Bot]]
