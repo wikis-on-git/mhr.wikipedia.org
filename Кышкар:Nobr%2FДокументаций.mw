@@ -1,0 +1,76 @@
+<includeonly>{{СИШ|90}}</includeonly><noinclude>{{template navigation}}</noinclude>
+; Ойыраш лийдыме яравер-влак (неразрывные пробелы)
+
+Шаблон {{tl|nobr}} (англ. ''no-break space'' — [[ойыраш лийдыме яравер]]) устанавливает во фрагменте текста стиль, заменяющий обычные пробелы на неразрывные, что удобно, например, для оформления инициалов. <!--Первоначально кроме неразрывности устанавливалась ещё уменьшенная ширина пробела, однако эта возможность была отключена, так как в некоторых ОС вызывала эффект отображения текста вообще без пробелов.-->
+
+Кучылтмаш: {{tlp|nobr|А. С. Пушкин}}
+
+Лектыш:
+* А. С. Пушкин — тыглай яравер-влак (просто пробелы);
+* А.&nbsp;С.&nbsp;Пушкин — кок гана «&amp;nbsp;»;
+* {{nobr|А. С. Пушкин}} — тиде шаблон кучылтымо;
+* А.С.Пушкин — яравер деч посна.
+
+Тугак тыге кучылташ лиеш: {{tlp|nobr|299 792 458}} 
+
+Лектыш:
+* Тул писылыкше вакуумышто лач 299 792 458 м/с лиеш — обычные пробелы;
+* Тул писылыкше вакуумышто лач 299&nbsp;792&nbsp;458&nbsp;м/с лиеш— «&amp;nbsp;»;
+* Тул писылыкше вакуумышто лач {{nobr|299 792 458}}&nbsp;м/с лиеш — применён данный шаблон и «&amp;nbsp;» для м/с;
+* Тул писылыкше вакуумышто лач {{nobr|299 792 458 м/с}} лиеш — применён данный шаблон, в {{s|т. ч.}} и для м/с.
+* Тул писылыкше вакуумышто лач {{nobr|299792458 м/с}} лиеш — без пробелов, за исключением м/с.
+* Тул писылыкше вакуумышто лач 299792458м/с лиеш — вообще без пробелов.
+
+----
+Opera 8.5, Firefox 1.5, Internet Explorer 6.0, Netscape Navigator 4.7-влакыште пашам ышта. 
+
+Можно использовать перенаправление {{tl|s}}. <!-- кушечын тыгай лӱм? -->
+
+<!-- Категории и интервики -->
+<includeonly>[[Category:Википедий:Шаблон-влак:Форматирований]]
+
+[[ar:قالب:لا لف]]
+[[az:Şablon:Nobr]]
+[[be:Шаблон:Nobr]]
+[[bg:Шаблон:Nowrap]]
+[[bm:Modèle:Nobr]]
+[[bn:টেমপ্লেট:Nowrap]]
+[[cs:Šablona:Nowrap]]
+[[cv:Шаблон:Nobr]]
+[[cy:Nodyn:Dimamlapio]]
+[[da:Skabelon:Nowrap]]
+[[de:Vorlage:Nowrap]]
+[[en:Template:Nowrap]]
+[[es:Plantilla:Nowrap]]
+[[et:Mall:Murdmata]]
+[[fa:الگو:Nowrap]]
+[[fr:Modèle:Nobr]]
+[[ga:Teimpléad:Nowrap]]
+[[he:תבנית:ללא גלישה]]
+[[hr:Predložak:Nowrap]]
+[[hsb:Předłoha:Nowrap]]
+[[hy:Կաղապար:Nowrap]]
+[[is:Snið:Nowrap]]
+[[it:Template:Tutto attaccato]]
+[[ja:Template:Nowrap]]
+[[kl:Ilisserut:Nowrap]]
+[[ko:틀:개행 금지]]
+[[no:Mal:Nowrap]]
+[[oc:Modèl:Nobr]]
+[[pl:Szablon:Nowrap]]
+[[pt:Predefinição:Nowrap]]
+[[ro:Format:Nowrap]]
+[[roa-tara:Template:Tutto attaccato]]
+[[ru:Шаблон:Nobr]]
+[[sk:Šablóna:Nowrap]]
+[[sq:Stampa:Nowrap]]
+[[sv:Mall:Nowrap]]
+[[ta:வார்ப்புரு:Nowrap]]
+[[tpi:Templet:Nowrap]]
+[[tr:Şablon:Nowrap]]
+[[uk:Шаблон:Nobr]]
+[[uz:Andoza:Nobr]]
+[[vec:Modèl:Tuto tacà]]
+[[yi:מוסטער:נישט וויקלען]]</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
