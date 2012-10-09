@@ -1,0 +1,68 @@
+<includeonly>{{СИШ}}</includeonly><noinclude>{{template navigation}}</noinclude>Шаблон предназначен для указания на то, что на [[Викиклат|Викискладе]] по данной теме имеются дополнительные иллюстрации.
+
+== Кучылтмаш ==
+Шаблон поддерживает два параметра:
+# обязательный — имя категории на Викискладе (без префикса ''Category'');
+# необязательный — тема, по-умолчанию будут указано титульное название страницы.
+<pre>{{commonscat|Moscow}}</pre>
+{{commonscat|Moscow}}
+<br clear="all" />
+<pre>{{commonscat|Moscow|Тема}}</pre>
+{{commonscat|Moscow|Тема}}
+
+== Тыгак ончо ==
+* {{tl|Навигаций}}
+* {{tl|Commonscat-inline}}
+* {{tl|Commons}}
+* {{tl|Commons-inline}}
+
+<!-- Категорий да интервики -->
+<includeonly>[[Category:Шаблон-влак:Викимедиа проект-влакыш кылвер|{{PAGENAME}}]]
+
+[[af:Sjabloon:CommonsKategorie]]
+[[az:Şablon:CommonsKat]]
+[[bg:Шаблон:Commonscat]]
+[[ca:Plantilla:Commonscat]]
+[[cs:Šablona:Commonscat]]
+[[da:Skabelon:Commonscat]]
+[[de:Vorlage:Commonscat]]
+[[en:Template:Commonscat]]
+[[eo:Ŝablono:Commonscat]]
+[[es:Plantilla:Commonscat]]
+[[eu:Txantiloi:Commonskat]]
+[[fi:Malline:Commonscat]]
+[[hr:Predložak:Commonscat]]
+[[hu:Sablon:Közvagyonkat]]
+[[id:Templat:Commonscat]]
+[[io:Template:Commonscat]]
+[[is:Snið:Commonscat]]
+[[ja:Template:Commonscat]]
+[[ko:틀:Commonscat]]
+[[lt:Šablonas:Commonscat]]
+[[lv:Veidne:Commonscat]]
+[[mk:Шаблон:Ризница-врска]]
+[[ms:Templat:Commonscat]]
+[[nl:Sjabloon:Commonscat]]
+[[nn:Mal:Commonscat]]
+[[no:Mal:Commonscat]]
+[[oc:Modèl:Commonscat]]
+[[os:Шаблон:Commonscat]]
+[[pl:Szablon:Commonscat]]
+[[pt:Predefinição:Commonscat]]
+[[ro:Format:Commonscat]]
+[[ru:Шаблон:Commonscat]]
+[[sh:Template:Commonscat]]
+[[simple:Template:Commonscat]]
+[[sk:Šablóna:Commonscat]]
+[[sl:Predloga:Kategorija v Zbirki]]
+[[sr:Шаблон:Commonscat]]
+[[su:Citakan:Commonscat]]
+[[sv:Mall:Commonscat]]
+[[th:แม่แบบ:Commonscat]]
+[[tr:Şablon:CommonsKat]]
+[[uk:Шаблон:Commonscat]]
+[[vi:Tiêu bản:Commonscat]]
+[[zh:Template:Commonscat]]
+</includeonly><noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
