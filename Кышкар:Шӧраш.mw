@@ -1,0 +1,23 @@
+<div align="center">
+{{ambox
+| type=serious
+| id=request_for_deletion
+| image=[[Файл:Mail-mark-junk red.svg|48px|link=Википедий:Шӧраш]]
+| style=background:#fee
+| text='''Тиде {{#switch:~{{NAMESPACE}}|сӱрет|ямдылык|категорий|пайдаланышын лаштык|лаштык}} шӧрымашлан темлыме.'''
+| text-small=Рашемдымашлык амалым да каҥашымашым {{nobr|[[Википедий:Шӧраш{{#if:{{{1|}}}|/{{{1}}}}}#{{FULLPAGENAME}}{{!}}Википедий:Шӧраш{{#if:{{{1|}}}|/{{{1}}}}}]] лаштыкыште муын кертыда.}}<br/>Каҥашымаш пытарен огыл гын, тый {{#if:{{NAMESPACE}}|лаштыкым|лаштыкым}} саемдаш кертат, туге гынат лаштыклан у лӱмыш кусараш да возымым шӧраш ок лий.<br />Каҥашымаш петырымаш марте, тый тиде палым ит кӱр.
+----
+{{#ifeq:{{{1}}}|{{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}} {{CURRENTYEAR}}|
+''Номинаторлан: [{{fullurl:Википедий:Шӧраш/{{{1|}}}|action=edit&section=new&preview=no&preloadtitle=%5B%5B{{#switch:{{NAMESPACE}}|{{ns:6}}=%3A|{{ns:14}}=%3A}}{{urlencode:{{FULLPAGENAME}}}}%5D%5D&editintro=template:editintro/КУ}} каҥашымаш ужашым ешараш]<br />''
+}}
+''{{Виктарыше-влаклан|По результатам обсуждения на [[Википедий:Шӧраш{{#if:{{{1}}}|/{{{1}}}}}#{{FULLPAGENAME}}]]}}''}}<includeonly>{{#if: {{{nocat|}}}||[[Категорий:Шӧраш]]{{#ifeq:{{Просроченные подведения итогов|{{{1}}}}}|true|[[Категорий:Википедий:Просроченные подведения итогов по удалению страниц]]|}}{{#switch:~{{NAMESPACE}}|~Сӱрет=[[Категорий:Сӱрет:Шӧраш]]|}}}}</includeonly></div><includeonly>
+[[Категорий:Шӧраш]]
+</includeonly><noinclude>
+Кучылтмаш шынамат: <nowiki>{{</nowiki>Шӧраш|10 Теле 2009<nowiki>}}</nowiki>
+
+[[Категорий:Ямдылык]]
+
+[[kv:Шаблон:Delete]]
+[[ru:Шаблон:К удалению]]
+[[uk:Шаблон:Delete]]
+</noinclude>
