@@ -1,0 +1,73 @@
+<includeonly>{{Userbox
+|id = [[Image:Wikimedia logo family complete-2012.svg|50px]]
+|id-c = #fff
+|info-c = #f6f6f6
+|border-c = #bbb
+|border-s = 1
+|info = <span class="plainlinks">[http://toolserver.org/~purodha/sample/dbswithuser.php?usr={{urlencode:{{PAGENAME}}}}&go=Lo%C3%9F+Jonn!&uselang=en This user]</span> has created a [[:m:Help:Unified login|global account]]. {{PAGENAME}}'s main account is on <!--
+ -->{{#switch:{{{2|w}}}<!--
+ -->|commons=[[:commons:user:{{PAGENAME}}|Commons]]<!--
+ -->|meta=[[:meta:user:{{PAGENAME}}|Meta]]<!--
+ -->|w=[[:w:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikipedia {{{{{1|en}}} icon}}]]<!--
+ -->|wikt=[[:wikt:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wiktionary {{{{{1|en}}} icon}}]]<!--
+ -->|v=[[:v:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikiversity {{{{{1|en}}} icon}}]]<!--
+ -->|b=[[:b:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikibooks {{{{{1|en}}} icon}}]]<!--
+ -->|s=[[:s:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikisource {{{{{1|en}}} icon}}]]<!--
+ -->|q=[[:q:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikiquote {{{{{1|en}}} icon}}]]<!--
+ -->|n=[[:n:{{#if:{{{1|}}}|{{{1}}}:}}user:{{PAGENAME}}|Wikinews {{{{{1|en}}} icon}}]]<!--
+ -->}}.
+}}</includeonly><noinclude>
+== Parameters ==
+* The code is: <code><nowiki>{{SUL box|Language|Project}}</nowiki></code> where <code>''Language''</code> is the language of your main account (default: English) and <code>''Project''</code> is the project of your main account (default: Wikipedia).
+ 
+== Examples ==
+* « <code><nowiki>{{SUL Box>}}</nowiki></code> » :
+{{SUL Box}}
+* « <code><nowiki>{{SUL Box|fr}}</nowiki></code> » :
+{{SUL Box|fr}}
+* « <code><nowiki>{{SUL Box|2=q}}</nowiki></code> » :
+{{SUL Box|2=q}}
+* « <code><nowiki>{{SUL Box|1=fr|2=n}}</nowiki></code> » :
+{{SUL Box|1=fr|2=n}}
+
+<!--end of documentation-->
+
+[[Category:Userboxes]]
+
+[[af:Sjabloon:Gebruiker globale rekening]]
+[[als:Vorlage:Benutzer SUL]]
+[[an:Plantilla:Usuario SUL]]
+[[ar:قالب:SUL Box]]
+[[ca:Plantilla:Usuari SUL]]
+[[cs:Šablona:Uživatel SUL]]
+[[de:Vorlage:Benutzer SUL]]
+[[dsb:Pśedłoga:Wužywaŕ SUL]]
+[[el:Πρότυπο:Χρήστης SUL]]
+[[eo:Ŝablono:Vikipediisto SUL]]
+[[es:Usuario:Userbox/SUL]]
+[[fr:Modèle:Utilisateur Identifiant unique]]
+[[ga:Teimpléad:Úsáideoir SUL]]
+[[gd:Template:User SUL]]
+[[hsb:Předłoha:User SUL]]
+[[ht:Modèl:Itilizatè SUL]]
+[[id:Templat:User SUL]]
+[[it:Template:Utente SUL]]
+[[ja:Template:User SUL]]
+[[ko:틀:사용자 통합계정]]
+[[hsb:Předłoha:User SUL]]
+[[la:Formula:Usor globalis]]
+[[lb:Schabloun:Benotzer SUL]]
+[[lt:Šablonas:User SUL]]
+[[mt:Template:Utent SUL]]
+[[oc:Modèl:Utilizaire SUL]]
+[[pms:Stamp:User SUL]]
+[[pt:Predefinição:SUL Box]]
+[[ru:Шаблон:Пользователь SUL]]
+[[sc:Template:Utente SUL]]
+[[scn:Template:Utenti SUL]]
+[[sk:Šablóna:Užívateľ SUL]]
+[[sl:Predloga:Uporabnik SUL]]
+[[sv:Mall:SUL Box]]
+[[tr:Şablon:Kullanıcı SUL]]
+[[zh:Template:SUL Box]]
+</noinclude>
