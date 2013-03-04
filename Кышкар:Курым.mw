@@ -1,6 +1,7 @@
 <includeonly>{{#ifeq:{{{2}}}|plain|{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым| {{#time: xrU | 1970-1-1 + {{#expr: 1 - {{{1}}} }} second}} курым м.э.д.о.}}|[[{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым | {{#time: xrU | 1970-1-1 + {{#expr: 1 - {{{1}}} }} second}} курым м.э.д.о.}}]]}}</includeonly><noinclude>{{doc}}
 [[Category:Шаблон-влак|{{PAGENAME}}]]
 [[az:Şablon:Əsr]]
+[[ba:Ҡалып:Век]]
 [[be:Шаблон:Стагоддзе]]
 [[be-x-old:Шаблён:Стагодзьдзе]]
 [[ce:Куцкеп:Бlешо]]
