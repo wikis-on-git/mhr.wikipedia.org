@@ -114,9 +114,3 @@ void diagonalize_sym(array<double,2>^ A, int n)
 * Практикум на ЭВМ. Методы решения линейных систем и нахождения собственных значений. К.Ю. Богачев. Моско, 1998.
 
 [[Категорий: Шотпал йӧн]]
-
-[[de:Jacobi-Verfahren (Eigenwerte)]]
-[[en:Jacobi eigenvalue algorithm]]
-[[nl:Jacobi-eigenwaarde algoritme]]
-[[ru:Метод Якоби для собственных значений]]
-[[uk:Метод обертання Якобі]]
