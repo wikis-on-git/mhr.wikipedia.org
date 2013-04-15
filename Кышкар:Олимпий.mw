@@ -1,0 +1,44 @@
+{| class="toccolours" style="float:right; clear:both; width:330px; margin-left: 1em;"
+|-
+!valign="top" colspan=2 align=center bgcolor="#7b68ee" |{{{Лӱм}}}
+|-
+|valign="top" colspan=2 align=center|{{#if: {{{Эмблема|}}} | [[{{{Эмблема}}}|{{{Кугытшо}}}px|{{#if: {{{Описание_фото|}}} | {{{Описание_фото}}} | {{{Описание}}}}}]] | }}
+|-
+|style="text-align: top; background:#eee;"|Оза ола || {{{Ола}}}
+|-
+|style="text-align: top; background:#eee;"|Страны-участницы|| {{{Эл-влак}}}
+|-
+|style="text-align: top; background:#eee;"|Количество атлетов|| {{{Участников}}}
+|-
+|style="text-align: top; background:#eee;"|Разыгрывается медалей|| {{{Медаль-влак}}}
+|-
+|style="text-align: top; background:#eee;"|Почмаш радам шот|| {{{Почмаш_радам_шот}}}
+|-
+|style="text-align: top; background:#eee;"|Открывал|| {{{Открывал}}}
+|-
+|style="text-align: top; background:#eee;"|Петырымаш радам шот|| {{{Петырымаш_радам_шот}}}
+|-
+|style="text-align: top; background:#eee;"|[[Олимпий тул]]|| {{{Олимпий_тул}}}
+|-
+|style="text-align: top; background:#eee;"|[[Олимпийская клятва]]|| {{{Олимпийская_клятва}}}
+|-
+|style="text-align: top; background:#eee;"|[[Стадион]]|| {{{Стадион}}}
+|}<noinclude>
+<pre>{{Олимпий
+ |Лӱм                 = 
+ |Эмблема             = 
+ |Кугытшо             = 
+ |Описание            = 
+ |Ола                 = 
+ |Эл-влак             = 
+ |Участников          = 
+ |Медаль-влак         = 
+ |Почмаш_радам_шот    = 
+ |Петырымаш_радам_шот = 
+ |Открывал            = 
+ |Олимпий_тул         = 
+ |Олимпийская_клятва  = 
+ |Стадион             = 
+}}</pre>
+[[Категорий:Ямдылык]]
+</noinclude>
