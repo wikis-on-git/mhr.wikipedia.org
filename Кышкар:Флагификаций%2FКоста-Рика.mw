@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|флагификаций/тисте</noinclude>}}}
+| размер = {{{размер|}}}
+| variant = {{{variant|}}}
+| alias = Коста-Рика
+| flag alias = Flag of Costa Rica (state).svg
+| var1 = торговый
+| flag alias-торговый= Flag of Costa Rica.svg
+| var2 = 1821
+| flag alias-1821= Flag of Costa Rica (1821-1823).svg
+| var3 = 1823
+| flag alias-торговый = Flag of Costa Rica (1823-1824).svg
+| var4 = 1824-1
+| flag alias-1824-1 = Flag of Costa Rica (1824).svg
+| var5 = 1824-2
+| flag alias-1824-2 = Flag of Costa Rica (1824-1840).svg
+| var6 = 1840
+| flag alias-1840 = Flag of Costa Rica (1840-1842).svg
+| var7 = 1823
+| flag alias-торговый = Flag of Costa Rica (1823-1824).svg
+| var6 = 1842
+| flag alias-1842 = Flag of Costa Rica (1842-1848).svg
+| var8 = 1848
+| flag alias-1848 = Bandera de Costa Rica de 1848.svg
+}}
