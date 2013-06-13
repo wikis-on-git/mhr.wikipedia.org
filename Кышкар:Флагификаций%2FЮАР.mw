@@ -1,0 +1,31 @@
+{{ {{{1<noinclude>|флагификаций/тисте</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Кечывалвел Африкысе Республик
+| shortname alias = ЮАР
+| имя шаблона = ЮАР
+| flag alias = Flag of South Africa.svg
+| flag alias-до_1910= Flag of the United Kingdom.svg
+| flag alias-1910 = South Africa Flag 1910-1912.svg
+| flag alias-1912 = South Africa Flag 1912-1928.svg
+| flag alias-1928 = Flag of South Africa 1928-1994.svg
+| flag alias-ВМС = Naval Ensign of South Africa.svg
+| flag alias-Трансвааль = Flag of Transvaal.svg
+| flag alias-Оранжевая = Flag of the Orange Free State.svg
+| flag alias-Наталь = Flag of Natalia Republic.svg
+| flag alias-Транскей = Flag of Transkei.svg
+| flag alias-Сискей = Flag of Ciskei.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = до_1910
+| var2 = 1910
+| var3 = 1912
+| var4 = 1928
+| var5 = ВМС
+| var6 = Трансвааль
+| var7 = Оранжевая 
+| var8 = Наталь 
+| var9 = Транскей 
+| var10 = Сискей 
+</noinclude>
+}}<noinclude>
+</noinclude>
