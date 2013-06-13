@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>|флагификаций/тисте</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Хорватий
+| flag alias = Flag of Croatia.svg
+| flag alias-ВМС = Naval Ensign of Croatia.svg
+| flag alias-1848 = Flag of the Kingdom of Croatia.svg
+| flag alias-1941 = Flag of Croatia Ustasa.svg
+| flag alias-1947 = Flag of SR Croatia.svg
+| flag alias-1990 = Flag of Croatia (1990).svg
+| flag alias-торговый = Civil Ensign of Croatia.svg
+| flag alias-ВМС-1941 = Naval Ensign of the Independent State of Croatia.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = ВМС
+| var2 = 1848
+| var3 = 1941
+| var4 = 1947
+| var5 = 1990
+| var6 = торговый
+| var7 = ВМС-1941
+</noinclude>
+}}<noinclude>
+[[bg:Шаблон:Флагификация/Хърватия]]
+[[kbd:Template:Flagcountry/Хоруатиэ]]
+[[os:Шаблон:Флагификаци/Хорвати]]
+</noinclude>
