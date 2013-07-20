@@ -140,4 +140,4 @@
 
 {{#if:{{{Notes|}}}|{{1 cell table row|attributes=colspan="2" style="padding-top: 0.5em;"|data={{{Notes}}}}}}} <!--Notes-->
 |}
-<noinclude>[[Категорий:Ямдылык]]</noinclude>
+<noinclude>[[Категорий:Кышкар]]</noinclude>
