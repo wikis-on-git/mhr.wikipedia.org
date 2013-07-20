@@ -1,0 +1,468 @@
+<includeonly>{| class="infobox geography" style="margin-left:0.5em; background-color:#F5F5F5; border-collapse: collapse; float: right; font-size:90 %; width:300px"
+| colspan="2" bgcolor=#F5F5F5 align="center" style="border:solid #C0C0C0; border-width:0px 0px" | <big>'''{{{лӱм}}}''' {{#if: {{{самоназвание|<noinclude>-</noinclude>}}}
+| <br />'''{{{самоназвание}}}'''}}</big><br /><small>{{#if: {{{статус|<noinclude>-</noinclude>}}}
+| {{{статус}}} }}</small>
+|-
+!colspan="2" style="vertical-align:middle; text-align:center; border:solid 1px #aaa; padding:0.2em 0em 0.2em 0em; background:#EFEFEF"|
+    {| width="100%" style="text-align:center; margin:0 auto; background:none"
+    |-
+    |width=50px style="border:0; vertical-align:middle; font-size:30%; line-height:105%"|{{#if:{{{p8|}}}|[[#before-after|<span style="font-size:300%">↓</span>]]| {{#if:{{{p1|}}}|[[{{{p1}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p1|}}}|[[Файл:{{{flag_p1|}}}|border|30px]]|{{#if:{{{image_p1|}}}|{{{image_p1}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p2|}}}|&nbsp;<br />[[{{{p2}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p2|}}}|[[Файл:{{{flag_p2}}}|border|30px]]|{{#if:{{{image_p2|}}}|{{{image_p2}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p3|}}}|&nbsp;<br />[[{{{p3}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p3|}}}|[[Файл:{{{flag_p3}}}|border|30px]]|{{#if:{{{image_p3|}}}|{{{image_p3}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p4|}}}|&nbsp;<br />[[{{{p4}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p4|}}}|[[Файл:{{{flag_p4}}}|border|30px]]|{{#if:{{{image_p4|}}}|{{{image_p4}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p5|}}}|&nbsp;<br />[[{{{p5}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p5|}}}|[[Файл:{{{flag_p5}}}|border|30px]]|{{#if:{{{image_p5|}}}|{{{image_p5}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p6|}}}|&nbsp;<br />[[{{{p6}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p6|}}}|[[Файл:{{{flag_p6}}}|border|30px]]|{{#if:{{{image_p6|}}}|{{{image_p6}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}{{#if:{{{p7|}}}|&nbsp;<br />[[{{{p7}}}|<span style="font-size:400%">←</span>]] {{#if:{{{flag_p7|}}}|[[Файл:{{{flag_p7}}}|border|30px]]|{{#if:{{{image_p7|}}}|{{{image_p7}}}|[[Файл:Flag of None.svg|30px|border]]}}}}<br />}}}}
+    |style="vertical-align:middle; text-align:center; font-size:115%; border:0" | {{#if: {{{образовано|<noinclude>-</noinclude>}}} {{{ликвидировано|}}}
+    |{{{образовано}}}&nbsp;— {{{ликвидировано}}} }}
+{{#if: {{{образовано2|<noinclude>-</noinclude>}}} {{{ликвидировано2|}}}
+    |{{{образовано2}}}&nbsp;— {{{ликвидировано2}}} }}
+{{#if: {{{образовано3|<noinclude>-</noinclude>}}} {{{ликвидировано3|}}}
+    |{{{образовано3}}}&nbsp;— {{{ликвидировано3}}} }}
+|width=50px style="border:0; vertical-align:middle; text-align:right; line-height:105%; font-size:30%"| {{#if:{{{s8|}}}|[[#before-after|<span style="font-size:300%">↓</span>]]| {{#if:{{{s1|}}}|{{#if:{{{flag_s1|}}}|[[Файл:{{{flag_s1}}}|border|30px]]|{{#if:{{{image_s1|}}}|{{{image_s1}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s1}}}|<span style="font-size:400%">→</span>]]<br />}}{{#if:{{{s2|}}}|&nbsp;<br />{{#if:{{{flag_s2|}}}|[[Файл:{{{flag_s2}}}|border|30px]]|{{#if:{{{image_s2|}}}|{{{image_s2}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s2}}}|<span style="font-size:400%">→</span>]]<br />}} {{#if:{{{s3|}}}|&nbsp;<br />{{#if:{{{flag_s3|}}}|[[Файл:{{{flag_s3}}}|border|30px]]|{{#if:{{{image_s3|}}}|{{{image_s3}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s3}}}|<span style="font-size:400%">→</span>]]<br />}} {{#if:{{{s4|}}}|&nbsp;<br />{{#if:{{{flag_s4|}}}|[[Файл:{{{flag_s4}}}|border|30px]]|{{#if:{{{image_s4|}}}|{{{image_s4}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s4}}}|<span style="font-size:400%">→</span>]]<br />}} {{#if:{{{s5|}}}|&nbsp;<br />{{#if:{{{flag_s5|}}}|[[Файл:{{{flag_s5}}}|border|30px]]|{{#if:{{{image_s5|}}}|{{{image_s5}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s5}}}|<span style="font-size:400%">→</span>]]<br />}} {{#if:{{{s6|}}}|&nbsp;<br />{{#if:{{{flag_s6|}}}|[[Файл:{{{flag_s6}}}|border|30px]]|{{#if:{{{image_s6|}}}|{{{image_s6}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s6}}}|<span style="font-size:400%">→</span>]]<br />}} {{#if:{{{s7|}}}|&nbsp;<br />{{#if:{{{flag_s7|}}}|[[Файл:{{{flag_s7}}}|border|30px]]|{{#if:{{{image_s7|}}}|{{{image_s7}}}|[[Файл:Flag of None.svg|30px|border]]}}}} [[{{{s7}}}|<span style="font-size:400%">→</span>]]<br />}}}}
+    |}
+
+{{#if:{{{тисте|<noinclude>-</noinclude>}}}{{{герб|<noinclude>-</noinclude>}}}|
+{{!}}- style="background:#f9f9f9" align=center
+{{!}} align="center" colspan="2" {{!}}
+{{{!}} border="0" cellpadding="0" cellspacing="0" style="padding:0.5em 0em 0.5em 0em; background-color:#f9f9f9"
+{{!}}-
+{{!}} width="*" {{!}}
+{{#if:{{{тисте|<noinclude>-</noinclude>}}}|
+{{!}} align="center" valign="middle" width="50%" style="padding-left:1em; padding-top:1em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{тисте|}}} |{{{тисте}}}|Flag of None.svg}}|border|130px|]]|}}
+{{#if:{{{ойып|<noinclude>-</noinclude>}}}|
+{{!}} align="center" width="50%" style="padding-top:0em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{ойып|}}} |{{{ойып}}}|Coats of arms of None.svg}}|90px|]]|}}
+{{!}} width="145" {{!}}
+{{!}}-
+{{!}} width="145" {{!}}
+{{#if:{{{тисте|<noinclude>-</noinclude>}}}|
+{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;"{{!}} {{#if: {{{описание_флага|}}} | {{{описание_флага}}} | [[Тисте]]}}|}}
+{{#if:{{{ойып|<noinclude>-</noinclude>}}}|
+{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;«{{!}} {{#if: {{{описание_герба|}}} | {{{описание_герба}}} | [[Ойып]]}}|}}
+{{!}} width=»*" {{!}}
+{{!}}}
+}}
+ |-
+{{#if: {{{девиз|<noinclude>-</noinclude>}}} |
+{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95 %; background-color:#f9f9f9" {{!}} '''[[Девиз]]'''<br />{{{девиз}}}
+{{!}}-
+}}
+{{#if: {{{гимн|<noinclude>-</noinclude>}}} |
+{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95 %; background-color:#f9f9f9" {{!}} '''[[Гимн]]'''<br />{{{гимн}}}
+{{!}}-
+}}
+ |-
+{{#if: {{{карта|<noinclude>-</noinclude>}}} |
+{{!}} align="center" style="border: solid darkgray; border-width:1px 0px" colspan="2" {{!}} [[Файл:{{{карта|<noinclude>Missing map.png</noinclude>}}}|{{{размер|270px}}}]]{{#if: {{{описание|}}}|<br /><small>{{{описание}}}</small>}}
+}}
+|-
+{{#if: {{{рӱдола|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''[[Рӱдола]]'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{рӱдола}}}
+{{!}}-
+}}
+{{#if: {{{олала|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Эн кугу олала'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{олала}}}
+{{!}}-
+}}
+{{#if: {{{йылме|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Йылме(-влак)'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{йылме}}}
+{{!}}-
+}}
+{{#if: {{{тын|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''[[Тын]]'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{тын}}}
+{{!}}-
+}}
+{{#if: {{{валюта|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Денежная единица'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{валюта}}}
+{{!}}-
+}}
+{{#if: {{{дополнительный_параметр|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''{{{дополнительный_параметр}}}'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{содержимое_параметра}}}
+{{!}}-
+}}
+{{#if: {{{площадь|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Площадь'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{площадь}}}
+{{!}}-
+}}
+{{#if: {{{калыкчот|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Калыкчот'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{калыкчот}}}
+{{!}}-
+}}
+{{#if: {{{форма_правления|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Форма правления'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{форма_правления}}}
+{{!}}-
+}}
+{{#if: {{{династий|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Династий'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{династий}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" colspan="2" {{!}} '''{{{титул_правителей}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель1|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя1}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель1}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей2|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей2}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель2|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя2}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель2}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей3|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей3}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель3|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя3}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель3}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей4|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей4}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель4|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя4}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель4}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей5|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей5}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель5|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя5}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель5}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей6|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей6}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель6|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя6}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель6}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей7|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей7}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель7|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя7}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель7}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей8|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей8}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель8|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя8}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель8}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей9|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей9}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель9|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя9}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель9}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей10|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей10}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель10|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя10}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель10}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей11|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей11}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель11|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя11}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель11}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей12|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей12}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель12|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя12}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель12}}}
+{{!}}-
+}}
+{{#if: {{{титул_правителей13|<noinclude>-</noinclude>}}} |
+{{!}} style="padding-left:0.5em" colspan="2" {{!}} '''{{{титул_правителей13}}}'''
+{{!}}-
+}}
+{{#if: {{{правитель13|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{год_правителя13}}}
+{{!}} style="line-height:1.2em" {{!}} {{{правитель13}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр1|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''{{{дополнительный_параметр1}}}'''
+{{!}} style="border-top: solid 1px #aaa" {{!}} {{{содержимое_параметра1}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр2|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} '''{{{дополнительный_параметр2}}}'''
+{{!}} style="border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} {{{содержимое_параметра2}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр3|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} '''{{{дополнительный_параметр3}}}'''
+{{!}} style="border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} {{{содержимое_параметра3}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр4|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} '''{{{дополнительный_параметр4}}}'''
+{{!}} style="border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} {{{содержимое_параметра4}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр5|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} '''{{{дополнительный_параметр5}}}'''
+{{!}} style="border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} {{{содержимое_параметра5}}}
+{{!}}-
+}}
+
+{{#if: {{{дополнительный_параметр6|<noinclude>-</noinclude>}}} |
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} '''{{{дополнительный_параметр6}}}'''
+{{!}} style="border-top: solid 1px #aaa; border-bottom: solid 0px #aaa" {{!}} {{{содержимое_параметра6}}}
+{{!}}-
+}}
+
+{{#if: {{{Этап1|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em; border-top: solid 1px #aaa" colspan="2" {{!}} '''История'''
+{{!}}-
+}}
+{{#if: {{{Этап1|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата1|}}} {{{Год1}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап1}}}
+{{!}}-
+}}
+{{#if: {{{Этап2|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата2|}}} {{{Год2}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап2}}}
+{{!}}-
+}}
+{{#if: {{{Этап3|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата3|}}} {{{Год3}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап3}}}
+{{!}}-
+}}
+{{#if: {{{Этап4|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата4|}}} {{{Год4}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап4}}}
+{{!}}-
+}}
+{{#if: {{{Этап5|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата5|}}} {{{Год5}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап5}}}
+{{!}}-
+}}
+{{#if: {{{Этап6|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата6|}}} {{{Год6}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап6}}}
+{{!}}-
+}}
+{{#if: {{{Этап7|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата7|}}} {{{Год7}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап7}}}
+{{!}}-
+}}
+{{#if: {{{Этап8|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата8|}}} {{{Год8}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап8}}}
+{{!}}-
+}}
+{{#if: {{{Этап9|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата9|}}} {{{Год9}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап9}}}
+{{!}}-
+}}
+{{#if: {{{Этап10|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата10|}}} {{{Год10}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап10}}}
+{{!}}-
+}}
+{{#if: {{{Этап11|<noinclude>-</noinclude>}}} |
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата11|}}} {{{Год11}}}
+{{!}} style="line-height:1.2em" {{!}} {{{Этап11}}}
+{{!}}-
+}}
+
+{{#if: {{{после|<noinclude>-</noinclude>}}} |
+{{!}} colspan="2" style="text-align: left; border-top:1px solid #C0C0C0; border-right:0px; border-bottom:0px; font-weight: bold" {{!}} Преемственность
+}}
+|-
+|colspan="2" style="vertical-align:middle; text-align:center; border:0" | {{#if: {{{до|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{до}}}]]</small><br /> }}{{#if: {{{д1|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д1}}}]]</small><br />}}{{#if: {{{д2|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д2}}}]]</small><br /> }}{{#if: {{{д3|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д3}}}]]</small><br />}}{{#if: {{{д4|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д4}}}]]</small><br /> }}{{#if: {{{д5|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д5}}}]]</small><br />}}{{#if: {{{д6|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д6}}}]]</small><br /> }}{{#if: {{{д7|<noinclude>-</noinclude>}}}|<small><span style="font-size:150%">←</span> [[{{{д7}}}]]</small><br />}}{{#if: {{{после|}}}|<small> [[{{{после}}}]] <span style="font-size:150%">→</span></small><br /> }}{{#if: {{{п1|<noinclude>-</noinclude>}}}|<small> [[{{{п1}}}]] <span style="font-size:150%">→</span></small><br />}}{{#if: {{{п2|<noinclude>-</noinclude>}}}|<small> [[{{{п2}}}]] <span style="font-size:150%">→</span></small><br />}}{{#if: {{{п3|<noinclude>-</noinclude>}}}|<small> [[{{{п3}}}]] <span style="font-size:150%">→</span></small><br /> }}{{#if: {{{п4|<noinclude>-</noinclude>}}}|<small> [[{{{п4}}}]] <span style="font-size:150%">→</span></small><br />}}
+{{#if: {{{п5|<noinclude>-</noinclude>}}}|<small> [[{{{п5}}}]] <span style="font-size:150%">→</span></small><br /> }}{{#if: {{{п6|<noinclude>-</noinclude>}}}|<small> [[{{{п6}}}]] <span style="font-size:150%">→</span></small><br />}}{{#if: {{{п7|<noinclude>-</noinclude>}}}|<small> [[{{{п7}}}]] <span style="font-size:150%">→</span> </small>}}
+|-
+{{#if: {{{дополнительный_параметр3|}}}{{{содержимое_параметра3|}}} |
+{{!}} style="text-align: left; border-bottom:0; border-right:0; border-top:1px solid #C0C0C0" {{!}} {{{дополнительный_параметр3}}}
+{{!}} style="text-align: left; border-bottom:0; border-left:0; border-top:1px solid #C0C0C0" {{!}} {{{содержимое_параметра3}}}
+}}
+|- class="mergedtoprow"
+{{#if:{{{pn1|}}} |[[Категория:Статьи о исторических государствах требующие обслуживания|F]]}}{{#if:{{{sn1|}}} |[[Категория:Статьи о исторических государствах требующие обслуживания|F]]}}
+{{#ifeq: {{#expr: {{#expr:{{#if:{{{p8|}}}|1|0}}+{{#if:{{{s8|}}}|1|0}}}} > 0}} | 1 |
+<!----- Preceding and succeding entities without flags (used if more than 5) ----->
+{{!}} colspan="2" {{!}}
+{{{!}} width=100 % style="text-align: center; margin:0 auto;background-color:#f9f9f9;border-top:1px"
+{{!}}-
+{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top:1px solid #C0C0C0; padding-bottom:0"{{!}}<div id="before-after"></div> {{#if:{{{p1|}}}|'''{{{type_before|Предшественники:}}}'''}} {{!}}{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top:1px solid #C0C0C0; padding-bottom:0"{{!}} {{#if:{{{s1|}}}|'''{{{type_after|Преемники:}}}'''}}
+{{!}}-
+{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{p1|}}} | {{{!}} width=100 % style="text-align: center; margin:0 auto; border:0;background-color:#f9f9f9"
+{{!}}-
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p1|}}}|[[Файл:{{{flag_p1}}}|20px|border]]|{{#if:{{{image_p1|}}}|{{{image_p1}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p1}}}]]
+{{!}}-
+{{#if:{{{p2|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p2|}}}|[[Файл:{{{flag_p2}}}|20px|border]]|{{#if:{{{image_p2|}}}|{{{image_p2}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p2}}}]]}}
+{{!}}-
+{{#if:{{{p3|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p3|}}}|[[Файл:{{{flag_p3}}}|20px|border]]|{{#if:{{{image_p3|}}}|{{{image_p3}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p3}}}]]}}
+{{!}}-
+{{#if:{{{p4|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p4|}}}|[[Файл:{{{flag_p4}}}|20px|border]]|{{#if:{{{image_p4|}}}|{{{image_p4}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p4}}}]]}}
+{{!}}-
+{{#if:{{{p5|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p5|}}}|[[Файл:{{{flag_p5}}}|20px|border]]|{{#if:{{{image_p5|}}}|{{{image_p5}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p5}}}]]}}
+{{!}}-
+{{#if:{{{p6|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p6|}}}|[[Файл:{{{flag_p6}}}|20px|border]]|{{#if:{{{image_p6|}}}|{{{image_p6}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p6}}}]]}}
+{{!}}-
+{{#if:{{{p7|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p7|}}}|[[Файл:{{{flag_p7}}}|20px|border]]|{{#if:{{{image_p7|}}}|{{{image_p7}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p7}}}]]}}
+{{!}}-
+{{#if:{{{p8|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p8|}}}|[[Файл:{{{flag_p8}}}|20px|border]]|{{#if:{{{image_p8|}}}|{{{image_p8}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p8}}}]]}}
+{{!}}-
+{{#if:{{{p9|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p9|}}}|[[Файл:{{{flag_p9}}}|20px|border]]|{{#if:{{{image_p9|}}}|{{{image_p9}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p9}}}]]}}
+{{!}}-
+{{#if:{{{p10|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p10|}}}|[[Файл:{{{flag_p10}}}|20px|border]]|{{#if:{{{image_p10|}}}|{{{image_p10}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p10}}}]]}}
+{{!}}-
+{{#if:{{{p11|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p11|}}}|[[Файл:{{{flag_p11}}}|20px|border]]|{{#if:{{{image_p11|}}}|{{{image_p11}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p11}}}]]}}
+{{!}}-
+{{#if:{{{p12|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p12|}}}|[[Файл:{{{flag_p12}}}|20px|border]]|{{#if:{{{image_p12|}}}|{{{image_p12}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p12}}}]]}}
+{{!}}-
+{{#if:{{{p13|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p13|}}}|[[Файл:{{{flag_p13}}}|20px|border]]|{{#if:{{{image_p13|}}}|{{{image_p13}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p13}}}]]}}
+{{!}}-
+{{#if:{{{p14|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p14|}}}|[[Файл:{{{flag_p14}}}|20px|border]]|{{#if:{{{image_p14|}}}|{{{image_p14}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p14}}}]]}}
+{{!}}-
+{{#if:{{{p15|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p15|}}}|[[Файл:{{{flag_p15}}}|20px|border]]|{{#if:{{{image_p15|}}}|{{{image_p15}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p15}}}]]}}
+{{!}}}
+}}
+{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{s1|}}} | {{{!}} width=100 % style="text-align: center; margin:0 auto; style="border:0;background-color:#f9f9f9"
+{{!}}-
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s1}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s1|}}}|[[Файл:{{{flag_s1}}}|20px|border]]|{{#if:{{{image_s1|}}}|{{{image_s1}}}|[[Файл:Blank.png|20px|border]]}}}}
+{{!}}-
+{{#if:{{{s2|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s2}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s2|}}}|[[Файл:{{{flag_s2}}}|20px|border]]|{{#if:{{{image_s2|}}}|{{{image_s2}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s3|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s3}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s3|}}}|[[Файл:{{{flag_s3}}}|20px|border]]|{{#if:{{{image_s3|}}}|{{{image_s3}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s4|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s4}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s4|}}}|[[Файл:{{{flag_s4}}}|20px|border]]|{{#if:{{{image_s4|}}}|{{{image_s4}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s5|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s5}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s5|}}}|[[Файл:{{{flag_s5}}}|20px|border]]|{{#if:{{{image_s5|}}}|{{{image_s5}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s6|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s6}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s6|}}}|[[Файл:{{{flag_s6}}}|20px|border]]|{{#if:{{{image_s6|}}}|{{{image_s6}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s7|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s7}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s7|}}}|[[Файл:{{{flag_s7}}}|20px|border]]|{{#if:{{{image_s7|}}}|{{{image_s7}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s8|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s8}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s8|}}}|[[Файл:{{{flag_s8}}}|20px|border]]|{{#if:{{{image_s8|}}}|{{{image_s8}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s9|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s9}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s9|}}}|[[Файл:{{{flag_s9}}}|20px|border]]|{{#if:{{{image_s9|}}}|{{{image_s9}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s10|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s10}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s10|}}}|[[Файл:{{{flag_s10}}}|20px|border]]|{{#if:{{{image_s10|}}}|{{{image_s10}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s11|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s11}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s11|}}}|[[Файл:{{{flag_s11}}}|20px|border]]|{{#if:{{{image_s11|}}}|{{{image_s11}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s12|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s12}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s12|}}}|[[Файл:{{{flag_s12}}}|20px|border]]|{{#if:{{{image_s12|}}}|{{{image_s12}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s13|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s13}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s13|}}}|[[Файл:{{{flag_s13}}}|20px|border]]|{{#if:{{{image_s13|}}}|{{{image_s13}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s14|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s14}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s14|}}}|[[Файл:{{{flag_s14}}}|20px|border]]|{{#if:{{{image_s14|}}}|{{{image_s14}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}-
+{{#if:{{{s15|}}} |
+{{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s15}}}]]
+{{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s15|}}}|[[Файл:{{{flag_s15}}}|20px|border]]|{{#if:{{{image_s15|}}}|{{{image_s15}}}|[[Файл:Blank.png|20px|border]]}}}}}}
+{{!}}}
+}}
+{{!}}}
+}}
+|-
+{{#if: {{{прим|<noinclude>-</noinclude>}}} |
+{{!}} align="center" style="border: solid darkgray; border-width:1px 0px; text-align: left" colspan="2" {{!}} {{{прим}}}
+}}
+|-
+|}{{#if:{{NAMESPACE}}||{{#if:{{{foundation|}}}{{{образовано|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation|{{{образовано}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end|}}}{{{ликвидировано|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end|{{{ликвидировано}}}}}}}}}} году]]}}{{#if:{{{foundation2|}}}{{{образовано2|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation2|{{{образовано2}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end2|}}}{{{ликвидировано2|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end2|{{{ликвидировано2}}}}}}}}}} году]]}}{{#if:{{{foundation3|}}}{{{образовано3|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation3|{{{образовано3}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end3|}}}{{{ликвидировано3|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end3|{{{ликвидировано3}}}}}}}}}} году]]}}}}</includeonly><noinclude>{{doc}}</noinclude>
