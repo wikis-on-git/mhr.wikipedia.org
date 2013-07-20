@@ -30,9 +30,9 @@
 {{!}}-
 {{!}} width="145" {{!}}
 {{#if:{{{тисте|<noinclude>-</noinclude>}}}|
-{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;"{{!}} {{#if: {{{описание_флага|}}} | {{{описание_флага}}} | [[Тисте]]}}|}}
+{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;"{{!}} {{#if: {{{тистын_возымашыже|}}} | {{{тистын_возымашыже}}} | [[Тисте]]}}|}}
 {{#if:{{{ойып|<noinclude>-</noinclude>}}}|
-{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;«{{!}} {{#if: {{{описание_герба|}}} | {{{описание_герба}}} | [[Ойып]]}}|}}
+{{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;«{{!}} {{#if: {{{ойыпын_возымашыже|}}} | {{{ойыпын_возымашыже}}} | [[Ойып]]}}|}}
 {{!}} width=»*" {{!}}
 {{!}}}
 }}
@@ -47,7 +47,7 @@
 }}
  |-
 {{#if: {{{карте|<noinclude>-</noinclude>}}} |
-{{!}} align="center" style="border: solid darkgray; border-width:1px 0px" colspan="2" {{!}} [[Файл:{{{карте|<noinclude>Missing map.png</noinclude>}}}|{{{размер|270px}}}]]{{#if: {{{описание|}}}|<br /><small>{{{описание}}}</small>}}
+{{!}} align="center" style="border: solid darkgray; border-width:1px 0px" colspan="2" {{!}} [[Файл:{{{карте|<noinclude>Missing map.png</noinclude>}}}|{{{лопкыт|270px}}}]]{{#if: {{{возымаш|}}}|<br /><small>{{{возымаш}}}</small>}}
 }}
 |-
 {{#if: {{{рӱдола|<noinclude>-</noinclude>}}} |
@@ -71,7 +71,7 @@
 {{!}}-
 }}
 {{#if: {{{валюто|<noinclude>-</noinclude>}}} |
-{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Денежная единица'''
+{{!}} width="50%" style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Окса иктык'''
 {{!}} style="border-top: solid 1px #aaa" {{!}} {{{валюто}}}
 {{!}}-
 }}
