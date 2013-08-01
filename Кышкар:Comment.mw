@@ -1,12 +1,5 @@
 <includeonly>{{#if:{{{2|}}}|<span title="{{{2}}}" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">{{{1}}}</span>|{{{1}}}}}</includeonly><noinclude>{{doc}}[[Category:Википедий:Шаблон-влак:Форматирований]]
 
-[[ca:Plantilla:Avís]]
-[[en:Template:Notice]]
-[[hu:Sablon:Kommentár]]
-[[ja:Template:Notice]]
-[[ka:თარგი:შეტყობინება]]
-[[ml:ഫലകം:Notice]]
-[[os:Шаблон:Ома]]
 [[uk:Шаблон:Comment]]
 [[zh-yue:Template:告示]]
 </noinclude>
