@@ -1,0 +1,45 @@
+<noinclude>{{template navigation}}</noinclude>
+
+== Правила использования ==
+Данный шаблон предназначен для того, чтобы пользователь имел возможность скрыть часть текста. Изначально фрагмент текста может быть показан или сразу скрыт. Для показа скрытого содержимого следует нажать на кнопку «Ончыкташ» (показать), а для сокрытия показанного — кнопку «Шылташ» (скрыть) (кнопка одна, меняется лишь её название).
+
+=== Параметры ===
+* '''title''' — заголовок блока. Отображается всегда.
+* '''title-style''' — стиль заголовка. Стиль должен быть задан в формате [[CSS]], как он задаётся в атрибуте <code>style</code>. Например: <code>border: 1px solid black; color: blue;</code>
+* '''content''' — содержимое блока. Оно-то и будет скрываться или показываться.
+* '''content-style''' — стиль содержимого.
+* '''frame-style''' — общий стиль блока. Используется, к примеру, чтобы задать общую границу.
+* '''hidden''' — показатель изначального состояния блока: скрыт он или показан. Если не задавать этот параметр вовсе или оставить его значение пустым, то блок будет по умолчанию открыт. Если же задать какое-либо значение параметра (обычно — '''1'''), то содержимое блока будет сначала скрыто от пользователя.
+
+=== Шынамат (пример) ===
+<pre>
+{{Hider|
+  title = Олдырчо вуймут |
+  content = Вуйлымаш <br /> <div style="text-align: right; font-style: italic;"> пытартыш </div> |
+  frame-style = border: 1px solid Plum; |
+  title-style = color: black; background-color: lavender; font-weight: bold; | 
+  content-style = color: black; background-color: ghostwhite; text-align: left; |
+}}
+</pre>
+
+{{Hider|
+  title = Олдырчо вуймут |
+  content = Вуйлымаш <br /> <div style="text-align: right; font-style: italic;"> пытартыш </div> |
+  frame-style = border: 1px solid Plum; |
+  title-style = color: black; background-color: lavender; font-weight: bold; | 
+  content-style = color: black; background-color: ghostwhite; text-align: left; |
+}}
+
+== Палемдымаш ==
+Для корректного отображения обоих вариантов (скрыто или же показано содержимое по умолчанию) используются вспомогательные шаблоны {{tl|Hider showing}} и {{tl|Hider hiding}}.
+
+== Тыгак ончо ==
+* {{tl|Comment}}
+* {{tl|Навигаций аҥа}}
+* {{tl|Навигаций четлык}}
+* [[Википедий:Иземдыме олдырчо-влак]]
+* {{tl|Шылтыме}}
+<includeonly>
+[[Category:Википедий:Шаблон-влак|{{PAGENAME}}]]</includeonly><noinclude>
+[[Category:Шаблон-влак:Документаци|{{PAGENAME}}]]
+</noinclude>
