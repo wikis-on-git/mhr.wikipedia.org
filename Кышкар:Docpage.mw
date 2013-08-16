@@ -1,0 +1,12 @@
+<includeonly>{{#ifeq: {{#rel2abs: ..}}/doc | {{SUBJECTPAGENAME}} | <div class="toc" style="text-align: center;">
+[[:{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}]] · [[:{{SUBJECTPAGENAME}}|Документаций]] · [[{{#rel2abs: .. | {{TALKPAGENAME}}}}|Каҥашымаш]] · [[Лӱмын ыштыме лаштык:Whatlinkshere/{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}|Кушто кучылталтеш]]
+</div>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+}}</includeonly><noinclude>
+{{doc}}
+
+[[Category:Шаблон-влак:Шаблон-влаклан|{{PAGENAME}}]]
+[[Category:Википедий:Навигаций шаблон-влак| ]]
+
+[[be:Шаблон:Template navigation]]
+</noinclude>
