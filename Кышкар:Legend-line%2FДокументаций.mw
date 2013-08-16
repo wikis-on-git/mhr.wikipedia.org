@@ -1,0 +1,23 @@
+<noinclude>{{docpage}}</noinclude>Легенде-влакла тӱсан кореш-влак
+
+== Кучылтмаш ==
+ <nowiki>{{</nowiki>legend-line|''корештӱс-корештип''|''Тудлан комментарий''}}
+Для указания цвета, типа и толщины линий используйте стандартные синтаксис [[Cascading Style Sheets|CSS]].
+
+== Шынамат-влак ==
+{{legend-line|#0000FF dashed 2px|Чек 1905 ийыште}}
+{{legend-line|black solid 2px|Чек 1914 ийыште}} 
+{{legend-line|red dotted 2px|Чек 1920 ийыште}}
+<pre>
+{{legend-line|#0000FF dashed 2px|Чек 1905 ийыште}}
+{{legend-line|black solid 2px|Чек 1914 ийыште}} 
+{{legend-line|red dotted 2px|Чек 1920 ийыште}}
+</pre>
+
+Палемдымаш: (<tt>solid</tt>, <tt>dotted</tt>, <tt>dashed</tt> да т.м.) корештипым эре шындыман.
+
+<!-- Категорий да интервики -->
+<includeonly>[[Категорий:Ямдылык:Сӱретлымаш|{{PAGENAME}}]]
+
+[[fr:Template:Legend-line]]
+[[ru:Шаблон:Легенда-линия/doc]]</includeonly>
