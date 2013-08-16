@@ -1,0 +1,154 @@
+<includeonly>{{СИШ|30}}</includeonly><noinclude>{{template navigation}}</noinclude> __NOTOC__
+
+== Документаций==
+Кучылтмаш:
+     {{Tlp|Tlp|шаблонын лӱмжӧ|икымше параметр|...}}
+Тиде шаблонлан вич марте параметр ончыкталтеш, моло параметр-влак «<tt>|</tt> ''да т.м.''» семын ончыкталтыт.
+=== Кучылтмаш ===
+
+:<tt>{{tlp|tlp|template name}}</tt>
+:<tt>{{tlp|tlp|template name|param}}</tt>
+:<tt>{{tlp|tlp|template name|1|2|3}}</tt>
+:<tt>{{tlp|tlp|template name|1|2|3&#124;more}}</tt>
+:<tt>{{tlp|tlp|template name|param&amp;#61;value}}</tt>
+''Up to three placeholders for parameters of the specified template''
+
+=== Шынамат-влак ===
+{| border="1" cellpadding="4" class="wikitable"
+! Code
+! Result
+! Remark
+|-
+|{{Tlp|Tlp|x0}}
+|{{Tlp|x0}}
+||&#160;
+|-
+|{{Tlp|Tlp|x1|one}}
+|{{Tlp|x1|one}}
+||&#160;
+|-
+|{{Tlp|Tlp|x2|one|two}}
+|{{Tlp|x2|one|two}}
+||&#160;
+|-
+|{{Tlp|Tlp|x3|1<tt>&#124;</tt>2<tt>&#124;</tt>3}}
+|{{Tlp|x3|1|2|3}}
+||&#160;
+|-
+|{{Tlp|Tlp|x4|1<tt>&#124;</tt>2<tt>&#124;</tt>3|4}}
+|{{Tlp|x4|1|2|3|4}}
+|up to 3 parameters
+|-
+|{{Tlp|Tlp|x4|1<tt>&#124;</tt>2<tt>&#124;</tt>3&amp;#124;4}}
+|{{Tlp|x4|1|2|3&#124;4}}
+|align="right"|<tt>&amp;#124;</tt> for more
+|-
+|{{Tlp|Tlp|x1|x&#61;u}}
+|{{Tlp|x1|x=u}}
+|'''=''' won't work
+|-
+|{{Tlp|Tlp|x1|x&amp;#61;u}}
+|{{Tlp|x1|x&#61;u}}
+|align="right"|<tt>&amp;#61;</tt> is okay
+|-
+|{{Tlp|Tlp|x1|&lt;nowiki&gt;x&#61;u&lt;/nowiki&gt;}}
+|{{Tlp|x1|<nowiki>x=u</nowiki>}}
+|align="right"|sticky nowiki is okay
+|-
+|{{Tlp|Tlp|x2|&#160;|two}}
+|{{Tlp|x2| |two}}
+|empty won't work
+|-
+|{{Tlp|Tlp|x2|&amp;#32;|two}}
+|{{Tlp|x2|&#32;|two}}
+|align="right"|<tt>&amp;#32;</tt> is okay
+|-
+|{{Tlp|Tlp|x2|&amp;nbsp;|two}}
+|{{Tlp|x2|&nbsp;|two}}
+|align="right"|<tt>&amp;nbsp;</tt> is okay
+|-
+|{{Tlp|Tlp|x2| &amp;#124; two}}
+|{{Tlp|x2| &#124; two}}
+|align="right"|<tt>&amp;#124;</tt> is okay
+|-
+|| {{Tlp|Tlp|x2| {&#123;!&#125;} two}}
+|| {{Tlp|x2| {{!}} two}}
+|align="right"|{{Tlp|!}} is dubious
+|-
+|| {{Tlp|Tlp|x2|<nowiki>2=</nowiki>|<nowiki>3=two</nowiki>}}
+|| {{Tlp|x2|2=|3=two}}
+|empty really doesn't work
+|-
+|| {{Tlp|Tlp|x2|<nowiki>2=one</nowiki>|two}}
+|| {{Tlp|x2|2=one|two}}
+|'''two''' clobbers '''2=one'''
+|-
+|| {{Tlp|Tlp|x2|<nowiki>3=two</nowiki>|<nowiki>2=one</nowiki>}}
+|| {{Tlp|x2|3=two|2=one}}
+|align="right"|right to left okay
+|}{{-}}
+
+=== Comparison ===
+
+:''As usual we got a zoo of similar templates,'' '''<sup>*</sup>''' ''marks redirects to {{Tlp|Tlp}}:''
+
+{| class="wikitable" border="1" cellspacing="2" cellpadding="2"
+|-
+! Usage
+! Code
+! Result
+|-
+|0 Tlp
+|<code>{{Tlp|Tlp|Tl}}</code>
+|{{Tlp|Tl}}
+|-
+|0 Tl
+|<code>{{Tlp|Tl|Tlp}}</code>
+|{{Tl|Tlp}}
+|-
+|1 Tlp
+|<code>{{Tlp|Tlp|Tlp|one}}</code>
+|{{Tlp|Tlp|one}}
+|-
+|1 Tlp 
+|<code>{{Tlp|Tlp|Tlp|one}}</code>
+|{{Tlp|Tlp|one}}
+|-
+|1 Tetl 
+|<code>{{Tlp|Tetl|Tlp|one}}</code>
+||{{Tetl|Tlp|one}}
+|-
+|2 Tlp
+|<code>{{Tlp|Tlp|Tl2|one|two}}</code>
+|{{Tlp|Tl2|one|two}}
+|-
+|2 Tlp2 '''<sup>*</sup>'''
+|<code>{{Tlp|Tlp2|Tlp|Tl|param}}</code>
+| |{{Tlp2|Tlp|Tl|param}} 
+|-
+|2 Tl2 '''<sup>*</sup>'''
+|<code>{{Tlp|Tl2|Tlp|Tl|param}}</code>
+|{{Tl2|Tlp|Tl|param}} 
+|-
+|3 Tlp
+|<code>{{Tlp|Tlp|Tl3|1&#124;2&#124;3}}</code>
+|{{Tlp|Tl3|1|2|3}}
+|-
+|3 Tlp3 '''<sup>*</sup>'''
+|<code>{{Tlp|Tlp3|Tl3|1&#124;2&#124;3}}</code>
+| |{{Tlp3|Tl3|1|2|3}}
+|-
+|3 Tl3 '''<sup>*</sup>'''
+|<code>{{Tlp|Tl3|x3|1&#124;2&#124;3}}</code>
+| |{{Tl3|x3|1|2|3}}
+|}{{-}}
+
+== Тыгак ончо ==
+* {{Tl|Tl}}<noinclude>
+[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude><includeonly>
+[[Category:Шаблон-влак:Шаблон-влаклан|{{PAGENAME}}]]
+[[Категорий:Википедий:Ямдылык-влак:Кӧргӧ кылвер-влак|{{PAGENAME}}]]
+
+[[ru:Шаблон:Tlp/doc]]
+</includeonly>
