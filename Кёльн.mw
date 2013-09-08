@@ -11,9 +11,9 @@
  |тистын лопкытшо         = 
   |lat_dir = |lat_deg = 50|lat_min =56 |lat_sec =32 
   |lon_dir = |lon_deg =6 |lon_min =56 |lon_sec =28 
-  |CoordAddon                      = type:city(1017155)_region:
+  |CoordAddon                      = type:city(1017155)_region:DE
   |CoordScale                       = 
- |ЯндексКарта                    = http://maps.yandex.ru/?text=Германия,%20Кӧльн&sll=6.905862,50.954576&sspn=1.406223,0.666147&l=map,trf
+ |ЯндексКарта                    = http://maps.yandex.ru/?text=Германия,%20Кёльн&sll=6.905862,50.954576&sspn=1.406223,0.666147&l=map,trf
  |эл картын кугытшо          = 
  |регион картын кугытшо   = 
  |кундем картын кугытшо  = 
