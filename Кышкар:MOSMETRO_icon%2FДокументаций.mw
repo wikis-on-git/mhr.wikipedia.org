@@ -1,0 +1,125 @@
+<noinclude>{{docpage}}</noinclude>
+{{onLua|MoscowMetro|interchange}}
+== Использование ==
+*Всплывающая подсказка при наведении мышки
+*В шаблон включен скрытый ключ {{tl|hs}}, позволяющий сортировать таблицу по столбцу с иконками.
+
+;Если используется один параметр:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|4}}</nowiki></tt>||{{MOSMETRO icon|4}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|4}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Первый и второй параметр в действии:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|3|40}}</nowiki></tt>||{{MOSMETRO icon|3|40}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|3|40}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Первый и третий параметр в действии:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|3||Волоколамская}}</nowiki></tt>||{{MOSMETRO icon|3||Волоколамская}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|3||Волоколамская}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Третий параметр при уточнённом названии:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>
+{{MOSMETRO icon|1||Комсомольская (станция метро, Сокольническая линия)}}</nowiki></tt>||{{MOSMETRO icon|1||Комсомольская (станция метро, Сокольническая линия)}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|1||Комсомольская (станция метро, Сокольническая линия)}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Четвертый параметр при отсутствии третьего:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>
+{{MOSMETRO icon|1|||Охотный ряд}}</nowiki></tt>||{{MOSMETRO icon|1|||Охотный ряд}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|1|||Охотный ряд}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Пятый нужен для кросс-платформенной пересадки:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|6|||Третьяковская|1}}</nowiki></tt>||{{MOSMETRO icon|6|||Третьяковская|1}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|6|||Третьяковская|1}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Параметр текст:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|2|alt=Линия №2|text=1}}</nowiki></tt>||{{MOSMETRO icon|2|alt=Линия №2|text=1}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|2|alt=Линия №2|text=1}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Параметр текст, значение 2:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|7|text=2}}</nowiki></tt>||{{MOSMETRO icon|7|text=2}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|7|text=2}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Параметр текст, значение 1, с указанием станции:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|1|||Охотный ряд|text=2}}</nowiki></tt>||{{MOSMETRO icon|1|||Охотный ряд|text=2}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|1|||Охотный ряд|text=2}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Параметр small:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|7|text=1|small=1}}</nowiki></tt>||{{MOSMETRO icon|7|text=1|small=1}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|7|text=1|small=1}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+;Параметр style:
+{|class=wikitable
+!Код!!Результат!!Подсказка
+|-
+|<tt><nowiki>{{MOSMETRO icon|7|text=1|style=color:green}}</nowiki></tt>||{{MOSMETRO icon|7|text=1|style=color:green}}
+|<div style="background-color:#ffc;; border:1px solid darkgray; font-size:smaller;">{{#invoke:string|sub|{{#invoke:string|match|{{MOSMETRO icon|7|text=1|style=color:green}}|pattern=title=".-"}}|8|-2}}</div>
+|}
+
+== Параметры ==
+{|class=wikitable
+|1||Номер линии или сокращение её названия, см. [[Модуль:MoscowMetro]].
+|-
+|2||Размер картинки: 15 по умолчанию. Не требует указания единиц измерения ("[[Пиксель|px]]").
+|-
+|3||Имя станции. Если в имени есть уточнение - оно отбросится автоматически для второй части ссылки и т.п.
+|-
+|4||''Если не указан параметр 3:'' имя станции без уточнения " (станция метро)", которое будет подставлено автоматически для первой части ссылок и т.п.
+|-
+|5||Для кросс-платформенных пересадок.
+|-
+|text||Показывать текст после картинки.
+{|class=wikitable cellspacing=0 style="margin:0"
+|1|| После картинки выводится название линии.
+|-
+|2|| Название линии выдаётся без приписки ''линия'' на конце.
+|}
+|-
+|small||Уменьшение текста.
+|-
+|style||Стиль ссылки в случае, если text задан.
+|-
+|alt||Указать текст всплывающей подсказки
+|}
+<includeonly>
+<!-- Categories and interwikis go here: -->
+[[Категорий:Кышкар-влак:Москосо метрополитен]]
+</includeonly>
