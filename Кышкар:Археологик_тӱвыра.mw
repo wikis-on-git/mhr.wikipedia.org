@@ -1,0 +1,56 @@
+{{Аҥа
+ |кап_стиль        = width:330px;font-size:85%
+ |лӱм          = [[Археологик тӱвыра]]{{*}}{{{Географик регион|<noinclude>(Географик регион)</noinclude>}}}
+ |лӱм_стиль    = font-size:90%
+ |ӱмбалне            = {{{Лӱм|<noinclude>(Лӱм)</noinclude>}}}<br /><small>{{{Эпохо|<noinclude>(Эпохо)</noinclude>}}}</small> 
+ |стиль_ӱмбалне      = height:30px;background:LightGrey;vertical-align:middle
+ |сӱрет       = {{{Иллюстрирование|<noinclude>(файл-влак:изображение-коллаж)</noinclude>}}}
+ |сӱрет_стиль = border-bottom:1px solid DarkGray;border-top:1px solid DarkGray;border-right:1px solid DarkGray;border-left:1px solid DarkGray
+ |возымаш           = {{{Подпись к иллюстрации|<noinclude>(подпись к изображению)</noinclude>}}}
+ |возымаш_стиль     = font-size:90%
+ |вуймут_стиль  = background:LightGrey
+ |тамга_стиль       = background:LightGrey
+ |текст_стиль      = text-align:left
+
+ |тамга1            = В составе 
+ |текст1            = {{{В составе|<noinclude>(входит в состав культурной общности)</noinclude>}}} 
+
+ |тамга2            = Локализация 
+ |текст2            = {{{Территория распространения|<noinclude>(территория распространения)</noinclude>}}}  
+
+ |тамга3            = Типовой и другие памятники
+ |текст3            = {{{Основные памятники|<noinclude>(основные памятники)</noinclude>}}}
+
+ |тамга4            = Датировка
+ |текст4            = {{{Датировка культуры|<noinclude>(датировка культуры)</noinclude>}}}
+
+ |тамга5            = Носители 
+ |текст5            = {{{Этническая принадлежность|<noinclude>(этническая принадлежность)</noinclude>}}} 
+
+ |тамга6            = Тип хозяйства
+ |текст6            = {{{Тип хозяйства|<noinclude>(способы ведения хозяйства)</noinclude>}}}
+
+ |тамга7            = Исследователи 
+ |текст7            = {{{Основные исследователи|<noinclude>(основные исследователи)</noinclude>}}}
+
+ |текст8            =
+{{{!}} align="center"
+ {{!}}style="border-bottom:1px solid DarkGray;border-top:1px solid DarkGray;border-right:1px solid DarkGray;border-left:1px solid DarkGray" {{!}} {{#if:{{{Карта региона|}}} | [[Файл:{{{Карта региона}}}|312px]]}}<noinclude> (файл: карта региона)</noinclude>
+{{!}}}
+
+ |вуймут9        = Преемственность:
+
+ |текст10            =
+{{{!}} align="center"
+{{#if:{{{Культура-предшественница|}}}{{{Культура-преемница|<noinclude>1</noinclude>}}}|
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Культура-предшественница|<noinclude>(Культура-предшественница)</noinclude>}}}
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Культура-преемница|<noinclude>(Культура-преемница)</noinclude>}}}
+{{!-}}}}
+{{!}}}
+
+ |стиль_ӱлнӧ       = background:LightGrey 
+ |ӱлнӧ             = {{#if:{{{Викиклат|<noinclude>1</noinclude>}}} | [[Файл:Commons-logo.svg|10px]] [[:commons:Category:{{{Викиклат<noinclude>|1</noinclude>}}}|'''{{{Лӱм|<noinclude>(категорий)</noinclude>}}}''']] [[Викиклат]]ыште}}
+}}<noinclude>
+{{doc}}<!-- Пожалуйста, добавляйте категории и интервики на страницу документации! -->
+[[lt:Šablonas:Archeologinė kultūra]]
+</noinclude>
