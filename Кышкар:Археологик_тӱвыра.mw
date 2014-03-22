@@ -4,7 +4,7 @@
  |лӱм_стиль    = font-size:90%
  |ӱмбалне            = {{{Лӱм|<noinclude>(Лӱм)</noinclude>}}}<br /><small>{{{Эпохо|<noinclude>(Эпохо)</noinclude>}}}</small> 
  |стиль_ӱмбалне      = height:30px;background:LightGrey;vertical-align:middle
- |сӱрет       = {{{Иллюстрирование|<noinclude>(файл-влак:изображение-коллаж)</noinclude>}}}
+ |сӱрет       = {{{Иллюстрирование|<noinclude>(файл-влак:сӱрет-коллаж)</noinclude>}}}
  |сӱрет_стиль = border-bottom:1px solid DarkGray;border-top:1px solid DarkGray;border-right:1px solid DarkGray;border-left:1px solid DarkGray
  |возымаш           = {{{Подпись к иллюстрации|<noinclude>(подпись к изображению)</noinclude>}}}
  |возымаш_стиль     = font-size:90%
@@ -38,7 +38,7 @@
  {{!}}style="border-bottom:1px solid DarkGray;border-top:1px solid DarkGray;border-right:1px solid DarkGray;border-left:1px solid DarkGray" {{!}} {{#if:{{{Карта региона|}}} | [[Файл:{{{Карта региона}}}|312px]]}}<noinclude> (файл: карта региона)</noinclude>
 {{!}}}
 
- |вуймут9        = Преемственность:
+ |вуймут9        = Кусарымаш:
 
  |текст10            =
 {{{!}} align="center"
