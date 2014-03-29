@@ -121,6 +121,6 @@
   |NameSep = {{{author-name-separator|,}}}&#32;
   |Trunc = {{{display-authors|8}}}
   |amp = {{{lastauthoramp|}}}
-}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Category:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}<noinclude>
+}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Категорий:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}<noinclude>
 {{documentation}}
 </noinclude>
