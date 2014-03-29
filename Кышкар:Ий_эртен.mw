@@ -1,0 +1,10 @@
+<includeonly>{{#ifexpr:{{#expr:{{CURRENTMONTH}}-{{{2}}}}}>0
+|{{#expr:{{CURRENTYEAR}}-{{{3}}}}}
+|{{#ifexpr:{{#expr:{{CURRENTMONTH}}-{{{2}}}}}<0
+|{{#expr:{{CURRENTYEAR}}-{{{3}}}-1}}
+|{{#ifexpr:{{#expr:{{CURRENTDAY}}-{{{1}}}}}>=0
+|{{#expr:{{CURRENTYEAR}}-{{{3}}}}}
+|{{#expr:{{CURRENTYEAR}}-{{{3}}}-1}}
+}}}}}}</includeonly><noinclude>
+Шаблон '''<nowiki>{{Ий эртен|Кече|Тылзе|ий}}</nowiki>''' параметр дене палемдыме дате гыч кызытсе жап марте мыняр ий ончыкта. Параметр-влак — кече, тылзе да ий ([[Григориан календар]] почеш).
+[[Категорий:Википедий:Шаблон-влак:Дате да жап|{{PAGENAME}}]]</noinclude>
