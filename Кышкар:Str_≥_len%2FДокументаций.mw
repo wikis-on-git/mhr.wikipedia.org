@@ -80,7 +80,7 @@ Even though this is a string handling template it uses very efficient code. (Whi
 
 <includeonly>
 <!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
-[[Category:String manipulation templates|{{PAGENAME}}]]
+[[Категорий:String manipulation templates|{{PAGENAME}}]]
 
 [[be:Шаблон:Str ≥ len]]
 [[cv:Шаблон:Str ≥ len]]
