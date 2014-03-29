@@ -34,8 +34,8 @@ In addition to the output message, the template categorizes pages to [[:Category
 {{ Documentation/doc/see also }}
 <includeonly>
 <!-- categories and interwiki links -->
-[[Category:Template documentation| {{PAGENAME}}]]
-[[Category:Template namespace templates]]
+[[Категорий:Template documentation| {{PAGENAME}}]]
+[[Категорий:Template namespace templates]]
 
 [[ar:قالب:صفحة توثيق فرعية]]
 [[bg:Шаблон:Подстраница с документация]]
