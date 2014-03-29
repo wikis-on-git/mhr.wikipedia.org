@@ -1,0 +1,9 @@
+<noinclude>{{template navigation}}</noinclude>
+== Документаций ==
+Ты пашасе шаблон {{tl|doc}} кучылтмо годым шаблонын документацийжылан навигаций улеш. Тудым <tt>./doc</tt> ӱлыллаштыкыш
+&lt;noinclude><nowiki>{{template navigation}}</nowiki>&lt;/noinclude> семын пуртат.
+
+Кузе тудо коеш тиде шаблонын документацийым тӧрлатымаш годым ончаш лиеш.
+<noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
