@@ -1,0 +1,9 @@
+<includeonly>{{#switch: {{ #if: {{{size|}}} | 1 }}{{ #if: {{{width|}}} | 2 }}{{ #if: {{{height|}}} | 3 }}
+| 1 = {{#ifexist: Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | {{Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | size={{{size}}} }} | {{Шаблон:ПорталСӱр/Default|Портал={{{1|{{PAGENAME}}}}} | size={{{size}}} }} }}
+| 2 = {{#ifexist: Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | {{Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | width={{{width}}} | height=10000 }} | {{Шаблон:ПорталСӱр/Default|Портал={{{1|{{PAGENAME}}}}} | width={{{width}}} | height=10000 }} }}
+| 23 = {{#ifexist: Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | {{Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | width={{{width}}} | height={{{height}}} }} | {{Шаблон:ПорталСӱр/Default|Портал={{{1|{{PAGENAME}}}}} | width={{{width}}} | height={{{height}}} }} }}
+| 3 = {{#ifexist: Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | {{Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | width=1000 | height={{{height}}} }} | {{Шаблон:ПорталСӱр/Default|Портал={{{1|{{PAGENAME}}}}} | width=1000 | height={{{height}}} }} }}
+| {{#ifexist: Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | {{Шаблон:ПорталСӱр/{{{1|{{PAGENAME}}}}} | size=40 }} | {{Шаблон:ПорталСӱр/Default|Портал={{{1|{{PAGENAME}}}}} | size=40 }} }}
+}}</includeonly><noinclude>{{doc}}
+[[Категорий:Википедий:Шаблон-влак:Портал-влакын изисӱретышт|*1]]
+</noinclude>
