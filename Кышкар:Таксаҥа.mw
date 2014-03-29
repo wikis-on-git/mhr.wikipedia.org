@@ -345,7 +345,7 @@
 {{!}}-
 }}
 {{#if:{{{diversity|}}}|
-! colspan=2 style="text-align: center; background-color: {{{тӱс|{{{тӱс|#{{Таксаҥа тӱс|{{{кугыжаныш|{{{вирус_тӱшка|{{{рангдыме_пӧлка|{{{пӧлка}}} }}} }}} }}} }} }}} }}}" {{!}} [[{{{diversity_link}}}|Diversity]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Category:Articles using diversity taxobox]] | }}
+! colspan=2 style="text-align: center; background-color: {{{тӱс|{{{тӱс|#{{Таксаҥа тӱс|{{{кугыжаныш|{{{вирус_тӱшка|{{{рангдыме_пӧлка|{{{пӧлка}}} }}} }}} }}} }} }}} }}}" {{!}} [[{{{diversity_link}}}|Diversity]] {{#ifeq: {{NAMESPACEE}} | {{ns: 0}} | [[Категорий:Articles using diversity taxobox]] | }}
 {{!}}-
 {{!}} colspan=2 style="text-align: center" {{!}} {{{diversity|}}}
 {{!}}-
