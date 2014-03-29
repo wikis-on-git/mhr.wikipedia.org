@@ -1,0 +1,24 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+
+<nowiki>{{str_sub|</nowiki>''text''|''start''|''length''<nowiki>}}</nowiki> = Substring of ''text'' starting at ''start'' and containing ''length'' characters. Base 0: the first character is numbered 0, and so on, e.g. <nowiki>{{str_sub|20090624130510|8|2}}</nowiki> returns the 2 characters starting at the 9th, i.e. "{{str_sub|20090624130510|8|2}}"
+
+''start'' + ''length'' must be less than 50.  Only operates on a limited character set.
+
+
+=== See also ===
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+{{pp-template}}
+[[Категорий:String manipulation templates]]
+
+[[de:Vorlage:Str sub]]
+[[en:Template:Str sub]]
+[[id:Templat:Str sub]]
+[[arz:قالب:Str sub]]
+[[ja:Template:Str sub]]
+[[pt:Predefinição:Str sub]]
+</includeonly>
