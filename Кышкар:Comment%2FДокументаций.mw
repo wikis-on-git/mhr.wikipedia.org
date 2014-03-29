@@ -1,0 +1,17 @@
+<noinclude>{{template navigation}}</noinclude>Шаблон выделяет текст подчёркиванием и добавляет к нему всплывающую подсказку.
+
+
+Кучылтмашыже: <tt style="border:1px dotted gray; padding:2px 5px 2px 5px"><nowiki>{{comment|текст|подсказка}}</nowiki></tt>, 
+мутлан: <code><nowiki>{{comment|РФ|Россий Федераций}}</nowiki></code> &nbsp;→&nbsp; {{comment|РФ|Россий Федераций}}
+
+
+Ограничения:
+* В тексте подсказки не должно быть знака кавычек <code style="border:1px dotted gray; padding:1px">"</code>
+* Не стоит злоупотреблять длинными подсказками из-за ограничения на длину всплывающей подсказки в браузере Mozilla Firefox.
+* Если в параметрах шаблона есть знак <code style="border:1px dotted gray; padding:1px">=</code>, то (как и в любом другом шаблоне), приходится использовать явные номера параметров: <tt style="white-space:nowrap"><nowiki>{{comment|1=текст|2=подсказка}}</nowiki></tt>
+
+== Тыгак ончо ==
+* {{tl|abbr}}
+* {{tl|Шылтыме текст}}<noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
