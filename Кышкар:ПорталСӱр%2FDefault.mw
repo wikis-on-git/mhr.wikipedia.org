@@ -1,0 +1,2 @@
+<includeonly>[[File:Portal.svg|link=Портал:{{{Портал|}}}|{{ #ifexpr: (100 div {{{width|{{{size|40}}}}}} ) > (100 div {{{height|{{{size|40}}}}}}) | {{{width|{{{size|40}}}}}} | {{#expr: (100 div (100 div {{{width|{{{size|40}}}}}})) round 0 }} }}x{{ #ifexpr: (100 div {{{height|{{{size|40}}}}}}) > (100 div {{{width|{{{size|40}}}}}}) | {{{width|{{{size|40}}}}}} | {{#expr: (100 div (100 div {{{width|{{{size|40}}}}}})) round 0 }} }}px]]</includeonly><noinclude>{{ПорталСӱр/Документаций|Портал}}
+[[Категорий:Википедий:Шаблон-влак:Портал-влакын изисӱретышт|*2]]</noinclude>
