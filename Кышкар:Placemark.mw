@@ -1,0 +1,16 @@
+<includeonly>[[File:Placemark-globe.svg|15px|KML-ыш кылвер]]<span class="GoogleEarthPlacemark">&nbsp;&nbsp;{{{2}}}&nbsp;[http://maps.google.com/?q={{{1}}} Google Maps]&nbsp;&nbsp;[{{{1}}} KMZ]</span></includeonly><noinclude>
+== Шаблон кӱлешлыкше ==
+Этот шаблон предназначен для включения {{nobr|в Википедию}} ссылок {{nobr|на файлы}} {{nobr|1=в формате [[KML]]}} {{nobr|1=и (или) [[KMZ]],}} содержащие пометки ({{lang-en|placemarks}}), показываемые {{nobr|на высокоточной}} спутниковой фотокарте {{nobr|в программе}} {{nobr|1=[[Google Earth]].}}
+
+== Шаблоным кучылтмаш ==
+Шаблон принимает два параметра. Первым указывается {{nobr|1=[[URL]] файла,}} {{nobr|на который}} поведёт ссылка. Вторым указывается {{nobr|текст ссылки.}}
+
+Пример использования:
+
+ <nowiki>{{placemark|http://Mithgol.Ru/Earth/gelen.kmz|Геленджик и окрестности}}</nowiki>
+
+Результат использования:
+
+{{placemark|http://Mithgol.Ru/Earth/gelen.kmz|Геленджик и окрестности}}
+
+[[Категорий:Википедий:Шаблон-влак:Тӱжвал кылвер-влак|{{PAGENAME}}]]</noinclude>
