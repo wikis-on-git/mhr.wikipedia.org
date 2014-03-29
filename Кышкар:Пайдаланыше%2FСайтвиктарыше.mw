@@ -1,0 +1,6 @@
+{{ userbox
+| id   = [[Image:Admin mop.PNG|43x43px]]
+| info = {{#if:{{{RFA|}}}|[[{{{RFA}}}|Тиде пайдаланыше]]|Тиде пайдаланыше}} {{{1|[[Марий йылме|Марий википедиыйште]]}}} {{#if:{{{1|}}}|<span style="font-size:0.9em;" class="plainlinks">([{{fullurl:{{{lang_code|mhr}}}:Special:ListUsers|limit=1&username={{urlencode:{{{username|{{BASEPAGENAME}}}}}}}}} <span style="color:#5871C6;">тергаш{{#if:{{{lang_code|}}}|&nbsp;{{{lang_code}}}|}}</span>])</span>|<span style="font-size:0.9em;" class="plainlinks">([{{fullurl:Special:ListUsers|limit=1&username={{urlencode:{{{username|{{BASEPAGENAME}}}}}}}}} <span style="color:#5871C6;">тергаш</span>])</span>}} '''[[Википедий:Сайтвиктарыше-влак|сайтвиктарыше]]''' улеш.
+}}<includeonly>{{#if: {{{1|}}}||[[Категорий:Википедий сайтвиктарыше-влак|{{PAGENAME}}]]}}{{#ifeq: {{{recall|}}} |yes| [[Категорий:Wikipedia administrators open to recall|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>
