@@ -84,6 +84,6 @@
   |ArchiveDate={{{archivedate|}}}
   |OriginalURL={{{url|}}}|ArchiveURL={{{archiveurl|}}}
   |template doc demo={{{template doc demo|}}}
-}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Category:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}</includeonly><noinclude>
+}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Категорий:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}</includeonly><noinclude>
 {{Documentation}}
 </noinclude>
