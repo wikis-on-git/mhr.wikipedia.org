@@ -20,7 +20,7 @@
  |doi={{hide in print
        |{{#if:{{{input2|}}}
          |[[Digital object identifier|doi]]:{{{input1|}}} (inactive {{{input2|}}}) {{#ifeq: {{NAMESPACE}} | {{ns:0}}
-                   |[[Category:Pages with DOIs inactive since {{#time: Y | {{{input2|}}} }}]]
+                   |[[Категорий:Pages with DOIs inactive since {{#time: Y | {{{input2|}}} }}]]
                    |
                   }}
          |[[Digital object identifier|doi]]:[http://dx.doi.org/{{urlencode:{{{input1|}}}}} {{#tag:nowiki|{{{input1|}}}}}]
