@@ -41,7 +41,7 @@ This template calls {{tl|str len/core}} which does most of the work. For documen
 
 <includeonly>
 <!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
-[[Category:String manipulation templates|{{PAGENAME}}]]
+[[Категорий:String manipulation templates|{{PAGENAME}}]]
 
 [[ab:Ашаблон:Str len]]
 [[ar:قالب:Str len]]
