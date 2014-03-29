@@ -588,7 +588,7 @@
 }}{{
 <!--============  Archive data, etc ===========-->
 #if: {{{Archive|}}}
-|{{{Sep|,}}}&#32;{{{Archive}}}[[Category:Pages using deprecated citation archive parameters]]
+|{{{Sep|,}}}&#32;{{{Archive}}}[[Категорий:Pages using deprecated citation archive parameters]]
 |{{
   #if:{{{ArchiveURL|}}}{{{ArchiveDate|}}}
   |{{{Sep|,}}}&#32;{{#ifeq:{{{Sep}}}|.|A|a}}rchived{{
