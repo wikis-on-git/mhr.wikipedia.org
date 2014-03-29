@@ -164,6 +164,6 @@
   |Trunc = {{#if:{{{display-authors|}}}|{{{display-authors}}}|8}}
   |ArchiveURL= {{{archiveurl|}}}
   |OriginalURL = {{{url|}}}|ArchiveDate= {{{archivedate|}}}
-}}}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Category:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}</includeonly><noinclude>
+}}}}{{#if:{{{accessdaymonth|}}}{{{accessmonthday|}}}{{{accessday|}}}{{{accessmonth|}}}{{{accessyear|}}}{{{day|}}}{{{access-date|}}}{{{dateformat|}}}|[[Категорий:Pages containing cite templates with deprecated parameters|{{NAMESPACE}} {{PAGENAME}}]]}}</includeonly><noinclude>
 {{Documentation}}
 </noinclude>
