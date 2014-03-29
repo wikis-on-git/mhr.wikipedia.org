@@ -1,0 +1,47 @@
+<noinclude>{{template navigation}}</noinclude>
+Шаблон лаштыкым кок кече деч утларак кучен ок керт. Тыланда пашадалан утларак жап кӱлеш гын, тудым тендан  [[Служебная:Mypage/Модмо вер|лӱмал вер]]ыш копийым ышташ темлыме.
+
+== Кучылтмаш тевык ==
+<nowiki>
+ {{Тӧрлатем|~~~~|</nowiki>{{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}} {{CURRENTYEAR}}<nowiki>}}
+</nowiki>
+
+{{Тӧрлатем|[[User:Box]]|{{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}} {{CURRENTYEAR}}|nocat=1}}
+
+Але тыге:
+<pre>
+{{subst:L}}
+</pre>
+
+== Тыгак ончо ==
+* [[Шаблон:Ужашым тӧрлатем]]
+
+[[an:Plantilla:Endesarrollo]]
+[[ar:قالب:قيد الاستخدام]]
+[[ca:Plantilla:Editant]]
+[[cs:Šablona:Pracuje se]]
+[[da:Skabelon:IBrug]]
+[[de:Vorlage:Inuse]]
+[[dsb:Pśedłoga:Bu wobźěłany]]
+[[en:Template:Inuse]]
+[[eo:Ŝablono:Redaktas]]
+[[es:Plantilla:En uso]]
+[[eu:Txantiloi:Lanean]]
+[[fr:Modèle:En cours]]
+[[ia:Patrono:Inuse]]
+[[it:Template:WIP]]
+[[he:תבנית:בעבודה]]
+[[hsb:Předłoha:Bu wobdźěłany]]
+[[ja:Template:工事中]]
+[[pl:Szablon:WEdycji]]
+[[pt:Predefinição:Em edição]]
+[[ro:Format:Dezvoltare]]
+[[ru:Шаблон:Редактирую/doc]]
+[[sq:Stampa:Inuse]]
+[[sv:Mall:Pågår]]
+[[uk:Шаблон:Edited]]
+[[vi:Tiêu bản:Đang sửa đổi]]
+[[zh:Template:Inuse]]
+[[zh-yue:Template:Inuse]]<noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
