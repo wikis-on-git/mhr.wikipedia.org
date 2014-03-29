@@ -17,9 +17,9 @@
 |Тыглай версий чакныш-влак дене кӱчыкын ӱмбалан возен шындыме текст деч посна ''Шаблон:''<br><code><nowiki>{{Tnavbar|Шаблонын лӱмжӧ|plain=1|nodiv=1}}</nowiki></code> || → ||{{Tnavbar|Tnavbar|plain=1|nodiv=1}}
 |-
 |}<noinclude>
-[[Category:Шаблон-влак:Документаций|{{PAGENAME}}]]
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
 </noinclude>
-<includeonly>[[Category:Шаблон-влак:Шаблон-влаклан|{{PAGENAME}}]]
+<includeonly>[[Категорий:Шаблон-влак:Шаблон-влаклан|{{PAGENAME}}]]
 
 [[ang:Template:Tnavbar-mini-nodiv]]
 [[ar:قالب:Tnavbar]]
