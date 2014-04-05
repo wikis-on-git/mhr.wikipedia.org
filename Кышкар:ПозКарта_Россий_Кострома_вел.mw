@@ -1,0 +1,11 @@
+{{#switch:{{{1}}}
+|name = Кострома вел
+|type=custom
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Kostroma Oblast.png
+ |#default = Outline Map of Kostroma Oblast.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Кострома вел]]
+
+</noinclude>
