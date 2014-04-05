@@ -1,5 +1,5 @@
 {{#switch:{{{1}}}
-|name = Россия
+|name = Россий
 |type = custom
 |image = {{#switch:{{{2|}}}
  |physical = Russia edcp relief location map.jpg
