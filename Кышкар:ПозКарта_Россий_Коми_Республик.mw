@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Коми Республик
+| top    = 68.70
+| bottom = 58.90
+| left   = 44.90
+| right  = 66.70
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Komi Republic.png
+ |#default = Outline Map of Komi Republic.png
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Коми]]
+
+</noinclude>
