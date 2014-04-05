@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Крым
+|top    = 46.3
+|bottom = 44.2
+|left   = 32.4
+|right  = 36.8
+|image  = {{#switch:{{{2|}}}
+ |physical = Relief map of Crimea.jpg
+ |#default = Outline Map of Crimea.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Крым]]
+</noinclude>
