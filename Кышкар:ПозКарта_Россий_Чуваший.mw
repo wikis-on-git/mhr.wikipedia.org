@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Чуваший
+| top    = 56.35
+| bottom = 54.60
+| left   = 45.88
+| right  = 48.50
+| image = {{#switch:{{{2|}}}
+ |physical = Relief-Chuvashiya.png
+ |#default = Outline-Chuvashiya.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Чуваший]]
+
+</noinclude>
