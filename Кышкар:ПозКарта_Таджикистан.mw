@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Таджикистан
+|top    = 41.3
+|bottom = 36.4
+|left   = 67.1
+|right  = 75.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Tajikistan.png
+ |#default = Tajikistan location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Таджикистан}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Таджикистан]]
+
+</noinclude>
