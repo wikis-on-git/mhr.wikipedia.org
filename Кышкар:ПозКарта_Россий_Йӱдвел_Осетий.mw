@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Йӱдвел Осетий
+|top = 43.9
+|bottom = 42.5
+|left = 43.3
+|right = 45.1
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of North Ossetia.png
+ |#default = Outline Map of North Ossetia.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Йӱдвел Осетий]]
+[[Категорий:Кышкар-влак:Йӱдвел Осетий]]
+</noinclude>
