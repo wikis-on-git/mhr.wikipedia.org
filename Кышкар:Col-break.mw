@@ -1,0 +1,4 @@
+<includeonly>
+| {{#if:{{{width|}}}{{{align|}}}{{{valign|}}}{{{gap|}}}|style="{{#if:{{{width|}}}|width:{{{width}}};}} {{#if:{{{align|}}}|text-align:{{{align}}};}} {{#if:{{{valign|}}}|vertical-align:{{{valign}}};}} {{#if:{{{gap|}}}|padding-left:{{{gap}}};}}" {{!}}}}</includeonly><noinclude>{{doc}}
+[[Категорий:Кышкар-влак:Колонки|{{PAGENAME}}]]
+</noinclude>
