@@ -42,9 +42,9 @@
 
  |текст10            =
 {{{!}} align="center"
-{{#if:{{{Кугезе-тӱвыра|}}}{{{Алмашташ-тӱвыра|<noinclude>1</noinclude>}}}|
- {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Кугезе-тӱвыра|<noinclude>(Кугезе-тӱвыра)</noinclude>}}}
- {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Алмашташ-тӱвыра|<noinclude>(Алмашташ-тӱвыра)</noinclude>}}}
+{{#if:{{{Кугезе тӱвыра|}}}{{{Алмашташ тӱвыра|<noinclude>1</noinclude>}}}|
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Кугезе тӱвыра|<noinclude>(Кугезе тӱвыра)</noinclude>}}}
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Алмашташ тӱвыра|<noinclude>(Алмашташ тӱвыра)</noinclude>}}}
 {{!-}}}}
 {{!}}}
 
