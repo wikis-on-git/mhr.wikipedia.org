@@ -61,11 +61,11 @@
 | <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo}}</nowiki></tt>
 | {{ {{BASEPAGENAME}} | www.example.com/foo }}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | http://www.example.com/foo | ссылка }}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo | кылвер }}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | www.example.com/foo | ссылка}}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo | кылвер}}
 |-
 | <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/}}</nowiki></tt>
 | {{ {{BASEPAGENAME}} | http://www.example.com/foo/ }}
@@ -73,20 +73,20 @@
 | <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/}}</nowiki></tt>
 | {{ {{BASEPAGENAME}} | www.example.com/foo/ }}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | http://www.example.com/foo/ | ссылка }}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/ | кылвер }}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | www.example.com/foo/ | ссылка}}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/ | кылвер}}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/bar|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | www.example.com/foo/bar | ссылка}}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/bar|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/bar | кылвер}}
 |-
 | <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/?a}}</nowiki></tt>
 | {{ {{BASEPAGENAME}} | http://www.example.com/foo/?a }}
 |-
-| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/?a|ссылка}}</nowiki></tt>
-| {{ {{BASEPAGENAME}} | http://www.example.com/foo/?a | ссылка}}
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/?a|кылвер}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/?a | кылвер}}
 |}
 
 <includeonly>
