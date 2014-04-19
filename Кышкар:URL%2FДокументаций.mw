@@ -1,0 +1,94 @@
+<noinclude>{{docpage}}</noinclude>
+{{OnLua|URL|formatUrl}}
+
+Данный шаблон используется для однотипного создания форматированных внешних ссылок.
+
+== Использование ==
+
+=== Описание вариантов использования ===
+:* <code><nowiki>{{URL|</nowiki>1=''полный адрес (url)''<nowiki>|</nowiki>2=''необязательное описание''<nowiki>}}</nowiki></code>
+:** Вначале проверяется указан ли адрес (url), является ли он полным адресом и содержит ли [[URI|схему URI]] («http:/» or «https:/» or «ftp:/»). Производится подготовка для создания описания, если оно явно не указано.
+:** Если описание отсутствует, будет отображён переведённый в нижний регистр адрес без [[URI|схемы URI]], «www» и завершающего слэша.
+:* <code><nowiki>{{URL|</nowiki>2=''описание''<nowiki>}}</nowiki></code>
+:** Если адрес (url) не указан шаблон выведет описание без изменений.
+:* <code><nowiki>{{URL}}</nowiki></code>
+:** Если оба параметра не указаны или указаны ошибочно, будет сгенерирован адрес по умолчанию, содержащий ссылку на эту страницу.
+
+=== Ограничения ===
+Данный шаблон не может сформировать корректную ссылку в случае наличия в адресе (url) знаков равенства — ''='' и решётки — ''#''. Используйте для указания таких адресов обычные средства.
+
+=== Примеры ===
+{|class="wikitable"
+|-
+! Код !! Результат
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|EXAMPLE.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | EXAMPLE.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|https://www.example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | https://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|ftp://www.example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | ftp://www.example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|ftp://ftp.example.com}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | ftp://ftp.example.com }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/ }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://sub.example.com/foo/bar}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://sub.example.com/foo/bar }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo | ссылка }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo | ссылка}}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/ }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/ }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/ | ссылка }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/ | ссылка}}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|www.example.com/foo/bar|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | www.example.com/foo/bar | ссылка}}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/?a}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/?a }}
+|-
+| <tt><nowiki>{{</nowiki>{{BASEPAGENAME}}<nowiki>|http://www.example.com/foo/?a|ссылка}}</nowiki></tt>
+| {{ {{BASEPAGENAME}} | http://www.example.com/foo/?a | ссылка}}
+|}
+
+<includeonly>
+[[Категорий:Кышкар-влак:Внешние ссылки]]
+</includeonly>
