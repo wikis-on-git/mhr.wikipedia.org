@@ -16,7 +16,7 @@
  |текст1            = {{{В составе|<noinclude>(входит в состав культурной общности)</noinclude>}}} 
 
  |тамга2            = Верланымаш 
- |текст2            = {{{Территория распространения|<noinclude>(территория распространения)</noinclude>}}}  
+ |текст2            = {{{Верланымаш|<noinclude>(верланымаш)</noinclude>}}}  
 
  |тамга3            = Типовой и другие памятники
  |текст3            = {{{Основные памятники|<noinclude>(основные памятники)</noinclude>}}}
@@ -42,9 +42,9 @@
 
  |текст10            =
 {{{!}} align="center"
-{{#if:{{{Культура-предшественница|}}}{{{Культура-преемница|<noinclude>1</noinclude>}}}|
- {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Культура-предшественница|<noinclude>(Культура-предшественница)</noinclude>}}}
- {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Культура-преемница|<noinclude>(Культура-преемница)</noinclude>}}}
+{{#if:{{{Кугезе-тӱвыра|}}}{{{Алмашташ-тӱвыра|<noinclude>1</noinclude>}}}|
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Кугезе-тӱвыра|<noinclude>(Кугезе-тӱвыра)</noinclude>}}}
+ {{!}}width="163px" align="center" style="vertical-align:middle"{{!}} {{{Алмашташ-тӱвыра|<noinclude>(Алмашташ-тӱвыра)</noinclude>}}}
 {{!-}}}}
 {{!}}}
 
