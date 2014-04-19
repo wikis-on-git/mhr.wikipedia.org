@@ -4,9 +4,9 @@
  |лӱм_стиль    = font-size:90%
  |ӱмбалне            = {{{Лӱм|<noinclude>(Лӱм)</noinclude>}}}<br /><small>{{{Эпохо|<noinclude>(Эпохо)</noinclude>}}}</small> 
  |стиль_ӱмбалне      = height:30px;background:LightGrey;vertical-align:middle
- |сӱрет       = {{{Иллюстрирование|<noinclude>(файл-влак:сӱрет-коллаж)</noinclude>}}}
+ |сӱрет       = {{{Сӱретлымаш|<noinclude>(файл-влак:сӱрет-коллаж)</noinclude>}}}
  |сӱрет_стиль = border-bottom:1px solid DarkGray;border-top:1px solid DarkGray;border-right:1px solid DarkGray;border-left:1px solid DarkGray
- |возымаш           = {{{Подпись к иллюстрации|<noinclude>(подпись к изображению)</noinclude>}}}
+ |возымаш           = {{{Сӱретлан возымаш|<noinclude>(сӱретлан возымаш)</noinclude>}}}
  |возымаш_стиль     = font-size:90%
  |вуймут_стиль  = background:LightGrey
  |тамга_стиль       = background:LightGrey
