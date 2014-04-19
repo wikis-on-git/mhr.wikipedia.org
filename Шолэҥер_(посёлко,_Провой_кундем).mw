@@ -5,9 +5,9 @@
  |руш лӱм         = Шелангер
  |ойып                     = 
  |тисте                     = 
-  |lat_deg = |lat_min = |lat_sec =
-  |lon_deg = |lon_min = |lon_sec =
-  |CoordAddon = type:city(3330)_region:RU
+  |lat_deg =56 |lat_min =13 |lat_sec =19
+  |lon_deg =48 |lon_min =15 |lon_sec =04
+  |CoordAddon = type:city(3200)_region:RU
   |CoordScale = 20000
  |ЯндексКарта              = 
  |регион                   = Марий Эл
@@ -24,7 +24,7 @@
  |статусым налме                 = 
  |кумдык                  = 
  |ИВ рӱдын кӱкшытшӧ         = 
-  |калыкчот               = {{Шагалеммаш}} ???
+  |калыкчот               = {{Шагалеммаш}} 3200
   |еҥшотлымаш ий            = 2010
   |чаклык               = 
   |агломераций             = 
