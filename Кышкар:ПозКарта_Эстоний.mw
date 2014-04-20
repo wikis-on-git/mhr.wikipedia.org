@@ -1,0 +1,18 @@
+{{#switch:{{{1}}}
+|name   = Эстоний
+| top    = 60.4
+| bottom = 57.2
+| left   = 21.5
+| right  = 28.4
+| image= {{#switch:{{{2|}}}
+ |physical = Estonia location map.svg
+ |#default = Estonia location map.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |physical = {{Кышкар:ПозКарта Эстоний/adm}}
+ |#default = {{Кышкар:ПозКарта Эстоний/adm}}
+}}
+}}<noinclude>{{ПозКарта/Инфо|Эстоний}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Эстоний]]
+
+</noinclude>
