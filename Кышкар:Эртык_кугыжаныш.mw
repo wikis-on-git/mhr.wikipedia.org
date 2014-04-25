@@ -47,7 +47,7 @@
 }}
  |-
 {{#if: {{{карте|<noinclude>-</noinclude>}}} |
-{{!}} align="center" style="border: solid darkgray; border-width:1px 0px" colspan="2" {{!}} Файл:{{{карте|<noinclude>Missing map.png</noinclude>}}}|{{{лопкыт|270px}}}{{#if: {{{возымаш|}}}|<br /><small>{{{возымаш}}}</small>}}
+{{!}} align="center" style="border: solid darkgray; border-width:1px 0px" colspan="2" {{!}} [[Файл:{{{карте|<noinclude>Missing map.png</noinclude>}}}|{{{лопкыт|270px}}}]]{{#if: {{{возымаш|}}}|<br /><small>{{{возымаш}}}</small>}}
 }}
 |-
 {{#if: {{{рӱдола|<noinclude>-</noinclude>}}} |
