@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Пермь мланде
+|top    = 62
+|bottom = 56
+|left   = 51
+|right  = 60
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Perm Krai.svg
+ |#default = Outline Map of Perm Krai.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Пермь мланде| ]]
+</noinclude>
