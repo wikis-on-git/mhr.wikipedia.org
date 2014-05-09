@@ -26,10 +26,10 @@
     {{!}}}
 }}
 
-<!----- Коды и символы ----->
+<!----- Код-влак да ӱжвата-влак ----->
 |-
-{{#if: {{{ISO|}}}{{{Символ|}}}{{{Аббревиатура|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Коды и символы'''
+{{#if: {{{ISO|}}}{{{Ӱжвата|}}}{{{Аббревиатура|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Код-влак да ӱжвата-влак'''
 }}
 |-
 {{#if: {{{ISO|}}} |
@@ -37,9 +37,9 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{ISO}}} {{#if: {{{ISO цифровой|}}}|({{{ISO цифровой}}})}}
 }}
 |-
-{{#if: {{{Символ|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Символы]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Символ}}}
+{{#if: {{{Ӱжвата|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Ӱжвата-влак]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ӱжвата}}}
 }}
 |-
 {{#if: {{{Аббревиатуро|}}} |
@@ -244,9 +244,9 @@
 {{#if: {{{Курс1|}}}{{{Курс2|}}}{{{Курс3|}}}{{{Курс4|}}}{{{Курс5|}}} | |
 {{#if: {{Валютный курс|{{{ISO|}}}|{{{ISO|}}}}}{{Валютный курс|{{{Обозначение|}}}|{{{Обозначение|}}}}} |
 {{!}}-
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|Дата}}|{{Валютный курс|{{{ISO|}}}|Дата}} }} года'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|Дате}}|{{Валютный курс|{{{ISO|}}}|Дате}} }} года'''
 {{!}}-
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Российский рубль|RUB]]
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Российысе теҥге|RUB]]
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|RUB}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|RUB}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Доллар США|USD]]
@@ -272,7 +272,7 @@
 <!----- Вывод примечания об автоматическом обновлении курса ----->
 |-
 {{#if: {{{ISO|}}} |
-{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} <small>Курсы [[Шаблон:Валютный курс|обновляются автоматически]] на основе данных [[Международный валютный фонд|МВФ]], [[Европейский центральный банк|ЕЦБ]] и [[Центральный банк Российской Федерации|ЦБ РФ]]. Официальные и рыночные курсы см. в разделе «[[{{PAGENAME}}#Режим валютного курса|Режим валютного курса]]».</small>
+{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} <small>Курсы [[Кышкар:Валютный курс|обновляются автоматически]] на основе данных [[Международный валютный фонд|МВФ]], [[Европысо рӱдӧ банк|ЕРБ]] и [[Россий Федерацийысе рӱдӧ банк|РФ РБ]]. Официальные и рыночные курсы см. в разделе «[[{{PAGENAME}}#Режим валютного курса|Режим валютного курса]]».</small>
 }}
 
 <!----- Инфляций ----->
