@@ -124,20 +124,20 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Параллельная3}}} 
 }}
 
-<!----- Монеты и банкноты в обращении ----->
+<!----- Коштмо тыртыш-влак да кагаз окса-влак ----->
 |-
-{{#if: {{{Монеты|}}}{{{Банкноты|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Монеты и банкноты в обращении'''
+{{#if: {{{Тыртыш-влак|}}}{{{Кагаз окса-влак|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Коштмо тыртыш-влак да кагаз окса-влак'''
 }}
 |-
-{{#if: {{{Монеты|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Монета|Монеты]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монеты}}}
+{{#if: {{{Тыртыш-влак|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Тыртыш (окса)|Тыртыш-влак]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Тыртыш-влак}}}
 }}
 |-
-{{#if: {{{Банкноты|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Банкнота|Банкноты]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Банкноты}}}
+{{#if: {{{Кагаз окса-влак|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Кагаз окса|Кагаз окса-влак]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Кагаз окса-влак}}}
 }}
 
 <!----- Эртымгорно ----->
@@ -161,20 +161,20 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Хроника}}}
 }}
 
-<!----- Производство монет и банкнот ----->
+<!----- Тыртышым да кагаз оксам лукмаш ----->
 |-
-{{#if: {{{Центробанк|}}}{{{Печатает|}}}{{{Монетный_двор|}}}{{{Монетный_двор2|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производство монет и банкнот'''
+{{#if: {{{Рӱдӧ банк|}}}{{{Печатает|}}}{{{Тыртыш_кудывече|}}}{{{Тыртыш_кудывече2|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Тыртышым да кагаз оксам лукмаш'''
 }}
 |-
-{{#if: {{{Центробанк|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[{{{Центробанк заглавие|Эмиссионный центр}}}]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Центробанк}}}
+{{#if: {{{Рӱдӧ банк|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[{{{Рӱдӧ банк заглавие|Эмиссий рӱдӧ}}}]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Рӱдӧ банк}}}
 }}
 |-
-{{#if: {{{Центробанк_сайт|}}} |
+{{#if: {{{Рӱдӧ банк_сайт|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Центробанк_сайт}}} {{{Центробанк_сайт}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Рӱдӧ банк_сайт}}} {{{Рӱдӧ банк_сайт}}}]
 }}
 |-
 {{#if: {{{Печатает|}}} |
@@ -187,24 +187,24 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Печатает_сайт}}} {{{Печатает_сайт}}}]
 }}
 |-
-{{#if: {{{Монетный_двор|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Монетный двор]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор}}}
+{{#if: {{{Тыртыш_кудывече|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Тыртыш кудывече]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Тыртыш_кудывече}}}
 }}
 |-
-{{#if: {{{Монетный_двор_сайт|}}} |
+{{#if: {{{Тыртыш_кудывече_сайт|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт}}} {{{Монетный_двор_сайт}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Тыртыш_кудывече_сайт}}} {{{Тыртыш_кудывече_сайт}}}]
 }}
 |-
-{{#if: {{{Монетный_двор2|}}} |
+{{#if: {{{Тыртыш_кудывече2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор2}}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Тыртыш_кудывече2}}}
 }}
 |-
-{{#if: {{{Монетный_двор_сайт2|}}} |
+{{#if: {{{Тыртыш_кудывече_сайт2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт2}}} {{{Монетный_двор_сайт2}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Тыртыш_кудывече_сайт2}}} {{{Тыртыш_кудывече_сайт2}}}]
 }}
 
 <!----- Курс для ручного ввода по пяти заданным валютам ----->
