@@ -1,3 +1,3 @@
-<includeonly>{{#ifeq:{{{2}}}|plain|{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым| {{#time: xrU | 1970-1-1 + м. э. деч ончычсо {{#expr: 1 - {{{1}}} }} second}} курым}}|[[{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым | {{#time: xrU | 1970-1-1 + м. э. деч ончычсо {{#expr: 1 - {{{1}}} }} second}} курым}}]]}}</includeonly><noinclude>{{doc}}
+<includeonly>{{#ifeq:{{{2}}}|plain|{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым| {{#time: xrU | 1970-1-1 + {{#expr: 1 - {{{1}}} }} second}} курым м.э.д.о.}}|[[{{#ifexpr: {{{1}}} > 0 | {{#time: xrU | 1970-1-1 + {{{1}}} second}} курым | {{#time: xrU | 1970-1-1 + {{#expr: 1 - {{{1}}} }} second}} курым м.э.д.о.}}]]}}</includeonly><noinclude>{{doc}}
 [[Категорий:Шаблон-влак|{{PAGENAME}}]]
 </noinclude>
