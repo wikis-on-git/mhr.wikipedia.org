@@ -1,0 +1,44 @@
+<noinclude>{{docpage}}</noinclude>
+Шаблон используется для показа значения переменных NUMBEROFARTICLES, NUMBEROFPAGES, NUMBEROFEDITS, NUMBEROFUSERS, NUMBEROFACTIVEUSERS, NUMBEROFADMINS и NUMBEROFFILES в других языковых разделах википедии.
+
+=== Использование ===
+Используется 3 параметра (третий параметр является опциональным):
+* '''Первый параметр (lang):''' en, de, fr… (276 языковых разделов).
+* '''Второй параметр (variable):''' ARTICLES, PAGES, EDITS, USERS, ACTIVEUSERS, ADMINS или FILES.
+* Третий параметр (format): если параметр имеет значение N, то выдаётся число сгруппированное как три числа, иначе выдаётся обычное число в сыром формате, что позволяет использовать их в математических операциях с помощью parserFunctions.
+
+Например, чтобы показать число статей во [[Французская Википедия|французской Википедии]] в сыром формате:
+<code><nowiki>{{NUMBEROF|ARTICLES|fr}}</nowiki></code> → {{NUMBEROF|ARTICLES|fr}}.
+
+Шаблон также имеет параметр «total», который показывает полное значение указанной величины: <code><nowiki>{{NUMBEROF|ADMINS|total|N}}</nowiki></code> → {{NUMBEROF|ADMINS|total|N}}.
+
+См. также примеры использования в [[:Шаблон:Крупнейшие разделы Википедии]] и [[Обсуждение шаблона:NUMBEROF]].
+
+Таблица текущих величин обновляется автоматически раз в сутки с помощью скипта [[w:es:Usuario:Bigsus-bot/Variables.py|script]].
+
+<includeonly>
+
+[[Категория:Шаблоны:Форматирование]]
+[[af:Sjabloon:NUMBEROF]]
+[[az:Şablon:NUMBEROF]]
+[[ba:Ҡалып:NUMBEROF]]
+[[be:Шаблон:NUMBEROF]]
+[[ca:Plantilla:Variables]]
+[[en:Template:NUMBEROF]]
+[[eo:Ŝablono:Nombro da]]
+[[es:Plantilla:Variables]]
+[[it:Template:Dati Wikipedie]]
+[[ja:Template:NUMBEROF]]
+[[ka:თარგი:NUMBEROF]]
+[[kk:Үлгі:NUMBEROF]]
+[[lad:Xablón:Variables]]
+[[ro:Format:NUMBEROF]]
+[[tr:Şablon:Viki istatistikleri]]
+[[tt:Калып:NUMBEROF]]
+[[uk:Шаблон:NUMBEROF]]
+[[uz:Andoza:NUMBEROF]]
+[[vep:Šablon:NUMBEROF]]
+[[vi:Bản mẫu:NUMBEROF]]
+[[xmf:თარგი:NUMBEROF]]
+[[zh:Template:NUMBEROF]]
+</includeonly>
