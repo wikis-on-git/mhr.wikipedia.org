@@ -5,10 +5,10 @@
 {{#ifexpr: {{PAGENAME}}<2001 |{{!}} {{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+2}} }} |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<1901 |{{!}} [[{{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+3}}|plain}}|►]] |&nbsp; }}<!--
 --><br />
-[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<40 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-30)*(-1)+0}} м. э. деч ончычсо ийла|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-40}} ийла}}|◄]] |
-[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<30 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-20)*(-1)+0}} м. э. деч ончычсо ийла|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-30}} ийла}}]] |
-[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<20 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-10)*(-1)+0}} м. э. деч ончычсо ийла|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-20}} ийла}}]] |
-[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<10 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10)*(-1)+0}} м. э. деч ончычсо ийла|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-10}} ийла}}]] |
+[[м. э. деч ончычсо ийла{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<40 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-30)*(-1)+0}}|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-40}} ийла}}|◄]] |
+[[м. э. деч ончычсо ийла{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<30 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-20)*(-1)+0}}|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-30}} ийла}}]] |
+[[м. э. деч ончычсо ийла{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<20 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-10)*(-1)+0}}|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-20}} ийла}}]] |
+[[м. э. деч ончычсо ийла{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<10 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10)*(-1)+0}}|{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-10}} ийла}}]] |
 '''[[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10}} ийла]]'''
 {{#ifexpr: {{PAGENAME}}<2010 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+10}} ийла]] |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<2000 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+20}} ийла]] |&nbsp; }}
