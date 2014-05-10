@@ -1,0 +1,23 @@
+Тыгак [[:ru:Шаблон:Век]]
+
+{| class="wikitable"
+! Код
+! Лектыш
+! Код
+! Лектыш
+|-
+| <nowiki>{{Курым|21}}</nowiki> || {{Курым|21}} || <nowiki>{{Курым|21|plain}}</nowiki> || {{Курым|21|plain}} 
+|-
+| <nowiki>{{Курым|19}}</nowiki> || {{Курым|19}}|| <nowiki>{{Курым|19|plain}}</nowiki> || {{Курым|19|plain}} 
+|-
+| <nowiki>{{Курым|4}}</nowiki> || {{Курым|4}}|| <nowiki>{{Курым|4|plain}}</nowiki> || {{Курым|4|plain}} 
+|-
+| <nowiki>{{Курым|1}}</nowiki> || {{Курым|1}}|| <nowiki>{{Курым|1|plain}}</nowiki> || {{Курым|1|plain}} 
+|-
+| <nowiki>{{Курым|0}}</nowiki> || {{Курым|0}}|| <nowiki>{{Курым|0|plain}}</nowiki> || {{Курым|0|plain}} 
+|-
+| <nowiki>{{Курым|-1}}</nowiki> || {{Курым|-1}}|| <nowiki>{{Курым|-1|plain}}</nowiki> || {{Курым|-1|plain}} 
+|-
+| <nowiki>{{Курым|-8}}</nowiki> || {{Курым|-8}}|| <nowiki>{{Курым|-8|plain}}</nowiki> || {{Курым|-8|plain}} 
+|-
+|}
