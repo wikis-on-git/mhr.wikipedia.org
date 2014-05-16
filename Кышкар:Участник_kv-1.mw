@@ -1,0 +1,30 @@
+{{Участник-*-1
+|lang=kv
+|name=коми кыв
+|level=1
+|info=Тайӧ вӧлысь '''[[:Категория:Участник kv-1|гӧгӧрволӧ неуна]]''' '''[[:Категория:Участник kv|Комиӧн]]''' (гижӧдъяс кывчукӧркӧд али прӧстӧй юалӧмъяс).
+|float={{{float|left}}}
+|border-width={{{border-width|{{{border-s|1}}}}}}
+|logo-width={{{logo-width|{{{id-w|45}}}}}}
+|logo-height={{{logo-height|{{{id-h|45}}}}}}
+|logo-size={{{font-size|{{{logo-size|{{{id-s|14}}}}}}}}}
+|logo-color={{{logo-color|{{{id-fc|black}}}}}}
+|logo-padding={{{logo-padding|{{{id-p|1px}}}}}}
+|logo-line-height={{{logo-line-height|{{{id-lh|1.25em}}}}}}
+|logo-other-param={{{logo-other-param|{{{id-op|}}}}}}
+|info-size={{{info-size|{{{info-s|8}}}}}}
+|info-padding={{{info-padding|{{{info-p|4px}}}}}}
+|info-line-height={{{info-line-height|{{{info-lh|1.25em}}}}}}
+|info-color={{{info-color|{{{info-fc|black}}}}}}
+|info-other-param={{{info-other-param|{{{info-op|}}}}}}
+}}<includeonly>{{#if:{{{без-Категорий|}}}||
+{{Участник-Категорий|kv|1}}
+}}</includeonly>
+<noinclude>
+
+[[Категорий:Шаблонъяс]]
+
+[[en:Template:User kv-1]]
+[[kv:Шаблон:User kv-1]]
+[[ru:Шаблон:user kv-1]]
+</noinclude>
