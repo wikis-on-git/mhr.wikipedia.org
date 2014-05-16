@@ -1,0 +1,13 @@
+<div style="margin: 0 0 1em 1em; border: solid #aaa 1px; background: #f9f9f9; padding: 1ex; font-size: 90%;" class="tright portal portal-box" id="portal-box">
+{| style="background: transparent;" width={{{boxsize|{{{4|0}}}}}}
+|<div style="position: relative; width: 36px; height: 32px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2">{{#if:{{{image|}}}{{{2|}}}|[[Image:{{{image|{{{2}}}}}}|{{{size|{{{3|36}}}}}}x32px|Portal:{{{name|{{{1|{{PAGENAME}}}}}}}}]]|{{ПорталСӱр|{{{name|{{{1|{{PAGENAME}}}}}}}}|width={{{size|{{{3|36}}}}}}|height=32}}}}</div>
+</div>
+||Википедийыште <br/> '''''[[Портал:{{{name|{{{1|{{PAGENAME}}}}}}}}|«{{{name|{{{1|{{PAGENAME}}}}}}}}» портал уло]]'''''
+|}
+</div><noinclude>
+{{doc}}
+
+[[Категорий:Википедий:Кышкар-влак|Портал]]
+
+</noinclude>
