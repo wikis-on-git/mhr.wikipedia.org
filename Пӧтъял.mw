@@ -4,8 +4,8 @@
  |руш лӱм         = Петъял
  |ойып                     = 
  |тисте                     = 
-  |lat_deg = |lat_min = |lat_sec = 
-  |lon_deg = |lon_min = |lon_sec = 
+  |lat_deg = 56 |lat_min = 01 |lat_sec = 04
+  |lon_deg = 48 |lon_min = 36 |lon_sec = 30
   |CoordAddon = type:city(326)_region:RU
   |CoordScale = 20000
  |ЯндексКарта              = 
