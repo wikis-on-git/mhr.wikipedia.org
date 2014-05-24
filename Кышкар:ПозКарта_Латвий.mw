@@ -1,0 +1,19 @@
+{{#switch:{{{1}}}
+|name   = Латвий
+| top    = 58.5
+| bottom = 55.5
+| left   = 20.5
+| right  = 28.6
+| image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Latvia.jpg
+ |#default = Latvia location map.svg
+ |hydro = Latvijas upes relief location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Латвий}}
+
+== Тыгак ончо ==
+* {{tl|ПозКарта Латвий 1999-2009}}
+
+[[Категорий:Кышкар-влак:Позиций карте-влак:Латвий| ]]
+
+</noinclude>
