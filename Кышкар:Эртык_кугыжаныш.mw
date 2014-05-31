@@ -259,57 +259,57 @@
 {{!}}-
 }}
 {{#if: {{{Этап1|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата1|}}} {{{Ий1}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате1|}}} {{{Ий1}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап1}}}
 {{!}}-
 }}
 {{#if: {{{Этап2|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата2|}}} {{{Ий2}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате2|}}} {{{Ий2}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап2}}}
 {{!}}-
 }}
 {{#if: {{{Этап3|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата3|}}} {{{Ий3}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате3|}}} {{{Ий3}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап3}}}
 {{!}}-
 }}
 {{#if: {{{Этап4|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата4|}}} {{{Ий4}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате4|}}} {{{Ий4}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап4}}}
 {{!}}-
 }}
 {{#if: {{{Этап5|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата5|}}} {{{Ий5}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате5|}}} {{{Ий5}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап5}}}
 {{!}}-
 }}
 {{#if: {{{Этап6|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата6|}}} {{{Ий6}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате6|}}} {{{Ий6}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап6}}}
 {{!}}-
 }}
 {{#if: {{{Этап7|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата7|}}} {{{Ий7}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате7|}}} {{{Ий7}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап7}}}
 {{!}}-
 }}
 {{#if: {{{Этап8|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата8|}}} {{{Ий8}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате8|}}} {{{Ий8}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап8}}}
 {{!}}-
 }}
 {{#if: {{{Этап9|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата9|}}} {{{Ий9}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате9|}}} {{{Ий9}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап9}}}
 {{!}}-
 }}
 {{#if: {{{Этап10|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата10|}}} {{{Ий10}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате10|}}} {{{Ий10}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап10}}}
 {{!}}-
 }}
 {{#if: {{{Этап11|<noinclude>-</noinclude>}}} |
-{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дата11|}}} {{{Ий11}}}
+{{!}} style="line-height:1.2em; padding-left:0.5em" {{!}} &nbsp;-&nbsp;{{{Дате11|}}} {{{Ий11}}}
 {{!}} style="line-height:1.2em" {{!}} {{{Этап11}}}
 {{!}}-
 }}
@@ -465,4 +465,4 @@
 {{!}} align="center" style="border: solid darkgray; border-width:1px 0px; text-align: left" colspan="2" {{!}} {{{прим}}}
 }}
 |-
-|}{{#if:{{NAMESPACE}}||{{#if:{{{foundation|}}}{{{образовано|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation|{{{образовано}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end|}}}{{{ликвидировано|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end|{{{ликвидировано}}}}}}}}}} году]]}}{{#if:{{{foundation2|}}}{{{образовано2|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation2|{{{образовано2}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end2|}}}{{{ликвидировано2|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end2|{{{ликвидировано2}}}}}}}}}} году]]}}{{#if:{{{foundation3|}}}{{{образовано3|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation3|{{{образовано3}}}}}}}}}} году]]}}}}}}{{#if:{{{year_end3|}}}{{{ликвидировано3|}}}|{{#iferror:[[Категорий:Исчезли в {{#expr:{{ссылку в число|{{{year_end3|{{{ликвидировано3}}}}}}}}}} году]]}}}}</includeonly><noinclude>{{doc}}</noinclude>
+|}{{#if:{{NAMESPACE}}||{{#if:{{{foundation|}}}{{{образовано|}}}|{{#iferror:[[Категорий:Появились {{#expr:{{ссылку в число|{{{foundation|{{{образовано}}}}}}}}}} ийыште]]}}}}}}{{#if:{{{year_end|}}}{{{ликвидировано|}}}|{{#iferror:[[Категорий:Исчезли {{#expr:{{ссылку в число|{{{year_end|{{{ликвидировано}}}}}}}}}} ийыште]]}}{{#if:{{{foundation2|}}}{{{образовано2|}}}|{{#iferror:[[Категорий:Появились в {{#expr:{{ссылку в число|{{{foundation2|{{{образовано2}}}}}}}}}} ийыште]]}}}}}}{{#if:{{{year_end2|}}}{{{ликвидировано2|}}}|{{#iferror:[[Категорий:Исчезли {{#expr:{{ссылку в число|{{{year_end2|{{{ликвидировано2}}}}}}}}}} ийыште]]}}{{#if:{{{foundation3|}}}{{{образовано3|}}}|{{#iferror:[[Категорий:Появились {{#expr:{{ссылку в число|{{{foundation3|{{{образовано3}}}}}}}}}} ийыште]]}}}}}}{{#if:{{{year_end3|}}}{{{ликвидировано3|}}}|{{#iferror:[[Категорий:Исчезли {{#expr:{{ссылку в число|{{{year_end3|{{{ликвидировано3}}}}}}}}}} ийыште]]}}}}</includeonly><noinclude>{{doc}}</noinclude>
