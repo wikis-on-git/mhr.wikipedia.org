@@ -61,7 +61,7 @@
 {{!}}-
 }}
 {{#if: {{{йылме|<noinclude>-</noinclude>}}} |
-{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Йылме(-влак)'''
+{{!}} style="padding-left:0.5em; border-top: solid 1px #aaa" {{!}} '''Йылме (-влак)'''
 {{!}} style="border-top: solid 1px #aaa" {{!}} {{{йылме}}}
 {{!}}-
 }}
