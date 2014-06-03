@@ -1,0 +1,40 @@
+<noinclude>{{docpage}}{{translate}}</noinclude>
+Шаблон предназначен для использования совместно с шаблоном {{tl|RoutemapRoute}}, но может быть использован напрямую.<BR>
+*Параметры не чувствительны к регистру
+Параметры:
+# идентификатор иконки (неизвестное или пустое значение приведет к отсутствию иконки)
+# статья, ссылка на которую будет помещена на иконке (при отсутствии значения, ссылки не будет)
+# размер иконки (по умолчанию <tt>10px</tt>)
+{| class="wikitable"
+|+'''Кышкар RoutemapRouteIcon'''
+!Викисинтакс
+!Допустимые<BR>значения
+!Результат
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|up}}</nowiki>&nbsp;&nbsp;</tt>||u, up||{{RoutemapRouteIcon|up}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|down|Мга}}</nowiki>&nbsp;&nbsp;</tt>||d, dn, down||{{RoutemapRouteIcon|down|Мга}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|left}}</nowiki>&nbsp;&nbsp;</tt>||l, left||{{RoutemapRouteIcon|left}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|right|Форносово}}</nowiki>&nbsp;&nbsp;</tt>||r, right||{{RoutemapRouteIcon|right|Форносово}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|c1}}</nowiki>&nbsp;&nbsp;</tt>||ur, ne, c1||{{RoutemapRouteIcon|c1}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|c2}}</nowiki>&nbsp;&nbsp;</tt>||lr, se, c2||{{RoutemapRouteIcon|c2}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|c3}}</nowiki>&nbsp;&nbsp;</tt>||ll, sw, c3||{{RoutemapRouteIcon|c3}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|c4}}</nowiki>&nbsp;&nbsp;</tt>||ul, nw, c4||{{RoutemapRouteIcon|c4}}
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRouteIcon|c4||8px}}</nowiki>&nbsp;&nbsp;</tt>||ul, nw, c4||{{RoutemapRouteIcon|c4||8px}}
+|}<includeonly>
+[[en:Template:RoutemapRouteIcon]]
+[[hsb:Předłoha:RoutemapRouteIcon]]
+[[ja:Template:RoutemapRouteIcon]]
+[[ko:틀:RoutemapRouteIcon]]
+[[simple:Template:RoutemapRouteIcon]]
+[[sv:Mall:RoutemapRouteIcon]]
+[[zh:Template:RoutemapRouteIcon]]
+[[zh-yue:Template:RoutemapRouteIcon]]
+</includeonly>
