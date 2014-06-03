@@ -1,0 +1,1 @@
+<includeonly>{{#ifeq:{{uc:{{{1}}}}}|#CC2200|{{red link|{{{2}}}|{{#if:{{{3|}}}|{{{3}}}|{{{2}}}}}}}|[[:{{{2}}}|<span style="color:{{{1}}}">{{#if:{{{3|}}}|{{{3}}}|{{{2}}}}}</span>]]}}</includeonly><noinclude>{{doc}}
