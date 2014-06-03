@@ -1,0 +1,45 @@
+<noinclude>{{docpage}}</noinclude>Шаблон используется для создания шапки таблицы-схемы маршрута. 
+
+*Параметры:
+# Заголовок таблицы. Если не заполнен, отображается «Маршрут радам».
+# Имя шаблона. В случае заполнения, появляется mini {{tl|tnavbar}} с п-о-р ссылками слева.
+# Цвет фона, по умолчанию используется #be2d2c<font color="#be2d2c">◆(кӱртньӧ корнын тӱсшӧ)</font>.
+# Цвет текста, по умолчанию - белый.
+# Ширина рядка, по умолчанию 100%.
+
+Результат для:<br />
+<tt style="color:blue"><nowiki>
+{{BS-header|Маршрут радам {{linkcolor|#ffffff|Замоскворецкий кореш|Замоскворецкой линии}}|Замоскворецкий кореш|green|yellow|400px}}
+</nowiki></tt>
+
+{|{{Railway line header|collapse=yes|}}
+{{BS-header|Маршрут радам {{linkcolor|#ffffff|Замоскворецкий кореш|Замоскворецкой линии}}|Замоскворецкий кореш|green|yellow|400px}}
+|}
+<br />
+Для использования ознакомьтесь с информацией о [[Википедий:Маршрут кышкар-влак|маршрутных шаблонах]].
+
+== Тыгак ончо ==
+* [[Кышкар:Rail-header]]
+* [[Кышкар:Rail-header2]]
+<includeonly>
+[[Категорий:Википедий:Маршрут кышкар-влак|{{PAGENAME}}]]
+[[bar:Vorlage:BS-header]]
+[[da:Skabelon:BS-header]]
+[[de:Vorlage:BS-header]]
+[[dsb:Pśedłoga:ZC-głowa]]
+[[en:Template:BS-header]]
+[[eo:Ŝablono:FL-titolo]]
+[[eu:Txantiloi:BS-header]]
+[[fa:الگو:BS-header]]
+[[fr:Modèle:BS-header]]
+[[hsb:Předłoha:ŽČ-hłowa]]
+[[hu:Sablon:BS-header]]
+[[id:Templat:BS-header]]
+[[ka:თარგი:BS-თავი]]
+[[pt:Predefinição:BS-header]]
+[[ro:Format:BS-header]]
+[[sv:Mall:BS-header]]
+[[th:แม่แบบ:BS-header]]
+[[uk:Шаблон:BS-header]]
+[[zh:Template:BS-header]]
+</includeonly>
