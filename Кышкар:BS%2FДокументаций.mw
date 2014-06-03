@@ -1,0 +1,13 @@
+<noinclude>{{docpage}}</noinclude>Шаблон для ряда ''BS-таблицы'', содержащего два символа.
+* Параметр1: ID первого изображения (<code>leer</code> or leave blank for no symbol)
+* Parameter2: километраж
+* Parameter3: лӱм
+* Parameter4: отметка 1
+* Parameter5: отметка 2 — расположена справа
+** определяемый параметр PX: Ширина изображения (к примеру, PX=50px), по умолчанию {{BSpx}}
+** определяемый параметр HI: Используйте CSS класс «highlight», in order to emphasize certain sections, example see Seetalbahn
+** определяемый параметр O1: ID of the '''Н'''аложившегося изображения на первом изображении (то есть на единственном изображении)
+
+<includeonly>
+[[Категорий:Википедий:Маршрут кышкар-влак|#]]
+</includeonly>
