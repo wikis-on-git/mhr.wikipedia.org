@@ -1,0 +1,21 @@
+<noinclude>
+{{esoteric}}
+{{doc}}
+</noinclude><!--
+
+Opening Bracket ('enclosure')
+-->{{#ifeq:{{lc:{{{enclosed|}}}}}|yes|(|}}<!--
+Left icon
+-->{{RoutemapRouteIcon|{{{Licon|{{{licon|{{{L|{{{l|}}}}}}}}}}}}|{{{Llink|{{{llink|}}}}}}|{{{Lsize|{{{lsize|}}}}}}}}&nbsp;<!--
+1st location
+-->{{#if:{{{1|}}}|{{{1}}}|}}<!--
++auto-hyphen
+-->{{#if:{{{1|}}}|{{#if:{{{2|}}}|&nbsp;–&nbsp;|}}|}}<!--
+2nd location
+-->{{#if:{{{2|}}}|{{{2}}}}}<!--
+Right icon
+-->&nbsp;{{RoutemapRouteIcon|{{{Ricon|{{{ricon|{{{R|{{{r|}}}}}}}}}}}}|{{{Rlink|{{{rlink|}}}}}}|{{{Rsize|{{{rsize|}}}}}}}}<!--
+Closing Bracket ('enclosure')
+-->{{#ifeq:{{lc:{{{enclosed|}}}}}|yes|)|}}<noinclude>
+
+</noinclude>
