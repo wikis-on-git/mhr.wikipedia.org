@@ -1,0 +1,15 @@
+<onlyinclude><includeonly>|-
+| style="padding:0; white-space:nowrap; background-color:{{{bg|transparent}}}"|<center>
+{|  cellspacing=0 cellpadding=0 style="background-color:transparent"
+|-
+{{BS-overlap|{{{PX|{{BSpx}}}}}|{{{1|}}}|{{{O1|}}}|{{{O12|}}}|{{{O13|}}}|{{{O14|}}}|{{{O15|}}}|link={{{link1|file:}}}|alt={{{alt1|#default}}}}}
+{{BS-overlap|{{{PX2|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}|{{{2|}}}|{{{O2|}}}|{{{O22|}}}|{{{O23|}}}|{{{O24|}}}|{{{O25|}}}|link={{{link2|file:}}}|alt={{{alt2|#default}}}}}
+{{BS-overlap|{{{PX3|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}|{{{3|}}}|{{{O3|}}}|{{{O32|}}}|{{{O33|}}}|{{{O34|}}}|{{{O35|}}}|link={{{link3|file:}}}|alt={{{alt3|#default}}}}}
+{{BS-overlap|{{{PX4|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}|{{{4|}}}|{{{O4|}}}|{{{O42|}}}|{{{O43|}}}|{{{O44|}}}|{{{O45|}}}|link={{{link4|file:}}}|alt={{{alt4|#default}}}}}
+{{BS-overlap|{{{PX5|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}|{{{5|}}}|{{{O5|}}}|{{{O52|}}}|{{{O53|}}}|{{{O54|}}}|{{{O55|}}}|link={{{link5|file:}}}|alt={{{alt5|#default}}}}}
+|}
+</center>
+| style="text-align:right; vertical-align:middle; padding:0 .5em; font-size:80%; " {{{HI|}}}| {{#if: {{{km|}}}|{{{km}}}|{{{6|}}}}}
+| style="padding:0; " {{#if: {{{9|}}}||colspan="2"}} {{#if:{{{tw|}}}|width={{{tw}}}|}} style="vertical-align:middle; text-align:left"|{{{7|}}} <span style="font-size:80%;">{{{8|}}}</span>
+{{#if: {{{9|}}}|{{!}} style="text-align:right; padding:0 0 0 .5em; font-size:80%; white-space:nowrap; vertical-align:middle;" {{!}} {{{9}}}
+|}}</includeonly></onlyinclude>{{doc}}</noinclude>
