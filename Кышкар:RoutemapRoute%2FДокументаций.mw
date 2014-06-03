@@ -1,0 +1,67 @@
+<noinclude>{{docpage}}</noinclude>
+{{Shortcut|Кышкар:rmr}}
+Шаблон для использования в маршрутных транспортных шаблонах 'BS'.
+==Параметры==
+* '''1''': первый текстовый элемент (как правило, название станции или города, куда ведет направление)
+* '''2''': второй текстовый элемент
+** Если указаны оба элемента, они будут разделены дефисом. Первый элемент находится слева от второго.
+* '''enclosed''': заключать текст в скобки (по умолчанию скобок нет, чтобы заключить его в скобки, добавьте параметр '''enclosed=yes''')
+* '''Licon''': идентификатор левой иконки (ниже приведены доступные идентификаторы)
+* '''Ricon''': идентификатор правой иконки
+* '''Llink''': ссылка, на которую ведет левая иконка
+* '''Rlink''': ссылка, на которую ведет правая иконка
+* '''Lsize''': размер левой иконки
+* '''Rsize''': размер прввой иконки
+Допустимые идентификаторы и отображаемые при этом иконки:
+{| class="wikitable"
+|-
+|ul, nw, c4||{{RoutemapRouteIcon|c4}}||u, up||{{RoutemapRouteIcon|up}}||ur, ne, c1||{{RoutemapRouteIcon|c1}}
+|-
+|l, left||{{RoutemapRouteIcon|left}}|| || ||r, right||{{RoutemapRouteIcon|right}}
+|-
+|ll, sw, c3||{{RoutemapRouteIcon|c3}}||d, dn, down||{{RoutemapRouteIcon|down}}||lr, se, c2||{{RoutemapRouteIcon|c2}}
+|}
+
+==Примечания==
+* Все параметры опциональны.
+* Все параметры не чувствительны к регистру.
+* Порядок параметров не имеет значения, но, при указании двух пунктов, первый будет отображен слева.
+* Если шаблон выводит {{{1}}} или {{{2}}}, значит пропущен разделитель ''' '|' '''. Добавляйте недостающий разделитель ''после'' остальных параметров во избежание неожиданного результата.
+
+{| class="wikitable"
+|+'''Кышкар RoutemapRoute — примеры использования'''
+!Викиразметка
+!Отображение
+|- align="center"
+|<tt>&nbsp;&nbsp;<nowiki>{{RoutemapRoute|Licon=Left|Llink=Форсоново|[[Форносово]]|[[Мга]]|Ricon=Right|Rlink=Мга}}</nowiki>&nbsp;&nbsp;</tt>||&nbsp;&nbsp;{{RoutemapRoute|Licon=Left|Llink=Форсоново|[[Форносово]]|[[Мга]]|Ricon=Right|Rlink=Мга}}&nbsp;&nbsp;
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|[[Мга]]|[[Форносово]]|Licon=U|Ricon=D}}</nowiki></tt>||{{RoutemapRoute|[[Мга]]|[[Форносово]]|Licon=U|Ricon=D}}
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|Licon=sw|[[Форносово]]||}}</nowiki></tt>||{{RoutemapRoute|Licon=sw|[[Форносово]]||}}
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|[[Мга]]|[[Форносово]]}}</nowiki></tt>||{{RoutemapRoute|[[Мга]]|[[Форносово]]}}
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|Licon=R|Ricon=L||}}</nowiki></tt>||{{RoutemapRoute|Licon=R|Ricon=L||}}
+|- align="center"
+|<tt>{{tlp|BSsplit|<nowiki>{{RoutemapRoute|Licon=l|Lsize=8px|[[Мга]]}}|{{RoutemapRoute|Ricon=r|Rsize=8px|[[Форносово]]}</nowiki>}}</tt>||{{BSsplit|{{RoutemapRoute|Licon=l|Lsize=8px|[[Мга]]}}|{{RoutemapRoute|Ricon=r|Rsize=8px|[[Форносово]]}}}}
+|-
+| Добавьте '''enclosed=yes''', чтобы добавить скобки:
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|[[Мга]]|Ricon=R|||enclosed=yes}}</nowiki></tt>||{{RoutemapRoute|[[Мга]]|Ricon=R|||enclosed=yes}}
+|- align="center"
+|<tt><nowiki>{{RoutemapRoute|Ricon=L|||enclosed=yes}}</nowiki></tt>||{{RoutemapRoute|Ricon=L|||enclosed=yes}}
+|}<includeonly>
+[[Категорий:Википедий:Маршрут кышкар-влак|{{PAGENAME}}]]
+[[Категорий:Википедий:Заимствованные шаблоны|{{PAGENAME}}]]
+
+[[zh:Template:RoutemapRoute]]
+[[zh-yue:Template:RoutemapRoute]]
+[[be:Шаблон:RoutemapRoute]]
+[[en:Template:RoutemapRoute]]
+[[hsb:Předłoha:RoutemapRoute]]
+[[ja:Template:RoutemapRoute]]
+[[ko:틀:RoutemapRoute]]
+[[simple:Template:RoutemapRoute]]
+[[sv:Mall:RoutemapRoute]]
+[[uk:Шаблон:Rmr]]
+</includeonly>
