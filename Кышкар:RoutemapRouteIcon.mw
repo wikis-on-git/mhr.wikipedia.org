@@ -1,0 +1,18 @@
+<noinclude>{{doc}}</noinclude><!--
+
+-->{{#switch:{{lc:{{{1}}}}}
+ |u|up=[[File:Arrow Blue Up 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]] 
+ |d|dn|down=[[File:Arrow Blue Down 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |l|left=[[File:Arrow Blue Left 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |r|right=[[File:Arrow Blue Right 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |ur|ne|c1=[[File:Arrow Blue UpperRight 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |lr|se|c2=[[File:Arrow Blue LowerRight 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |ll|sw|c3=[[File:Arrow Blue LowerLeft 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |ul|nw|c4=[[File:Arrow Blue UpperLeft 001.svg|{{#if:{{{3|}}}|{{{3}}}|10px}}|alt=|link={{#if:{{{2}}}|{{{2|}}}|}}]]
+ |#default=<noinclude>{{{icon code}}}</noinclude>
+}}<noinclude>
+
+[[Категорий:Википедий:Заимствованные шаблоны|{{PAGENAME}}]]
+[[Категорий:Википедий:Маршрут кышкар-влак|{{PAGENAME}}]]
+
+</noinclude>
