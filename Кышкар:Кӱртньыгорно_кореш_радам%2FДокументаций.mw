@@ -1,0 +1,30 @@
+<noinclude>{{docpage}}</noinclude>
+Вы можете ознакомиться с документацией на странице [[Википедий:Маршрут кышкар-влак]]
+
+<pre>
+{{Railway line header
+|collapse=yes, no (сворачиваемость)
+|noborder=(для встраивания шаблона в другие шаблоны)
+|left, right (положение на странице и обтекание текстом)
+}}
+</pre>
+
+{{BS warning}}
+
+<includeonly>[[Категорий:Википедий:Маршрут кышкар-влак|{{PAGENAME}}]] 
+[[cy:Nodyn:Peniad rheilffordd]]
+[[da:Skabelon:Railway line header]]
+[[en:Template:Railway line header]]
+[[es:Plantilla:Railway line header]]
+[[eu:Txantiloi:Railway line header]]
+[[he:תבנית:כותרת לקווי רכבת]]
+[[hu:Sablon:Vasút fejléc]]
+[[ja:Template:Railway line header]]
+[[ka:თარგი:სარკინიგზო ხაზის თავი]]
+[[mk:Шаблон:Железничка линија-Заглавие]]
+[[pt:Predefinição:Railway line header]]
+[[ro:Format:Cale ferată]]
+[[sv:Mall:Railway line header]]
+[[uk:Шаблон:Railway line header]]
+[[yi:מוסטער:באן ליניע קעפל]]
+[[zh:Template:Railway line header]]</includeonly>
