@@ -1,0 +1,18 @@
+<includeonly>{| cellspacing="0" cellpadding="0" style="font-size:80%; text-align:{{{align|right}}}; margin-top=-1px; margin-bottom:-1px;" align="right"
+| style="line-height:1em; border-bottom:1px solid gray;" | {{{1|}}}
+|-
+| style="line-height:1em;" | {{{2|}}}
+|}</includeonly><noinclude>
+'''Вместо данного шаблона следует использовать {{tl|BSsplit}}.'''
+
+{| cellspacing="0" cellpadding="0" style="font-size:100%; text-align:right; color:inherit; background-color:transparent; margin-top=-1px; margin-bottom:-1px;"
+| style="line-height:1em; border-bottom:1px solid gray;" | km1
+|-
+| style="line-height:1em;" | km<sup>2</sup>
+|}
+Мини-шаблон для поля таблицы с километражом. При использовании внутри <nowiki>{{BS}}</nowiki> параметры должны быть разделены <tt><nowiki>{{!}}</nowiki><tt>!
+
+Пример: <tt><nowiki>{{BS|KMW|{{BSkm{{!}}1.2{{!}}1.5}}|km-Wechsel}}</nowiki></tt>
+{{BS warning}}
+[[Категорий:Википедий:Маршрут кышкар-влак|{{PAGENAME}}]] 
+</noinclude>
