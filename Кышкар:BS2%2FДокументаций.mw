@@ -1,0 +1,34 @@
+<noinclude>{{docpage}}</noinclude>
+Шаблон для ряда '''маршрутной таблицы''' из двух символов.
+* Parameter1: ID 1-го изображения (<code>leer</code> или оставить пустым, если ничего не отображено)
+* Parameter2: ID 2-го изображения (<code>leer</code> или оставить пустым, если ничего не отображено)
+* Parameter3: расстояние в километрах
+* Parameter4: Имя
+* Parameter5: Примечание 1
+* Parameter6: Примечание 2 — выравнивается по правому краю
+** определенный параметр PX: ширина изображения (напр. PX=50px), по-умолчанию {{BSpx}}
+** определенный параметр HI: Используйте CSS класс «highlight» чтобы подчеркнуть отдельные секции, для примера см. [[:de:Seetalbahn]]
+** определенный параметр O1, O2: ID перекрывающих изображений для 1-го и 2-го изображения соответственно
+
+<includeonly>
+[[Категорий:Википедий:Маршрут кышкар-влак|#]]
+
+[[de:Vorlage:BS2]]
+[[dsb:Pśedłoga:ZC2]]
+[[en:Template:BS2]]
+[[eo:Ŝablono:FL2]]
+[[es:Plantilla:BS2]]
+[[fr:Modèle:BS2bis]]
+[[hsb:Předłoha:ŽČ2]]
+[[hu:Sablon:BS2]]
+[[id:Templat:BS2]]
+[[ja:Template:BS2]]
+[[ka:თარგი:BS2]]
+[[nl:Sjabloon:SP2]]
+[[no:Mal:JBS2]]
+[[pt:Predefinição:BS2]]
+[[sv:Mall:BS2]]
+[[uk:Шаблон:BS2]]
+[[yi:מוסטער:באן ליניע אפט2]]
+[[zh:Template:BS2]]
+</includeonly>
