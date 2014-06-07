@@ -1,0 +1,14 @@
+<includeonly>|-
+| style="padding:0; white-space:nowrap; background-color:{{{bg|transparent}}}"| <center>
+{|  cellspacing=0 cellpadding=0 style="background-color:transparent"
+|-
+{{BS-overlap|{{{PX|{{BSpx}}}}}|{{{1|}}}|{{{O1|}}}|{{{O12|}}}|{{{O13|}}}|{{{O14|}}}|{{{O15|}}}|link={{{link1|file:}}}|alt={{{alt1|#default}}}}}
+{{BS-overlap|{{{PX2|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}|{{{2|}}}|{{{O2|}}}|{{{O22|}}}|{{{O23|}}}|{{{O24|}}}|{{{O25|}}}|link={{{link2|file:}}}|alt={{{alt2|#default}}}}}
+|}
+</center>
+| style="text-align:right; vertical-align:middle; padding:0 .5em; font-size:80%;" {{{HI|}}}| {{#if: {{{km|}}}|{{{km}}}|{{{3|}}}}}
+| {{#if: {{{6|}}}||colspan="2"}} {{#if:{{{tw|}}}|width={{{tw}}}|}} style="vertical-align:middle; text-align:left"|{{{4|}}} <span style="font-size:80%;">{{{5|}}}</span>
+{{#if: {{{6|}}}|{{!}} style="text-align:right; padding-left:.5em; font-size:80%; white-space:nowrap;vertical-align:middle;" {{!}} {{{6}}}
+|}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
