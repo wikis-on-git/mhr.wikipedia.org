@@ -1,5 +1,5 @@
 <includeonly>{| class="infobox vcard" style="width:300px"
-|colspan="2" style="text-align:center"|{{#if:{{{Тип|}}}|{{{Тип}}}|Шарныктыш}}<!-- {{Tnavbar|Шарныктыш|mini=1|nodiv=1}}-->
+|colspan="2" style="text-align:center"|{{#if:{{{Тӱрлык|}}}|{{{Тӱрлык}}}|Шарныктыш}}<!-- {{Tnavbar|Шарныктыш|mini=1|nodiv=1}}-->
 |-
 |colspan="2" style="text-align:center; font-weight:bold;"|<div style="border:solid #aaa; border-width:1px 0; background:{{тӱс|{{{Эл|}}}}};"><span class="fn org" style="font-size:115%">{{{Марий лӱм}}}</span>{{#if:{{{Оригинал лӱм|}}}|<br />{{#if: {{{Bird's eye|}}}|
 <div align="right">
