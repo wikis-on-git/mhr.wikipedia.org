@@ -1,0 +1,19 @@
+{{#switch:{{{1}}}
+|name = Псков вел
+|top    = 59.1
+|bottom = 55.5
+|left   = 27.0
+|right  = 31.8
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Pskov Oblast.jpg
+ |#default = Outline Map of Pskov Oblast.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |#default = {{ПозКарта Россий Псков вел/adm}}
+ |physical = default [[:file:Relief Map of Pskov Oblast.jpg|{{PAGENAME}} (Псков вел)]]
+desc none
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Псков вел]]
+
+</noinclude>
