@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Финляндий
+| top    = 70.4
+| bottom = 59.5
+| left   = 19.0
+| right  = 32.0
+|image    = {{#switch:{{{2|}}}
+ |physical = Finland physical map.svg
+ |#default = Finland location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Финляндий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Финляндий]]
+
+</noinclude>
