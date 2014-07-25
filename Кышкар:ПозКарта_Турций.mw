@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Турций
+|top=42.5
+|bottom=35.5
+|left=25.4
+|right=45.0
+|image = {{#switch:{{{2|}}}
+ |physical = Turkey relief location map.jpg
+ |#default = Turkey location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Турций}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Турций]]
+</noinclude>
