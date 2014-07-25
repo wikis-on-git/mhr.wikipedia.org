@@ -116,7 +116,7 @@
 !colspan="2" class="metadata" style="text-align:center;"{{!}}<div style="border: solid #ddd; border-width: 1px 0px 0px 0px;width:100%;background:#eaeaea">'''[[commons:Category:{{{Commons}}}|{{{Лӱм|{{{Commons|}}}}}}]]''' [[Викиклат]]ыште</div>
 {{!-}}
 }}
-|}{{#ifeq: Отро |{{str left|{{PAGENAME}}|7}}|{{DEFAULTSORT:{{Без начала|{{PAGENAME}}|Отро }}, отро}}}}{{#ifeq:{{FULLPAGENAME}}|{{PAGENAME}}|[[Категорий:Тиштер почеш отрола]]{{#ifeq: {{{Калыкчот}}}|0|[[Категорий:Необитаемые острова]]}}{{#ifeq: {{{Калыкчот}}}|уке|[[Категорий:Необитаемые острова]]}}{{#if: {{{lat_deg|}}}
+|}{{#ifeq: Отро |{{str left|{{PAGENAME}}|7}}|{{DEFAULTSORT:{{Без начала|{{PAGENAME}}|Отро }}, отро}}}}{{#ifeq:{{FULLPAGENAME}}|{{PAGENAME}}|[[Категорий:Тиштер почеш отрола]]{{#ifeq: {{{Калыкчот}}}|0|[[Категорий:Илыдыме отрола]]}}{{#ifeq: {{{Калыкчот}}}|уке|[[Категорий:Илыдыме отрола]]}}{{#if: {{{lat_deg|}}}
   | {{coord|1={{{lat_deg|0}}}|2={{{lat_min|0}}}|3={{{lat_sec|0}}}|4={{#if:{{{lat_dir|}}}|{{{lat_dir}}}|N}}|5={{{lon_deg|0}}}|6={{{lon_min|0}}}|7={{{lon_sec|0}}}|8={{#if:{{{lon_dir|}}}|{{{lon_dir}}}|E}}|9={{#if: {{{region|}}}|type:isle_region:{{{region}}}|type:isle}}
   |scale={{#if:{{{CoordScale|}}}|{{{CoordScale}}}|100000}}|format=dms|display=title|yandex=1}}
   |[[Категорий:Википедий:Острова без указанных географических координат]]
