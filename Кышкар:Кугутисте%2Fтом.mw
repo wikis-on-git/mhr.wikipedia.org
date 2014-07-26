@@ -1,0 +1,3 @@
+[[Файл:{{#if:{{{вариант|}}}|{{{flag alias-{{{variant}}}}}}|{{{flag alias-{{{altvar}}}|{{{flag alias}}}}}}}}|{{#if:{{{размер|}}}|{{{размер}}}|30x27px}}|{{{border-{{{variant}}}|{{{border-{{{altvar}}}|{{{border|border}}}}}}}}} |alt=|link=]]<br/>[[{{{link alias-{{{altvar}}}|{{#if:{{{altlink|}}}|{{{shortname alias|{{{alias}}}}}} {{{altlink}}}|{{{alias}}}}}}}}|{{#if:{{{лӱм|}}}|{{{лӱм}}}|{{{name alias-{{{altvar}}}|{{{shortname alias|{{{alias}}}}}}}}}}}]]<noinclude>{{Doc|content=This is a meta-template used internally by [[Кышкар:fb-big]] and others. It is not intended to be transcluded directly from the main article space.}}
+[[Категорий:Flag template system|{{PAGENAME}}]]
+</noinclude>
