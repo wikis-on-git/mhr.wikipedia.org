@@ -3,8 +3,8 @@
 <tr><td colspan="2" align="center">[[Файл:{{{Сӱрет}}}|250px|{{{Эл1}}} и {{{Эл2}}}]]</td></tr>
 <tr><td style="width:50%; background:{{{Тӱс1|}}}; height:0.6em"></td>
 <td style="width:50%; background:{{{Тӱс2|}}}; height:0.6em"></td></tr>
-<tr><td style="width:50%; padding-left:0.3em; text-align:center">'''{{флагбол|{{{Эл1|}}}|размер=50x45px}}'''</td>
-<td style="width:50%; padding-left:0.3em; text-align:center">'''{{флагбол|{{{Эл2|}}}|размер=50x45px}}'''</td></tr>
+<tr><td style="width:50%; padding-left:0.3em; text-align:center">'''{{кугутисте|{{{Эл1|}}}|размер=50x45px}}'''</td>
+<td style="width:50%; padding-left:0.3em; text-align:center">'''{{кугутисте|{{{Эл2|}}}|размер=50x45px}}'''</td></tr>
 </table></includeonly><noinclude>
 {{doc}}
 </noinclude>
