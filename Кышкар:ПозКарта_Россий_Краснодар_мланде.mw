@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Краснодар мланде
+|top = 47
+|bottom = 43
+|left = 36
+|right = 42
+| image = {{#switch:{{{2|}}}
+ | physical = Relief Map of Krasnodarski Krai.png
+ | #default = Outline Map of Krasnodarski Krai.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Краснодар мланде]]
+
+</noinclude>
