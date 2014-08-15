@@ -2,7 +2,7 @@
 {| class="notice metadata plainlinks" id="disambig" style="width:100%; margin:16px 0; background:none;"
 |style="vertical-align:middle;"|[[Файл:{{{image|Disambig.svg}}}|30px|link=Википедий:Шуко ончыктымаш-влак]]
 |style="vertical-align:middle; font-style:italic;"|{{{text|Тиде лаштык икгай вуймут дене статья-влакым [[Википедий:Шуко ончыктымаш-влак|ончыкта]].<br />[{{fullurl:S}}pecial:Whatlinkshere/{{FULLPAGENAMEE}}?namespace=0 <span title="Кылвер-влак тышке">Кӧргысӧ кылвер</span>] тыйым тышке конден гын тый тиде кылверым тӧрлатен кертат, кылвер кӱлешан статьяшке наҥгая манын.}}}
-|}<includeonly>{{#if:{{{nocat|}}}||[[Категорий:Шуко ончыктымаш-влак]]}}</includeonly><noinclude>
+|}<includeonly>{{#if:{{{nocat|}}}||[[Категорий:Шуко ончыктымаш-влак]]}}</includeonly><includeonly>__DISAMBIG__</includeonly><noinclude>
 {{doc}}
 [[Категорий:Википедий:Кышкар-влак|{{PAGENAME}}]]
 
