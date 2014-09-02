@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Ленинград вел
+|top    = 61.5
+|bottom = 58.2
+|left   = 26.7
+|right  = 35.9
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Leningrad Oblast.png
+ |#default = Outline Map of Leningrad Oblast.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Ленинград вел| ]]
+
+</noinclude>
