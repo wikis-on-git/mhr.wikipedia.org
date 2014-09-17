@@ -3,7 +3,7 @@
 |type = custom
 |image = {{#switch:{{{2|}}}
  |physical = Russia edcp relief location map.jpg
- |#default = Russia edcp location map.svg
+ |#default = Russia 2014 edcp location map.svg
 }}
 }}<noinclude>{{ПозКарта/Инфо|Россий}}
 </noinclude>
