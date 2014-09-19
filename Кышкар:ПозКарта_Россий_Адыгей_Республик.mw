@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Адыгей Республик
+|top = 45.333825
+|bottom = 43.644017
+|left = 38.45983
+|right = 40.89972
+| image = {{#switch:{{{2|}}}
+ | physical = Relief Map of Adygea.png
+ | #default = Outline Map of Adygea.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Адыгей]]
+</noinclude>
