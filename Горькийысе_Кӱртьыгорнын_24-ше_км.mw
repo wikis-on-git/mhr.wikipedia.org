@@ -6,8 +6,8 @@
  | тисте                                           = 
  | ойып лопкытшо                          = 96px
  | тисте лопкытшо                         = 182px
- | lat_deg                                        = 56 |lat_min = 00 |lat_sec = 12
- | lon_deg                                       = 48 |lon_min = 23 |lon_sec = 22 
+ | lat_deg                                        = 56 |lat_min = 00 |lat_sec = 14
+ | lon_deg                                       = 48 |lon_min = 23 |lon_sec = 20 
  | CoordAddon                                = type:city(1)_region:RU
  | CoordScale                                 = 20000
  | эл карта вуймут                         = [[Россий]]
