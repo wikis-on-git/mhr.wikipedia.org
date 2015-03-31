@@ -47,6 +47,6 @@
 [[Категорий:({{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+1}}. курым) |{{#expr:(({{PAGENAME}}-1)mod100-({{PAGENAME}}-1)mod10)/10}}{{#expr:({{PAGENAME}}-1)mod10}}]]
 [[Категорий:Декаде {{#expr:{{PAGENAME}}-{{PAGENAME}}mod10}}|{{PAGENAME}}]]
 -->{{#ifexist: Category:{{PAGENAME}} |[[Категорий:{{PAGENAME}}]]}}</includeonly><noinclude>
-[[Категорий:Кышкар-влак]]
+[[Категорий:Википедий:Кышкар-влак]]
 
 </noinclude>
