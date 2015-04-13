@@ -6,9 +6,9 @@
  | тисте                       = 
  | ойып лопкытшо               = 96px
  | тисте лопкытшо              = 182px
- | lat_deg                     =  |lat_min =  |lat_sec = 
- | lon_deg                     =  |lon_min =  |lon_sec =  
- | CoordAddon                  = type:city(-)_region:RU
+ | lat_deg                     = 55 |lat_min = 58 |lat_sec = 02
+ | lon_deg                     = 48 |lon_min = 21 |lon_sec = 04 
+ | CoordAddon                  = type:city(2014)_region:RU
  | CoordScale                  = 20000
  | эл карта вуймут             = [[Россий]]
  | эл_карта_рӱдола             = Моско
