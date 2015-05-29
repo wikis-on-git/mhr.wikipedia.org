@@ -1,0 +1,7 @@
+<noinclude>{{template navigation}}</noinclude>== Пример ==
+<nowiki>{{Колен|date=15 Идым|year=2006|wherein=Йошкар-Олаште|wherenom=Йошкар-Ола}}</nowiki>
+
+<nowiki>{{Колен|date=15 Идым|year=2006|where=[[Йошкар-Ола]]}}</nowiki>
+<noinclude>
+[[Категорий:Шаблон-влак:Документаций|{{PAGENAME}}]]
+</noinclude>
