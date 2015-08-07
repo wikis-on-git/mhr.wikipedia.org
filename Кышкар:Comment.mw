@@ -1,5 +1,4 @@
 <includeonly>{{#if:{{{2|}}}|<span title="{{{2}}}" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">{{{1}}}</span>|{{{1}}}}}</includeonly><noinclude>{{doc}}[[Категорий:Википедий:Шаблон-влак:Форматирований]]
 
 [[uk:Шаблон:Comment]]
-[[zh-yue:Template:告示]]
 </noinclude>
