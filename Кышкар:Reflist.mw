@@ -1,6 +1,6 @@
 <div class="references-small {{#if:{{{height|}}}|references-scroll}}" style="{{#if: {{{colwidth|}}}| -moz-column-width:{{{colwidth}}}; column-width:{{{colwidth}}}; | {{#if: {{{1|}}}| -moz-column-count:{{{1}}}; column-count:{{{1}}}; -webkit-column-count:{{{1}}};}}}}">
 {{#tag:references|{{{refs|}}}|group={{{group|}}}}}
-</div><noinclude>{{doc}}[[ab:Ашаблон:Reflist]]
+</div><noinclude>{{doc}}
 [[br:Patrom:Reflist]]
 [[he:תבנית:Reflist]]
 [[pt:Predefinição:Reflist]]
