@@ -1,10 +1,10 @@
-{| style="text-align:center;border:0; margin-top:1.2em; background-color:#fcfcfc; width:90%;" cellpadding="0" cellspacing="0"
+{| style="text-align:center;border:0; margin-top:1.2em; background-color:#fcfcfc; width:100%;" cellpadding="0" cellspacing="0"
 | colspan="2" style="border:1px solid #aaa; background-color:#f2f2ff;" |
-{|style="width:90%; margin-top:.7em; background-color:#f2f2ff; border:0px solid #ccc"
+{|style="width:100%; margin-top:.7em; background-color:#f2f2ff; border:0px solid #ccc"
 |style="width:60%; color:#000; text-align:center;"|
 {|style="width:100%; border:solid 0px; background:transparent;"
 |-
-|style="width:90%; text-align:center; white-space:nowrap; color:#000" |
+|style="width:100%; text-align:center; white-space:nowrap; color:#000" |
 <div style="font-size:162%; border:0; margin:0; padding:.1em; color:#000">Пагален ӱжына [[Википедий]]ышке,</div>
 кажне айдемылан тӧрлаташ почмо эрыкан [[энциклопедий]]ышке.
 <div style="font-size:95%"> Кызыт Википедийыште [[Марий йылме|марий йылме]] дене возымо '''[[Special:Statistics|{{{1}}}]]''' лаштык уло.<br />
@@ -20,7 +20,7 @@
 </div>
 |}
 <!-- Портал-влак-->
-|style="width:40%; font-size:70%; color:#000; text-align:left;"|
+|style="width:40%; font-size:95%; color:#000; text-align:left;"|
 {|style="width:100%; background:transparent;"
 |style="width:9%; font-size:95%; vertical-align:top;"|
 [[Портал:Географий|Географий]]<br />
