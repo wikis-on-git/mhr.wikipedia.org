@@ -1,0 +1,22 @@
+<noinclude>{{docpage}}</noinclude>
+
+== Для лучшего отображения следует скачать один из шрифтов с поддержкой Unicode 5.1 ==
+* Шрифты, имитирующие старославянское начертание ([[Устав (шрифт)|устав]]):
+** [http://kodeks.uni-bamberg.de/AKSL/Schrift/BukyVede.htm BukyVede] — содержит все необходимые (в том числе редкие и устаревшие) ''славянские'' буквы кириллицы, поддерживает буквенные титла;
+** [http://www.ponomar.net/cu_support/fontsru.html Hirmos Ponomar] — имитирует более позднее начертание ([[полуустав]]), содержит все используемые в церковнославянском языке буквы кириллицы, более корректно отображает буквенные титла;
+** [http://www.obshtezhitie.net/res/index.html Dilyana v 2.001, Lazov v 1.00, Menaion Medieval v 2.10] — другие шрифты с сайта obshtezhitie.net, однако в них могут отсутствовать ряд букв кириллицы.
+* Шрифты с современным начертанием:
+** [http://dejavu-fonts.org/wiki/Main_Page DejaVu]
+** [http://kodeks.uni-bamberg.de/AKSL/Schrift/KlimentStd.htm Kliment Std]
+** [http://kodeks.uni-bamberg.de/AKSL/Schrift/RomanCyrillicStd.htm RomanCyrillic Std]
+
+== Пример ==
+: <nowiki>{{Script/Slavonic|аблъко}}</nowiki>
+:: {{Script/Slavonic|аблъко}}
+
+== См. также ==
+* {{ш|lang-cu}}
+* {{ш|lang-orv}}
+
+<includeonly>
+[[Категория:Википедия:Подстраницы шаблонов|Script]]</includeonly>
