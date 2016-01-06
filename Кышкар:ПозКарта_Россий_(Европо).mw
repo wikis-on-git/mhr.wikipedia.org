@@ -1,0 +1,9 @@
+{{#switch:{{{1}}}
+|name = Россий (Европо)
+|type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = European Russia laea relief location map (with Crimea).jpg
+ |#default = European Russia laea location map (Crimea disputed).svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+</noinclude>
