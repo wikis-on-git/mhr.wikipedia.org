@@ -1,0 +1,3 @@
+{{#if:{{{1|}}}{{#if:{{{d|}}}|{{wikidata|{{{d|}}}|plain=true}}}}|{{!}}{{#if:{{{3|}}}||colspan=2}} style="background:{{тӱс|{{wikidata|p17|{{{4|}}}|plain=true}}}};width:50%;text-align:right;padding-left:0.5em;padding-right:0.5em;"{{!}}{{{2|}}}{{#if:{{{3|}}}|{{!!}}style="width:50%;text-align:left;padding-left:0.5em;padding-right:0.5em;"{{!}} {{Шарныктыш/n2|1={{{3}}}}} }}
+{{!}}-}}<noinclude>
+[[Категорий:Кышкар-влак:Шарныктыш-влак|{{PAGENAME}}]]</noinclude>
