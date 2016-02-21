@@ -71,7 +71,7 @@
 |-
 {{#if:{{{Вставка|}}}|{{{Вставка|}}}}}
 |-
-{{#if:{{wikidata|p373|{{{Commons|}}}}}|{{!}}colspan="2" class="metadata" style="border:solid #ddd; border-width:1px 0 0; width:100%; background:#f0f0f0; text-align:center"{{!}}'''[[:commons:Category:{{wikidata|p373|{{{Commons|}}}}}{{#if:{{{Марий лӱм|{{{1}}}}}}|{{!}}{{Видимый текст|{{Видимый текст|{{{Марий лӱм|{{{1}}}}}}}}}}|{{!}}{{wikidata|p373|{{{Commons|}}}}}}}]]'''{{nobr|[[Файл:Commons-logo.svg|12px]] [[Викиклат]]ыште}}
+{{#if:{{wikidata|p373|{{{Commons|}}}}}|{{!}}colspan="2" class="metadata" style="border:solid #ddd; border-width:1px 0 0; width:100%; background:#f0f0f0; text-align:center"{{!}}'''[[:commons:Category:{{wikidata|p373|{{{Commons|}}}}}{{#if:{{{Марий лӱм|{{{1}}}}}}|{{!}}{{Койшо текст|{{Койшо текст|{{{Марий лӱм|{{{1}}}}}}}}}}|{{!}}{{wikidata|p373|{{{Commons|}}}}}}}]]'''{{nobr|[[Файл:Commons-logo.svg|12px]] [[Викиклат]]ыште}}
 {{!}}-}}
 |}<!--
 
