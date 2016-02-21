@@ -1,0 +1,60 @@
+<noinclude>{{docpage}}</noinclude><includeonly>{{СИШ}}</includeonly>
+{{OnLua|Wikidata|formatStatements}}
+<templatedata>
+{
+	"description": "Шаблон, упрощающий работу со свойствами Викиданных, их использование в шаблонах и статьях.",
+	"params": {
+		"1": {
+			"label": "Свойство",
+			"description": "Идентификатор свойства на Викиданных, может содержать селекторы (см. Модуль:WikidataSelectors)",
+			"type": "string",
+			"required": true,
+			"example": "p1234"
+		},
+		"2": {
+			"label": "Локальное значение",
+			"description": "Значение, перекрывающее информацию с Викиданных, обычно это параметр шаблона в форме {{{параметр|}}}. Если значение равно «-», то будет возвращена пустая строка",
+			"type": "string"
+		},
+		"plain": {
+			"label": "Простое значение",
+			"description": "Если не 0, не пустая строка и не false, то значение возвращается в виде простой строки со значением без вики-форматирования",
+			"type": "boolean",
+			"default": "false"
+		},
+		"separator": {
+			"label": "разделитель",
+			"description": "для создания текстовой строки со списком оформленых заявлений из таблицы"
+		},
+		"conjunction": {
+			"label": "символ в конце",
+			"description": "для создания текстовой строки со списком оформленых заявлений из таблицы"
+		},
+		"monolingualLangTemplate": {
+			"label": "шаблон",
+			"description": "шаблон моноязычного текста",
+			"example": "lang или ref"
+		},
+		"monolingualSkipLanguage": {},
+		"text": {
+			"label": "код языка",
+			"example": "en"
+		}
+	}
+}
+</templatedata>
+<code><nowiki>{{Wikidata|1=Свойство|2=Локальное значение}}</nowiki></code>:
+: 1: Идентификатор свойства на Викиданных в формате <code>pXXXX</code>, список доступных свойств: [//www.wikidata.org/w/index.php?title=Special:AllPages&namespace=120 Special:AllPages:Properties].
+: 2: Значение, перекрывающее информацию с Викиданных, обычно это параметр шаблона в форме <code><nowiki>{{{parameter|}}}</nowiki></code>.
+::: Если это значение пусто, то только тогда оно будет затребовано с Викиданных.
+::: Рекомендуется не задавать в этом параметре значение, если оно равно значению на Викиданных. В таком случае, при его изменении в базе данных, оно может быть использовано сразу.
+<!-- Не понял, это нам предлагают что-то сделать?
+: More parameters needed?
+:* A parameter (or parameters) to check if data on Wikidata is the same as the override, or if data on Wikidata is missing, could be used for alerting maintenance (for instance by the use of hidden categories)
+:::* Check data on Wikidata is the same as the override -> Category: unneeded Wikidata override parameter
+:::* Check data on Wikidata is missing -> Category: missing Wikidata value
+:::* Check Check data on Wikidata is different from the override -> Category: check Wikidata inconsistency
+:* Qualifier / sources etc.-->
+
+== Шаблоны для форматирования отдельных свойств и типов ==
+{{Служебная:PrefixIndex/Шаблон:Wikidata/}}
