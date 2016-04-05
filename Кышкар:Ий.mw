@@ -5,22 +5,22 @@
 {{#ifexpr: {{PAGENAME}}<2001 |{{!}} {{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+2}} }} |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<1901 |{{!}} [[{{Курым|{{#expr:({{PAGENAME}}-1-({{PAGENAME}}-1)mod100)/100+3}}|plain}}|►]] |&nbsp; }}<!--
 --><br />
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<40 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-30)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-40}} ийла}}|◄]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<30 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-20)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-30}} ийла}}]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<20 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-10)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-20}} ийла}}]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<10 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-10}} ийла}}]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<40 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-30)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-40}} ийла}}|◄]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<30 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-20)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-30}} ийла}}]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<20 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10-10)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-20}} ийла}}]] |
+[[{{#ifexpr: {{PAGENAME}}-{{PAGENAME}}mod10<10 |{{#expr:({{PAGENAME}}-{{PAGENAME}}mod10)*(-1)+0}} ийла |{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10-10}} ийла}}]] |
 '''[[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10}} ийла]]'''
 {{#ifexpr: {{PAGENAME}}<2010 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+10}} ийла]] |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<2000 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+20}} ийла]] |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<1990 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+30}} ийла]] |&nbsp; }}
 {{#ifexpr: {{PAGENAME}}<1980 |{{!}} [[{{#expr:{{PAGENAME}}-{{PAGENAME}}mod10+40}} ийла|►]] |&nbsp; }}<!--
 --><br />
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<11 |{{#expr:({{PAGENAME}}-11)*(-1)}} ий|{{#expr:{{PAGENAME}}-10}} }}|◄◄]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<6 |{{#expr:({{PAGENAME}}-6)*(-1)}} ий|{{#expr:{{PAGENAME}}-5}} }}|◄]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<5 |{{#expr:({{PAGENAME}}-5)*(-1)}} ий|{{#expr:{{PAGENAME}}-4}} }}]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<4 |{{#expr:({{PAGENAME}}-4)*(-1)}} ий|{{#expr:{{PAGENAME}}-3}} }}]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<3 |{{#expr:({{PAGENAME}}-3)*(-1)}} ий|{{#expr:{{PAGENAME}}-2}} }}]] |
-[[м. э. деч ончычсо {{#ifexpr: {{PAGENAME}}<2 |{{#expr:({{PAGENAME}}-2)*(-1)}} ий|{{#expr:{{PAGENAME}}-1}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<11 |{{#expr:({{PAGENAME}}-11)*(-1)}} ий|{{#expr:{{PAGENAME}}-10}} }}|◄◄]] |
+[[{{#ifexpr: {{PAGENAME}}<6 |{{#expr:({{PAGENAME}}-6)*(-1)}} ий|{{#expr:{{PAGENAME}}-5}} }}|◄]] |
+[[{{#ifexpr: {{PAGENAME}}<5 |{{#expr:({{PAGENAME}}-5)*(-1)}} ий|{{#expr:{{PAGENAME}}-4}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<4 |{{#expr:({{PAGENAME}}-4)*(-1)}} ий|{{#expr:{{PAGENAME}}-3}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<3 |{{#expr:({{PAGENAME}}-3)*(-1)}} ий|{{#expr:{{PAGENAME}}-2}} }}]] |
+[[{{#ifexpr: {{PAGENAME}}<2 |{{#expr:({{PAGENAME}}-2)*(-1)}} ий|{{#expr:{{PAGENAME}}-1}} }}]] |
 '''{{PAGENAME}}'''
 {{#ifexpr: {{PAGENAME}} <= 2061 |{{!}} [[{{#expr:{{PAGENAME}}+1}}]] |&nbsp; }}
 {{#ifexpr: {{PAGENAME}} <= 2060 |{{!}} [[{{#expr:{{PAGENAME}}+2}}]] |&nbsp; }}
