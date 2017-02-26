@@ -1,42 +1,5 @@
 {| cellspacing="0" cellpadding="0" style="clear: {{{clear|right}}}; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: {{{width|{{{1|auto}}}}}};" {{#if:{{{limit|}}}|class="toclimit-{{{limit}}}"}}
 | __TOC__
-|}
-<noinclude>
-
-Тиде ямдылык вуйлымашым пурла велыш вераҥда. Тидым ышталан, ямдылыкым лаштыкын кеч могай верышкыж шындыза.
-
-[[ar:قالب:فهرس يسار]]
-[[bar:Vorlage:TOCright]]
-[[be-x-old:Шаблён:Зьмест справа]]
-[[ca:Plantilla:TOCright]]
-[[ceb:Plantilya:TOCright]]
-[[cs:Šablona:RIGHTTOC]]
-[[da:Skabelon:TOC right]]
-[[de:Vorlage:TOCright]]
-[[dsb:Pśedłoga:TOC-right]]
-[[en:Template:TOC right]]
-[[eo:Ŝablono:TOC-dekstre]]
-[[es:Plantilla:TOC derecha]]
-[[fr:Modèle:Sommaire à droite]]
-[[he:תבנית:תוכן שמאל]]
-[[hr:Predložak:TOCright]]
-[[hsb:Předłoha:TOC-right]]
-[[hu:Sablon:TOCright]]
-[[id:Templat:TOCright]]
-[[it:Template:TOCright]]
-[[ja:Template:TOCright]]
-[[ko:틀:TOCright]]
-[[mk:Шаблон:Содржина-десно]]
-[[no:Mal:TOC right]]
-[[os:Шаблон:TOC-Right]]
-[[pl:Szablon:Spis treści]]
-[[pnt:Πρότυπον:TOC-right]]
-[[pt:Predefinição:TOC-direita]]
-[[sv:Mall:TOCright]]
-[[szl:Szablon:TOC-right]]
-[[vi:Tiêu bản:Mục lục bên phải]]
-[[wuu:模板:Right TOC]]
-[[zh:Template:TOCright]]
-[[zh-yue:Template:TOCright]]
-[[uk:Шаблон:TOCright]]
+|}<noinclude>
+{{doc}}<!-- Тиде ямдылык вуйлымашым пурла велыш вераҥда. Тидым ышталан, ямдылыкым лаштыкын кеч могай верышкыж шындыза! -->
 </noinclude>
