@@ -1,0 +1,53 @@
+<noinclude>{{docpage}}</noinclude>
+Шаблон '''{{t|TOC right}}''' перемещает оглавление страницы на её правый край. Как правило, это требуется для более рационального использования свободного пространства. Верхняя строка блока оглавления будет размещена у начала того абзаца, перед которым вставлен данный шаблон.
+
+Синтаксис:
+
+{{tc|TOC right|2=width=''ширина оглавления''|3=limit=''число''}}
+
+Параметры не обязательны.
+
+{{другие названия шаблона|TOCright|TOC-right|TOC-Right|toc-right|содержание справа|оглавление справа}}
+
+== См. также ==
+* {{tl|TOC left}}
+
+<includeonly>
+[[Категория:Шаблоны:TOC]]
+
+[[ar:قالب:فهرس يسار]]
+[[bar:Vorlage:TOCright]]
+[[be-x-old:Шаблён:Зьмест справа]]
+[[ca:Plantilla:TOCright]]
+[[ceb:Plantilya:TOCright]]
+[[cs:Šablona:RIGHTTOC]]
+[[da:Skabelon:TOC right]]
+[[de:Vorlage:TOCright]]
+[[dsb:Pśedłoga:TOC-right]]
+[[en:Template:TOC right]]
+[[eo:Ŝablono:TOC-dekstre]]
+[[es:Plantilla:TOC derecha]]
+[[fr:Modèle:Sommaire à droite]]
+[[he:תבנית:תוכן שמאל]]
+[[hr:Predložak:TOCright]]
+[[hsb:Předłoha:TOC-right]]
+[[hu:Sablon:TOCright]]
+[[id:Templat:TOCright]]
+[[it:Template:TOCright]]
+[[ja:Template:TOCright]]
+[[ko:틀:TOCright]]
+[[mk:Шаблон:Содржина-десно]]
+[[no:Mal:TOC right]]
+[[os:Шаблон:TOC-Right]]
+[[pl:Szablon:Spis treści]]
+[[pnt:Πρότυπον:TOC-right]]
+[[pt:Predefinição:TOC-direita]]
+[[ru:Шаблон:TOC right]]
+[[sv:Mall:TOCright]]
+[[szl:Szablon:TOC-right]]
+[[vi:Tiêu bản:Mục lục bên phải]]
+[[wuu:模板:Right TOC]]
+[[zh:Template:TOCright]]
+[[zh-yue:Template:TOCright]]
+[[uk:Шаблон:TOCright]]
+</includeonly>
