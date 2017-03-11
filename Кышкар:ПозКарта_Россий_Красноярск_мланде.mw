@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+| name = Красноярск мланде
+| type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Krasnoyarsk Krai.jpg
+ |#default = Outline Map of Krasnoyarsk Krai.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категорий:Кышкар-влак:Позиций карте-влак:Россий|Красноярск мланде]]
+
+[[Категорий:Кышкар-влак:Позиций карте-влак:Красноярск мланде|Красноярск мланде]]
+</noinclude>
