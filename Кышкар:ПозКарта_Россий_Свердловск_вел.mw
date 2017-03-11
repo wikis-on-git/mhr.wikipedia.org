@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Свердловск вел
+|top = 62.055657
+|bottom = 56.041825
+|left = 56.99817
+|right = 67.005582
+|image  = {{#switch:{{{2|}}}
+ |physical = Relief-Sverdlovskaya.png
+ |#default = Sverdlovskaya-pozkarta.png
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россий}}
+[[Категория:Кышкар-влак:Позиций карте-влак:Россий|Свердловск вел]]
+
+</noinclude>
