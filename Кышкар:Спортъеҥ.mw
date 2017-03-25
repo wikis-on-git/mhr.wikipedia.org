@@ -1,0 +1,99 @@
+<includeonly>{{#if:{{NAMESPACE}}||[[Категорий:Тиштер почеш палыме еҥ-влак]]}}</includeonly>
+{| style="{{float right}};width: {{{ширина|270px}}}; text-align: left; font-size: 85%; border:1px solid #BBBBBB; background:#FAFAFA;"  cellpadding="1" cellspacing="1"
+|-
+|colspan="2"|
+{| style="width:100%; text-align: left;" 
+|-
+| colspan="2" style="text-align:center; font-size: large;" | '''{{{лӱм}}}'''
+|-
+| colspan="2" style="text-align:center;" | {{#if:{{{портрет|<noinclude>-</noinclude>}}}
+| [[Файл:{{{портрет}}}|{{#if:{{{кугытшо|<noinclude>-</noinclude>}}}|
+{{{кугытшо}}}|255px}}]]
+<small>{{{файл нерген|<noinclude>{{{файл нерген}}}</noinclude>}}}</small>}}
+|-
+{{#if:{{{полное имя|<noinclude>-</noinclude>}}}{{{оригинальное имя|<noinclude>-</noinclude>}}}|
+{{!}}style="background: #B0C4DE;" colspan="2" align=center{{!}}'''Спортъеҥ нерген'''
+{{!}}-
+}}
+{{#if:{{{пол|<noinclude>-</noinclude>}}}|
+{{!}}'''Пол:'''{{!}}{{!}}{{{пол}}}
+{{!}}-
+}}
+{{#if:{{{полное имя|<noinclude>-</noinclude>}}}|
+{{!}}'''Полное имя:'''{{!}}{{!}}{{{полное имя}}}
+{{!}}-
+}}
+{{#if:{{{оригинальное имя|<noinclude>-</noinclude>}}}|
+{{!}}'''Оригинальное имя:'''{{!}}{{!}}{{{оригинальное имя}}}
+{{!}}-
+}}
+{{#if:{{{прозвища|<noinclude>-</noinclude>}}}|
+{{!}}'''Прозвище(-а):'''{{!}}{{!}}{{{прозвища}}}
+{{!}}-
+}}
+{{#if:{{{национальность|<noinclude>-</noinclude>}}}|
+{{!}}'''Элъеҥ:'''{{!}}{{!}}{{{национальность}}}
+{{!}}-
+}}
+{{#if:{{{специализация|<noinclude>-</noinclude>}}}|
+{{!}}'''Специализация:'''{{!}}{{!}}{{{специализация}}}
+{{!}}-
+}}
+{{#if:{{{клуб|<noinclude>-</noinclude>}}}|
+{{!}}'''Клуб:'''{{!}}{{!}}{{{клуб}}}
+{{!}}-
+}}
+{{#if:{{{Шочын|<noinclude>-</noinclude>}}}|
+{{!}}'''Шочын:'''{{!}}{{!}}{{{Шочын}}}
+{{!}}-
+}}
+{{#if:{{{шочмо вер|<noinclude>-</noinclude>}}}|
+{{!}}'''Шочмо вер:'''{{!}}{{!}}{{{шочмо вер}}}
+{{!}}-
+}}
+{{#if:{{{Колен|<noinclude>-</noinclude>}}}|
+{{!}}'''Колен:'''{{!}}{{!}}{{{Колен}}}
+{{!}}-
+}}
+{{#if:{{{колымо вер|<noinclude>-</noinclude>}}}|
+{{!}}'''Колымо вер:'''{{!}}{{!}}{{{колымо вер}}}
+{{!}}-
+}}
+{{#if:{{{года карьеры|<noinclude>-</noinclude>}}}|
+{{!}}'''Профессиональная карьера:'''{{!}}{{!}}{{{года карьеры}}}
+{{!}}-
+}}
+{{#if:{{{рабочая сторона|<noinclude>-</noinclude>}}}|
+{{!}}'''Рабочая сторона:'''{{!}}{{!}}{{{рабочая сторона}}}
+{{!}}-
+}}
+{{#if:{{{тренеры|<noinclude>-</noinclude>}}}|
+{{!}}'''Тренер(ы) в наст.время:'''{{!}}{{!}}{{{тренеры}}}
+{{!}}-
+}}
+{{#if:{{{кӱкшыт|<noinclude>-</noinclude>}}}|
+{{!}}'''Кӱкшыт:'''{{!}}{{!}}{{{кӱкшыт}}}
+{{!}}-
+}}
+{{#if:{{{масса|<noinclude>-</noinclude>}}}|
+{{!}}'''[[Вес#Вес и масса|Вес]]:'''{{!}}{{!}}{{{масса|{{{вес}}}}}}
+{{!}}-
+}}
+|}
+{{#if:{{{медаль-влак|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}}colspan="2"{{!}}
+{{{!}} class="{{{class|collapsible collapsed}}}" style="width:100%; text-align: left;"
+{{!}}-
+!colspan="3" style="text-align:center; background-color:#B0C4DE"{{!}} Медаль-влак
+{{!}}-
+{{#if:{{{1| }}}|{{!}}colspan="3" style="text-align:center; background-color:#FFFFFF'" {{!}} [[Файл:{{{1}}}|{{{2|100px}}}|{{{3|{{PAGENAME}}}}}]]<br /><small>{{{3|{{PAGENAME}}}}}
+{{!}}- }}
+{{{медаль-влак}}}
+{{!}}}
+}}
+|}<noinclude>
+
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
