@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Wikidata|formatStatements|property=p20|claim-module=Wikidata/Places|claim-function=formatPlaceWithQualifiers|value={{{1|}}}|conjunction=&#32;яки&#32;|plain={{{plain|false}}}}}{{#ifeq:{{NAMESPACENUMBER}}|10|[[Категория:Википедия:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}</includeonly><noinclude>{{doc}}
+[[Категория:Шаблоны:Викимедиа|{{PAGENAME}}]]
+</noinclude>
