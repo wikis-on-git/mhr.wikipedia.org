@@ -1,0 +1,9 @@
+== {{{day}}} ==
+{| style="background:none;"
+|- style="vertical-align:top;"
+|[[File:{{Potd/{{{month}}}-{{{day}}}}}|thumb|none|{{{width}}}px|{{Potd/{{{month}}}-{{{day}}} (mhr)}}]]<br />
+[{{SERVER}}{{localurl:Template:Potd/{{{month}}}-{{{day}}}|action=edit}} Сӱрет тӧрлаташ] — [{{SERVER}}{{localurl:Template:Potd/{{{month}}}-{{{day}}} (mhr)|action=edit}} (mhr) тӧрлаташ] <br />
+----
+
+<small>Oписание изображения [[:ru:Template:Potd/{{{month}}}-{{{day}}} (ru)|на русском]].</small>
+|}
