@@ -1,10 +1,3 @@
-{| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center;" class="wikitable"
-! ''[[Википедий:Ойырымо сӱрет|Ойырымо сӱрет]]''
-|-
-|style="padding:0;" class="toccolours"| [[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
-600</noinclude>px|]]
-|-
-|style="font-size:95%;"| {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (mhr)}}
-|-
-}}
+<center>{{Potd|width=500|lang=mhr}}</center>
+
 <noinclude>Этот шаблон показывает [[Википедий:Ойырымо сӱрет|изображение дня]], иллюстрирующее сегодня [[Тӱҥ_лаштык|Заглавную страницу]]. </noinclude>
