@@ -1,0 +1,4 @@
+<includeonly>{{Str sub|nocategory={{{nocategory|}}}|{{{1}}}|{{#expr:{{Str len|nocategory={{{nocategory|}}}|{{{1}}}}}-{{{2}}}}}|{{{2}}}}}</includeonly><noinclude>{{doc}}
+[[Категория:Википедия:Заимствованные шаблоны|{{PAGENAME}}]]
+[[Категория:Шаблоны:Работа со строками|str rightc]]
+</noinclude>
