@@ -54,7 +54,7 @@
 |тамга16 = Тӱрлӧ:
 |текст16 = {{{тӱрлӧ|}}}
 | ӱлнӧ_стиль = border-top:1px solid #DDD; background:#eaeaea;
-| ӱлнӧ = {{#if:{{{Commons|}}}|<div>'''[[commons:Category:{{{Commons}}}|{{{лӱм|{{{Commons|}}}}}}]]''' [[Викиклат]]ыште|{{wikidata/p373|text_before='''|text={{#if: {{{лӱм|}}} | {{{лӱм}}} | {{Сначала имя|{{PAGENAME}}}} }}|text_after=''' [[Викиклат]]ыште}}}}</div>}}
+| ӱлнӧ = {{#if:{{{Commons|}}}|<div>'''[[commons:Category:{{{Commons}}}|{{{лӱм|{{{Commons|}}}}}}]]''' [[Викиклат]]ыште|{{wikidata/p373|text_before='''|text={{#if: {{{лӱм|}}} | {{{лӱм}}} | {{Сначала имя|{{PAGENAME}}}} }}|text_after=''' [[Викиклат]]ыште}}</div>}}
 }}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#switch:{{{сӱрет|}}}|=[[Категорий:Википедий:Статьи о персоналиях без портретов]]|Replace this image male.svg=[[Категорий:Википедий:Статьи о персоналиях без портретов]]|Replace this image female.svg=[[Категорий:Википедий:Статьи о персоналиях без портретов]]|#default=}}}}}}</includeonly><noinclude>
 {{doc}}
 </noinclude>
