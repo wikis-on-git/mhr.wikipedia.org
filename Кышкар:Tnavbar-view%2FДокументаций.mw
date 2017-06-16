@@ -1,0 +1,24 @@
+<noinclude>{{docpage}}</noinclude>
+<includeonly>
+{{Используйте песочницу}}
+</includeonly>
+Синтаксис: {{tc|tnavbar-view|''кышкар лӱм''}}
+
+Вместо пиктограммы можно задать текст для ссылки с помощью параметра <code>text</code>:
+* {{пример||Навигаций четлык|3=text=кышкар}}
+* {{пример||Навигаций четлык|3=text=↓}}
+
+Для задания параметров текстового названия могут использоваться параметры <code>fontcolor</code> (например, <code>fontcolor=white</code>) и <code>fontstyle</code> (например, <code>fontstyle=background:#ccf;</code>). Оформление для всего блока можно задать с помощью параметра <code>style</code>. 
+
+* {{пример||Навигаций четлык|3=text=кышкар|4=fontcolor=green}}
+* {{пример||Навигаций четлык|3=text=кышкар|4=fontstyle=background:red; color:yellow|_comment=(Так делать не надо.)}}
+
+<code>fontcolor=white</code> без параметра <code>text</code> отобразит белую шестерёнку:
+* <span style="background:lightgrey">{{пример||Навигаций четлык|3=fontcolor=white}}</span>
+
+== Тыгак ончо ==
+* {{t|tnavbar}}
+
+<includeonly>
+[[Категорий:Кышкар-влак:Для шаблонов]]
+</includeonly>
