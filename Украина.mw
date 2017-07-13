@@ -5,7 +5,7 @@ Flag=[[Файл:Flag_of_Ukraine.svg|150px]]|
 CoA=[[Файл:Lesser Coat of Arms of Ukraine.svg|110px]]|
 FlagLnk=[[Украинын тистыже]]|
 CoALnk=[[Украинын ойыпшо]]|
-MapName=[[Файл:Europe-Ukraine (disputed territories, 2).svg.jpg|300px]]
+MapName=[[Файл:Europe-Ukraine (disputed territory).svg|300px]]
 CtrNm=[[Киев]]|
 
 AreaRnk=43-шо|
@@ -19,10 +19,10 @@ Government=[[республик]]|
 
 OfLangs=[[украин йылме|украин]]|
 HoSTtl=[[президент|Президент]]|
-HoSNm=[[Пётр Порошенко]]|
+HoSNm=[[Петро Порошенко]].|
 
 HoGTtl=[[премьер-министр|Премьер-министр]]|
-HoGNm=[[Владимир Гройсман]]|
+HoGNm=[[Владимир Гройсман]].|
 
 GDP=131 197 [[Камысыр|кмср]] $|
 GDPRnk=47-ше|
@@ -30,7 +30,7 @@ GDPDate=[[2007]]|
 GDPCit=2 852 $|
 GDPCRnk=88-ше|
 
-Currency=[[гривна]] (UAH)|
+Currency=[[гривня]]. (UAH)|
 Time=[[UTC]] +2|
 Tele=+380|
 Domain=[[.ua]]|
