@@ -5,8 +5,8 @@
 | left   = 20.4
 | right  = 27.2
 | image  = {{#switch:{{{2|}}}
- |#default = Lithuania location map.svg
  |physical = Relief Map of Lithuania.jpg
+ |#default = Lithuania adm location map.svg
 }}
 | areas = {{#switch:{{{2|}}}
  |#default = {{Кышкар:ПозКарта Литва/adm}}
