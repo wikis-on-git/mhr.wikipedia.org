@@ -49,4 +49,4 @@
  |внизу       = {{#if:{{wikidata|P856|{{{веб-сайт|}}}}}|'''Сайт:''' {{wikidata|P856|{{{веб-сайт|}}}}}}}
  |стиль_внизу = url
 }}
---></includeonly><noinclude>{{doc}}</noinclude><!--
+</includeonly><noinclude>{{doc}}</noinclude>
