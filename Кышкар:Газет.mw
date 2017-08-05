@@ -50,5 +50,6 @@
  |стиль_внизу = url
 }}
 {{#if:{{NAMESPACE}}{{{nocat|}}}||<!--
+}}
 -->[[Категорий:Тиштер почеш газет-влак]]<!--
 --></includeonly><noinclude>{{doc}}</noinclude><!--
