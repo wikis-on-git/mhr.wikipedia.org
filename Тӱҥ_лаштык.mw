@@ -5,20 +5,18 @@
  |style="background:#C8D8FF"| Тачысе кече Википедийыште: &nbsp;&nbsp;'''[[{{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}]] [[{{CURRENTYEAR}}]] ий'''
  |}
 {|
-|-
 | rowspan=2 style="width:50%; vertical-align: top;"|
+<div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 0ex;"><!--
+--><h2 style="font-size:130%; padding:0; margin:0; font-weight:bold; border:0;">ВИКИУВЕР</h2><!--
+-->{{Мо марий тӱняште ышталтеш}}<!--</div>
+<!--
+-->
 <div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
 <div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;">
 {{Ойырымо сӱрет}}
 </div>
 <div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;">{{Тӱҥ лаштык/Кечышот}}</div>
-<!--
--->
-<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;"><!--
---><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">Ты жапыште пырля ыштыме паша</h2><!--
--->Пашашке тыят шке надыретым пыштен кертат. Фотосӱрет, ешартыш материал-влакет уло гын - пашаш ушно. "Марий Эл" проектым ты жапыште темаш йодына.
-'''{{Марий Эл}}''' 
-</div>
 <br>
 |style="width:50%"|
 <div style="background-color: #C8D8FF; font-size: 1px; height: 8px; border: 1px solid #AAAAAA; -moz-border-radius-topright: 0.5em; -moz-border-radius-topleft:0.5em;"></div>
@@ -55,6 +53,13 @@
 * Викиновости - [[:n:ru:Категория:Викимедиа|Викимедиа]] / [[:n:ru:Категория:Википедия|Википедия]] {{ref-ru}}
 * [[:wmru:|Викимедиа Россия]] {{ref-ru}}
 * [[m:Wikipedias in the languages of Russia/ru|Мета-проект "Википедии на языках народов России"]] {{ref-ru}}
+</div>
+<!--
+-->
+<div style="border: 1px solid #8898BF; border-top: 0px solid white; padding: 5px 5px 0 5px; margin-bottom: 2ex;"><!--
+--><h2 style="font-size:100%; padding:0; margin:0; font-weight:bold; border:0;">Ты жапыште пырля ыштыме паша</h2><!--
+-->Пашашке тыят шке надыретым пыштен кертат. Фотосӱрет, ешартыш материал-влакет уло гын - пашаш ушно. "Марий Эл" проектым ты жапыште темаш йодына.
+'''{{Марий Эл}}''' 
 </div>
 |}
 
