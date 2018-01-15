@@ -1,4 +1,4 @@
-{| border=1 align=right cellpadding=2 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+{| align="right" class="infobox" style="border-spacing: 0px; padding: 0px 0px; width: 300px; font-size:85%; line-height:130%;" cellspacing="0px"
 |+
 <font size="+1">
 {{#if:{{{OfNm1|}}}|'''{{{OfNm1}}}'''<br><br><!--Лӱмжӧ вес кугыжаныш йылмыште + <br>-->|}}
