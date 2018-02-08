@@ -1,0 +1,11 @@
+{| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center;" class="wikitable"
+! ''[[Википедий:Ойырымо мультимедиа|Ойырымо мультимедиа]]''
+|-
+|style="padding:0;" class="toccolours"| [[Файл:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
+400</noinclude>px|]]
+|-
+|style="font-size:95%;"| {{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (mhr)}}
+<!--|-
+|<small>Подпись к данному медиафайлу: ''[[Commons:Template:Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (en)|на английском]]'' или [[Commons:Template:Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (ru)|на русском]].</small>-->
+|-
+|}
