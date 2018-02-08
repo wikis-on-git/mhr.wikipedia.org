@@ -1,0 +1,7 @@
+== {{{day}}} ==
+{| style="background:none;"
+|- style="vertical-align:top;"
+|[[File:{{Motd/{{{month}}}-{{{day}}}}}|thumb|none|{{{width}}}px|{{Motd/{{{month}}}-{{{day}}} (mhr)}}]]</br>
+[[c:Template:Motd/{{{month}}}-{{{day}}}|Файл-источник]] [{{SERVER}}{{localurl:Template:Motd/{{{month}}}-{{{day}}}|action=edit}} Файл для mhr] [{{SERVER}}{{localurl:Template:Motd/{{{month}}}-{{{day}}} (mhr)|action=edit}} Подпись для mhr] <br />
+<small>[[Commons:Template:Motd/{{{month}}}-{{{day}}} (en)|Label in English]] / [[Commons:Template:Motd/{{{month}}}-{{{day}}} (ru)|Подпись на русском]]</small> 
+|}<noinclude>[[Категорий:Википедий]]</noinclude>
