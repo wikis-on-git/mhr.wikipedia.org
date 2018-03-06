@@ -1,4 +1,4 @@
-{| class="infobox geography" style="margin-left:0.5em; background-color:#F5F5F5; border-collapse: collapse; float: right; font-size:90 %; width:300px"
+{| align="right" class="infobox" style="border-spacing: 1px; padding: 0px 0px; width: 300px; font-size:85%; line-height:130%;" cellspacing="1px"
 | colspan="2" bgcolor=#F5F5F5 align="center" style="border:solid #C0C0C0; border-width:0px 0px" | <big>'''{{{лӱм}}}''' {{#if: {{{шкелӱм|<noinclude>-</noinclude>}}}
 | <br />'''{{{шкелӱм}}}'''}}</big><br /><small>{{#if: {{{статус|<noinclude>-</noinclude>}}}
 | {{{статус}}} }}</small>
