@@ -26,9 +26,9 @@
 {{!}} align="center" valign="middle" width="50%" style="padding-left:1em; padding-top:1em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{тисте|}}} |{{{тисте}}}|Flag of None.svg}}|border|120px|]]|}}
 {{#if:{{{ойып|<noinclude>-</noinclude>}}}|
 {{!}} align="center" width="50%" style="padding-top:0em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{ойып|}}} |{{{ойып}}}|Coats of arms of None.svg}}|80px|]]|}}
-{{!}} width="145" {{!}}
+{{!}} width="140" {{!}}
 {{!}}-
-{{!}} width="145" {{!}}
+{{!}} width="140" {{!}}
 {{#if:{{{тисте|<noinclude>-</noinclude>}}}|
 {{!}} align="center" width="50%" style="line-height:1.2em; text-align: center;"{{!}} {{#if: {{{тистын_возымашыже|}}} | {{{тистын_возымашыже}}} | [[Тисте]]}}|}}
 {{#if:{{{ойып|<noinclude>-</noinclude>}}}|
