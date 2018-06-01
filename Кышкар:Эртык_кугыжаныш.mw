@@ -38,11 +38,11 @@
 }}
  |-
 {{#if: {{{девиз|<noinclude>-</noinclude>}}} |
-{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95 %; background-color:#f9f9f9" {{!}} '''[[Девиз]]'''<br />{{{девиз}}}
+{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95%; background-color:#f9f9f9" {{!}} '''[[Девиз]]'''<br />{{{девиз}}}
 {{!}}-
 }}
 {{#if: {{{чапмуро|<noinclude>-</noinclude>}}} |
-{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95 %; background-color:#f9f9f9" {{!}} '''[[Чапмуро]]'''<br />{{{чапмуро}}}
+{{!}} colspan="2" style="line-height:1.2em; padding:0.4em 0.6em 0.4em 0.6em; border-top:0px; vertical-align: middle; text-align: center; font-size:95%; background-color:#f9f9f9" {{!}} '''[[Чапмуро]]'''<br />{{{чапмуро}}}
 {{!}}-
 }}
  |-
@@ -330,11 +330,11 @@
 {{#ifeq: {{#expr: {{#expr:{{#if:{{{p8|}}}|1|0}}+{{#if:{{{s8|}}}|1|0}}}} > 0}} | 1 |
 <!----- Preceding and succeding entities without flags (used if more than 5) ----->
 {{!}} colspan="2" {{!}}
-{{{!}} width=100 % style="text-align: center; margin:0 auto;background-color:#f9f9f9;border-top:1px"
+{{{!}} width=100% style="text-align: center; margin:0 auto; background-color:#f9f9f9; border-top:1px"
 {{!}}-
-{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top:1px solid #C0C0C0; padding-bottom:0"{{!}}<div id="before-after"></div> {{#if:{{{p1|}}}|'''{{{type_before|Предшественники:}}}'''}} {{!}}{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top:1px solid #C0C0C0; padding-bottom:0"{{!}} {{#if:{{{s1|}}}|'''{{{type_after|Преемники:}}}'''}}
+{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top: 1px solid #C0C0C0; padding-bottom:0"{{!}}<div id="before-after"></div> {{#if:{{{p1|}}}|'''{{{type_before|Предшественники:}}}'''}} {{!}}{{!}} align="center" style="border-bottom:0px; border-right:0px; border-top:1px solid #C0C0C0; padding-bottom:0"{{!}} {{#if:{{{s1|}}}|'''{{{type_after|Преемники:}}}'''}}
 {{!}}-
-{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{p1|}}} | {{{!}} width=100 % style="text-align: center; margin:0 auto; border:0;background-color:#f9f9f9"
+{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{p1|}}} | {{{!}} width=100% style="text-align: center; margin:0 auto; border:0; background-color:#f9f9f9"
 {{!}}-
 {{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_p1|}}}|[[Файл:{{{flag_p1}}}|20px|border]]|{{#if:{{{image_p1|}}}|{{{image_p1}}}|[[Файл:Blank.png|20px|border]]}}}}
 {{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p1}}}]]
@@ -396,7 +396,7 @@
 {{!}}style="border:0; padding:0; vertical-align: middle; text-align: left"{{!}} [[{{{p15}}}]]}}
 {{!}}}
 }}
-{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{s1|}}} | {{{!}} width=100 % style="text-align: center; margin:0 auto; style="border:0;background-color:#f9f9f9"
+{{!}} valign="top" align="center" style="border:0"{{!}} {{#if:{{{s1|}}} | {{{!}} width=100% style="text-align: center; margin:0 auto; style="border:0; background-color:#f9f9f9"
 {{!}}-
 {{!}}style="border:0; padding:0; vertical-align: middle; text-align: right"{{!}} [[{{{s1}}}]]
 {{!}}style="border:0; padding:0; vertical-align: middle"{{!}} {{#if:{{{flag_s1|}}}|[[Файл:{{{flag_s1}}}|20px|border]]|{{#if:{{{image_s1|}}}|{{{image_s1}}}|[[Файл:Blank.png|20px|border]]}}}}
