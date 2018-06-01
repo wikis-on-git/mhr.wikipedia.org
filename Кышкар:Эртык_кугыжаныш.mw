@@ -23,9 +23,9 @@
 {{!}}-
 {{!}} width="*" {{!}}
 {{#if:{{{тисте|<noinclude>-</noinclude>}}}|
-{{!}} align="center" valign="middle" width="50%" style="padding-left:1em; padding-top:1em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{тисте|}}} |{{{тисте}}}|Flag of None.svg}}|border|130px|]]|}}
+{{!}} align="center" valign="middle" width="50%" style="padding-left:1em; padding-top:1em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{тисте|}}} |{{{тисте}}}|Flag of None.svg}}|border|120px|]]|}}
 {{#if:{{{ойып|<noinclude>-</noinclude>}}}|
-{{!}} align="center" width="50%" style="padding-top:0em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{ойып|}}} |{{{ойып}}}|Coats of arms of None.svg}}|90px|]]|}}
+{{!}} align="center" width="50%" style="padding-top:0em; vertical-align: middle" {{!}} [[Файл:{{#if: {{{ойып|}}} |{{{ойып}}}|Coats of arms of None.svg}}|80px|]]|}}
 {{!}} width="145" {{!}}
 {{!}}-
 {{!}} width="145" {{!}}
