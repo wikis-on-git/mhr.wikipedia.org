@@ -1,6 +1,5 @@
-<div class="metadata" style="background-color:#E8EEF7;margin:0 auto;padding: 0 1em;border: 1px solid #AAAAAA;">
-'''Здесь находятся завершившиеся обсуждения. Просьба не вносить изменений.'''
-----<noinclude>
+<div class="krcwiki-closedDiscussion" style="background-color:#eaecf0; margin:0 auto; padding:0 1em; border:1px solid #a2a9b1;"><div style="margin:0 -1.1em; padding: .2em 1em; font-size:90%; color:#4b4d4b; background-color:#ccd1db; border:0;margin-bottom:.5em;">'''{{{1|Здесь находятся завершившиеся обсуждения. Просьба не вносить изменений.}}}'''</div><noinclude>
+</div>
 
 == Использование ==
 Шаблон используется для маркировки архивных страниц, содержащих завершившиеся обсуждения.
