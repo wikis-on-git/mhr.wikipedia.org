@@ -5,7 +5,7 @@
 {{#if:{{{cӱрет|}}}|{{{!}}style="background:inherit;width:100%;"
 {{#if:{{{сӱрет|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}Сӱрет}}
 {{!}}-
-{{#if:{{{сӱрет|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{сӱрет|}}}|size=290x435px|sizedefault=frameless|center=yes}}}}
+{{#if:{{{сӱрет|}}}|{{!}}[[File:{{{сӱрет}}}|{{#if:{{{сӱрет лопкытшо|}}}|{{{сӱрет лопкытшо|}}}|200}}px|Сӱрет]]}}
 {{!}}} }}
 <!-- ойып ден тисте -->
 {{#if:{{{ойып|}}}{{{тисте|}}}|{{{!}}style="background:inherit;width:100%;"
