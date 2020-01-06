@@ -1,6 +1,6 @@
-<includeonly>{{Template doc begin|{{{1|{{SUBJECTPAGENAME}}/Документаций}}}|notoc={{{notoc|}}}}}
+<includeonly>{{doc/begin|{{{1|{{SUBJECTPAGENAME}}/Документаций}}}|notoc={{{notoc|}}}}}
 {{{{{1|{{SUBJECTPAGENAME}}/Документаций}}}}}</div>
-{{Template doc end}}</includeonly><noinclude>
+{{doc/end}}</includeonly><noinclude>
 {{doc}}
 <!--
 [Mhr]: Категорийым да интервиким ӱлыллаштыкыш ешарыза /Документаций тышке огыл!
