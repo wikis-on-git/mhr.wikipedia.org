@@ -1,0 +1,39 @@
+{{Навигаций четлык
+| name = Lua
+| state = {{{state|{{{1|}}}}}}
+| title = [[Lua]]
+| listclass = hlist
+| colheaderstyle = white-space:nowrap;
+| colstyle = text-align:center;
+
+| col1header = Компиляторы <!--(implementations, not ports)-->
+| col1 =
+* [[Lua|Lua]]
+* [[LuaJIT]]
+* [[Parrot|Parrot]]
+
+| col2header = Фреймворки и [[Динамически подключаемая библиотека|DLL]]
+| col2 =
+* [[IUP|IUP]]
+* [[Kepler (ПО)|Kepler]]
+* [[LÖVE]]
+
+| col3header = Порты и дистрибутивы
+| col3 =
+* [[Plua]]
+* [[Lua Player]]
+* [[Corona SDK]]
+
+| col4header = [[Integrated development environment|IDE]]s
+| col4 =
+* [[Decoda]]
+* [[ZeroBrane Studio|Studio]]
+* [[SciTE]]
+* [[Сравнение IDE#Lua|IDE]]
+
+| col5header = Приложения
+| col5 =
+* [[Prosody|Prosody]]
+* [[Tarantool]]
+* [[Torch]]
+ }}<noinclude>[[Категорий:Кышкар-влак:Языки программирования|Lua]]</noinclude>
