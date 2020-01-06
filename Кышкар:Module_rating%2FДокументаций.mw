@@ -1,0 +1,31 @@
+{{docpage}}
+
+Этот шаблон используется для оценки качества [[Википедий:Модуль-влак|модулей]]. Он находится в верхней части /doc подстраницы модуля и информирует пользователей о своём рейтинге, а также ставит модуль в категорию слежения.
+
+== Использование ==
+Основное:
+{{pre|{{tlx|module rating|''rating''}}}}
+
+Без категорий:
+{{pre|{{tlx|module rating|''rating''|3=nocat=true}}}}
+
+== Рейтинг ==
+Оценка должна быть помещена в первом параметре. Есть пять различных оценок: '''pre-alpha''', '''alpha''', '''beta''', '''release''', и '''protected''', а также короткие коды псевдонимы для каждой из оценок.
+
+{| class="wikitable"
+! Рейтинг !! Псевдоним !! Результат
+|-
+| <code>pre-alpha</code> || <code>prealpha</code><br /><code>pa</code> || {{module rating|pre-alpha|nocat=true|demospace=Module}}
+|-
+| <code>alpha</code> || <code>a</code> || {{module rating|alpha|nocat=true|demospace=module}}
+|-
+| <code>beta</code> || <code>b</code> || {{module rating|beta|nocat=true|demospace=module}}
+|-
+| <code>release</code> || <code>r</code><br /><code>general</code><br /><code>g</code> || {{module rating|release|nocat=true|demospace=module}}
+|-
+| <code>protected</code> || <code>protect</code><br /><code>p</code> || {{module rating|protected|nocat=true|demospace=module}}
+|}
+
+<includeonly>
+[[Категорий:Кышкар-влак:Для документирования шаблонов]]
+</includeonly>
