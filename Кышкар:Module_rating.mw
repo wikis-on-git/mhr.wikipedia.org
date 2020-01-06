@@ -1,0 +1,35 @@
+{{Module other|{{ombox
+ | type      = notice
+ | image     = {{#switch: {{{1|}}}
+   | pre-alpha | prealpha | pa = [[File:Ambox warning blue construction.svg|40x40px|link=]]
+   | alpha | a                 = [[File:Alpha lowercase.svg|26x26px|link=]]
+   | beta | b                  = [[File:Greek lc beta.svg|40x40px|link=]]
+   | release | r | general | g = [[File:Green check.svg|40x40px|link=]]
+   | protected | protect | p   = [[File:Padlock-silver.svg|40x40px|link=]]
+  }}
+ | style     = 
+ | textstyle = 
+ | text      = {{#switch: {{{1|}}}
+   | pre-alpha | prealpha | pa = Этот модуль оценён как [[:Категорий:Модуль-влак:Пре-альфа версии|пре-альфа-версия]]. Он незакончен и может находиться в разработке. Он не должен использоваться в статьях. Модули остаются в этой стадии до тех пор, пока автор или кто-либо иной не сочтёт их структуру удовлетворительной.<!--
+   -->{{#switch: {{SUBPAGENAME}}|doc|sandbox=<!-- No category for /doc or /sandbox subpages -->
+       | {{#ifeq: {{{nocat|}}} | true | <!-- No category if user sets nocat=true --> | [[Категорий:Модуль-влак:Пре-альфа версии]] }}
+      }}
+   | alpha | a                 = Этот модуль оценён как [[:Категорий:Модуль-влак:Альфа-версии|альфа-версия]]. Он готов для тестирований и может быть использован на небольшом количестве страниц для обнаружения проблем. Предложения по изменениям и дополнениям приветствуются.<!--
+   -->{{#switch: {{SUBPAGENAME}}|doc|sandbox=<!-- No category for /doc or /sandbox subpages -->
+       | {{#ifeq: {{{nocat|}}} | true | <!-- No category if user sets nocat=true --> | [[Категорий:Модуль-влак:Альфа-версии]] }}
+      }}
+   | beta | b                  = Этот модуль оценён как [[:Категорий:Модуль-влак:Бета-версии|бета-версия]]. Он готов для широкого применения, но должен применяться с осторожностью.<!--
+   -->{{#switch: {{SUBPAGENAME}}|doc|sandbox=<!-- No category for /doc or /sandbox subpages -->
+       | {{#ifeq: {{{nocat|}}} | true | <!-- No category if user sets nocat=true --> | [[Категорий:Модуль-влак:Бета-версии]] }}
+      }}
+   | release | r | general | g = Этот модуль оценён как [[:Категорий:Модуль-влак:Стабильные|готовый к использованию]]. Предполагается, что все баги устранены и он готов для широкого использования. Его можно указывать на справочных страницах и рекомендовать к использованию новым участникам. Для его изменения и тестирования, пожалуйста, [[ВП:ТЕСТЫ|используйте песочницу]].<!--
+   -->{{#switch: {{SUBPAGENAME}}|doc|sandbox=<!-- No category for /doc or /sandbox subpages -->
+       | {{#ifeq: {{{nocat|}}} | true | <!-- No category if user sets nocat=true --> | [[Категорий:Модуль-влак:Стабильные]] }}
+      }}
+   | protected | protect | p   = Этот модуль относится к [[:Категорий:Модуль-влак:Критические|критическим]]. У него очень много включений или он используется с подстановкой. Из-за опасности вандализма или ошибочного редактирования он был защищён.<!--
+   -->{{#switch: {{SUBPAGENAME}}|doc|sandbox=<!-- No category for /doc or /sandbox subpages -->
+       | {{#ifeq: {{{nocat|}}} | true | <!-- No category if user sets nocat=true --> | [[Категорий:Модуль-влак:Критические]] }}
+      }}
+   | #default                  = {{error|Рейтинг не указан или указан неправильно.}}
+  }}
+}}|{{error|Этот шаблон должен использоваться в пространстве модулей.}}|demospace={{{demospace|<noinclude>module</noinclude>}}}}}<noinclude>{{doc}}</noinclude>
