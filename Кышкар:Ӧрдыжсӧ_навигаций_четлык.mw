@@ -1,0 +1,361 @@
+<!--
+Пожалуйста, не изменяйте этот шаблон без обсуждения. Этот шаблон достаточно сложен для понимания.
+-->{{Навигаций четлык
+|name = {{{name|{{{лӱм<includeonly>|</includeonly>}}}}}}
+|navbar = {{{navbar|}}}
+|state = {{{state|}}}
+|border = {{{border|{{{1|}}}}}}
+
+|title = {{{title|{{{вуймут<includeonly>|</includeonly>}}}}}}
+|above = {{{above|{{{ӱмбалне<includeonly>|</includeonly>}}}}}}
+|image = {{{image|{{{сӱрет|}}}}}}
+|imageleft = {{{imageleft|{{{изображение_слева|}}}}}}
+
+|bodyclass = {{{bodyclass|{{{класс_тела|wraplinks}}}}}}
+|titleclass = {{{titleclass|{{{класс_заголовка|}}}}}}
+|aboveclass = {{{aboveclass|{{{класс_ӱмбалне|}}}}}}
+|belowclass = {{{belowclass|{{{класс_ӱлнӧ|}}}}}}
+|groupclass = {{{groupclass|{{{класс_групп|}}}}}}
+|listclass = {{{listclass|{{{лӱмер-влакын_классше|}}}}}}
+
+|style = {{{style|}}}{{{bodystyle|{{{кап_стиль|}}}}}}
+|basestyle = {{{basestyle|{{{стиль_базовый|{{{стиль|}}}}}}}}}
+|titlestyle = {{{titlestyle|{{{вуймут_стиль|{{{тӱҥ_вуймутын_стильже|}}}}}}}}}
+|abovestyle = {{{abovestyle|{{{стиль_ӱмбалне|}}}}}}
+|belowstyle = {{{belowstyle|{{{стиль_ӱлнӧ|}}}}}}
+|imagestyle = {{{imagestyle|{{{стиль_изображения|}}}}}}
+|imageleftstyle = {{{imageleftstyle|{{{стиль_изображения_слева|}}}}}}
+|{{#if:{{{evenodd|{{{мужыран_мужырдымо|{{{мужыран_мужырдымо|}}}}}}}}}}|evenodd|void}} = {{{evenodd|{{{мужыран_мужырдымо|{{{мужыран_мужырдымо|}}}}}}}}}
+|list1padding = 0px;
+
+|list1 = <!--
+ --><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;<!--
+ -->{{#if:{{{col1header|{{{колонка1заголовок|{{{заголовок_колонки1|}}}}}}}}}{{{fullwidth|{{{полная_ширина|}}}}}}|width:100%;<!--
+ -->|width:auto; margin-left:auto; margin-right:auto;}}{{{coltablestyle|{{{стиль_таблицы_колонок|}}}}}}"><!--
+
+
+--- Header row ---
+
+-->{{#if:{{{col1header|{{{колонка1заголовок|{{{заголовок_колонки1<includeonly>|</includeonly>}}}}}}}}}|<tr><!--
+
+--><td class="navbox-abovebelow" <!--
+ -->colspan="{{{col1headercolspan|{{{colspan_заголовка_колонки1|1}}}}}}" style="<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col1headerstyle|{{{стиль_заголовка_колонки1|}}}}}}">{{{col1header|{{{колонка1заголовок|{{{заголовок_колонки1}}}}}}}}}</td><!--
+
+-->{{#if:{{{col2header|{{{колонка2заголовок|{{{заголовок_колонки2<includeonly>|</includeonly>}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col2headercolspan|{{{colspan_заголовка_колонки2|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col2headerstyle|{{{стиль_заголовка_колонки2|}}}}}}">{{{col2header|{{{колонка2заголовок|{{{заголовок_колонки2}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col3header|{{{колонка3заголовок|{{{заголовок_колонки3|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col3headercolspan|{{{colspan_заголовка_колонки3|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col3headerstyle|{{{стиль_заголовка_колонки3|}}}}}}">{{{col3header|{{{колонка3заголовок|{{{заголовок_колонки3}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col4header|{{{колонка4заголовок|{{{заголовок_колонки4<includeonly>|</includeonly>}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col4headercolspan|{{{colspan_заголовка_колонки4|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col4headerstyle|{{{стиль_заголовка_колонки4|}}}}}}">{{{col4header|{{{колонка4заголовок|{{{заголовок_колонки4}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col5header|{{{колонка5заголовок|{{{заголовок_колонки5|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col5headercolspan|{{{colspan_заголовка_колонки5|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col5headerstyle|{{{стиль_заголовка_колонки5|}}}}}}">{{{col5header|{{{колонка5заголовок|{{{заголовок_колонки5}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col6header|{{{колонка6заголовок|{{{заголовок_колонки6|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col6headercolspan|{{{colspan_заголовка_колонки6|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col6headerstyle|{{{стиль_заголовка_колонки6|}}}}}}">{{{col6header|{{{колонка6заголовок|{{{заголовок_колонки6}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col7header|{{{колонка7заголовок|{{{заголовок_колонки7|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col7headercolspan|{{{colspan_заголовка_колонки7|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col7headerstyle|{{{стиль_заголовка_колонки7|}}}}}}">{{{col7header|{{{колонка7заголовок|{{{заголовок_колонки7}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col8header|{{{колонка8заголовок|{{{заголовок_колонки8|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col8headercolspan|{{{colspan_заголовка_колонки8|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col8headerstyle|{{{стиль_заголовка_колонки8|}}}}}}">{{{col8header|{{{колонка8заголовок|{{{заголовок_колонки8}}}}}}}}}</td>}}<!--
+
+-->{{#if:{{{col9header|{{{колонка9заголовок|{{{заголовок_колонки9|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col9headercolspan|{{{colspan_заголовка_колонки9|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col9headerstyle|{{{стиль_заголовка_колонки9|}}}}}}">{{{col9header|{{{колонка9заголовок|{{{заголовок_колонки9}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col10header|{{{колонка10заголовок|{{{заголовок_колонки10|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col10headercolspan|{{{colspan_заголовка_колонки10|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col10headerstyle|{{{стиль_заголовка_колонки10|}}}}}}">{{{col10header|{{{колонка10заголовок|{{{заголовок_колонки10}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col11header|{{{колонка11заголовок|{{{заголовок_колонки11|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col11headercolspan|{{{colspan_заголовка_колонки11|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col11headerstyle|{{{стиль_заголовка_колонки11|}}}}}}">{{{col11header|{{{колонка11заголовок|{{{заголовок_колонки11}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col12header|{{{колонка12заголовок|{{{заголовок_колонки12|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col12headercolspan|{{{colspan_заголовка_колонки12|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col12headerstyle|{{{стиль_заголовка_колонки12|}}}}}}">{{{col12header|{{{колонка12заголовок|{{{заголовок_колонки12}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col13header|{{{колонка13заголовок|{{{заголовок_колонки13|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col13headercolspan|{{{colspan_заголовка_колонки13|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col13headerstyle|{{{стиль_заголовка_колонки13|}}}}}}">{{{col13header|{{{колонка13заголовок|{{{заголовок_колонки13}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col14header|{{{колонка14заголовок|{{{заголовок_колонки14|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col14headercolspan|{{{colspan_заголовка_колонки14|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col14headerstyle|{{{стиль_заголовка_колонки14|}}}}}}">{{{col14header|{{{колонка14заголовок|{{{заголовок_колонки14}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col15header|{{{колонка15заголовок|{{{заголовок_колонки15|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col15headercolspan|{{{colspan_заголовка_колонки15|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col15headerstyle|{{{стиль_заголовка_колонки15|}}}}}}">{{{col15header|{{{колонка15заголовок|{{{заголовок_колонки15}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col16header|{{{колонка16заголовок|{{{заголовок_колонки16|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col16headercolspan|{{{colspan_заголовка_колонки16|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col16headerstyle|{{{стиль_заголовка_колонки16|}}}}}}">{{{col16header|{{{колонка16заголовок|{{{заголовок_колонки16}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col17header|{{{колонка17заголовок|{{{заголовок_колонки17|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col17headercolspan|{{{colspan_заголовка_колонки17|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col17headerstyle|{{{стиль_заголовка_колонки17|}}}}}}">{{{col17header|{{{колонка17заголовок|{{{заголовок_колонки17}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col18header|{{{колонка18заголовок|{{{заголовок_колонки18|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col18headercolspan|{{{colspan_заголовка_колонки18|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col18headerstyle|{{{стиль_заголовка_колонки18|}}}}}}">{{{col18header|{{{колонка18заголовок|{{{заголовок_колонки18}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col19header|{{{колонка19заголовок|{{{заголовок_колонки19|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col19headercolspan|{{{colspan_заголовка_колонки19|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col19headerstyle|{{{стиль_заголовка_колонки19|}}}}}}">{{{col19header|{{{колонка19заголовок|{{{заголовок_колонки19}}}}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col20header|{{{колонка20заголовок|{{{заголовок_колонки20|}}}}}}}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{col20headercolspan|{{{colspan_заголовка_колонки20|1}}}}}} style="border-left:2px solid #fdfdfd;<!--
+ -->font-weight:bold;{{{colheaderstyle|{{{стиль_заголовков_колонок|}}}}}}{{{col20headerstyle|{{{стиль_заголовка_колонки20|}}}}}}">{{{col20header|{{{колонка20заголовок|{{{заголовок_колонки20}}}}}}}}}</td>}}<!--
+ 
+ --></tr>}}<!--
+
+
+--- Main columns---
+
+-->{{#if:{{{col1|{{{ӧрдыж1|}}}}}}|<!--
+
+--><tr style="vertical-align:top;"><!--
+
+-->{{#if:{{{col1header|{{{ӧрдыж1заголовок|{{{заголовок_колонки1|}}}}}}}}}{{{fullwidth|{{{полная_ширина|}}}}}}|<!--
+ -->|{{#switch:{{{padding|}}}|off|0|0em|0px|0%|0;|0em;|0px;|0%;=<!--
+ -->|#default=<td style="width:{{{padding|5em}}};">&nbsp;&nbsp;&nbsp;</td>}}}}<!--
+
+--><td class="navbox-list" style="padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_нечётных_колонок|}}}}}}}}};{{{col1style|{{{стиль_колонки1|}}}}}};width:{{{col1width|{{{ширина_колонки1|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col1|{{{ӧрдыж1}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col2|{{{ӧрдыж2|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col2style|{{{стиль_колонки2|}}}}}};width:{{{col2width|{{{ширина_колонки2|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col2|{{{ӧрдыж2}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col3|{{{ӧрдыж3|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col3style|{{{стиль_колонки3|}}}}}};width:{{{col3width|{{{ширина_колонки3|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col3|{{{ӧрдыж3}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col4|{{{ӧрдыж4|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col4style|{{{стиль_колонки4|}}}}}};width:{{{col4width|{{{ширина_колонки4|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col4|{{{ӧрдыж4}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col5|{{{ӧрдыж5|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col5style|{{{стиль_колонки5|}}}}}};width:{{{col5width|{{{ширина_колонки5|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col5|{{{ӧрдыж5}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col6|{{{ӧрдыж6|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col6style|{{{стиль_колонки6|}}}}}};width:{{{col6width|{{{ширина_колонки6|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col6|{{{ӧрдыж6}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col7|{{{ӧрдыж7|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col7style|{{{стиль_колонки7|}}}}}};width:{{{col7width|{{{ширина_колонки7|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col7|{{{ӧрдыж7}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col8|{{{ӧрдыж8|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col8style|{{{стиль_колонки8|}}}}}};width:{{{col8width|{{{ширина_колонки8|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col8|{{{ӧрдыж8}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col9|{{{ӧрдыж9|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col9style|{{{стиль_колонки9|}}}}}};width:{{{col9width|{{{ширина_колонки9|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col9|{{{ӧрдыж9}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col10|{{{ӧрдыж10|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col10style|{{{стиль_колонки10|}}}}}};width:{{{col10width|{{{ширина_колонки10|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col10|{{{ӧрдыж10}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col11|{{{ӧрдыж11|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col11style|{{{стиль_колонки11|}}}}}};width:{{{col11width|{{{ширина_колонки11|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col11|{{{ӧрдыж11}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col12|{{{ӧрдыж12|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col12style|{{{стиль_колонки12|}}}}}};width:{{{col12width|{{{ширина_колонки12|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col12|{{{ӧрдыж12}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col13|{{{ӧрдыж13|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col13style|{{{стиль_колонки13|}}}}}};width:{{{col13width|{{{ширина_колонки13|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col13|{{{ӧрдыж13}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col14|{{{ӧрдыж14|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col14style|{{{стиль_колонки14|}}}}}};width:{{{col14width|{{{ширина_колонки14|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col14|{{{ӧрдыж14}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col15|{{{ӧрдыж15|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col15style|{{{стиль_колонки15|}}}}}};width:{{{col15width|{{{ширина_колонки15|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col15|{{{ӧрдыж15}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col16|{{{ӧрдыж16|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col16style|{{{стиль_колонки16|}}}}}};width:{{{col16width|{{{ширина_колонки16|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col16|{{{ӧрдыж16}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col17|{{{ӧрдыж17|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col17style|{{{стиль_колонки17|}}}}}};width:{{{col17width|{{{ширина_колонки17|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col17|{{{ӧрдыж17}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col18|{{{ӧрдыж18|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col18style|{{{стиль_колонки18|}}}}}};width:{{{col18width|{{{ширина_колонки18|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col18|{{{ӧрдыж18}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col19|{{{ӧрдыж19|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{oddcolstyle|{{{стиль_нечетных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col19style|{{{стиль_колонки19|}}}}}};width:{{{col19width|{{{ширина_колонки19|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col19|{{{ӧрдыж19}}}}}}
+</div></td>}}<!--
+
+-->{{#if:{{{col20|{{{ӧрдыж20|}}}}}}|<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{colstyle|{{{стиль_колонки|{{{стиль_колонок|}}}}}}}}};{{{evencolstyle|{{{стиль_четных_колонок|{{{стиль_чётных_колонок|}}}}}}}}};{{{col20style|{{{стиль_колонки20|}}}}}};width:{{{col20width|{{{ширина_колонки20|{{{colwidth|{{{ширина_колонок|10em}}}}}}}}}}}};"><div>
+{{{col20|{{{ӧрдыж20}}}}}}
+</div></td>}}<!--
+
+--- Footer row ---
+
+-->{{#if:{{{col1footer|{{{низ_колонки1|}}}}}}|<tr><!--
+
+--><td class="navbox-abovebelow" colspan={{{col1footercolspan|{{{colspan_низа_колонки1|1}}}}}} style="<!--
+ -->{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col1footerstyle|{{{стиль_низа_колонки1|}}}}}}"><nowiki/>
+{{{col1footer|{{{низ_колонки1}}}}}}</td><!--
+
+-->{{#if:{{{col2footer|{{{низ_колонки2|}}}}}}|<td class="navbox-abovebelow" colspan={{{col2footercolspan|{{{colspan_низа_колонки2|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col2footerstyle|{{{стиль_низа_колонки2|}}}}}}"><nowiki/>
+{{{col2footer|{{{низ_колонки2}}}}}}</td>}}<!--
+
+-->{{#if:{{{col3footer|{{{низ_колонки3|}}}}}}|<td class="navbox-abovebelow" colspan={{{col3footercolspan|{{{colspan_низа_колонки3|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col3footerstyle|{{{стиль_низа_колонки3|}}}}}}"><nowiki/>
+{{{col3footer|{{{низ_колонки3}}}}}}</td>}}<!--
+
+-->{{#if:{{{col4footer|{{{низ_колонки4|}}}}}}|<td class="navbox-abovebelow" colspan={{{col4footercolspan|{{{colspan_низа_колонки4|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col4footerstyle|{{{стиль_низа_колонки4|}}}}}}"><nowiki/>
+{{{col4footer|{{{низ_колонки4}}}}}}</td>}}<!--
+
+-->{{#if:{{{col5footer|{{{низ_колонки5|}}}}}}|<td class="navbox-abovebelow" colspan={{{col5footercolspan|{{{colspan_низа_колонки5|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col5footerstyle|{{{стиль_низа_колонки5|}}}}}}"><nowiki/>
+{{{col5footer|{{{низ_колонки5}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col6footer|{{{низ_колонки6|}}}}}}|<td class="navbox-abovebelow" colspan={{{col6footercolspan|{{{colspan_низа_колонки6|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col6footerstyle|{{{стиль_низа_колонки6|}}}}}}"><nowiki/>
+{{{col6footer|{{{низ_колонки6}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col7footer|{{{низ_колонки7|}}}}}}|<td class="navbox-abovebelow" colspan={{{col7footercolspan|{{{colspan_низа_колонки7|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col7footerstyle|{{{стиль_низа_колонки7|}}}}}}"><nowiki/>
+{{{col7footer|{{{низ_колонки7}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col8footer|{{{низ_колонки8|}}}}}}|<td class="navbox-abovebelow" colspan={{{col8footercolspan|{{{colspan_низа_колонки8|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col8footerstyle|{{{стиль_низа_колонки8|}}}}}}"><nowiki/>
+{{{col8footer|{{{низ_колонки8}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col9footer|{{{низ_колонки9|}}}}}}|<td class="navbox-abovebelow" colspan={{{col9footercolspan|{{{colspan_низа_колонки9|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col9footerstyle|{{{стиль_низа_колонки9|}}}}}}"><nowiki/>
+{{{col9footer|{{{низ_колонки9}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col10footer|{{{низ_колонки10|}}}}}}|<td class="navbox-abovebelow" colspan={{{col10footercolspan|{{{colspan_низа_колонки10|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col10footerstyle|{{{стиль_низа_колонки10|}}}}}}"><nowiki/>
+{{{col10footer|{{{низ_колонки10}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col11footer|{{{низ_колонки11|}}}}}}|<td class="navbox-abovebelow" colspan={{{col11footercolspan|{{{colspan_низа_колонки11|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col11footerstyle|{{{стиль_низа_колонки11|}}}}}}"><nowiki/>
+{{{col11footer|{{{низ_колонки11}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col12footer|{{{низ_колонки12|}}}}}}|<td class="navbox-abovebelow" colspan={{{col12footercolspan|{{{colspan_низа_колонки12|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col12footerstyle|{{{стиль_низа_колонки12|}}}}}}"><nowiki/>
+{{{col12footer|{{{низ_колонки12}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col13footer|{{{низ_колонки13|}}}}}}|<td class="navbox-abovebelow" colspan={{{col13footercolspan|{{{colspan_низа_колонки13|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col13footerstyle|{{{стиль_низа_колонки13|}}}}}}"><nowiki/>
+{{{col13footer|{{{низ_колонки13}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col14footer|{{{низ_колонки14|}}}}}}|<td class="navbox-abovebelow" colspan={{{col14footercolspan|{{{colspan_низа_колонки14|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col14footerstyle|{{{стиль_низа_колонки14|}}}}}}"><nowiki/>
+{{{col14footer|{{{низ_колонки14}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col15footer|{{{низ_колонки15|}}}}}}|<td class="navbox-abovebelow" colspan={{{col15footercolspan|{{{colspan_низа_колонки15|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col15footerstyle|{{{стиль_низа_колонки15|}}}}}}"><nowiki/>
+{{{col15footer|{{{низ_колонки15}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col16footer|{{{низ_колонки16|}}}}}}|<td class="navbox-abovebelow" colspan={{{col16footercolspan|{{{colspan_низа_колонки16|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col16footerstyle|{{{стиль_низа_колонки16|}}}}}}"><nowiki/>
+{{{col16footer|{{{низ_колонки16}}}}}}</td>}}<!--
+ 
+ -->{{#if:{{{col17footer|{{{низ_колонки17|}}}}}}|<td class="navbox-abovebelow" colspan={{{col17footercolspan|{{{colspan_низа_колонки17|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col17footerstyle|{{{стиль_низа_колонки17|}}}}}}"><nowiki/>
+{{{col17footer|{{{низ_колонки17}}}}}}</td>}}<!--
+
+  -->{{#if:{{{col18footer|{{{низ_колонки18|}}}}}}|<td class="navbox-abovebelow" colspan={{{col18footercolspan|{{{colspan_низа_колонки18|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col18footerstyle|{{{стиль_низа_колонки18|}}}}}}"><nowiki/>
+{{{col18footer|{{{низ_колонки18}}}}}}</td>}}<!--
+ 
+  -->{{#if:{{{col19footer|{{{низ_колонки19|}}}}}}|<td class="navbox-abovebelow" colspan={{{col19footercolspan|{{{colspan_низа_колонки19|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col19footerstyle|{{{стиль_низа_колонки19|}}}}}}"><nowiki/>
+{{{col19footer|{{{низ_колонки19}}}}}}</td>}}<!--
+ 
+  -->{{#if:{{{col20footer|{{{низ_колонки20|}}}}}}|<td class="navbox-abovebelow" colspan={{{col20footercolspan|{{{colspan_низа_колонки20|1}}}}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{colfooterstyle|{{{стиль_низа_колонок|}}}}}};{{{col20footerstyle|{{{стиль_низа_колонки20|}}}}}}"><nowiki/>
+{{{col20footer|{{{низ_колонки20}}}}}}</td>}}<!--
+ 
+--></tr>}}<!--
+
+--></tr></table>
+
+<!--  Allow a few additional groups/lists after columns  -->
+|liststyle = {{{liststyle|{{{стиль_списков|}}}}}}
+|list1style = background:transparent;color:inherit;
+|list3style = {{{list1style|{{{стиль_1списка|}}}}}}
+|list4style = {{{list2style|{{{стиль_2списка|}}}}}}
+|list5style = {{{list3style|{{{стиль_3списка|}}}}}}
+|list6style = {{{list4style|{{{стиль_4списка|}}}}}}
+|list7style = {{{list5style|{{{стиль_5списка|}}}}}}
+|list8style = {{{list6style|{{{стиль_6списка|}}}}}}
+
+|list3 = {{{list1|{{{список1|}}}}}}
+|list4 = {{{list2|{{{список2|}}}}}}
+|list5 = {{{list3|{{{список3|}}}}}}
+|list6 = {{{list4|{{{список4|}}}}}}
+|list7 = {{{list5|{{{список5|}}}}}}
+|list8 = {{{list6|{{{список6|}}}}}}
+
+|groupstyle = {{{groupstyle|{{{стиль_группы|{{{стиль_групп|}}}}}}}}}
+|group3style = {{{group1style|{{{стиль_1группы|}}}}}}
+|group4style = {{{group2style|{{{стиль_2группы|}}}}}}
+|group5style = {{{group3style|{{{стиль_3группы|}}}}}}
+|group6style = {{{group4style|{{{стиль_4группы|}}}}}}
+|group7style = {{{group5style|{{{стиль_5группы|}}}}}}
+|group8style = {{{group6style|{{{стиль_6группы|}}}}}}
+
+|group3 = {{{group1|{{{группа1|}}}}}}
+|group4 = {{{group2|{{{группа2|}}}}}}
+|group5 = {{{group3|{{{группа3|}}}}}}
+|group6 = {{{group4|{{{группа4|}}}}}}
+|group7 = {{{group5|{{{группа5|}}}}}}
+|group8 = {{{group6|{{{группа6|}}}}}}
+
+|below = {{{below|{{{внизу<includeonly>|</includeonly>}}}}}}
+
+|tracking = no
+
+}}<noinclude>
+{{doc}}
+<!-- Add categories and interwikis to the <includeonly> section at the bottom of the /doc subpage, not here! -->
+</noinclude>
