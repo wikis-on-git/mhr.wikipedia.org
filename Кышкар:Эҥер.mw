@@ -38,7 +38,7 @@
 }}
 {{#if:{{{Мучаш|}}}}{{{Мучаш верланымаш|}}}{{{Мучашын кӱкшытшӧ|}}}{{{s_lat_deg|}}}{{{s_lon_deg|}}}{{{Аҥ|}}}{{{Аҥ верланымаш|}}}{{{Аҥын кӱкшытӧ|}}}{{{m_lat_deg|}}}{{{m_lon_deg|}}}{{{Уклон реки|}}}|
 {{!-}}
-! colspan="2" style="text-align:center; background-color:#AACCFF; color:black" {{!}} [[Вӱдкорно|<font color="black">Вӱдкорно</font>]]
+! colspan="2" style="text-align:center; background-color:#AACCFF; color:black" {{!}} [[Вӱдкорно|<span style=color:black>Вӱдкорно</span>]]
 {{!-}}
 }}
 {{#if:{{{Мучаш|}}}{{{Мучаш верланымаш|}}}{{{Мучашын кӱкшытшӧ|}}}{{{s_lat_deg|}}}{{{s_lon_deg|}}}|
