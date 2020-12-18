@@ -1,0 +1,126 @@
+<noinclude>
+{{doc}}
+[[de:Vorlage:Infobox Sprache]]
+[[en:Template:Language]]
+[[eo:Ŝablono:Informkesto lingvo]]
+[[es:Plantilla:Idioma]]
+[[fi:Malline:Kieli]]
+[[fr:Projet:Charte graphique/Tableau des langues]]
+[[it:Template:lingua]]
+[[ja:Template:言語]]
+[[pl:Szablon:Język]]
+[[ru:Шаблон:Язык/familycolor]]
+[[sv:Mall:språk]]
+[[uk:Шаблон:Мова/familycolor]]
+[[vi:Tiêu bản:Language familycolor]]
+
+</noinclude><includeonly>{{#switch: {{{1}}}
+| Afro-Asiatic     = yellow
+| афразийысе      = yellow
+| афразийысе      = yellow
+| алтай           = yellowgreen
+| алтайысе        = yellowgreen
+| алтайысе        = yellowgreen
+| Altaic           = yellowgreen
+| American           = lightblue
+| америндысе        = lightblue
+| индейысе          = lightblue
+| на-дене            = lightblue
+| Na-Dené            = lightblue
+| йӱдвеламерикысе = lightblue
+| ЙА                 = lightblue
+| кечывалвеламерикысе = deepskyblue
+| КА               = deepskyblue
+| австралийысе    = <nowiki>#eba9ee</nowiki>
+| австралийысе    = <nowiki>#eba9ee</nowiki>
+| Australian       = <nowiki>#eba9ee</nowiki>
+| Austroasiatic    = lightcoral
+| Austro-Asiatic   = lightcoral
+| австроазиатские  = lightcoral
+| АА               = lightcoral
+| австроазийысе  = lightcoral
+| аустроазийысе  = lightcoral
+| аустроазийысе  = lightcoral
+| Austronesian     = pink
+| австронезийысе  = pink
+| АН               = pink
+| австронезийысе  = pink
+| Caucasian        = lightgreen
+| кавказысе       = lightgreen
+| кав              = lightgreen
+| Conlang              = black
+| ыштыме        = black
+| иск                  = black
+| conlang              = black
+| constructed          = black
+| constructed language = black
+| Creole           = tan
+| creole           = tan
+| креол            = tan
+| креолысе       = tan
+| Pidgin           = tan
+| пиджин           = tan
+| пиджины          = tan
+| Mixed            = tan
+| смешанные        = tan
+| Dravidian        = mediumspringgreen
+| дравидийские     = mediumspringgreen
+| дравидийская     = mediumspringgreen
+| драв             = mediumspringgreen
+| Eskimo-Aleut         = lightcyan
+| эскимос-алеут = lightcyan
+| ЭА                   = lightcyan
+| эскимосско-алеутысе = lightcyan
+| Hmong-Mien       = <nowiki>#ff0033</nowiki>
+| мяо-яо           = <nowiki>#ff0033</nowiki>
+| МЯ               = <nowiki>#ff0033</nowiki>
+| Indo-European    = <nowiki>#ccff99</nowiki>
+| индоевропейские  = <nowiki>#ccff99</nowiki>
+| индоевропейская  = <nowiki>#ccff99</nowiki>
+| ИЕ               = <nowiki>#ccff99</nowiki>
+| изолят           = <nowiki>#dddddd</nowiki>
+| изолированные    = <nowiki>#dddddd</nowiki>
+| isolate          = <nowiki>#dddddd</nowiki>
+| language isolate = <nowiki>#dddddd</nowiki>
+| Isolate          = <nowiki>#dddddd</nowiki>
+| Khoisan          = goldenrod
+| койсанские       = goldenrod
+| Niger-Congo         = orange
+| НК                  = orange
+| нигеро-конголезские = orange
+| нигеро-конголезская = orange
+| нигеро-кордофанские = orange
+| нигер-конго         = orange
+| НС               = gold
+| Nilo-Saharan     = gold
+| нило-сахарская   = gold
+| нило-сахарские   = gold
+| Palaeosiberian   = darkseagreen
+| Palaeo-Siberian  = darkseagreen
+| ПА               = darkseagreen
+| палеоазиатские   = darkseagreen
+| Paleosiberian    = darkseagreen
+| Paleo-Siberian   = darkseagreen
+| Paleo-siberian   = darkseagreen
+| Papuan           = <nowiki>#fd79da</nowiki>
+| папуасские       = <nowiki>#fd79da</nowiki>
+| Sign             = silver
+| жестовый         = silver
+| жестовые         = silver
+| sign language    = silver
+| Sino-Tibetan     = tomato
+| СТ               = tomato
+| сино-тибетская   = tomato
+| сино-тибетские   = tomato
+| Tai-Kadai        = lavender
+| ТК               = lavender
+| тай-кадайская    = lavender
+| тай-кадайские    = lavender
+| ур               = limegreen
+| уральская        = limegreen
+| уральские        = limegreen
+| Uralic           = limegreen
+| урал             = limegreen
+| обычный          = white
+|                    white
+}}</includeonly>
