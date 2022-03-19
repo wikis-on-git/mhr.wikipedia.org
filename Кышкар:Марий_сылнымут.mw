@@ -1,13 +1,13 @@
 {{Навигаций четлык
-|лӱм                       = Марий сылнымут
+|лӱм = Марий сылнымут
 |navbar =
 |state  = {{{state|collapsed}}}
-|тӱҥ_вуймутын_стильже = background:Orange; 
-|вуймут = [[Марий сылнымут|<font color=white>Марий сылнымут</font>]]
+|тӱҥ_вуймутын_стильже = background:Orange;
+|вуймут = [[Марий сылнымут|<span style="color:white;">Марий сылнымут</span>]]
 |сӱрет = 
 |кап_стиль = background:white;
-|вуймут_стиль = background:#FFFFFF; 
-|лӱмер_стиль = background:#FF0000; 
+|вуймут_стиль = background:#FFFFFF;
+|лӱмер_стиль = background:#FF0000;
 |мужырдымо-влакын_стильже =  background:#FFFFFF;
 |мужыран-влакын_стильже = background:#EF544C;
 |стиль_ӱмбалне =
