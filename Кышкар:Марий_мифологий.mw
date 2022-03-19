@@ -1,12 +1,12 @@
 {{Навигаций четлык
-|лӱм                       = Марий мифологий
+|лӱм = Марий мифологий
 |navbar =
 |state  = {{{state|collapsed}}}
-|тӱҥ_вуймутын_стильже = background:MediumTurquoise; 
-|вуймут = [[Марий юмынйӱла|<font color=white>Марий мифологий</font>]]
+|тӱҥ_вуймутын_стильже = background:MediumTurquoise;
+|вуймут = [[Марий юмынйӱла|<span style="color:white;">Марий мифологий</span>]]
 |сӱрет = 
 |кап_стиль = background:white;
-|вуймут_стиль = background:#FFFFFF; 
+|вуймут_стиль = background:#FFFFFF;
 |лӱмер_стиль = background:#FF0000; 
 |мужырдымо-влакын_стильже =  background:#FFFFFF;
 |мужыран-влакын_стильже = background:#EF544C;
@@ -25,8 +25,8 @@
 | лӱмер5 = [[Вуйӱмбал юмо]]/Вуйӱмбал Серлагыш {{!}} [[Юмо-Суксо]] {{!}} Серлагыш-влак
 | вуймут6 = Изи юмо-влак
 | лӱмер6 = [[Водыж]] {{!}} Ӱлыл юмо-влак
-|стиль_ӱлнӧ  = background:MediumTurquoise; 
-|ӱлнӧ        =  '''[[Портал:Юмынйӱла|<font color=white>«Юмынйӱла» портал</font>]]'''
+|стиль_ӱлнӧ  = background:MediumTurquoise;
+|ӱлнӧ        =  '''[[Портал:Юмынйӱла|<span style="color:white;">«Юмынйӱла» портал</span>]]'''
 }}
 
 <noinclude>
