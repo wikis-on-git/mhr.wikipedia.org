@@ -7,8 +7,8 @@
 
 Возвращает символы от <offset> и до конца строки.
 
-=== Limitations === 
-* Не более 100 символов в входной строке. If possible, first check length of input string using {{Tl|Str len|<string>}}. Using strings longer than 100 characters may result in the error '''''"<font color=#CC1100>max index is 100 for str_sub</font>"'''''.
+=== Limitations ===
+* Не более 100 символов в входной строке. If possible, first check length of input string using {{tl|Str len|<string>}}. Using strings longer than 100 characters may result in the error '''''"<span style="color:#CC1100;">max index is 100 for str_sub</span>"'''''.
 * Limited set of characters.
 * Expensive.
 
