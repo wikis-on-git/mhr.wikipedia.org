@@ -43,7 +43,7 @@
 |текст13    = {{wikidata|p364|{{{Йылме|}}}}}
 |тамга14    = Ий
 |текст14    = {{wikidata|p577|{{{Ий|}}}}}
-|метка15    = [[Internet Movie Database|IMDb]]
+|тамга15    = [[Internet Movie Database|IMDb]]
 |текст15    = {{wikidata|p345|{{{imdb_id|}}}|prefix=tt}}
 |ӱлнӧ       = Выход фильма «{{{МарийЛӱм}}}» {{#if:{{{ШкенЛӱм|}}}|(Шкен лӱмжӧ — {{{ШкенЛӱм|}}})}}
 |стиль_ӱлнӧ = display:none;
