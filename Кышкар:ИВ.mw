@@ -1,6 +1,6 @@
 <includeonly>{| class="vcard" style="{{float right}};background:#fafafa;border:1px solid #bbb;width:300px;text-align:center;font-size:11px"
 |{{ucfirst:{{{статус|{{{2|Илымвер}}}}}}}}
-<div style="border:solid #bbb; border-width:1px 0;width:100%;background:{{тӱс|{{{эл|}}}}};font-weight:800;"><span class="fn org" style="font-size:120%">{{{марий лӱм|{{{1}}}}}}</span>{{#if:{{{руш лӱм|{{{3|}}}}}}|<br /><span class="nickname">{{{руш лӱм{{{3|}}}}}}</span>}}</div>
+<div style="border:solid #bbb; border-width:1px 0;width:100%;background:{{тӱс|{{{эл|}}}}};font-weight:800;"><span class="fn org" style="font-size:120%">{{{марий лӱм|{{{1}}}}}}</span>{{#if:{{{руш лӱм|{{{3|}}}}}}|<br /><span class="nickname">{{{руш лӱм{{{3|}}}}}}</span>}}</div>{{wikidata|p18|{{{сӱрет|}}}|size=300px|caption={{{лӱм|}}}}}
 <!-- ойып ден тисте -->
 {{#if:{{{ойып|}}}{{{тисте|}}}{{{сӱрет|}}}|{{{!}}style="background:inherit;width:100%;"
 {{#if:{{{тисте|}}}|{{!}}style="background:#f0f0f0;font-weight:bold"{{!}}Тисте}}
