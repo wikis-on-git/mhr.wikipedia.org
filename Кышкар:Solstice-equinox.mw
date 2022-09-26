@@ -151,6 +151,12 @@
 |-{{#ifeq:{{CURRENTYEAR}}|2050|style="background-color:gold"}}
 !{{#ifeq:{{CURRENTYEAR}}|2050|style="background-color:gold"}}2050
 |20||10:19:22||21||03:32:48||22||19:28:18||21||16:38:29
+|-
+!
+|colspan="2"|[http://www.imcce.fr/newsletter/docs/Equinoxe_printemps_1583_2999.pdf Mars]
+|colspan="2"|[http://www.imcce.fr/newsletter/docs/Solstice_ete_1583_2999.pdf Juin]
+|colspan="2"|[http://www.imcce.fr/newsletter/docs/Equinoxe_automne_1583_2999.pdf Septembre]
+|colspan="2"|[http://www.imcce.fr/newsletter/docs/Solstice_hiver_1583_2999.pdf Dйcembre]
 |}
 <noinclude>
 [[Категорий:Википедий:Ямдылык-влак]]
