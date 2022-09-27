@@ -1,7 +1,7 @@
 {| class="wikitable" style="font-size: 85%; text-align: center; float: right; clear: right; margin: 0 0 1em 1em"
 !colspan="9" | Кечышогымашын да кечытӧрын эртыме кечышт да жапышт  [[UTC]] почеш
 |-
-! rowspan="2" | Ий || colspan="2" | Кечытӧр<br />Ӱярня || colspan="2" | Кечышогымаш<br />Пеледыш || colspan="2" | Кечытӧр<br />Идым || colspan="2"|Кечышогымаш<br />Теле
+! rowspan="2" | Ий || colspan="2" | Кечытӧр<br />Ӱярня<ref>[http://www.imcce.fr/newsletter/docs/Equinoxe_printemps_1583_2999.pdf Équinoxe de printemps entre 1583 et 2999]</ref> || colspan="2" | Кечышогымаш<br />Пеледыш<ref>[http://www.imcce.fr/newsletter/docs/Solstice_ete_1583_2999.pdf Solstice d’été de 1583 à 2999]</ref> || colspan="2" | Кечытӧр<br />Идым<ref>[http://www.imcce.fr/newsletter/docs/Equinoxe_automne_1583_2999.pdf Équinoxe d’automne de 1583 à 2999]</ref> || colspan="2"|Кечышогымаш<br />Теле<ref>[http://www.imcce.fr/newsletter/docs/Solstice_hiver_1583_2999.pdf Solstice d’hiver]</ref>
 |-
 !кече||жап||кече||жап||кече||жап||кече||жап
 |-
@@ -151,12 +151,6 @@
 |-{{#ifeq:{{CURRENTYEAR}}|2050|style="background-color:gold"}}
 !{{#ifeq:{{CURRENTYEAR}}|2050|style="background-color:gold"}}2050
 |20||10:19:22||21||03:32:48||22||19:28:18||21||16:38:29
-|-
-!
-|colspan="2"|[http://www.imcce.fr/newsletter/docs/Equinoxe_printemps_1583_2999.pdf Mars]
-|colspan="2"|[http://www.imcce.fr/newsletter/docs/Solstice_ete_1583_2999.pdf Juin]
-|colspan="2"|[http://www.imcce.fr/newsletter/docs/Equinoxe_automne_1583_2999.pdf Septembre]
-|colspan="2"|[http://www.imcce.fr/newsletter/docs/Solstice_hiver_1583_2999.pdf Dйcembre]
 |}
 <noinclude>
 [[Категорий:Википедий:Ямдылык-влак]]
