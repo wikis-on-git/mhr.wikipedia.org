@@ -1,3 +1,1 @@
-<includeonly>{{#invoke:Wikidata|formatStatements|property={{{1|}}}|value={{{2|}}}|plain={{{plain|{{#switch:{{{1|}}}|p18|P18|p109|P109|p154|P154|p373|P373=true|false}}}}}|separator={{{separator|,&#32;}}}|conjunction={{{conjunction|&#32;и&#32;}}}|monolingualLangTemplate={{{monolingualLangTemplate|}}}|monolingualSkipLanguage={{{monolingualSkipLanguage|}}}|somevalue={{{somevalue|}}}|novalue={{{novalue|}}}|text={{{text|}}}}}{{#ifeq:{{NAMESPACENUMBER}}|10|{{#ifeq:{{{plain|{{#switch:{{{1|}}}|p18|P18|p109|P109|p154|P154|p373|P373=true|false}}}}}|true||[[Категорий:Википедий:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}}}</includeonly><noinclude>{{doc}}
-[[Категорий:Кышкар-влак:Викимедиа|{{PAGENAME}}]]
-</noinclude>
+<includeonly>{{#invoke:Wikidata|formatProperty|property={{{1|}}}|value={{{2|}}}}}</includeonly><noinclude>{{doc}}</noinclude>
