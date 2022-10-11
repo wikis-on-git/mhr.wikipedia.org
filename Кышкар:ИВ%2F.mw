@@ -1,0 +1,2 @@
+{{#if:{{{1|}}}|{{!}}{{#if:{{{3|}}}||colspan=2}} style="background:{{тӱс|{{{4|}}}}};width:50%;text-align:left;padding-left:0.5em;padding-right:0.5em;<!--white-space:nowrap;-->"{{!}}{{{2|}}}{{#if:{{{3|}}}|{{!!}}style="width:50%;text-align:left;padding-left:0.5em;padding-right:0.5em;<!--white-space:nowrap;-->"{{!}}{{{3}}}}}
+{{!}}-}}
