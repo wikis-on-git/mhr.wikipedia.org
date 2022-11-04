@@ -1,0 +1,4 @@
+<includeonly><div style="{{#if:{{{colwidth|}}}|-moz-column-width:{{{colwidth}}}; -webkit-column-width:{{{colwidth}}}; column-width:{{{colwidth}}};|-moz-column-count:{{{1|{{{cols|2}}}}}}; -webkit-column-count:{{{1|{{{cols|2}}}}}}; column-count:{{{1|{{{cols|2}}}}}};}} {{#ifeq:{{lc:{{{small|}}}}}|yes|font-size:90%;}}"></includeonly><noinclude>
+{{doc}}
+<!-- Додавайте категорії та інтервікі на підсторінку /Документація, а не сюди. Дякуємо! -->
+</noinclude>
