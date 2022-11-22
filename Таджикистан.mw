@@ -5,7 +5,7 @@ Flag=[[Файл:Flag of Tajikistan.svg|150px]]|
 CoA=[[Файл:Coat of arms of Tajikistan.svg|110px]]|
 FlagLnk=[[Таджикистанын тистыже]]|
 CoALnk=[[Таджикистанын ойыпшо]]|
-MapName=
+MapName=|
 CtrNm=[[Душанбе]] |
 CreateDate=|
 AreaRnk=93-шо |
@@ -35,7 +35,7 @@ GDPCRnk=|
 
 Currency=[[сомони|сомони (теҥге)]] (TJS)|
 Time=[[UTC]] +5|
-summerTime=
+summerTime=|
 Tele=+992|
 Domain=[[.tj]]|
 Anthem=
