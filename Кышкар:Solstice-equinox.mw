@@ -64,8 +64,8 @@
 |-
 !2021
 |20||09:37:27||21||03:32:08||22||19:21:03||21||15:59:16
-|-{{#ifeq:{{CURRENTYEAR}}|2022|style="background-color:gold"}}
-!{{#ifeq:{{CURRENTYEAR}}|2022|style="background-color:gold"}}|2022
+|-
+!2022
 |20||15:33:23||21||09:13:49||23||01:03:40||21||21:48:10
 |-{{#ifeq:{{CURRENTYEAR}}|2023|style="background-color:gold"}}
 !{{#ifeq:{{CURRENTYEAR}}|2023|style="background-color:gold"}}|2023
